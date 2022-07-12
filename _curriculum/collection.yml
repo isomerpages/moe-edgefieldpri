@@ -2,18 +2,18 @@ collections:
   curriculum:
     output: true
     order:
-      - Science/.keep
-      - Science/Core Curriculum.md
-      - Science/Key Programmes.md
-      - Science/Useful Links.md
-      - Mathematics/.keep
-      - Mathematics/Core Curriculum.md
-      - Mathematics/Key Programmes.md
-      - Mathematics/Events.md
-      - Mathematics/Useful Links.md
+      - Assessment Plans.md
       - English/.keep
       - English/Core Curriculum.md
       - English/Key Programmes.md
       - English/Events.md
       - English/Useful Links.md
-      - Assessment Plans.md
+      - Mathematics/.keep
+      - Mathematics/Core Curriculum.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/Events.md
+      - Mathematics/Useful Links.md
+      - Science/.keep
+      - Science/Core Curriculum.md
+      - Science/Key Programmes.md
+      - Science/Useful Links.md
