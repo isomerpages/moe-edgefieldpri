@@ -26,3 +26,8 @@ Tier 2 and Tier 3 leaders undergo **MICEE** trainings and **On-the-Job Traini
 ### Grow
 
 Our student leaders receive feedback during dialogue sessions and regular check-ins. Such opportunities enable them to be more reflective and work towards having a growth mindset that will prepare them to be resilient and adaptable leaders.
+
+![](/images/Grow%20(1).png)
+
+### Empower
+Student leaders are empowered to lead through various leadership opportunities that allow them to **M**odel the way, **I**nspire a shared vision, **C**hallenge current processes, **E**ncourage the heart and **E**nable others to act (**MICEE**).
