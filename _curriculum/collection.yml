@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - English/Useful Links.md
       - English/.keep
       - English/Core Curriculum.md
       - English/Key Programmes.md
       - English/Events.md
+      - English/Useful Links.md
       - Assessment Plans.md
