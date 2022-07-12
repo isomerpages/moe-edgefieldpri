@@ -74,3 +74,8 @@ To ignite students’ interest in reading Mother Tongue language stories, we cre
 
 
 The “Little Red House” (“LRH,小红屋”) is a radio station sited at the canteen. Since its installation in 2019, it has been a popular gathering point for the wider student body where they watch their peers and teachers in action, dishing out current affair news, cultural stories and the broadcasting of student-composed music. One unique feature of LRH is the active promotion of student’s voice where they can share their thoughts and opinions about issues that are important to them and the society-at-large. In the process, students are able to apply skills that they have learnt such as deejaying, information gathering, interview, reporting skills and journalism. Through their voices, students become advocates and contribute towards the building of a nation that is compassionate, caring and forward-looking.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P33HEntgH_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/MT6.jpeg)
+![](/images/MT7.jpeg)
