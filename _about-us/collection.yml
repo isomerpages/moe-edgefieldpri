@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Facilities.md
       - Virtual Gallery/.keep
       - Virtual Gallery/Virtual Gallery.md
       - Virtual Gallery/Welcome Message from the Edgefield Bears.md
