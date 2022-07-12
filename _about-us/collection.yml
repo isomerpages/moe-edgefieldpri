@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Virtual Gallery/School Song.md
       - Virtual Gallery/Welcome Message from the Edgefield Bears.md
       - Virtual Gallery/Virtual Gallery.md
       - Virtual Gallery/.keep
