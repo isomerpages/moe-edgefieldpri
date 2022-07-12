@@ -2,21 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Aesthetics/.keep
-      - Aesthetics/Core Curriculum.md
-      - Aesthetics/Key Programmes.md
-      - Aesthetics/Events.md
-      - Aesthetics/Useful Links.md
-      - Physical Education/.keep
-      - Physical Education/Core Curriculum.md
-      - Physical Education/Key Programmes.md
-      - Physical Education/Events.md
-      - Physical Education/Useful Links.md
-      - Mother Tongue Languages/Useful Links.md
-      - Mother Tongue Languages/Events.md
-      - Mother Tongue Languages/Key Programmes.md
-      - Mother Tongue Languages/Core Curriculum.md
-      - Mother Tongue Languages/.keep
       - Assessment Plans.md
       - English/.keep
       - English/Core Curriculum.md
@@ -32,3 +17,18 @@ collections:
       - Science/Core Curriculum.md
       - Science/Key Programmes.md
       - Science/Useful Links.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Useful Links.md
+      - Mother Tongue Languages/Events.md
+      - Mother Tongue Languages/Key Programmes.md
+      - Mother Tongue Languages/Core Curriculum.md
+      - Physical Education/.keep
+      - Physical Education/Core Curriculum.md
+      - Physical Education/Key Programmes.md
+      - Physical Education/Events.md
+      - Physical Education/Useful Links.md
+      - Aesthetics/.keep
+      - Aesthetics/Core Curriculum.md
+      - Aesthetics/Key Programmes.md
+      - Aesthetics/Events.md
+      - Aesthetics/Useful Links.md
