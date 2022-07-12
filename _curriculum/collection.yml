@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Mathematics/Useful Links.md
-      - Mathematics/Events.md
-      - Mathematics/Key Programmes.md
-      - Mathematics/Core Curriculum.md
       - Mathematics/.keep
+      - Mathematics/Core Curriculum.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/Events.md
+      - Mathematics/Useful Links.md
       - English/.keep
       - English/Core Curriculum.md
       - English/Key Programmes.md
