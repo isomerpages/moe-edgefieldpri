@@ -61,3 +61,28 @@ Please click on the following link to view letters to parents
   </tr>
 </tbody>
 </table>
+
+### Semester 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l6tf{color:#7C080B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P3%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P3 Semester 2.pdf</span></a><br></th>
+    <th class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P4%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P4 Semester 2.pdf</span></a><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P5%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P5 Semester 2.pdf</span></a><br></td>
+    <td class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P6%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P6 Semester 2.pdf</span></a><br></td>
+  </tr>
+</tbody>
+</table>
