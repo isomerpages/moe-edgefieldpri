@@ -10,15 +10,15 @@ third_nav_title: School Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hiyw{color:#444;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-6cnb{background-color:#FFF;color:#444;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-hiyw">Year Head</td>
-    <td class="tg-0lax"><span style="font-weight:normal">Mrs Catherine Arumugam</span></td>
-    <td class="tg-0lax">a_catherine@moe.edu.sg</td>
+    <td class="tg-6cnb">Year Head</td>
+    <td class="tg-9u4g">Mrs Catherine Arumugam</td>
+    <td class="tg-9u4g">a_catherine@moe.edu.sg</td>
   </tr>
 </thead>
 </table>
