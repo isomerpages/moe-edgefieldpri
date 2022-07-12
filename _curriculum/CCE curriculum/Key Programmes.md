@@ -22,3 +22,13 @@ The Social Studies curriculum complements the CCE curriculum in nurturing citize
 The CCE department has adopted a drama-based instructional approach to the teaching and learning of values. Based on educational research, drama is an effective pedagogy that connects content, skills, attitudes and values. It is student-centric and when implemented effectively, it will deepen conversations and understanding of concepts and issues presented. Based on learning theories, our students learn best when they can co-construct their own understanding and knowledge of the world, through experiencing things and reflecting on those experiences.
 
 ![](/images/CCE3.png)
+
+### 4. Growing Years Series (P5 & P6) (click [here](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/partners/parents/sexuality-education) to view page)
+
+### 5. National Education Commemorative Days
+Schools commemorate four core NE days which have been identified as defining moments in our Singapore’s history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation.
+
+### 6a. Total Defence Day
+Commemorated on 15 February annually, Total Defence Day seeks to remind all students of the sufferings endured by our forefathers during the Japanese Occupation. It is an occasion to re-familiarize ourselves with the modern defence strategy of "Total Defence" which Singapore has adopted to ensure our continued survival and security.
+
+![](/images/CCE4.jpeg)
