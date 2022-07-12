@@ -19,3 +19,25 @@ _**Environmental Science and Sustainability Education**_ is our school’s Appl
 *   To develop the necessary skills and values for the 21st century competencies.
 
 Using the EDGE framework, the programme is designed to achieved the objectives of the ALP.
+
+![](/images/alp1.png)
+
+#### Approach:
+
+The 3E approach; _Exposure, Experience and Empower_ enables the school to inculcate in students the respect and love for the environment and how to be the change agents in contributing to environmental sustainability.
+
+
+<img src="/images/ALP%20framework.jpeg" 
+     style="width:75%">
+		 
+**Opportunities for all Students**  
+
+The 3Es are cascaded into 3 tiers to provide opportunities for all students.
+
+For instance, under the “Exposure” Tier, students from P1 to P6 will learn to appreciate the environment and be aware of the need to take care of it through activities such as learning journeys, PAL, assembly talks and recycling programmes. 
+
+P3 to P6 students will get to “Experience” on specific environmental issues and sustainable living by undertaking the SEIPW and being involved in learning journeys. The SEIPW is multi-disciplinary in nature, integrating various disciplines and inquiry-based learning and pupils will adopt design thinking in carrying out the SEIPW.
+
+In the “Empower” Tier, students with the aptitude will participate in competitions such as Elementz and Vanda International Science Competition to further develop their interests and passion. Through the ALP, students will become **_self-directed learners_**, **_confident leaners_**, **_active contributors_** and **_concerned citizens_**.
+
+![](/images/ALP3.jpeg)
