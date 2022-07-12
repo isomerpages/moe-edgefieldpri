@@ -2,6 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - School Staff.md
       - Vision, Mission, Values, Motto.md
       - Principal's Message.md
