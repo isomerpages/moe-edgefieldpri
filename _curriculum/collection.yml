@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Science.md
       - Mathematics/.keep
       - Mathematics/Core Curriculum.md
       - Mathematics/Key Programmes.md
