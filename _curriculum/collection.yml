@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Physical Education/Useful Links.md
-      - Physical Education/Events.md
-      - Physical Education/Key Programmes.md
-      - Physical Education/Core Curriculum.md
       - Physical Education/.keep
+      - Physical Education/Core Curriculum.md
+      - Physical Education/Key Programmes.md
+      - Physical Education/Events.md
+      - Physical Education/Useful Links.md
       - Mother Tongue Languages/Useful Links.md
       - Mother Tongue Languages/Events.md
       - Mother Tongue Languages/Key Programmes.md
