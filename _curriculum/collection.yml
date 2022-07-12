@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English/Events.md
       - English/Key Programmes.md
       - English/Core Curriculum.md
       - English/.keep
