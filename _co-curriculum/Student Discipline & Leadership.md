@@ -31,3 +31,24 @@ Our student leaders receive feedback during dialogue sessions and regular check-
 
 ### Empower
 Student leaders are empowered to lead through various leadership opportunities that allow them to **M**odel the way, **I**nspire a shared vision, **C**hallenge current processes, **E**ncourage the heart and **E**nable others to act (**MICEE**).
+
+### Leadership Empowerment Day (LED)
+
+![](/images/LED.png)
+
+### HDB Heartland Ambassador Programme
+
+![](/images/Heartland%20Ambassador.png)
+
+### Student Suggestion Scheme
+![](/images/Student%20suggestion%20scheme.png)
+
+### Prefects’ EXCO Elections & Handover Ceremony
+![](/images/Prefects%20Exco.png)
+
+### Internationalisation Programme  
+
+![](/images/Internatalisation%20Programme.png)
+
+### Ushering
+![](/images/Ushering.png)
