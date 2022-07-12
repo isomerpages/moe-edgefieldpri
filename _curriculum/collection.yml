@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE curriculum/Key Programmes.md
-      - CCE curriculum/Character & Citizenship Education.md
       - CCE curriculum/.keep
+      - CCE curriculum/Character & Citizenship Education.md
+      - CCE curriculum/Key Programmes.md
       - ICT/ICT.md
       - ICT/.keep
       - Assessment Plans.md
