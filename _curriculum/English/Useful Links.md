@@ -15,12 +15,12 @@ third_nav_title: English
 
 *   [P1](/files/P1.pdf)
 *   [P2](/files/P2.pdf)
-*   [P3](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Curriculum/English%20Language/P3.pdf)
-*   [P4](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Curriculum/English%20Language/P4.pdf)
-*   [P5](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Curriculum/English%20Language/P5.pdf)
-*   [P5 Foundation](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Curriculum/English%20Language/P5%20Foundation.pdf)
-*   [P6](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Curriculum/English%20Language/P6.pdf)
-*   [P6 Foundation](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Curriculum/English%20Language/P6.pdf)
+*   [P3](/files/P3.pdf)
+*   [P4](/files/P4.pdf)
+*   [P5](/files/P5.pdf)
+*   [P5 Foundation](/files/P5%20Foundation.pdf)
+*   [P6](/files/P6.pdf)
+*   [P6 Foundation](/files/P6.pdf)
 
 **Dictionary**
 
