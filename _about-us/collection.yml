@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
+      - Vision, Mission, Values, Motto.md
       - School Staff/.keep
       - School Staff/School Staff.md
       - School Staff/School Leaders.md
@@ -15,5 +17,3 @@ collections:
       - School Staff/School Administration Team.md
       - School Staff/School Counsellor and SEN Officers.md
       - School Staff/Support Staff.md
-      - Vision, Mission, Values, Motto.md
-      - Principal's Message.md
