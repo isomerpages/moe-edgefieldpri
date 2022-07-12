@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mother Tongue Languages/.keep
       - Assessment Plans.md
       - English/.keep
       - English/Core Curriculum.md
