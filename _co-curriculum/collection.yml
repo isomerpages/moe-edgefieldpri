@@ -2,5 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Student Development Team.md
       - Student Discipline & Leadership.md
+      - Student Development Team.md
