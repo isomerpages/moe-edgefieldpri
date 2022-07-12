@@ -125,3 +125,32 @@ Students  are not allowed to have in their possession any weapon. They are als
 *   Wear the prescribed school uniform and modification to the uniform is not allowed. 
 *   Name Tags are to be sewn onto the uniform and PE attire, on the pocket above the school badge. 
 *   Boys must be clean shaven and no wearing of beard and moustache is allowed
+
+![](/images/Proper%20School%20Attire.png)
+![](/images/Proper%20School%20Attire2.png)
+
+**14. Disciplinary Action**
+
+Failure to comply with the Above Code of Conduct may result in corrective consequences stipulated in the school’s Discipline Case Management Guidelines. 
+
+  
+
+Depending on the severity of each disciplinary case, the following actions may be taken by the school:
+
+*   Warning
+*   Self-Reflection
+*   Community Service 
+*   Suspension 
+*   Caning (for boys only)
+*   Other actions (as deemed appropriate by the school)
+
+**School’s Anti-Bullying Stand**  
+
+Bullying is a complex issue and it can be physical, verbal or social in nature. Bullying is defined based on ALL these distinct factors:
+
+*   Intention to cause hurt or distress (aggressive)
+*   Power imbalance between bully and bullied/victim
+*   Repeated / prolonged / persistent\* 
+*   Verbal/ social, physical, cyber
+
+The school takes a firm zero tolerance stance towards all forms of bullying. This is to ensure the safety of all staff and students in Edgefield Primary School. The zero tolerance stance has been communicated to all students. Appropriate actions will be taken against any students who are found to be involved in bullying incidents.
