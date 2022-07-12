@@ -30,3 +30,21 @@ The programme consists of 3 tiers - Engage, Endeavour, Empower.
 
 <img src="/images/ds1.jpeg" 
      style="width:75%">
+
+**_Engage – Curriculum Programme for All_**
+
+All students go through 6 years of dances module in Performing Arts and Physical Education curriculum leading to the graduation ball at the end of Primary 6. Using the EDGE Approach, the programme is designed to achieved the objectives of the LLP.
+
+![](/images/ds2.jpeg)
+
+**_Endeavour – Enrichment Programme for Selected Students_**  
+
+Students who have the aptitude are given the opportunities to further their interest in a one-year dancesport course.
+
+![](/images/DS3.jpeg)
+
+**_Empower – CCA Programme_**
+
+Students who have gone through the enrichment programme can then select to join Dancesport as their CCA.
+
+![](/images/ds4.jpeg)
