@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Aesthetics/Useful Links.md
-      - Aesthetics/Events.md
-      - Aesthetics/Key Programmes.md
-      - Aesthetics/Core Curriculum.md
       - Aesthetics/.keep
+      - Aesthetics/Core Curriculum.md
+      - Aesthetics/Key Programmes.md
+      - Aesthetics/Events.md
+      - Aesthetics/Useful Links.md
       - Physical Education/.keep
       - Physical Education/Core Curriculum.md
       - Physical Education/Key Programmes.md
