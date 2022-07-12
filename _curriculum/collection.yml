@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mathematics/Core Curriculum.md
       - Mathematics/.keep
       - English/.keep
       - English/Core Curriculum.md
