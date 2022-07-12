@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT/Core Curriculum.md
+      - ICT/ICT.md
       - ICT/.keep
       - Assessment Plans.md
       - English/.keep
