@@ -2,18 +2,18 @@ collections:
   about-us:
     output: true
     order:
-      - School Staff/Support Staff.md
-      - School Staff/School Counsellor and SEN Officers.md
-      - School Staff/School Administration Team.md
-      - School Staff/Primary 6 Teachers.md
-      - School Staff/Primary 5 Teachers.md
-      - School Staff/Primary 4 Teachers.md
-      - School Staff/Primary 3 Teachers.md
-      - School Staff/Primary 2 Teachers.md
-      - School Staff/Primary 1 Teachers.md
-      - School Staff/Key Personnel.md
       - School Staff/.keep
       - School Staff/School Staff.md
       - School Staff/School Leaders.md
+      - School Staff/Key Personnel.md
+      - School Staff/Primary 1 Teachers.md
+      - School Staff/Primary 2 Teachers.md
+      - School Staff/Primary 3 Teachers.md
+      - School Staff/Primary 4 Teachers.md
+      - School Staff/Primary 5 Teachers.md
+      - School Staff/Primary 6 Teachers.md
+      - School Staff/School Administration Team.md
+      - School Staff/School Counsellor and SEN Officers.md
+      - School Staff/Support Staff.md
       - Vision, Mission, Values, Motto.md
       - Principal's Message.md
