@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Science/Useful Links.md
-      - Science/Key Programmes.md
-      - Science/Core Curriculum.md
       - Science/.keep
+      - Science/Core Curriculum.md
+      - Science/Key Programmes.md
+      - Science/Useful Links.md
       - Mathematics/.keep
       - Mathematics/Core Curriculum.md
       - Mathematics/Key Programmes.md
