@@ -2,13 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules and Regulations.md
-      - Our Facilities.md
-      - Virtual Gallery/.keep
-      - Virtual Gallery/Virtual Gallery.md
-      - Virtual Gallery/Welcome Message from the Edgefield Bears.md
-      - Virtual Gallery/School Song.md
-      - School Corporate Video.md
       - Principal's Message.md
       - Vision, Mission, Values, Motto.md
       - School Staff/.keep
@@ -24,3 +17,10 @@ collections:
       - School Staff/School Administration Team.md
       - School Staff/School Counsellor and SEN Officers.md
       - School Staff/Support Staff.md
+      - Virtual Gallery/.keep
+      - Virtual Gallery/Virtual Gallery.md
+      - Virtual Gallery/Welcome Message from the Edgefield Bears.md
+      - Virtual Gallery/School Song.md
+      - School Corporate Video.md
+      - Our Facilities.md
+      - School Rules and Regulations.md
