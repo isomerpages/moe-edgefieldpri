@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - English/Core Curriculum.md
       - English/.keep
       - Assessment Plans.md
