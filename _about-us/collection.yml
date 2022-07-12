@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules and Regulations.md
       - Our Facilities.md
       - Virtual Gallery/.keep
       - Virtual Gallery/Virtual Gallery.md
