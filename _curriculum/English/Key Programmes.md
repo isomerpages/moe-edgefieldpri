@@ -26,3 +26,13 @@ third_nav_title: English
 *   Primary 3: Public Speaking
 *   Primary 4: Persuasive Speaking
 *   Primary 5 & 6: Debate Programme
+
+![](/images/EL8.png)
+![](/images/EL9.png)
+![](/images/EL10.png)
+![](/images/EL11.jpg)
+
+**Joyful Writing Journey:** We celebrate our students’ voices in their writing through publications such as Big Books, Calendars, Poems and Voices.
+
+![](/images/EL12.png)
+![](/images/EL13.png)
