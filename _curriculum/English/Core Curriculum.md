@@ -19,3 +19,21 @@ Like STELLAR 1.0, the STELLAR 2.0 programme continues to adopt research-based te
 ![](/images/EL3.png)
 ![](/images/EL4.png)
 ![](/images/EL5.png)
+
+### Learning Support Programme (LSP)
+
+
+LSP is a specialised early intervention programme that aims to provide additional support in language and literacy skills in Primary 1 and 2. Students are identified through the Early Literacy Indicators, a group screening instrument developed by MOE, at the beginning of each year. Support in LSP is delivered through a daily withdrawal teaching programme conducted by specially trained teachers. Lessons are held daily for 30 minutes.  
+  
+
+### Reading Remediation Programme (RRP)
+
+RRP is an intervention programme implemented at Primary 3 and 4. It aims to raise the reading competency of students who are not making sufficient progress in the development of literacy skills at the end of Primary 2 at the word and text levels and are not dyslexic. Its objectives are to enable students to fluently read and comprehend grade-level texts.  
+  
+
+  
+
+### School-based Dyslexia Remediation (SDR) Programme
+
+
+SDR programme is a specialised literacy remediation programme for primary 3 and 4 students with dyslexia. It aims to enable these students to become strategic decoders and spellers, flexible in the independent use of different strategies for reading, spelling and comprehension.
