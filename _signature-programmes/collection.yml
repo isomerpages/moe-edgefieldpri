@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Applied Learning Programme.md
       - Makerspace.md
       - Learning for Life Programme.md
