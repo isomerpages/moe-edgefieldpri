@@ -18,3 +18,4 @@ MakersEducation@Edgefield aims to inculcate the love for STEAM – Science, Tech
 #### The Makerspace @ Library
 
 This is a physical space for pupils and staff to ideate, tinker with digital or physical fabrication tools, and construct objects, creating solutions to problems of tomorrow.
+![](/images/Picture1makerspace.jpeg)
