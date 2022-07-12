@@ -2,11 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE curriculum/.keep
-      - CCE curriculum/Character & Citizenship Education.md
-      - CCE curriculum/Key Programmes.md
-      - ICT/ICT.md
-      - ICT/.keep
       - Assessment Plans.md
       - English/.keep
       - English/Core Curriculum.md
@@ -37,3 +32,8 @@ collections:
       - Aesthetics/Key Programmes.md
       - Aesthetics/Events.md
       - Aesthetics/Useful Links.md
+      - ICT/.keep
+      - ICT/ICT.md
+      - CCE curriculum/.keep
+      - CCE curriculum/Character & Citizenship Education.md
+      - CCE curriculum/Key Programmes.md
