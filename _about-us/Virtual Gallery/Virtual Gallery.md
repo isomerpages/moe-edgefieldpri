@@ -17,3 +17,31 @@ Edgefield Primary School commenced operation in 2002. We are the first primary s
 
 ### Past and Present
 ![](/images/Principals.png)
+
+### Artefacts, Symbols & TRADITIONS
+
+![](/images/The%20dolphins.png)
+
+### Key Milestones - The Foundation Years (2002-2007)
+
+#### 
+
+**2002** 
+
+Edgefield started with 460 pupils & 28 teachers, led by Founding Principal, Mrs Sabrina James.
+
+**2003**
+
+• Garners Cherish Award & NIQC Silver award.
+
+• School records 100% PSLE passes.
+
+• Pupils win 2 Gold, 1 silver & 3 bronze awards at the ITF Tae Kwan Do Singapore Invitational Championship.
+
+**2004**
+
+• Ag Minister for Education Mr Thaman Shanmugaratnam officially opens the school on 2 July. He also launches the school logo.
+
+• Supt N3, Mrs Teo Lian Geok launches Cafe@The Edge.
+
+• Holds 1st Annual Sports Day at Hougang Stadium.
