@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Staff/School Leaders.md
       - School Staff/School Staff.md
       - School Staff/.keep
       - Vision, Mission, Values, Motto.md
