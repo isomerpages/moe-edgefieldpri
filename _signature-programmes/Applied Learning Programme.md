@@ -9,7 +9,7 @@ description: ""
 
 **Environmental Science and Sustainability**
 
-**_Objective of ALP:_**
+#### Objective of ALP:
 
 _**Environmental Science and Sustainability Education**_ is our school’s Applied Learning Programme, to help students connect their knowledge with real-world application. The ALP is designed with the following objectives:
 
