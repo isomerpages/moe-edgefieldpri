@@ -11,3 +11,11 @@ The goals of the ELS 2020 / STELLAR 2.0 curriculum are:
 
 <img src="/images/STELLAR.png" 
      style="width:50%">
+		 
+Like STELLAR 1.0, the STELLAR 2.0 programme continues to adopt research-based teaching strategies and age-appropriate materials to engage students in the learning of English. The key strategies include Shared Book Approach (SBA), Close and Critical Reading, Supported Reading, Modified Language Experience Approach (MLEA), Guided Writing, Process Writing and Extensive Reading. A period a week has been ringfenced in the EL curriculum to cultivate the love of reading in the students.
+
+![](/images/Group%20writing.png)
+![](/images/Individual%20writing.png)
+![](/images/EL3.png)
+![](/images/EL4.png)
+![](/images/EL5.png)
