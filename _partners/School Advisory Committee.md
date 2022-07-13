@@ -38,3 +38,9 @@ description: ""
      style="width:30%">
 		 
 <center><b>Dr Danny Lai</b></center>
+
+
+<img src="/images/Mr%20Joseph%20Tan.jpeg" 
+     style="width:30%">
+		 
+<center><b>Mr Joseph Tan</b></center>
