@@ -24,3 +24,17 @@ description: ""
      style="width:40%">
 		 
 <center><b>Mr Kevin Chern</b></center>
+
+### Members
+
+
+<img src="/images/Dr%20William%20Chung.jpeg" 
+     style="width:40%">
+		 
+<center><b>Dr William Chung</b></center>
+
+
+<img src="/images/Dr%20Danny%20Lai.jpeg" 
+     style="width:40%">
+		 
+<center><b>Dr Danny Lai</b></center>
