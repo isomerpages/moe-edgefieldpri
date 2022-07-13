@@ -6,8 +6,7 @@ third_nav_title: Parents
 ---
 ### Primary 1 Admin Matters 2021/Orientation Booklet
 
-* [P1 Orientation Slides 2021](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/P1%20Orientation%20Slides%202021.pdf)
-
+* P1 Orientation Slides 2021
 
 * : [Primary 1 Orientation 2021 Admin Matters](/files/P1%20Orientation%202021%20Admin%20Matters.pdf)
 
