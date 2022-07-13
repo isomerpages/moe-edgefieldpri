@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Alumni Video.md
       - Parents/.keep
       - Parents/Meet the Parents Session 2022.md
       - Parents/Admin Information for Parents.md
@@ -18,3 +17,4 @@ collections:
       - Parent Support Group (PSG)/Parent Volunteer Testimonial 4.md
       - Parent Support Group (PSG)/Parent Volunteer Testimonial 5.md
       - Student Care.md
+      - Alumni Video.md
