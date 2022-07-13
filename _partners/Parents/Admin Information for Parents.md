@@ -26,3 +26,33 @@ third_nav_title: Parents
 * [P5 FDN Booklist 2022](/files/P5%20FDN%202022%20Booklist.pdf)
 * [P6 Booklist 2022](/files/P6%202022%20Booklist.pdf)
 * [P6 FDN Booklist 2022](/files/P6%20FDN%202022%20Booklist.pdf)
+
+### Service Providers
+
+**School Uniform Vendor**      
+
+Bibi & Baba  <br>
+Sales Outlet: 545 Orchard Rd #02-28 Far East Shopping Centre  <br>
+Tel:   67327022  <br>
+Fax:  62739600   <br>
+Opening Hours: Mon to Sat : 10am to 7.30pm      <br>
+                             Sun : 10am  to 6pm         <br>
+You can place your order online at [https://www.schooluniforms.sg](https://www.schooluniforms.sg/)/      
+
+**School Shoe Vendor**
+
+Eng Seng Impex Pte Ltd  <br>
+Retail Store: Urban Glam  <br>
+Blk 308 Anchorvale Rd #01-02  <br>
+Daily: from 8am to 9pm       
+
+**School Textbooks Vendor**
+
+Pacific Bookstores Pte. Ltd.     
+  
+Due to covid situation, the school bookshop is closed to parents/guardians.  However, if you wish to purchase books on behalf of your child, please call the school at 63126091 to make an appointment 2 days before your intended visit.  
+
+**School Transport Provider**
+
+Ting Transport Pte. Ltd              <br>       
+Contact Person: Henry Ting: 91901884
