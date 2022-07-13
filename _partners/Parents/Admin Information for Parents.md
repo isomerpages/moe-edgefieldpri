@@ -75,3 +75,102 @@ As part of our student well-being efforts, the school has purchased insurance to
 * [Application for Waiting List](https://form.gov.sg/60c708afc1e7220011fe9978)
 
 * [Application for Absence during school terms](https://form.gov.sg/60c013bde88e9c0012cc6002)
+
+### Canteen Food Prices
+
+**Stall 1**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6iri{background-color:#E8EDFF;color:#222;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c764{background-color:#E8EDFF;color:#222;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-u05r">Price List</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6iri">Drinks</td>
+    <td class="tg-6iri">Price</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Pokka Tea (packet)</td>
+    <td class="tg-u05r">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Pokka Tea (can)</td>
+    <td class="tg-u05r">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Pokka Tea (bottle)</td>
+    <td class="tg-u05r">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Marigold 100% Apple Juice (packet)</td>
+    <td class="tg-u05r">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Peel Fresh Apple Juice (bottle)</td>
+    <td class="tg-u05r">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Mineral Water</td>
+    <td class="tg-u05r">$0.60</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Marigold Chocolate Milk</td>
+    <td class="tg-u05r">$0.80</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Meiji Milk</td>
+    <td class="tg-u05r">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">HL Milk</td>
+    <td class="tg-u05r">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Vitasoy</td>
+    <td class="tg-u05r">$0.60</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Vitagen</td>
+    <td class="tg-u05r">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Yakult (Ace Light)</td>
+    <td class="tg-u05r">$0.70</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Yoghurt Drink</td>
+    <td class="tg-u05r">$1.00</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-c764">Other Items</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Yoghurt</td>
+    <td class="tg-u05r">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Soya Beancurd</td>
+    <td class="tg-u05r">$1.00</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Fruit</td>
+    <td class="tg-u05r">$0.50 / $0.60 per piece</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Tissue</td>
+    <td class="tg-u05r">$0.20</td>
+  </tr>
+</tbody>
+</table>
