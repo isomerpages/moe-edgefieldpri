@@ -295,3 +295,65 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
 </tbody>
 </table>
+
+**Stall 4**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6iri{background-color:#E8EDFF;color:#222;font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-u05r">Price List</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6iri">Main Items</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Monday<br>Lor Mee</td>
+    <td class="tg-u05r"><br><img alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg"><br></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Tuesday<br>Laksa</td>
+    <td class="tg-u05r"><br> <br><img alt="Stall 4 - 2.jpg" src="/images/Stall%204%20-%202.jpeg"><br></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Wednesday<br>Prawn Noodles     </td>
+    <td class="tg-xwen"><span style="color:#222"> </span><img height="307" width="450" alt="Stall 4 - 3.jpg" src="/images/Stall%204%20-%203.jpeg"><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Thursday<br><br><br>Lor Mee<br><br><br><br><br><br>Hor Fun<br><br><br></td>
+    <td class="tg-xwen"><span style="color:#222"> </span><img height="280" width="446" alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><img height="297" width="446" alt="IMG_9611.JPG" src="/images/4-4.jpeg"><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">All Days<br>Fishball Noodles<br><br><br><br><br><br><br>Fried Bee Hoon/Mee/Kway Teow<br><br><br><br></td>
+    <td class="tg-u05r"><br> <span style="color:inherit;background-color:transparent"> </span><img alt="Stall 4 - 5.jpg" src="/images/Stall%204%20-%205.jpeg"><br><br> <br> <br> <br><br><br><br><br><br><br><img height="302" width="442" alt="Stall 4 - 7.jpg" src="/images/Stall%204%20-%206.jpeg"><br><br><br> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-6iri">Add-on Items on All Days</td>
+    <td class="tg-u05r"> </td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Fried Egg</td>
+    <td class="tg-u05r">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Braised Egg</td>
+    <td class="tg-u05r">$0.50</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">Tau Kwa</td>
+    <td class="tg-u05r">$0.40</td>
+  </tr>
+</tbody>
+</table>
