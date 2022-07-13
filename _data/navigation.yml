@@ -4,3 +4,12 @@ links:
     collection: about-us
   - title: Curriculum
     collection: curriculum
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Partners
+    collection: partners
+  - title: Co-Curriculum
+    url: /co-curriculum/student-discipline-n-student-leadership
+    sublinks:
+      - title: Discipline & Leadership
+        url: /co-curriculum/student-discipline-n-student-leadership
