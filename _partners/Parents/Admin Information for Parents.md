@@ -93,7 +93,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-u05r">Price List</th>
+    <th class="tg-u05r" colspan="2">Price List</th>
   </tr>
 </thead>
 <tbody>
@@ -154,7 +154,7 @@ As part of our student well-being efforts, the school has purchased insurance to
     <td class="tg-u05r">$1.00</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-c764">Other Items</td>
+    <td class="tg-c764" colspan="2">Other Items</td>
   </tr>
   <tr>
     <td class="tg-u05r">Yoghurt</td>
@@ -188,7 +188,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u05r" colspan="2">Price List <br><br><img src="/images/halal%20logo.png" alt="halal logo.png" width="57" height="57"></th>
+    <th colspan="2" class="tg-u05r">Price List <br><br><img height="57" width="57" alt="halal logo.png" src="/images/halal%20logo.png"></th>
   </tr>
 </thead>
 <tbody>
@@ -198,11 +198,11 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Pasta</td>
-    <td class="tg-u05r"><br><img src="/images/Stall%202-1.jpeg" alt="Stall 2 - 1.jpg"><br> <br> <br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br><img alt="Stall 2 - 1.jpg" src="/images/Stall%202-1.jpeg"><br> <br> <br> <br> <br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-u05r">Mac &amp; Cheese</td>
-    <td class="tg-u05r"><br><img src="/images/Stall%202%20-%202.jpeg" alt="Stall 2 - 2.jpg"><br> </td>
+    <td class="tg-u05r"><br><img alt="Stall 2 - 2.jpg" src="/images/Stall%202%20-%202.jpeg"><br> </td>
   </tr>
   <tr>
     <td class="tg-u05r">Pizza</td>
@@ -253,7 +253,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-u05r">Price List<br></th>
+    <th class="tg-u05r" colspan="2">Price List<br></th>
   </tr>
 </thead>
 <tbody>
@@ -263,11 +263,11 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Plain Rice with One Meat and One Vegetable</td>
-    <td class="tg-u05r"><br> <br> <img height="266" width="420" alt="Stall 3 - 1.jpg" src="/images/Stall%203%20-%201.jpeg"><br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br> <br> <img src="/images/Stall%203%20-%201.jpeg" alt="Stall 3 - 1.jpg" width="420" height="266"><br> <br> <br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-u05r">Fried Rice with One Meat</td>
-    <td class="tg-u05r"><br> <br> <img height="334" width="417" alt="Stall 3 - 2.jpg" src="/images/Stall%203%20-%202.jpeg"><br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br> <br> <img src="/images/Stall%203%20-%202.jpeg" alt="Stall 3 - 2.jpg" width="417" height="334"><br> <br> <br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-6iri">Add-on Items</td>
