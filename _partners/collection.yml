@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents/Sexuality Education.md
       - Parents/Admin Information for Parents.md
       - Parents/Meet the Parents Session 2022.md
       - Parents/.keep
