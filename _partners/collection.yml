@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Parents/Admin Information for Parents.md
       - Parents/Meet the Parents Session 2022.md
       - Parents/.keep
