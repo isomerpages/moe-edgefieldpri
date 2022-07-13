@@ -2,8 +2,8 @@ collections:
   partners:
     output: true
     order:
-      - Parents/Use of photographs, videos and publication of students’ works.md
-      - Parents/Sexuality Education.md
-      - Parents/Admin Information for Parents.md
-      - Parents/Meet the Parents Session 2022.md
       - Parents/.keep
+      - Parents/Meet the Parents Session 2022.md
+      - Parents/Admin Information for Parents.md
+      - Parents/Sexuality Education.md
+      - Parents/Use of photographs, videos and publication of students’ works.md
