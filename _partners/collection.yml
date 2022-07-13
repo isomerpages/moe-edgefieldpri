@@ -2,7 +2,12 @@ collections:
   partners:
     output: true
     order:
-      - Student Care.md
+      - Parents/.keep
+      - Parents/Meet the Parents Session 2022.md
+      - Parents/Admin Information for Parents.md
+      - Parents/Sexuality Education.md
+      - Parents/Use of photographs, videos and publication of students’ works.md
+      - School Advisory Committee.md
       - Parent Support Group (PSG)/.keep
       - Parent Support Group (PSG)/Parent Support Group.md
       - Parent Support Group (PSG)/Core Committee.md
@@ -11,9 +16,4 @@ collections:
       - Parent Support Group (PSG)/Parent Volunteer Testimonial 3.md
       - Parent Support Group (PSG)/Parent Volunteer Testimonial 4.md
       - Parent Support Group (PSG)/Parent Volunteer Testimonial 5.md
-      - Parents/.keep
-      - Parents/Meet the Parents Session 2022.md
-      - Parents/Admin Information for Parents.md
-      - Parents/Sexuality Education.md
-      - Parents/Use of photographs, videos and publication of students’ works.md
-      - School Advisory Committee.md
+      - Student Care.md
