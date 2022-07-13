@@ -54,5 +54,5 @@ Due to covid situation, the school bookshop is closed to parents/guardians.  Ho
 
 **School Transport Provider**
 
-Ting Transport Pte. Ltd              <br>       
+Ting Transport Pte. Ltd     <br>
 Contact Person: Henry Ting: 91901884
