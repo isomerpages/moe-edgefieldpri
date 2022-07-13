@@ -44,3 +44,14 @@ description: ""
      style="width:30%">
 		 
 <center><b>Mr Joseph Tan</b></center>
+
+
+<img src="/images/Mr%20Albel%20Singh.jpeg" 
+     style="width:30%">
+<center><b> LTC(RET) Albel Singh</b></center>
+
+
+<img src="/images/Mr%20Keith%20Png.jpeg" 
+     style="width:30%">
+		 
+<center><b>Mr Keith Peh</b></center>
