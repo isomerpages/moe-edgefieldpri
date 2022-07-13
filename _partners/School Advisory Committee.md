@@ -18,4 +18,9 @@ description: ""
 		 
 <center><b>Mr Qalam Rasulhaque Haroun</b></center>
 
+### Treasurer
+
+<img src="/images/Mr%20Kevin%20Chern.jpeg" 
+     style="width:40%">
 		 
+<center><b>Mr Kevin Chern</b></center>
