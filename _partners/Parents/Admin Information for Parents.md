@@ -21,3 +21,8 @@ third_nav_title: Parents
 * [P1 Booklist 2022](/files/P1%202022%20Booklist.pdf)
 * [P2 Booklist 2022](/files/P2%202022%20Booklist.pdf)
 * [P3 Booklist 2022](/files/P3%202022%20Booklist.pdf)
+* [P4 Booklist 2022](/files/P4%202022%20Booklist.pdf)
+* [P5 Booklist 2022](/files/P5%202022%20Booklist.pdf)
+* [P5 FDN Booklist 2022](/files/P5%20FDN%202022%20Booklist.pdf)
+* [P6 Booklist 2022](/files/P6%202022%20Booklist.pdf)
+* [P6 FDN Booklist 2022](/files/P6%20FDN%202022%20Booklist.pdf)
