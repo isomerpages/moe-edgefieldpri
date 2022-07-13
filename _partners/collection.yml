@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Student Care.md
       - Parent Support Group (PSG)/.keep
       - Parent Support Group (PSG)/Parent Support Group.md
       - Parent Support Group (PSG)/Core Committee.md
