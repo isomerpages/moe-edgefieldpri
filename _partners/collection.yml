@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group (PSG)/Parent Volunteer Testimonial 2.md
       - Parent Support Group (PSG)/Parent Volunteer Testimonial 1.md
       - Parent Support Group (PSG)/Core Committee.md
       - Parent Support Group (PSG)/Parent Support Group.md
