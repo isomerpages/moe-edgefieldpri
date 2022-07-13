@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Alumni Video.md
       - Parents/.keep
       - Parents/Meet the Parents Session 2022.md
       - Parents/Admin Information for Parents.md
