@@ -15,5 +15,8 @@ third_nav_title: Parents
 
 * : [Primary 1 Orientation 2021 Admin Matters](/files/P1%20Orientation%202021%20Admin%20Matters.pdf)
 
-
 * : [Primary 1 Orientation 2021 Orientation Booklet](https://my.flipbookpdf.net/krDEe)
+
+### Booklist 2022
+* [P1 Booklist 2022](/files/P1%202022%20Booklist.pdf)
+* [P2 Booklist 2022](/files/P2%202022%20Booklist.pdf)
