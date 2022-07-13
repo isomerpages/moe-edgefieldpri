@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group (PSG).md
       - Parents/.keep
       - Parents/Meet the Parents Session 2022.md
       - Parents/Admin Information for Parents.md
