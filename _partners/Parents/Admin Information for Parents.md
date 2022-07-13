@@ -48,8 +48,7 @@ Daily: from 8am to 9pm     
 
 **School Textbooks Vendor**
 
-Pacific Bookstores Pte. Ltd.     
-  
+Pacific Bookstores Pte. Ltd.     <br>
 Due to covid situation, the school bookshop is closed to parents/guardians.  However, if you wish to purchase books on behalf of your child, please call the school at 63126091 to make an appointment 2 days before your intended visit.  
 
 **School Transport Provider**
