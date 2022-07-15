@@ -24,8 +24,6 @@ Edgefield Primary School commenced operation in 2002. We are the first primary s
 
 ### Key Milestones - The Foundation Years (2002-2007)
 
-#### 
-
 **2002** 
 
 Edgefield started with 460 pupils & 28 teachers, led by Founding Principal, Mrs Sabrina James.
