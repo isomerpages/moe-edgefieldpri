@@ -4,18 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/performing-arts/angklung-
 description: ""
 third_nav_title: Performing Arts
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-1uvx{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-dafn{background-color:#E8EDFF;color:#4C1130;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-mbkz{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -27,7 +15,7 @@ third_nav_title: Performing Arts
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
     <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Watch the introduction video.   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSr4RppHIEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></td>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZSr4RppHIEk" height="315" width="560"></iframe></span></td>
   </tr>
   <tr>
     <td class="tg-dafn">Experiences</td>
@@ -35,7 +23,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
-    <td class="tg-mbkz"> <span style="font-weight:700;background-color:transparent">Play this video to watch the kind of experience our Angklung CCA members go through.<iframe width="560" height="315" src="https://www.youtube.com/embed/-D0-wUgEmSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></td>
+    <td class="tg-mbkz"> <span style="font-weight:700;background-color:transparent">Play this video to watch the kind of experience our Angklung CCA members go through.<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-D0-wUgEmSs" height="315" width="560"></iframe></span></td>
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
@@ -43,7 +31,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
-    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our weekly practice sessions.<iframe width="560" height="315" src="https://www.youtube.com/embed/zLtedKPS19A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span><br><br><br><br></td>
+    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our weekly practice sessions.<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zLtedKPS19A" height="315" width="560"></iframe></span><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
@@ -51,7 +39,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
-    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our team building activities&nbsp;&nbsp;<iframe width="560" height="315" src="https://www.youtube.com/embed/0Cke9svlDSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></td>
+    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our team building activities&nbsp;&nbsp;<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0Cke9svlDSA" height="315" width="560"></iframe></span></td>
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
@@ -67,3 +55,5 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0lyWJOAm3_xp5XEZ2bovfoTqPXqd_GVB9fYtq3cTD5X07kiT9t-b2G8H0OlwXUhmqOkyiPFXipQhz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
