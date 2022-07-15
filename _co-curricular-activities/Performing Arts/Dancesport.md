@@ -4,15 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/performing-arts/dancespor
 description: ""
 third_nav_title: Performing Arts
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -135,3 +126,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FU_fiZlt-gQ" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaiJWbcmAwcfglnHuN6GfSrXvq__iSi2iO7B0FNhCQ7zSB9ver-eMqBNCo6B_oPX-avXAnpG7G2xEB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
