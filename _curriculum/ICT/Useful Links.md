@@ -12,3 +12,16 @@ third_nav_title: ICT
 * Student Learning Space: [**https://learning.moe.edu.sg**](https://learning.moe.edu.sg/)
 
 * School Library: [https://sites.google.com/moe.edu.sg/efpslibrary/home](https://sites.google.com/moe.edu.sg/efpslibrary/home)
+
+### Teachers
+  
+* Resource Booking Service: [https://rbs.avero-tech.com/](https://rbs.avero-tech.com/)  
+
+
+* School Cockpit: [https://schoolcockpit.moe.gov.sg/](https://schoolcockpit.moe.gov.sg/)
+
+* SCmobile: [https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)
+
+* ICT Guide: [https://sites.google.com/moe.edu.sg/ictguide/home](https://sites.google.com/moe.edu.sg/ictguide/home)
+
+* SG Learning Designers Circle: [https://www.facebook.com/groups/sglearningdesigners/about/](https://www.facebook.com/groups/sglearningdesigners/about/)
