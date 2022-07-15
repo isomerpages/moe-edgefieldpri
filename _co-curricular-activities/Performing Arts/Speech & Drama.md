@@ -4,16 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/performing-arts/speech-n-
 description: ""
 third_nav_title: Performing Arts
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dafn{background-color:#E8EDFF;color:#4C1130;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-hwm7{background-color:#E8EDFF;color:#4C1130;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -45,8 +35,10 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eNNJ9DSPx_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eNNJ9DSPx_M" height="315" width="560"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hGo_M-dJyUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hGo_M-dJyUE" height="315" width="560"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4oiZLIRkMXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4oiZLIRkMXI" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqbUgUng39X7XOC7v9lZ_5astEA2jpHlbGkfWyjZ2o-gd6WEaTDHbRARtl1PR8Z4YFwR4VvpK7LZVL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
