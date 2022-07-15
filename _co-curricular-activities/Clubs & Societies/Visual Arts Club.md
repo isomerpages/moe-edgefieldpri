@@ -4,15 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/clubs-and-societies/visua
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dafn{background-color:#E8EDFF;color:#4C1130;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -43,3 +34,5 @@ third_nav_title: Clubs & Societies
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQx_TSUWqv4B5L02RbjvYbfLpQm7undivi9Jqnuy3_uVkVULhmBJP7Ue3QF6kb5zis5H8O0hqSGIA0H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
