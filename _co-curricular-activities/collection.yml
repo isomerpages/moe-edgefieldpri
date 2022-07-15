@@ -2,13 +2,13 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts/Dancesport.md
-      - Performing Arts/Speech & Drama.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Chinese Dance.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Angklung & Kolintung Ensemble.md
       - Performing Arts/.keep
+      - Performing Arts/Angklung & Kolintung Ensemble.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Speech & Drama.md
+      - Performing Arts/Dancesport.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Visual Arts Club.md
       - Clubs & Societies/Ceramics Club.md
