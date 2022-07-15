@@ -9,8 +9,4 @@ sections:
   - hero:
       title: Edgefield Primary School
       background: /images/hero-banner.gif
-      key_highlights:
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
 ---
