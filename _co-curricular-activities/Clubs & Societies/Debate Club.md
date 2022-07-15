@@ -4,15 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/clubs-and-societies/debat
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-liiy{background-color:#E8EDFF;border-color:inherit;color:#4C1130;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-539o{background-color:#E8EDFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -43,3 +34,6 @@ third_nav_title: Clubs & Societies
   </tr>
 </tbody>
 </table>
+
+
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGCvrxO6cgEblG0EwBsYAaiNm0OdWb3XPoHnoa7Li0h530Fm8HetUS_BLHGxFNMHGw2lfEff3WSkNF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
