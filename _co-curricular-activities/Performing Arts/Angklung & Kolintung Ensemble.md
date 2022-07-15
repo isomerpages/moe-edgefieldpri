@@ -43,7 +43,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
-    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our weekly practice sessions.</span><br><br><br><br></td>
+    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our weekly practice sessions.<iframe width="560" height="315" src="https://www.youtube.com/embed/zLtedKPS19A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
@@ -51,7 +51,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
-    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our team building activities&nbsp;&nbsp;</span></td>
+    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Play this photo montage to check out our team building activities&nbsp;&nbsp;<iframe width="560" height="315" src="https://www.youtube.com/embed/0Cke9svlDSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span></td>
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
