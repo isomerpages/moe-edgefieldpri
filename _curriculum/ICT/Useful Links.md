@@ -22,6 +22,6 @@ third_nav_title: ICT
 
 * SCmobile: [https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login)
 
-* ICT Guide: [https://sites.google.com/moe.edu.sg/ictguide/home](https://sites.google.com/moe.edu.sg/ictguide/home)
+* ICT NGuide: [https://sites.google.com/moe.edu.sg/ictguide/home](https://sites.google.com/moe.edu.sg/ictguide/home)
 
 * SG Learning Designers Circle: [https://www.facebook.com/groups/sglearningdesigners/about/](https://www.facebook.com/groups/sglearningdesigners/about/)
