@@ -25,3 +25,9 @@ third_nav_title: ICT
 * ICT NGuide: [https://sites.google.com/moe.edu.sg/ictguide/home](https://sites.google.com/moe.edu.sg/ictguide/home)
 
 * SG Learning Designers Circle: [https://www.facebook.com/groups/sglearningdesigners/about/](https://www.facebook.com/groups/sglearningdesigners/about/)
+
+### Parents
+
+<a href="/files/TikTok%20x%20MLC%20ebook.pdf">
+       <img src="/images/Guide%20to%20Tik%20Tok.jpeg" style="width 50%" />
+    </a>
