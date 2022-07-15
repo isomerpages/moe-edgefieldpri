@@ -28,5 +28,6 @@ third_nav_title: ICT
 
 ### Parents
 
-		
-<img style="width: 201px; height: 240px;" class="ive_eobj_left ive_clickable" alt="Guide to Tik Tok.jpg" src="/images/Guide%20to%20Tik%20Tok.jpeg">
+<a href="/files/TikTok%20x%20MLC%20ebook.pdf">	
+			<img style="width: 201px; height: 240px;" class="ive_eobj_left ive_clickable" alt="Guide to Tik Tok.jpg" src="/images/Guide%20to%20Tik%20Tok.jpeg">
+</a>
