@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Photography Club.md
       - Clubs & Societies/Ceramics Club.md
       - Clubs & Societies/Visual Arts Club.md
       - Clubs & Societies/.keep
