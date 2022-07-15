@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Ceramics Club.md
       - Clubs & Societies/Visual Arts Club.md
       - Clubs & Societies/.keep
