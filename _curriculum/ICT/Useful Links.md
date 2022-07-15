@@ -31,3 +31,14 @@ third_nav_title: ICT
 <a href="/files/TikTok%20x%20MLC%20ebook.pdf">	
 			<img style="width: 201px; height: 240px;" class="ive_eobj_left ive_clickable" alt="Guide to Tik Tok.jpg" src="/images/Guide%20to%20Tik%20Tok.jpeg">
 </a>
+
+
+<a href="">	
+			<img style="width: 201px; height: 240px;" class="ive_eobj_left ive_clickable" alt="Guide to Tik Tok.jpg" src="/images/Guide%20to%20Instagram.jpeg">
+</a>
+
+
+<a href="/files/Clique%20Click.pdf">	
+			<img style="width: 201px; height: 240px;" class="ive_eobj_left ive_clickable" alt="Guide to Tik Tok.jpg" src="/images/Clique%20Click.jpeg">
+</a>
+
