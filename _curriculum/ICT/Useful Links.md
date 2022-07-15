@@ -50,4 +50,3 @@ third_nav_title: ICT
 <a href="/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf">	
 			<img style="width: 201px; height: 240px;" class="ive_eobj_left ive_clickable" alt="Guide to Tik Tok.jpg" src="/images/Keeping%20Children%20Safe%20%20Smart%20Online.jpeg">
 </a>
-
