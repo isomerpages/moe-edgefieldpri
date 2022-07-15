@@ -103,3 +103,35 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dafn{background-color:#E8EDFF;color:#4C1130;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dafn">Developing our students</th>
+    <th class="tg-u05r">During CCA sessions, members develop positive thinking towards public performances and competitions and have high self-esteem and are more confident of themselves. Social graciousness are also instilled in members as they are trained to behave as ladies and gentlemen.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dafn">Growing hearts and minds</td>
+    <td class="tg-u05r">Training sessions are geared towards character building. It also inculcates the values of respect, team spirit, loyalty, discipline and courage.<br><br>During the debrief that is conducted at the end the training session, members are given the opportunity to discuss about issues, challenges and learning points that arise during the training. Resilience, respect and discipline are examples of the debrief focus.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dafn">Empowering leaders and talents</td>
+    <td class="tg-u05r">Dancesport leaders are empowered to lead the team in activities such as warm-up and relaying of information to team members. They also lead the discussion during the reflections sessions that is conducted after each training. This provides the opportunity to hone their leadership skills.</td>
+  </tr>
+  <tr>
+    <td class="tg-dafn">CCA Teachers</td>
+    <td class="tg-u05r">Mrs Cher-Lim Gui Hao (Teacher-in-charge)<br>Mdm Yanie<br>Mdm Ruzanna<br>Ms Angela Koh<br>Mrs Cindy Tan<br>Ms Jia Fang<br>Mdm Fu Dong<br>Ms Serena</td>
+  </tr>
+</tbody>
+</table>
