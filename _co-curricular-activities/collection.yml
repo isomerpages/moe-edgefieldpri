@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Dancesport.md
       - Performing Arts/Speech & Drama.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Chinese Dance.md
