@@ -1,11 +1,11 @@
 ---
 title: Vision, Mission, Values, Motto
-permalink: /about-us/vision-mission-values-motto
+permalink: /about-us/vision-mission-values-motto/
 description: ""
 ---
 ### Our School Mission
 
-**Lives Empowered, Lives Touched**
+### <p style="font-family:Courier; color:Blue; font-size: 30px;">**Lives Empowered, Lives Touched**
 
 ### Our School Mission
 
