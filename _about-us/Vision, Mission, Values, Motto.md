@@ -5,7 +5,7 @@ description: ""
 ---
 ### Our School Mission
 
-### <p style="font-family:Courier; color:Blue; font-size: 30px;">**Lives Empowered, Lives Touched**
+##### **Lives Empowered, Lives Touched**
 
 ### Our School Mission
 
@@ -24,7 +24,7 @@ description: ""
 
 <img src="/images/edgefield-logo%20.jpeg" 
      style="width:60%">
-##### ENDEAVOUR TO EXCEL 
+#### ENDEAVOUR TO EXCEL 
 
 **The logo** depicts the school community endeavouring to excel in all aspects of life - academically, socially, morally. The logo also depicts the school's theme which is to touch lives and in doing so the unity and solidarity of the school community comes through.
 
