@@ -7,7 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Edgefield Primary School
       background: /images/hero-banner.gif
 ---
-
