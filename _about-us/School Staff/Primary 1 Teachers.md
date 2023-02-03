@@ -1,86 +1,164 @@
 ---
 title: Primary 1 Teachers
-permalink: /about-us/School-Staff/primary-1-teachers
+permalink: /about-us/School-Staff/primary-1-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6cnb{background-color:#FFF;color:#444;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-6cnb">Year Head</td>
-    <td class="tg-9u4g">Mrs Catherine Arumugam</td>
-    <td class="tg-9u4g">a_catherine@moe.edu.sg</td>
-  </tr>
-</thead>
-</table>
-<p> </p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6cnb{background-color:#FFF;color:#444;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-csdc{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-6cnb">Class</th>
-    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Form Teachers</span></th>
-    <th class="tg-csdc"><span style="color:inherit;background-color:transparent">Email address</span></th>
-  </tr>
-</thead>
+<table class="ive_eobj_center iveo_table ives_tab_simple" style="width: 766.85px; height: 56px;">
+
 <tbody>
-  <tr>
-    <td class="tg-9u4g">1 Charity</td>
-    <td class="tg-9u4g">Mrs Ng-Low Yin Siang (FT1)<br>Mdm Lu Yangfan (FT2)<br></td>
-    <td class="tg-9u4g">low_yin_siang@moe.edu.sg<br>lu_yangfan@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">1 Faith</td>
-    <td class="tg-9u4g">Mrs Catherine Lee (FT1)<br>Mdm Zhang Fu Lei (FT2)<br></td>
-    <td class="tg-9u4g">catherine_lee@moe.edu.sg<br>zhang_fulei@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">1 Grace</td>
-    <td class="tg-9u4g">Mrs Charn Ve' Joy (FT1)<br>Mdm Ruzanna Supar (FT2)<br></td>
-    <td class="tg-9u4g">ong_ve_joy@moe.edu.sg<br>ruzanna_supar@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">1 Hope</td>
-    <td class="tg-9u4g">Mrs Khairiyanie Abdul Aziz (FT1)<br>Mrs Cindy Tan (FT2)<br></td>
-    <td class="tg-9u4g">khairiyanie_abdul_aziz@moe.edu.sg<br>teo_suat_ching_cindy@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">1 Joy</td>
-    <td class="tg-9u4g">Mrs Pauline Leong (FT1)<br>Mdm Fu Dong (FT2)</td>
-    <td class="tg-9u4g">ho_soo_khim@moe.edu.sg<br>fu_dong@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">1 Love</td>
-    <td class="tg-9u4g">Mrs Ong-Chia Peishan (FT1)<br>Mdm Ng Siew Hong Jackie (FT2)<br></td>
-    <td class="tg-9u4g">chia_peishan@moe.edu.sg<br>ng_siew_hong_a@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">1 Patience<br><br></td>
-    <td class="tg-9u4g">Mdm Lim Gui Hao (FT1)<br>Ms Koh Seok Hui (FT2)<br></td>
-    <td class="tg-9u4g">lim_gui_hao@moe.edu.sg<br>koh_seok_hui@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">1 Wisdom</td>
-    <td class="tg-9u4g">Ms Koo Siew Ping (FT1)<br>Mdm Loo Kum Yok (FT2) <br></td>
-    <td class="tg-9u4g">koo_siew_ping@moe.edu.sg<br>loo_kum_yok@moe.edu.sg</td>
-  </tr>
+
+<tr>
+
+<th style="width: 223px;"><font size="4" face="arial, sans-serif"><font color="#444444">Year Head</font></font></th>
+
+<th style="width: 237px;"><font size="4" face="arial, sans-serif"><span style="font-weight: normal;">Mrs Catherine Arumugam</span></font></th>
+
+<th style="width: 306px;"><span style="font-weight: normal;"><font size="4" face="arial, sans-serif">a_catherine@moe.edu.sg</font></span><span style="font-weight: 500;"></span></th>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4">Assistant Year Head</font></td>
+
+<td><font face="arial, sans-serif" size="4">Mr Mike Ng</font></td>
+
+<td><font face="arial, sans-serif" size="4">ng_cheong_zsen@moe.edu.sg</font></td>
+
+</tr>
+
 </tbody>
+
+</table>
+
+<table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 768.325px; height: 453px;">
+
+<tbody>
+
+<tr>
+
+<th style="width: 102px;"><font face="arial, sans-serif" size="4"><font color="#444444">Class</font></font></th>
+
+<th style="width: 299px;"><font face="arial, sans-serif" size="4">Form Teachers</font></th>
+
+<th style="width: 367px;"><font face="arial, sans-serif" size="4">Email address</font></th>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Charity</font></td>
+
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mdm Aw Pei Shi  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mdm Nur Yanty Jumali</span>  
+</font></td>
+
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>aw_pei_shi@moe.edu.sg  
+nur_ yanty_jumali@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Faith</font></td>
+
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mdm Benazir Begam</span>  
+Mrs Asri - Tan Pin Pin  
+</font></td>
+
+<td><font size="4" face="arial, sans-serif">benazir_begam_samusu_malik@moe.edu.sg  
+tan_pin_pin_b@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Grace</font></td>
+
+<td><font size="4" face="arial, sans-serif">Mrs Adeline Chew  
+Mr David Ng  
+</font></td>
+
+<td><font size="4" face="arial, sans-serif">chew-ng_xiang_min_adeline@moe.edu.sg  
+ng_kwang_ming@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Hope</font></td>
+
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mdm Lim Lee Nah  
+Mrs Cindy Tan  
+</font></td>
+
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>lim_lee_nah@moe.edu.sg  
+teo_suat_ching_cindy@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Joy</font></td>
+
+<td><font size="4" face="arial, sans-serif">Mrs Manju Manoj  
+<span lang="EN-SG" style="line-height: 15.6933px;"></span><span lang="EN-SG" class="">Ms Doreen Low</span></font></td>
+
+<td><font size="4" face="arial, sans-serif">manoj_kumar_gupta@moe.edu.sg  
+low_hui_lin_doreen@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Love</font></td>
+
+<td><font size="4" face="arial, sans-serif">Mrs Lim Gui Hao  
+<span lang="EN-SG" class="">Mr Tam Joon Chze</span>  
+</font></td>
+
+<td><font size="4" face="arial, sans-serif">lim_gui_hao@moe.edu.sg  
+tam_joon_chze@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Patience  
+
+</font></td>
+
+<td><font face="arial, sans-serif"><font size="4"><span lang="EN-SG" class=""></span>Mdm Wang Seow Yann  
+Mrs Catherine Arumugam  
+</font></font></td>
+
+<td><font face="arial, sans-serif" size="4"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>wang_seow_yann@moe.edu.sg  
+<font color="#444444">a_catherine@moe.edu.sg</font>  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif">1 Wisdom</font></td>
+
+<td><font size="4" face="arial, sans-serif">Mdm Sarina Shariman  
+Ms Pang Xiao Yan  
+</font></td>
+
+<td><font size="4" face="arial, sans-serif">sarina_shariman@moe.edu.sg  
+pang_xiao_yan@moe.edu.sg</font>  
+</td>
+
+</tr>
+
+</tbody>
+
 </table>
