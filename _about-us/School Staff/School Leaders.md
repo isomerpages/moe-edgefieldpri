@@ -36,7 +36,7 @@ third_nav_title: School Staff
 </td>
 <td>Mr Teh Chong Ann&nbsp;
 </td>
-<td>&nbsp;teh_chong_ann@schools.gov.sg
+<td>teh_chong_ann@schools.gov.sg
 </td>
 </tr>
   
