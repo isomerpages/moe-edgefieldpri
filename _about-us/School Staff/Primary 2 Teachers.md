@@ -4,8 +4,6 @@ permalink: /about-us/School-Staff/primary-2-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-  
-
 <table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 785.362px; height: 67px;">
 
 <tbody>
