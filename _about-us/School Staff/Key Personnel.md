@@ -4,13 +4,14 @@ permalink: /about-us/School-Staff/key-personnel/
 description: ""
 third_nav_title: School Staff
 ---
+
 <table class="iveo_table ives_tab_simple ive_eobj_left" style="text-align: center; width: 913.775px; height: 594px;">
 
 <tbody>
 
 <tr>
 
-<td style="width: 276px;"><span style="text-align: center;"><font size="4" style="" color="#444444">**School Staff Developer**</font></span></td>
+<td style="width: 276px;"><span style="text-align: center;"><font size="4" style="" color="#444444">School Staff Developer</font></span></td>
 
 <td style="width: 242px;"><font size="4" face="arial, sans-serif" color="#444444">Mdm Norsinah Suadi </font></td>
 
@@ -20,7 +21,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD English Language </font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">HOD English Language </font></td>
 
 <td><font size="4" color="#444444">Mr Jabin Lim </font></td>
 
@@ -30,7 +31,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD Mother Tongue</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">HOD Mother Tongue</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mdm Jasmin Quek  </font></td>
 
@@ -40,7 +41,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif" color="#444444">**HOD Science **</font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444">HOD Science </font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mdm Fauziah Masod</font></td>
 
@@ -50,7 +51,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif" color="#444444">**HOD ICT**</font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444">HOD ICT</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mr Raymond Quake</font></td>
 
@@ -60,7 +61,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif" color="#444444">**HOD Curriculum and Innovation**</font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444">HOD Curriculum and Innovation</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444">Mr Gene Kim</font></td>
 
@@ -70,7 +71,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">LH Science</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">LH Science</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mr Terence Teng</font></td>
 
@@ -80,7 +81,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">LH English</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">LH English</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mrs Juliana Ng</font></td>
 
@@ -90,7 +91,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif" color="#444444">**LH Chinese** </font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444">LH Chinese </font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Ms Tan Shu Ling </font></td>
 
@@ -100,7 +101,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">LH Malay Language</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">LH Malay Language</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mdm Wirziana Abdul Wahab</font></td>
 
@@ -110,7 +111,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">LH Maths</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">LH Maths</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mr Lee Jianfeng Edmund</font></td>
 
@@ -120,7 +121,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD CCE</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">HOD CCE</font></td>
 
 <td><font face="arial, sans-serif" color="#444444"><span style="font-size: large;">Mrs Ng Lee Mei Ling</span></font></td>
 
@@ -130,7 +131,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD PE/CCA</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">HOD PE/CCA</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mr Muhammad Azhari</font></td>
 
@@ -140,7 +141,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">SH Outdoor Education</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">SH Outdoor Education</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mdm Idayu Dewi</font></td>
 
@@ -150,7 +151,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font face="arial, sans-serif" color="#444444">SH Character & Citizenship Education</font>**</td>
+<td><font face="arial, sans-serif" color="#444444">SH Character & Citizenship Education</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Ms Pang Xiao Yan</font></td>
 
@@ -160,7 +161,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">SH Aesthetics</font> **</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">SH Aesthetics</font> </td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Ms Loi Wei Ling</font></td>
 
@@ -170,7 +171,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">Year Head (P1 & P2)</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">Year Head (P1 & P2)</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mrs Catherine Arumugam</font></td>
 
@@ -180,7 +181,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">Assistant Year Head (P2 & P3)</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">Assistant Year Head (P2 & P3)</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mr Mike Ng</font></td>
 
@@ -190,7 +191,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">Year Head (P3 & P4)</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">Year Head (P3 & P4)</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mr Vairavan Uthaman Chettiar</font></td>
 
@@ -200,7 +201,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">Assistant Year Head (P3 & P4)</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">Assistant Year Head (P3 & P4)</font></td>
 
 <td><font size="4">Mdm Pratibha Rai</font></td>
 
@@ -210,7 +211,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">Year Head (P5 & P6)</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">Year Head (P5 & P6)</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mdm Alfiah Bte Md Yusoff</font></td>
 
@@ -220,7 +221,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font size="4" face="arial, sans-serif" color="#444444">SH Discipline & Student Leadership</font>**</td>
+<td><font size="4" face="arial, sans-serif" color="#444444">SH Discipline & Student Leadership</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444">Mr Khairul Lizan Ahmadjirony</font></td>
 
