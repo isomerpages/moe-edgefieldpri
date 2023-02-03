@@ -1,238 +1,233 @@
 ---
 title: Key Personnel
-permalink: /about-us/School-Staff/key-personnel
+permalink: /about-us/School-Staff/key-personnel/
 description: ""
 third_nav_title: School Staff
 ---
-### Middle Managers
+<table class="iveo_table ives_tab_simple ive_eobj_left" style="text-align: center; width: 913.775px; height: 594px;">
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-csdc{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9u4g">HOD English Language   </th>
-    <th class="tg-9u4g">Mr Jabin Lim </th>
-    <th class="tg-9u4g">lim_ming_ee_jabin@moe.edu.sg</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-9u4g">HOD Mother Tongue</td>
-    <td class="tg-9u4g">Mdm Jasmin Quek  </td>
-    <td class="tg-9u4g">quek_kah_hoon@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">HOD Science <br></td>
-    <td class="tg-9u4g">Mdm Fauziah Masod<br></td>
-    <td class="tg-9u4g">fauziah_masod@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">HOD ICT<br></td>
-    <td class="tg-9u4g">Mr Raymond Quake</td>
-    <td class="tg-9u4g">quake_kheok_meng_raymond@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">LH Science</td>
-    <td class="tg-9u4g">Mr Terence Teng<br></td>
-    <td class="tg-9u4g">teng_sze_chun_terence@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">LH English</td>
-    <td class="tg-9u4g">Mrs Juliana Ng</td>
-    <td class="tg-9u4g">juliana_natalia_lee_osman@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">LH Chinese </td>
-    <td class="tg-9u4g">Ms Tan Shu Ling </td>
-    <td class="tg-9u4g">tan_shuling@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">LH Malay Language</td>
-    <td class="tg-9u4g">Mdm Wirziana Abdul Wahab</td>
-    <td class="tg-9u4g">wirziana_abdul_wahab@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">LH Maths</td>
-    <td class="tg-9u4g">Mr Lee Jianfeng Edmund</td>
-    <td class="tg-9u4g">lee_jianfeng_edmund@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">HOD CCE</td>
-    <td class="tg-9u4g">Mrs Ng Lee Mei Ling<br></td>
-    <td class="tg-9u4g">lee_mei_ling_a@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">HOD PE/CCA</td>
-    <td class="tg-9u4g">Mr Muhammad Azhari</td>
-    <td class="tg-9u4g">muhammad_azhari_shahri@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">SH Outdoor Education</td>
-    <td class="tg-9u4g">Mdm Idayu Dewi</td>
-    <td class="tg-9u4g">idayu_dewi_bt_juwari@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">SH Character &amp; Citizenship Education</td>
-    <td class="tg-9u4g">Ms Pang Xiao Yan</td>
-    <td class="tg-9u4g">pang_xiao_yan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">SH Aesthetics <br></td>
-    <td class="tg-9u4g">Ms Loi Wei Ling</td>
-    <td class="tg-9u4g">loi_wei_ling@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Year Head (P1 &amp; P2)</td>
-    <td class="tg-9u4g">Mrs Catherine Arumugam</td>
-    <td class="tg-9u4g">a_catherine@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Assistant Year Head (P3 &amp; P4)</td>
-    <td class="tg-9u4g">Mr Mike Ng</td>
-    <td class="tg-9u4g">ng_cheong_zsen@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Assistant Year Head (P3 &amp; P4)</td>
-    <td class="tg-9u4g">Mr Vairavan Uthaman Chettiar</td>
-    <td class="tg-9u4g"> vairavan_uthaman_chettiar@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Year Head (P5 &amp; P6)</td>
-    <td class="tg-9u4g">Mdm Alfiah Bte Md Yusoff</td>
-    <td class="tg-csdc"><span style="color:inherit;background-color:transparent"> </span>alfiah_md_yusoff@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Assistant Year Head (P5 &amp; P6)</td>
-    <td class="tg-9u4g">Mdm Pratibha Rai</td>
-    <td class="tg-csdc"><span style="color:inherit;background-color:transparent"> </span>pratibha_rai_matuk_rai@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">SH Discipline &amp; Student Leadership</td>
-    <td class="tg-9u4g">Mr Khairul Lizan Ahmadjirony</td>
-    <td class="tg-csdc"><span style="color:inherit;background-color:transparent"> </span>khairul_lizan_ahmadjirony@moe.edu.sg</td>
-  </tr>
+
+<tr>
+
+<td style="width: 276px;"><span style="text-align: center;"><font size="4" style="" color="#444444">**School Staff Developer**</font></span></td>
+
+<td style="width: 242px;"><font size="4" face="arial, sans-serif" color="#444444">Mdm Norsinah Suadi </font></td>
+
+<td style="width: 395px;"><font size="4" face="arial, sans-serif" color="#444444">norsinah_suadi@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD English Language </font>**</td>
+
+<td><font size="4" color="#444444">Mr Jabin Lim </font></td>
+
+<td><font size="4" color="#444444">lim_ming_ee_jabin@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD Mother Tongue</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mdm Jasmin Quek  </font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">quek_kah_hoon@moe.edu.sg </font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">**HOD Science **</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mdm Fauziah Masod</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">fauziah_masod@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">**HOD ICT**</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mr Raymond Quake</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">quake_kheok_meng_raymond@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">**HOD Curriculum and Innovation**</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">Mr Gene Kim</font></td>
+
+<td><font face="arial, sans-serif" color="#444444"><font size="4">lim_yong_seng_gene</font><font size="4">@moe.edu.sg</font></font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">LH Science</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mr Terence Teng</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">teng_sze_chun_terence@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">LH English</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mrs Juliana Ng</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">juliana_natalia_lee_osman@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">**LH Chinese** </font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Ms Tan Shu Ling </font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">tan_shuling@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">LH Malay Language</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mdm Wirziana Abdul Wahab</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">wirziana_abdul_wahab@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">LH Maths</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mr Lee Jianfeng Edmund</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">lee_jianfeng_edmund@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD CCE</font>**</td>
+
+<td><font face="arial, sans-serif" color="#444444"><span style="font-size: large;">Mrs Ng Lee Mei Ling</span></font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">lee_mei_ling_a@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">HOD PE/CCA</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mr Muhammad Azhari</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">muhammad_azhari_shahri@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">SH Outdoor Education</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mdm Idayu Dewi</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">idayu_dewi_bt_juwari@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font face="arial, sans-serif" color="#444444">SH Character & Citizenship Education</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Ms Pang Xiao Yan</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">pang_xiao_yan@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">SH Aesthetics</font> **</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Ms Loi Wei Ling</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">loi_wei_ling@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">Year Head (P1 & P2)</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mrs Catherine Arumugam</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">a_catherine@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">Assistant Year Head (P2 & P3)</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mr Mike Ng</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">ng_cheong_zsen@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">Year Head (P3 & P4)</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mr Vairavan Uthaman Chettiar</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444"> vairavan_uthaman_chettiar@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">Assistant Year Head (P3 & P4)</font>**</td>
+
+<td><font size="4">Mdm Pratibha Rai</font></td>
+
+<td> <font size="4" face="arial, sans-serif">pratibha_rai_matuk_rai@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">Year Head (P5 & P6)</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mdm Alfiah Bte Md Yusoff</font></td>
+
+<td><font face="arial, sans-serif" color="#444444"> <font size="4">alfiah_md_yusoff@moe.edu.sg</font></font></td>
+
+</tr>
+
+<tr>
+
+<td>**<font size="4" face="arial, sans-serif" color="#444444">SH Discipline & Student Leadership</font>**</td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mr Khairul Lizan Ahmadjirony</font></td>
+
+<td><font face="arial, sans-serif" color="#444444"> <font size="4">khairul_lizan_ahmadjirony@moe.edu.sg</font></font></td>
+
+</tr>
+
 </tbody>
-</table>
 
-### Teacher Leaders
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pdi{background-color:#FFF;color:#4D5156;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9u4g">Lead Teacher English</th>
-    <th class="tg-9u4g">Mr Steven Yeo</th>
-    <th class="tg-9u4g">yeo_poh_teck@moe.edu.sg</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9u4g">Lead Teacher Music<br></td>
-    <td class="tg-9u4g">Mrs Jessica Lim<br></td>
-    <td class="tg-9u4g">chaw_kim_leng_jessica@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Lead Teacher Learning Needs</td>
-    <td class="tg-9u4g">Ms Ling Yuan</td>
-    <td class="tg-9u4g">ling_yuan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Tamil Language</td>
-    <td class="tg-9u4g">Mrs Shanti Moorthy</td>
-    <td class="tg-9u4g">shanti_kulantaipian_sh@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher English</td>
-    <td class="tg-9u4g">Mr Ng Kwang Ming David</td>
-    <td class="tg-9u4g">ng_kwang_ming@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Chinese Language</td>
-    <td class="tg-9u4g">Mr Tam Joon Chze</td>
-    <td class="tg-9u4g">tam_joon_chze@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Science</td>
-    <td class="tg-9u4g">Mr Eugene Sim<br></td>
-    <td class="tg-9u4g">sim_kok_hong_eugene@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Chinese Language</td>
-    <td class="tg-9u4g">Mdm Ham Choi Keng</td>
-    <td class="tg-9u4g">ham_choi_keng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Mathematics</td>
-    <td class="tg-9u4g">Mrs Yvonne Sim</td>
-    <td class="tg-9u4g">lim_keok_yin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Chinese Language</td>
-    <td class="tg-9u4g">Ms Esther Lee</td>
-    <td class="tg-9u4g">lee_siew_kian@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Character &amp; Citizenship Education </td>
-    <td class="tg-9u4g">Mrs Safi Shirbeeni</td>
-    <td class="tg-9u4g">shamsulbadariah_hussein@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Learning Needs (Lower Pri) </td>
-    <td class="tg-9u4g">Mrs Ng-<span style="color:#5F6368">Low Yin Siang</span></td>
-    <td class="tg-9u4g">low_yin_siang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Senior Teacher Physical Education </td>
-    <td class="tg-0pdi"><span style="color:#4D5156">Mr Wu </span><span style="color:#5F6368">Ming Che</span><br></td>
-    <td class="tg-9u4g">wu_ming_che@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
-
-### Support Staff
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9u4g">Administrative Manager</th>
-    <th class="tg-9u4g">Mrs Shirley Koh</th>
-    <th class="tg-9u4g">shirley_koh-tan@schools.gov.sg</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9u4g">Operations Manager<br></td>
-    <td class="tg-9u4g">Mdm Linda Koh</td>
-    <td class="tg-9u4g">koh_tay_huay@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Operations Manager </td>
-    <td class="tg-9u4g">Mr David Chua</td>
-    <td class="tg-9u4g">chua_chiew_hoe@moe.edu.sg</td>
-  </tr>
-</tbody>
 </table>
