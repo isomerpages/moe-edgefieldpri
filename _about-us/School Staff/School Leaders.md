@@ -22,9 +22,20 @@ third_nav_title: School Staff
                 Vice-Principal
             </td>
             <td>
-                Mdm Fazilah Maricar
+                Ms Shirley Leow
+            </td>
+            <td style="background-color:transparent;border-bottom:1px solid rgb(170, 170, 170);padding:4px;">
+                shirley_leow@schools.gov.sg
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Vice-Principal
             </td>
             <td>
+                Mdm Fazilah Maricar
+            </td>
+            <td style="background-color:transparent;border-bottom:1px solid rgb(170, 170, 170);padding:4px;">
                 fazilah_maricar_md@schools.gov.sg
             </td>
         </tr>
@@ -36,7 +47,7 @@ third_nav_title: School Staff
                 Mr Teh Chong Ann
             </td>
             <td style="background-color:transparent;border-bottom:1px solid rgb(170, 170, 170);padding:4px;">
-                &nbsp;teh_chong_ann@schools.gov.sg
+                teh_chong_ann@schools.gov.sg
             </td>
         </tr>
     </tbody>
