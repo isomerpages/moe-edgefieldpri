@@ -1,88 +1,99 @@
 ---
 title: Primary 3 Teachers
-permalink: /about-us/School-Staff/primary-3-teachers
+permalink: /about-us/School-Staff/primary-3-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9u4g">Assistant Year Head</th>
-    <th class="tg-9u4g">Mr Mike Ng</th>
-    <th class="tg-9u4g">ng_cheong_zsen@moe.edu.sg<br></th>
-  </tr>
-</thead>
+<br>
+<table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 817.531px; height: 89px;">
 <tbody>
-  <tr>
-    <td class="tg-9u4g">Assistant Year Head </td>
-    <td class="tg-9u4g">Mr Vairavan Chettiar</td>
-    <td class="tg-9u4g">vairavan_uthaman_chettiar@moe.edu.sg<br></td>
-  </tr>
+<tr>
+<th style="width: 225px;"><font size="4" face="arial, sans-serif"><font color="#444444">Year Head</font>
+</font>
+</th>
+<th style="width: 224px;"><font face="arial, sans-serif" size="4" color="#444444" style="font-weight: normal;">Mr Vairavan Chettiar</font><span style="font-weight: normal;"><font size="4" face="arial, sans-serif"></font></span>
+</th>
+<th style="width: 368px;"><font size="4" face="arial, sans-serif" style="font-weight: normal;">vairavan_uthaman@moe.edu.sg</font><span style="font-weight: normal;"><font size="4" face="arial, sans-serif"><br></font></span>
+</th>
+</tr>
+<tr>
+<td><font size="4" face="arial, sans-serif"><b>Assistant Year Head&nbsp;</b>
+</font>
+</td>
+<td><font face="arial, sans-serif" size="4">Mdm Pratibha Rai
+</font>
+</td>
+<td><font face="arial, sans-serif" size="4">pratibha_rai_matuk_rai@moe.edu.sg</font><font face="arial, sans-serif" size="4"><br>
+</font>
+</td>
+</tr>
 </tbody>
-</table>
-
-<p> </p>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6cnb{background-color:#FFF;color:#444;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-6cnb">Class</th>
-    <th class="tg-9u4g">Form Teachers</th>
-    <th class="tg-9u4g">Email address</th>
-  </tr>
-</thead>
+</table><font face="arial, sans-serif" size="4"><br>
+</font>
+<table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 777.05px; height: 396px;">
 <tbody>
-  <tr>
-    <td class="tg-9u4g">3 Charity</td>
-    <td class="tg-6cnb">Mdm Siti Hajar Kamaruddin (FT1)<br>Mr Marcus Sim (FT2)</td>
-    <td class="tg-6cnb">siti_hajar_kamaruddin@moe.edu.sg<br>sim_ming_quan_marcus@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">3 Faith<br></td>
-    <td class="tg-6cnb">Mr David Yong (FT1)<br>Ms Yong Jia Fang (FT2)<br></td>
-    <td class="tg-6cnb">yong_heng_sai@moe.edu.sg<br>yong_jia_fang@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">3 Grace</td>
-    <td class="tg-6cnb">Mr Terence Wong (FT1)<br>Ms Esther Lee (FT2)<br></td>
-    <td class="tg-6cnb">wong_wing_yew@moe.edu.sg<br>lee_siew_kian@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">3 Hope</td>
-    <td class="tg-6cnb">Mr Chew Wei (FT1)<br>Mdm Idayu Dewi (FT2)<br></td>
-    <td class="tg-6cnb">chew_wei@moe.edu.sg<br>idayu_dewi_bt_juwari@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">3 Joy</td>
-    <td class="tg-6cnb">Mdm Salimah Mohd (FT1)<br>Mdm Wirziana Wahab (FT2)<br></td>
-    <td class="tg-6cnb">salimah_mohd_haniffa@moe.edu.sg<br>wirziana_abdul_wahab@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">3 Love</td>
-    <td class="tg-9u4g">Mr Denis Chin (FT1)<br>Mrs Shanti Moorthy (FT2)</td>
-    <td class="tg-9u4g">chin_singloong@moe.edu.sg<br>shanti_kulantaipian_sh@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">3 Wisdom</td>
-    <td class="tg-9u4g">Mrs Safi Shirbeen (FT1)<br>Mr Patrick Shiu (FT2)</td>
-    <td class="tg-9u4g">shamsulbadariah_hussein@moe.edu.sg<br>shiu_kwok_tung@moe.edu.sg</td>
-  </tr>
+<tr>
+<th style="width: 107px;"><font size="4" face="arial, sans-serif"><font color="#444444">Class</font>
+</font>
+</th>
+<th style="width: 332px;"><font face="arial, sans-serif" size="4">Form Teachers
+</font>
+</th>
+<th style="width: 338px;"><font face="arial, sans-serif" size="4">Email address
+</font>
+</th>
+</tr>
+<tr>
+<td><b><font face="arial, sans-serif" size="4">3 Charity</font></b>
+</td>
+<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan<br></span></font><font face="arial, sans-serif" size="4">Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style=""><br></span></font>
+</td>
+<td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>kuan_yong_hui_benjamin@moe.edu.sg<br></font></font><font size="4" face="arial, sans-serif">tay_ru_jun@moe.edu.sg</font><font face="arial, sans-serif" size="4"><br></font>
+</td>
+</tr>
+<tr>
+<td><font face="arial, sans-serif" size="4"><b>3 Faith</b><br></font>
+</td>
+<td><font face="arial, sans-serif" color="#444444" size="4">Mr Duane Chan<br>Mdm Noorhaizah Abdul Rahim<br></font>
+</td>
+<td><font face="arial, sans-serif" size="4"><font color="#444444">duane_chan_xin_jie@moe.edu.sg<br>noorhaizah_abdul_rahim@moe.edu.sg</font><br></font>
+</td>
+</tr>
+<tr>
+<td><b><font face="arial, sans-serif" size="4">3 Grace</font></b>
+</td>
+<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Esthelle Ang</span><br><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Fu Dong</span><br>
+</font>
+</td>
+<td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>ang_mui_mui_esthelle@moe.edu.sg<br></font>fu_dong@moe.edu.sg<br></font>
+</td>
+</tr>
+<tr>
+<td><b><font face="arial, sans-serif" size="4">3 Hope</font></b>
+</td>
+<td><font face="arial, sans-serif" color="#444444" size="4">Ms Shanice Chia<br><span lang="EN-SG" class="" style=""></span>Mdm Joyce Choo<br>
+</font>
+</td>
+<td><font face="arial, sans-serif" size="4"><font color="#444444">chia_poh_choo_shanice</font></font><font face="arial, sans-serif" size="4">@moe.edu.sg</font><font face="arial, sans-serif" size="4"><font color="#444444"><br></font>joyce_choo_lay_yien@moe.edu.sg<br>
+</font>
+</td>
+</tr>
+<tr>
+<td><b><font face="arial, sans-serif" size="4">3 Joy</font></b>
+</td>
+<td><font face="arial, sans-serif" size="4">Mr Denis Chin<font color="#444444"><br><span lang="EN-SG" class="" style=""></span>Mrs Yvonne Sim<br>
+</font></font>
+</td>
+<td><font face="arial, sans-serif" size="4">chin_singloong@moe.edu.sg</font><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span><br></font>lim_keok_yin@moe.edu.sg<br></font>
+</td>
+</tr>
+<tr>
+<td><b><font face="arial, sans-serif" size="4">3 Wisdom</font></b>
+</td>
+<td><font size="4" face="arial, sans-serif">Mr Ho Keng Huat<font color="#000000"><span lang="EN-SG" class="" style=""><span lang="EN-SG" class="" style=""><br></span></span></font>Mdm Jackie Ng</font>
+</td>
+<td><font size="4" face="arial, sans-serif">ho_keng_huat@moe.edu.sg<font color="#000000"><br></font>ng_siew_hong_a@moe.edu.sg</font><font size="4" face="arial, sans-serif"><font color="#444444"><br></font></font>
+</td>
+</tr>
 </tbody>
 </table>
