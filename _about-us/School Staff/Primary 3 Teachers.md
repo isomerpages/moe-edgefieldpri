@@ -50,9 +50,9 @@ third_nav_title: School Staff
 
 <td><font face="arial, sans-serif" size="4">3 Charity</font></td>
 
-<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan \ 
+<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan
 </span></font><font face="arial, sans-serif" size="4">
-	Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
+<br>	Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
 </span></font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>kuan_yong_hui_benjamin@moe.edu.sg  
