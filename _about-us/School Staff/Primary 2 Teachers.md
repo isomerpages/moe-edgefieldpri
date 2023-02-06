@@ -51,7 +51,7 @@ third_nav_title: School Staff
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Charity</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mrs Ng-Low Yin Siang</span>  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mr Matthew Sum</span>  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""><br>Mr Matthew Sum</span>  
 </font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>low_yin_siang@moe.edu.sg  
@@ -65,7 +65,7 @@ sum_yoong_lee_matthew@moe.edu.sg
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Faith</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class="">Mrs Catherine Lee</span>  
-Mr Mike Ng  
+<br>Mr Mike Ng  
 </font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">catherine_lee@moe.edu.sg  
@@ -79,11 +79,11 @@ ng_cheong_zsen@moe.edu.sg
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Grace</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">Mrs Charn Ve' Joy  
-Mdm Kunasuntari  
+<br>Mdm Kunasuntari  
 </font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">ong_ve_joy@moe.edu.sg  
-kunasuntari_marimuthu@moe.edu.sg  
+<br>kunasuntari_marimuthu@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -93,7 +93,7 @@ kunasuntari_marimuthu@moe.edu.sg
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Hope</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class="">Mrs Khairiyanie Aziz</span>  
-Mdm Lu Yangfan  
+<br>Mdm Lu Yangfan  
 </font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>khairiyanie_abdul_aziz@moe.edu.sg  
@@ -107,7 +107,7 @@ lu_yangfan@moe.edu.sg
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Joy</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">Mrs Pauline Leong  
-<span lang="EN-SG" style="line-height: 15.6933px;"></span><span lang="EN-SG" class="">Mdm Ruzanna Supar</span></font></td>
+<span lang="EN-SG" style="line-height: 15.6933px;"></span><span lang="EN-SG" class=""><br>Mdm Ruzanna Supar</span></font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">ho_soo_khim@moe.edu.sg  
 ruzanna_supar@moe.edu.sg  
@@ -120,7 +120,7 @@ ruzanna_supar@moe.edu.sg
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Love</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">Mr Melvin Ow  
-Mrs Ong-Chia Peishan  
+<br>Mrs Ong-Chia Peishan  
 <span lang="EN-SG" class=""></span></font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">ow_weng_wai_melvin@moe.edu.sg  
@@ -136,7 +136,7 @@ chia_peishan@moe.edu.sg
 </font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class=""></span>Ms Wulan  
-Ms Koh Seok Hui  
+<br>Ms Koh Seok Hui  
 <span lang="EN-SG" class=""></span></font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman@moe.edu.sg  
@@ -150,11 +150,11 @@ koh_seok_hui@moe.edu.sg
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Wisdom</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">Mdm Loo Kum Yok  
-Mdm Zhang Fu Lei  
+<br>Mdm Zhang Fu Lei  
 </font></td>
 
 <td><font color="#444444" face="arial, sans-serif"><font size="4">loo_kum_yok@moe.edu.sg  
-</font><font size="4">zhang_fulei@moe.edu.sg</font></font>  
+</font><font size="4"><br>zhang_fulei@moe.edu.sg</font></font>  
 </td>
 
 </tr>
