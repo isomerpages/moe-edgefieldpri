@@ -3,7 +3,7 @@ title: Assessment Plans
 permalink: /curriculum/assessment-plans/
 description: ""
 ---
- <font color="#444444"><font face="arial, sans-serif">Assessment Plans for 2023</font>  
+<font color="#444444"><font face="arial, sans-serif">Assessment Plans for 2023</font>  
 </font>
 
 <div>
@@ -28,7 +28,7 @@ description: ""
 
 <tr>
 
-<td style="width: 60px;">[<font size="4">Letter to parents - P1 Learning Outcomes.pdf</font>](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Assessment%20Plan/Assessment%20Plans%202023/2023%20Assessment%20Letter%20to%20Parents%20-%20P1%20Learning%20Outcomes.pdf)</td>
+<td style="width: 60px;"><font size="4">[2023 Assessment Letter to Parents - P1 Learning Outcomes.pdf]</font></td>
 
 </tr>
 
