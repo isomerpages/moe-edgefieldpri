@@ -122,7 +122,7 @@ idayu_dewi_bt_juwari@moe.edu.sg
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif" color="#444444">5 Wisdom</font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444">5 Wisdom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444">Ms Ling Yuan  
 </font><font face="arial, sans-serif" size="4"><br>Mr Muhammad Azhari</font></td>
