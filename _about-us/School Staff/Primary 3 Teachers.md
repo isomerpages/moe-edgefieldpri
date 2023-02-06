@@ -4,8 +4,6 @@ permalink: /about-us/School-Staff/primary-3-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-  
-
 <table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 817.531px; height: 89px;">
 
 <tbody>
@@ -71,7 +69,7 @@ third_nav_title: School Staff
 </font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444">duane_chan_xin_jie@moe.edu.sg  
-noorhaizah_abdul_rahim@moe.edu.sg</font>  
+<br>noorhaizah_abdul_rahim@moe.edu.sg</font>  
 </font></td>
 
 </tr>
@@ -81,11 +79,11 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 <td>**<font face="arial, sans-serif" size="4">3 Grace</font>**</td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Esthelle Ang</span>  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Fu Dong</span>  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style=""><br>Mdm Fu Dong</span>  
 </font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>ang_mui_mui_esthelle@moe.edu.sg  
-</font>fu_dong@moe.edu.sg  
+</font><br>fu_dong@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -95,10 +93,10 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 <td>**<font face="arial, sans-serif" size="4">3 Hope</font>**</td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4">Ms Shanice Chia  
-<span lang="EN-SG" class="" style=""></span>Mdm Joyce Choo  
+<span lang="EN-SG" class="" style=""></span><br>Mdm Joyce Choo  
 </font></td>
 
-<td><font face="arial, sans-serif" size="4"><font color="#444444">chia_poh_choo_shanice</font></font><font face="arial, sans-serif" size="4">@moe.edu.sg</font><font face="arial, sans-serif" size="4">joyce_choo_lay_yien@moe.edu.sg  
+<td><font face="arial, sans-serif" size="4"><font color="#444444">chia_poh_choo_shanice</font></font><font face="arial, sans-serif" size="4">@moe.edu.sg</font><font face="arial, sans-serif" size="4"><br>joyce_choo_lay_yien@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -108,11 +106,11 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 <td>**<font face="arial, sans-serif" size="4">3 Joy</font>**</td>
 
 <td><font face="arial, sans-serif" size="4">Mr Denis Chin<font color="#444444">  
-<span lang="EN-SG" class="" style=""></span>Mrs Yvonne Sim  
+<span lang="EN-SG" class="" style=""></span><br>Mrs Yvonne Sim  
 </font></font></td>
 
 <td><font face="arial, sans-serif" size="4">chin_singloong@moe.edu.sg</font><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>  
-</font>lim_keok_yin@moe.edu.sg  
+</font><br>lim_keok_yin@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -122,9 +120,9 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 <td>**<font face="arial, sans-serif" size="4">3 Wisdom</font>**</td>
 
 <td><font size="4" face="arial, sans-serif">Mr Ho Keng Huat<font color="#000000"><span lang="EN-SG" class="" style=""><span lang="EN-SG" class="" style="">  
-</span></span></font>Mdm Jackie Ng</font></td>
+</span></span></font><br>Mdm Jackie Ng</font></td>
 
-<td><font size="4" face="arial, sans-serif">ho_keng_huat@moe.edu.sgng_siew_hong_a@moe.edu.sg</font></td>
+<td><font size="4" face="arial, sans-serif">ho_keng_huat@moe.edu.sg<br>ng_siew_hong_a@moe.edu.sg</font></td>
 
 </tr>
 
