@@ -4,7 +4,7 @@ permalink: /partners/Parents/sexuality-education/
 description: ""
 third_nav_title: Parents
 ---
-## <font color="#444444" face="arial, sans-serif" size="4">EDGEFIELD PRIMARY SCHOOL</font>
+ ### <font color="#444444" face="arial, sans-serif" size="4"><p align=center>EDGEFIELD PRIMARY SCHOOL</font>
 
 <div class=""><font class="" size="4" face="arial, sans-serif"><span class=""><span class="">
 
