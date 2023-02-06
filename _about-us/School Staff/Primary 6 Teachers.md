@@ -1,88 +1,125 @@
 ---
 title: Primary 6 Teachers
-permalink: /about-us/School-Staff/primary-6-teachers
+permalink: /about-us/School-Staff/primary-6-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-hiyw{color:#444;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hiyw">Year Head</th>
-    <th class="tg-1wig">Mdm Alfiah Bte Md Yusoff</th>
-    <th class="tg-1wig">alfiah_md_yusoff@moe.edu.sg</th>
-  </tr>
-</thead>
+  
+
+<table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 736.138px; height: 73px;">
+
 <tbody>
-  <tr>
-    <td class="tg-1wig">Assistant Year Head</td>
-    <td class="tg-1wig">Mdm Pratibha Rai</td>
-    <td class="tg-1wig">pratibha_rai_matuk_rai@moe.edu.sg<br></td>
-  </tr>
+
+<tr>
+
+<th style="width: 159px;"><font size="4" face="arial, sans-serif"><font color="#444444">Year Head</font></font></th>
+
+<th style="width: 245px;"><font size="4" face="arial, sans-serif"><span style="font-weight: normal;">Mdm <span style="color: rgb(95, 99, 104);">Alfiah</span><span style="color: rgb(77, 81, 86);"> Bte Md Yusoff</span></span></font></th>
+
+<th style="width: 332px;"><font size="4" face="arial, sans-serif"><span style="font-weight: normal;">alfiah_md_yusoff@moe.edu.sg</span></font></th>
+
+</tr>
+
 </tbody>
+
 </table>
 
-<p></p>
+<table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 741.575px; height: 113px;">
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9u4g">Class</th>
-    <th class="tg-9u4g">Form Teachers</th>
-    <th class="tg-9u4g">Email address</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-9u4g">6 Faith</td>
-    <td class="tg-9u4g">Mdm Koh Lay Kuan (FT1)<br>Mr Vairavan s/o Uthaman (FT2)<br></td>
-    <td class="tg-9u4g">koh_lay_kuan@moe.edu.sg<br>vairavan_uthaman_chettiar@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">6 Grace</td>
-    <td class="tg-9u4g">Miss Crystal Koh (FT1)<br>Mdm Ham Choi Keng (FT2)<br></td>
-    <td class="tg-9u4g">koh_hui_ting_crystal@moe.edu.sg<br>ham_choi_keng@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">6 Hope</td>
-    <td class="tg-9u4g">Mdm Koh Siew Fong Andrea (FT1)<br>Ms Doreen Low (FT2)<br></td>
-    <td class="tg-9u4g">koh_lay_kuan@moe.edu.sg<br>low_hui_lin_doreen@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">6 Joy</td>
-    <td class="tg-9u4g">Miss Parameswari (FT1)<br>Mrs Yvonne Sim (FT2)<br></td>
-    <td class="tg-9u4g">parameswari_s_sambasivam@moe.edu.sg<br>lim_keok_yin@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">6 Love</td>
-    <td class="tg-9u4g">Ms Selene Yu (FT1)<br>Mr Christmas Lee </td>
-    <td class="tg-9u4g">ng_soo_cheng@moe.edu.sg<br>lee_choon_seng_christmas@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">6 Patience</td>
-    <td class="tg-9u4g">Mr Terence Teng (FT1)<br>Ms Loi Wei Ling<span style="font-weight:bold"> </span>(FT2)</td>
-    <td class="tg-9u4g">teng_sze_chun_terence@moe.edu.sg<br>loi_wei_ling@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">6 Wisdom</td>
-    <td class="tg-9u4g">Mrs Juliana Ng (FT1)<br>Miss Angela Koh Min Min (FT2)<br></td>
-    <td class="tg-9u4g">juliana_natalia_lee_osman@moe.edu.sg<br>koh_minmin_angela@moe.edu.sg</td>
-  </tr>
+
+<tr>
+
+<th style="width: 119px;"><font color="#000000" size="4" face="arial, sans-serif">Class</font></th>
+
+<th style="width: 271px;"><font color="#000000" size="4" face="arial, sans-serif">Form Teachers</font></th>
+
+<th style="width: 301px;"><font color="#000000" size="4" face="arial, sans-serif">Email address</font></th>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">**6 Faith**</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Melissa Yip</span><span lang="EN-SG" class="" style="">  
+</span><br>Mdm Azlin Mustaffa  
+</font></td>
+
+<td><font size="4" color="#444444"><font face="arial, sans-serif">yip_cheng_han_melissa@moe.edu.sg<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span>  
+</font><font face="arial, sans-serif">azlin_mustaffa@moe.edu.sg  
+</font></font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">**6 Grace**</font></td>
+
+<td><font face="arial, sans-serif" size="4"><font color="#444444">Mdm Lee Mei Ling  
+<br>Mr Norman Selvaraju</font><font color="#444444">  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span></font></font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">lee_mei_ling_a@moe.edu.sg  
+norman_selvaraju@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">**6 Hope**</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" class="">Mr Edmund Lee  
+</span><br>Mr Steven Yeo  
+<span lang="EN-SG" class=""></span></font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">lee_jianfeng_edmund@moe.edu.sg  
+yeo_poh_teck@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">**6 Joy**</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Miss Suhaila Mohd Taib  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""></span><br>Mr Jabin Lim  
+</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">suhaila_mohd_taib@moe.edu.sg  
+lim_ming_ee_jabin@moe.edu.sg  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span></font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">**6 Love**</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""><span lang="EN-SG" class="">Mdm Zahira Begum  
+<br>Mdm Alifah Yusoff </span></span></font></td>
+
+<td><font face="arial, sans-serif" color="#444444"><font size="4"><span lang="EN-SG" style="line-height: 107%;"></span>zahira_begum_abdul_rahman@moe.edu.sg  
+</font><font size="4">alfiah_md_yusoff@moe.edu.sg</font></font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">**6 Patience**</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">Mdm Noor Ellynda Ismail  
+<br>Mr James Ling<span lang="EN-SG" class=""><span style="font-weight: bold;">  
+</span></span></font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>noor_ellynda_mohd_ismail@moe.edu.sg  
+euk_shin_james_ling@moe.edu.sg  
+</font></td>
+
+</tr>
+
 </tbody>
+
 </table>
