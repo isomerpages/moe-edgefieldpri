@@ -20,7 +20,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif">**Assistant Year Head **</font></td>
+<td><font size="4" face="arial, sans-serif">Assistant Year Head </font></td>
 
 <td><font face="arial, sans-serif" size="4">Mdm Pratibha Rai</font></td>
 
@@ -48,7 +48,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font face="arial, sans-serif" size="4">3 Charity</font>**</td>
+<td><font face="arial, sans-serif" size="4">3 Charity</font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan  
 </span></font><font face="arial, sans-serif" size="4"><br>Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
@@ -61,7 +61,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4">**3 Faith**  
+<td><font face="arial, sans-serif" size="4">3 Faith  
 </font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4">Mr Duane Chan 
@@ -76,7 +76,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font face="arial, sans-serif" size="4">3 Grace</font>**</td>
+<td><font face="arial, sans-serif" size="4">3 Grace</font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Esthelle Ang</span>  
 <span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style=""><br>Mdm Fu Dong</span>  
@@ -90,7 +90,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font face="arial, sans-serif" size="4">3 Hope</font>**</td>
+<td><font face="arial, sans-serif" size="4">3 Hope</font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4">Ms Shanice Chia  
 <span lang="EN-SG" class="" style=""></span><br>Mdm Joyce Choo  
@@ -103,7 +103,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font face="arial, sans-serif" size="4">3 Joy</font>**</td>
+<td><font face="arial, sans-serif" size="4">3 Joy</font></td>
 
 <td><font face="arial, sans-serif" size="4">Mr Denis Chin<font color="#444444">  
 <span lang="EN-SG" class="" style=""></span><br>Mrs Yvonne Sim  
@@ -117,7 +117,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td>**<font face="arial, sans-serif" size="4">3 Wisdom</font>**</td>
+<td><font face="arial, sans-serif" size="4">3 Wisdom</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mr Ho Keng Huat<font color="#000000"><span lang="EN-SG" class="" style=""><span lang="EN-SG" class="" style="">  
 </span></span></font><br>Mdm Jackie Ng</font></td>
