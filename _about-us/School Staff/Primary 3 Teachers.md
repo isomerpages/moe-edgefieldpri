@@ -4,6 +4,8 @@ permalink: /about-us/School-Staff/primary-3-teachers/
 description: ""
 third_nav_title: School Staff
 ---
+  
+
 <table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 817.531px; height: 89px;">
 
 <tbody>
@@ -20,7 +22,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif">Assistant Year Head </font></td>
+<td><font size="4" face="arial, sans-serif">**Assistant Year Head **</font></td>
 
 <td><font face="arial, sans-serif" size="4">Mdm Pratibha Rai</font></td>
 
@@ -48,11 +50,11 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4">3 Charity</font></td>
+<td>**<font face="arial, sans-serif" size="4">3 Charity</font>**</td>
 
-<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan
-</span></font><font face="arial, sans-serif" size="4">
-<br>Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
+<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan  
+</span></font><font face="arial, sans-serif" size="4">  
+Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
 </span></font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>kuan_yong_hui_benjamin@moe.edu.sg  
@@ -62,7 +64,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4">3 Faith  
+<td><font face="arial, sans-serif" size="4">**3 Faith**  
 </font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4">Mr Duane Chan  
@@ -77,7 +79,7 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4">3 Grace</font></td>
+<td>**<font face="arial, sans-serif" size="4">3 Grace</font>**</td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Esthelle Ang</span>  
 <span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Fu Dong</span>  
@@ -91,7 +93,7 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4">3 Hope</font></td>
+<td>**<font face="arial, sans-serif" size="4">3 Hope</font>**</td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4">Ms Shanice Chia  
 <span lang="EN-SG" class="" style=""></span>Mdm Joyce Choo  
@@ -104,7 +106,7 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4">3 Joy</font></td>
+<td>**<font face="arial, sans-serif" size="4">3 Joy</font>**</td>
 
 <td><font face="arial, sans-serif" size="4">Mr Denis Chin<font color="#444444">  
 <span lang="EN-SG" class="" style=""></span>Mrs Yvonne Sim  
@@ -118,7 +120,7 @@ noorhaizah_abdul_rahim@moe.edu.sg</font>
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4">3 Wisdom</font></td>
+<td>**<font face="arial, sans-serif" size="4">3 Wisdom</font>**</td>
 
 <td><font size="4" face="arial, sans-serif">Mr Ho Keng Huat<font color="#000000"><span lang="EN-SG" class="" style=""><span lang="EN-SG" class="" style="">  
 </span></span></font>Mdm Jackie Ng</font></td>
