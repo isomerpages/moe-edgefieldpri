@@ -4,8 +4,6 @@ permalink: /about-us/School-Staff/primary-4-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-  
-
 <table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 751px; height: 71px;">
 
 <tbody>
@@ -53,9 +51,9 @@ third_nav_title: School Staff
 
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Charity </font></td>
 
-<td><font face="arial, sans-serif" size="4">Mrs Juliana NgMr Marcus Sim</font></td>
+<td><font face="arial, sans-serif" size="4">Mrs Juliana Ng<br>Mr Marcus Sim</font></td>
 
-<td><font face="arial, sans-serif" size="4">juliana_natalia_lee_osman@moe.edu.sgsim_ming_quan_marcus@moe.edu.sg</font></td>
+<td><font face="arial, sans-serif" size="4">juliana_natalia_lee_osman@moe.edu.sg<br>sim_ming_quan_marcus@moe.edu.sg</font></td>
 
 </tr>
 
@@ -64,11 +62,11 @@ third_nav_title: School Staff
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Faith</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mr David Yong  
-Mdm Nurafizah Othman  
+<br>Mdm Nurafizah Othman  
 </span></font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>yong_heng_sai@moe.edu.sg  
-nurafizah_othman@moe.edu.sg  
+<br>nurafizah_othman@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -77,8 +75,8 @@ nurafizah_othman@moe.edu.sg
 
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Grace</font></td>
 
-<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mr Terence Wong  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Miss Angela Koh Min Min  
+<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mr Terence Wong
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><br>Miss Angela Koh Min Min  
 </font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>wong_wing_yew@moe.edu.sg  
@@ -92,7 +90,7 @@ koh_minmin_angela@moe.edu.sg
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Hope</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mr Chew Wei  
-<span style="color: rgb(68, 68, 68);">Mdm Lee Xin Yee</span><font color="#444444"><span lang="EN-SG" class="">  
+<span style="color: rgb(68, 68, 68);"><br>Mdm Lee Xin Yee</span><font color="#444444"><span lang="EN-SG" class="">  
 </span></font></font></td>
 
 <td><font size="4" face="arial, sans-serif">chew_wei@moe.edu.sg  
@@ -106,7 +104,7 @@ koh_minmin_angela@moe.edu.sg
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Joy</font></td>
 
 <td><font face="arial, sans-serif" size="4">Mr Gene Lim  
-<span style="color: rgb(68, 68, 68);"></span>Mdm Salimah Mohd</font></td>
+<span style="color: rgb(68, 68, 68);"></span><br>Mdm Salimah Mohd</font></td>
 
 <td><font size="4" face="arial, sans-serif">lim_yong_seng_gene@moe.edu.sg</font><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>  
 salimah_mohd_haniffa@moe.edu.sg  
@@ -119,7 +117,7 @@ salimah_mohd_haniffa@moe.edu.sg
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Wisdom</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mrs Safi Shirbeen  
-<span lang="EN-SG" style="color: rgb(68, 68, 68); line-height: 19.26px;"></span><span lang="EN-SG" class="" style="color: rgb(68, 68, 68);"></span><span style="color: rgb(68, 68, 68);">Mr Patrick Shiu</span></font></td>
+<span lang="EN-SG" style="color: rgb(68, 68, 68); line-height: 19.26px;"></span><span lang="EN-SG" class="" style="color: rgb(68, 68, 68);"></span><span style="color: rgb(68, 68, 68);"><br>Mr Patrick Shiu</span></font></td>
 
 <td><font size="4" face="arial, sans-serif">shamsulbadariah_hussein@moe.edu.sg  
 <span style="color: rgb(68, 68, 68);">shiu_kwok_tung@moe.edu.sg</span></font></td>
