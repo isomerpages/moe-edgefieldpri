@@ -3,12 +3,12 @@ title: Assessment Plans
 permalink: /curriculum/assessment-plans/
 description: ""
 ---
-## <font color="#444444"><font face="arial, sans-serif">Assessment Plans for 2023</font>  
+ <font color="#444444"><font face="arial, sans-serif">Assessment Plans for 2023</font>  
 </font>
 
 <div>
 
-## <span style="background-color: initial; font-size: 0.9375em;"><font face="arial, sans-serif" color="#444444">Please click on the following link to view letters to parents for 2023</font></span>
+<span style="background-color: initial; font-size: 0.9375em;"><font face="arial, sans-serif" color="#444444">Please click on the following link to view letters to parents for 2023</font></span>
 
 <div><span style="background-color: initial; font-size: 0.9375em;"></span></div>
 
