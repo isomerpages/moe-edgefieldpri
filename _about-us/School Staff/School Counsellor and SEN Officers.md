@@ -1,41 +1,75 @@
 ---
 title: School Counsellor and SEN Officers
-permalink: /about-us/School-Staff/school-counsellor-and-sen-officers
+permalink: /about-us/School-Staff/school-counsellor-and-sen-officers/
 description: ""
 third_nav_title: School Staff
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">Senior School Counsellor</th>
-    <th class="tg-0lax">Mdm See Toh Mei Ling </th>
-    <th class="tg-0lax">see_toh_mei_ling@moe.edu.sg</th>
-  </tr>
-</thead>
+<table class="iveo_table ives_tab_simple ive_eobj_left" style="width: 863.031px; height: 115px;">
+
 <tbody>
-  <tr>
-    <td class="tg-1wig">Special Education Needs Officer</td>
-    <td class="tg-0lax">Mdm Hoeden Bianca</td>
-    <td class="tg-0lax">hoeden_bianca_majella@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Senior Special Education Needs Officer</td>
-    <td class="tg-0lax">Mdm Nur Ummirah</td>
-    <td class="tg-0lax">nur_ummirah_mohd_nazhar@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Student Welfare Officer</td>
-    <td class="tg-0lax">Ms Ng Zhong Ying</td>
-    <td class="tg-0lax">ng_zhong_ying@moe.edu.sg</td>
-  </tr>
+
+<tr>
+
+<th style="width: 262px;"><font size="4" face="arial, sans-serif" color="#444444">Senior School Counsellor</font></th>
+
+<th style="width: 249px;"><span style="font-weight: normal;"><font size="4" face="arial, sans-serif" color="#444444">Mdm See Toh Mei Ling </font></span></th>
+
+<th style="width: 316px;"><span style="font-weight: normal;"><font size="4" face="arial, sans-serif" color="#444444">see_toh_mei_ling@moe.edu.sg</font></span></th>
+
+</tr>
+
+<tr>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Special Education Needs Officer</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mdm Hoeden Bianca</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">hoeden_bianca_majella@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" color="#444444">Senior Special Education Needs Officer</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Mdm Nur Ummirah</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">nur_ummirah_mohd_nazhar@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" style="" size="4" color="#444444">Student Welfare Officer</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">Ms Ng Zhong Ying</font></td>
+
+<td><font size="4" face="arial, sans-serif" color="#444444">ng_zhong_ying@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">Student Welfare Officer<span>    </span></font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">Mdm Amalina Zailani</font></td>
+
+<td><font color="#444444"><font face="arial, sans-serif" size="4">amalina_zailani@moe.edu.sg</font>  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">Allied Educator (T&L)</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">Mr Mohamad Hafiz</font></td>
+
+<td><font face="arial, sans-serif" size="4" color="#444444">mohamad_hafiz_abdul_azhiz</font>  
+</td>
+
+</tr>
+
 </tbody>
+
 </table>
