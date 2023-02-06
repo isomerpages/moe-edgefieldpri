@@ -4,7 +4,6 @@ permalink: /about-us/School-Staff/key-personnel/
 description: ""
 third_nav_title: School Staff
 ---
-
 <table class="iveo_table ives_tab_simple ive_eobj_left" style="text-align: center; width: 913.775px; height: 594px;">
 
 <tbody>
@@ -63,7 +62,7 @@ third_nav_title: School Staff
 
 <td><font size="4" face="arial, sans-serif" color="#444444">HOD Curriculum and Innovation</font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">Mr Gene Kim</font></td>
+<td><font face="arial, sans-serif" size="4" color="#444444">Mr Gene Lim</font></td>
 
 <td><font face="arial, sans-serif" color="#444444"><font size="4">lim_yong_seng_gene</font><font size="4">@moe.edu.sg</font></font></td>
 
