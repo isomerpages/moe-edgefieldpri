@@ -4,8 +4,6 @@ permalink: /about-us/School-Staff/primary-6-teachers/
 description: ""
 third_nav_title: School Staff
 ---
-  
-
 <table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 736.138px; height: 73px;">
 
 <tbody>
@@ -40,7 +38,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif" color="#444444">**6 Faith**</font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444">6 Faith</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Melissa Yip</span><span lang="EN-SG" class="" style="">  
 </span><br>Mdm Azlin Mustaffa  
@@ -54,7 +52,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">**6 Grace**</font></td>
+<td><font face="arial, sans-serif" size="4" color="#444444">6 Grace</font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444">Mdm Lee Mei Ling  
 <br>Mr Norman Selvaraju</font><font color="#444444">  
@@ -68,7 +66,7 @@ norman_selvaraju@moe.edu.sg
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">**6 Hope**</font></td>
+<td><font face="arial, sans-serif" size="4" color="#444444">6 Hope</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" class="">Mr Edmund Lee  
 </span><br>Mr Steven Yeo  
@@ -82,7 +80,7 @@ yeo_poh_teck@moe.edu.sg
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">**6 Joy**</font></td>
+<td><font face="arial, sans-serif" size="4" color="#444444">6 Joy</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Miss Suhaila Mohd Taib  
 <span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""></span><br>Mr Jabin Lim  
@@ -96,7 +94,7 @@ lim_ming_ee_jabin@moe.edu.sg
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">**6 Love**</font></td>
+<td><font face="arial, sans-serif" size="4" color="#444444">6 Love</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""><span lang="EN-SG" class="">Mdm Zahira Begum  
 <br>Mdm Alifah Yusoff </span></span></font></td>
@@ -108,7 +106,7 @@ lim_ming_ee_jabin@moe.edu.sg
 
 <tr>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">**6 Patience**</font></td>
+<td><font face="arial, sans-serif" size="4" color="#444444">6 Patience</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444">Mdm Noor Ellynda Ismail  
 <br>Mr James Ling<span lang="EN-SG" class=""><span style="font-weight: bold;">  
