@@ -53,12 +53,11 @@ third_nav_title: School Staff
 <td>**<font face="arial, sans-serif" size="4">3 Charity</font>**</td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan  
-</span></font><font face="arial, sans-serif" size="4">  
-Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
+</span></font><font face="arial, sans-serif" size="4"><br>Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
 </span></font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>kuan_yong_hui_benjamin@moe.edu.sg  
-</font></font><font size="4" face="arial, sans-serif">tay_ru_jun@moe.edu.sg</font></td>
+</font></font><font size="4" face="arial, sans-serif"><br>tay_ru_jun@moe.edu.sg</font></td>
 
 </tr>
 
@@ -67,8 +66,8 @@ Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><spa
 <td><font face="arial, sans-serif" size="4">**3 Faith**  
 </font></td>
 
-<td><font face="arial, sans-serif" color="#444444" size="4">Mr Duane Chan  
-Mdm Noorhaizah Abdul Rahim  
+<td><font face="arial, sans-serif" color="#444444" size="4">Mr Duane Chan 
+<br>Mdm Noorhaizah Abdul Rahim  
 </font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444">duane_chan_xin_jie@moe.edu.sg  
