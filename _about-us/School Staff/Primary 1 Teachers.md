@@ -51,7 +51,7 @@ third_nav_title: School Staff
 <td><font size="4" face="arial, sans-serif">1 Charity</font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mdm Aw Pei Shi  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mdm Nur Yanty Jumali</span>  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""><br>Mdm Nur Yanty Jumali</span>  
 </font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>aw_pei_shi@moe.edu.sg  
@@ -64,7 +64,7 @@ nur_ yanty_jumali@moe.edu.sg
 
 <td><font size="4" face="arial, sans-serif">1 Faith</font></td>
 
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mdm Benazir Begam</span>  
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mdm Benazir Begam</span><br>  
 Mrs Asri - Tan Pin Pin  
 </font></td>
 
@@ -79,7 +79,7 @@ tan_pin_pin_b@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Grace</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mrs Adeline Chew  
-Mr David Ng  
+<br>Mr David Ng  
 </font></td>
 
 <td><font size="4" face="arial, sans-serif">chew-ng_xiang_min_adeline@moe.edu.sg  
@@ -93,7 +93,7 @@ ng_kwang_ming@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Hope</font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mdm Lim Lee Nah  
-Mrs Cindy Tan  
+<br>Mrs Cindy Tan  
 </font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>lim_lee_nah@moe.edu.sg  
@@ -107,7 +107,7 @@ teo_suat_ching_cindy@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Joy</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mrs Manju Manoj  
-<span lang="EN-SG" style="line-height: 15.6933px;"></span><span lang="EN-SG" class="">Ms Doreen Low</span></font></td>
+<span lang="EN-SG" style="line-height: 15.6933px;"></span><span lang="EN-SG" class=""><br>Ms Doreen Low</span></font></td>
 
 <td><font size="4" face="arial, sans-serif">manoj_kumar_gupta@moe.edu.sg  
 low_hui_lin_doreen@moe.edu.sg  
@@ -120,7 +120,7 @@ low_hui_lin_doreen@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Love</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mrs Lim Gui Hao  
-<span lang="EN-SG" class="">Mr Tam Joon Chze</span>  
+<span lang="EN-SG" class=""><br>Mr Tam Joon Chze</span>  
 </font></td>
 
 <td><font size="4" face="arial, sans-serif">lim_gui_hao@moe.edu.sg  
@@ -131,12 +131,12 @@ tam_joon_chze@moe.edu.sg
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif">1 Patience  
+<td><font size="4" face="arial, sans-serif">1 Patience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 </font></td>
 
 <td><font face="arial, sans-serif"><font size="4"><span lang="EN-SG" class=""></span>Mdm Wang Seow Yann  
-Mrs Catherine Arumugam  
+<br>Mrs Catherine Arumugam  
 </font></font></td>
 
 <td><font face="arial, sans-serif" size="4"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>wang_seow_yann@moe.edu.sg  
@@ -150,7 +150,7 @@ Mrs Catherine Arumugam
 <td><font size="4" face="arial, sans-serif">1 Wisdom</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mdm Sarina Shariman  
-Ms Pang Xiao Yan  
+<br>Ms Pang Xiao Yan  
 </font></td>
 
 <td><font size="4" face="arial, sans-serif">sarina_shariman@moe.edu.sg  
