@@ -28,7 +28,7 @@ description: ""
 
 <tr>
 
-<td style="width: 60px;"><font size="4">[Letter to parents - P1 Learning Outcomes]</font></td>
+<td style="width: 60px;"><font size="4">[here](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P1%20Learning%20Outcomes.pdf)</font></td>
 
 </tr>
 
