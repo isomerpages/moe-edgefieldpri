@@ -1,88 +1,62 @@
 ---
 title: Assessment Plans
-permalink: /curriculum/assessment-plans
+permalink: /curriculum/assessment-plans/
 description: ""
 ---
-### Assessment Plans for 2022  
-  
-Please click on the following link to view assessment plans for 2022.
+## <font color="#444444"><font face="arial, sans-serif">Assessment Plans for 2023</font>  
+</font>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-46jn{background-color:#FFF;color:#7C080B;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-46jn"><a href="/files/Assessment_Schedule_P3_2022.pdf"><span style="text-decoration:none;color:#7C080B">Assessment_Schedule_P3_2022.pdf</span></a></th>
-    <th class="tg-46jn"><a href="/files/Assessment_Schedule_P4_2022.pdf"><span style="text-decoration:none;color:#7C080B">Assessment_Schedule_P4_2022.pdf</span></a><br></th>
-  </tr>
-</thead>
+<div>
+
+## <span style="background-color: initial; font-size: 0.9375em;"><font face="arial, sans-serif" color="#444444">Please click on the following link to view letters to parents for 2023.</font></span>
+
+<div><font size="4" face="arial, sans-serif"><span class="aBn" data-term="goog_376430019" tabindex="0" style="border-bottom: 1px dashed rgb(204, 204, 204); position: relative; top: -2px; z-index: 0; color: rgb(34, 34, 34);"><span class="aQJ" style="position: relative; top: 2px; z-index: -1;">  
+</span></span></font></div>
+
+<div><font face="arial, sans-serif" size="4"><span class="aBn" data-term="goog_376430019" tabindex="0" style="border-bottom: 1px dashed rgb(204, 204, 204); position: relative; top: -2px; z-index: 0; color: rgb(34, 34, 34);"><span class="aQJ" style="position: relative; top: 2px; z-index: -1;"></span></span></font></div>
+
+## <span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">Semester 1</font></span>
+
+<div>
+
+<table class="ive_eobj_center iveo_table ives_tab_zen" style="width: 835px; height: 113px;">
+
 <tbody>
-  <tr>
-    <td class="tg-46jn"><a href="/files/Assessment_Schedule_P5_2022.pdf"><span style="text-decoration:none;color:#7C080B">Assessment_Schedule_P5_2022.pdf</span></a><br></td>
-    <td class="tg-46jn"><a href="[](/files/Assessment_Schedule_P6_2022.pdf)"><span style="text-decoration:none;color:#7C080B">Assessment_Schedule_P6_2022.pdf</span></a></td>
-  </tr>
+
+<tr>
+
+<td style="text-align: left; width: 462px;">[Letter to parents - P1 Learning Outcomes.pdf](/qql/slot/u704/Assessment Plan/Assessment Plans 2023/2023 Assessment Letter to Parents - P1 Learning Outcomes.pdf)  
+</td>
+
+<td style="text-align: left; width: 373px;">[Letter to parents - P2 Learning Outcomes.pdf](/qql/slot/u704/Assessment Plan/Assessment Plans 2023/2023 Assessment Letter to Parents - P2 Learning Outcomes.pdf)  
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align: left; width: 60px;">[Letter to parents - P3.pdf](/qql/slot/u704/Assessment Plan/Assessment Plans 2023/2023 Assessment Letter to Parents - P3 Semester 1.pdf)  
+</td>
+
+<td style="text-align: left; width: 60px;">[Letter to parents - P4.pdf](/qql/slot/u704/Assessment Plan/Assessment Plans 2023/2023 Assessment Letter to Parents - P4 Semester 1.pdf)  
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align: left;">[Letter to parents - P5.pdf](/qql/slot/u704/Assessment Plan/Assessment Plans 2023/2023 Assessment Letter to Parents - P5 Semester 1.pdf)  
+</td>
+
+<td style="text-align: left;">[Letter to parents - P6.pdf](/qql/slot/u704/Assessment Plan/Assessment Plans 2023/2023 Assessment Letter to Parents - P6 Semester 1.pdf)  
+</td>
+
+</tr>
+
 </tbody>
+
 </table>
 
-Please click on the following link to view letters to parents 
-(Learning Outcomes) for 2022.
+</div>
 
-### Semester 1
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-46jn{background-color:#FFF;color:#7C080B;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-46jn"><a href="/files/Letter%20to%20parents%20-%20P1%20Learning%20Outcomes.pdf"><span style="text-decoration:none;color:#7C080B">Letter to parents - P1 Learning Outcomes.pdf</span></a><br></th>
-    <th class="tg-46jn"><a href="/files/Letter%20to%20parents%20-%20P2%20Learning%20Outcomes.pdf"><span style="text-decoration:none;color:#7C080B">Letter to parents - P2 Learning Outcomes.pdf</span></a><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-46jn"><a href="/files/Letter%20to%20parents%20-%20P3.pdf"><span style="text-decoration:none;color:#7C080B">Letter to parents - P3.pdf</span></a><br></td>
-    <td class="tg-46jn"><a href="/files/Letter%20to%20parents%20-%20P4.pdf"><span style="text-decoration:none;color:#7C080B">Letter to parents - P4.pdf</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-46jn"><a href="/files/Letter%20to%20parents%20-%20P5.pdf"><span style="text-decoration:none;color:#7C080B">Letter to parents - P5.pdf</span></a><br></td>
-    <td class="tg-46jn"><a href="[](/files/Letter%20to%20parents%20-%20P6.pdf)"><span style="text-decoration:none;color:#7C080B">Letter to parents - P6.pdf</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-### Semester 2
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l6tf{color:#7C080B;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P3%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P3 Semester 2.pdf</span></a><br></th>
-    <th class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P4%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P4 Semester 2.pdf</span></a><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P5%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P5 Semester 2.pdf</span></a><br></td>
-    <td class="tg-l6tf"><a href="/files/Assessment%20Letter%20to%20Parents%20-%20P6%20Semester%202.pdf"><span style="text-decoration:none;color:#7C080B">Assessment Letter to Parents - P6 Semester 2.pdf</span></a><br></td>
-  </tr>
-</tbody>
-</table>
+</div>
