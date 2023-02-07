@@ -8,7 +8,7 @@ description: ""
 
 <div>
 
-* [Letter to parents - P4.pdf](/files/EFPS%20PRI%20-%20PBS%20Online%20Buying%20Guide%202021.pdf)
+* [Letter to parents - P1.pdf](/files/EFPS%20PRI%20-%20PBS%20Online%20Buying%20Guide%202021.pdf)
 
 <div><span style="background-color: initial; font-size: 0.9375em;"></span></div>
 
