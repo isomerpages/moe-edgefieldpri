@@ -8,7 +8,7 @@ description: ""
 
 <div>
 
-<span style="background-color: initial; font-size: 0.9375em;"><font face="arial, sans-serif" color="#444444">* [EFPS PRI - PBS Online Buying Guide 2021.pdf](/files/EFPS%20PRI%20-%20PBS%20Online%20Buying%20Guide%202021.pdf)</font></span>
+* [Letter to parents - P4.pdf](/files/EFPS%20PRI%20-%20PBS%20Online%20Buying%20Guide%202021.pdf)
 
 <div><span style="background-color: initial; font-size: 0.9375em;"></span></div>
 
