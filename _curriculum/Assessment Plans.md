@@ -8,7 +8,6 @@ description: ""
 
 <div>
 
-* [Letter to parents - P1.pdf](/files/EFPS%20PRI%20-%20PBS%20Online%20Buying%20Guide%202021.pdf)
 
 <div><span style="background-color: initial; font-size: 0.9375em;"></span></div>
 
@@ -19,7 +18,7 @@ description: ""
 <table class="ive_eobj_center iveo_table ives_tab_simple" style="width: 536px; height: 404px;">
 
 <tbody>
-
+* [EFPS PRI - PBS Online Buying Guide 2021.pdf](/files/EFPS%20PRI%20-%20PBS%20Online%20Buying%20Guide%202021.pdf)
 <tr>
 
 <th style="text-align: center; width: 536px;"><font size="6">Semester 1</font></th>
