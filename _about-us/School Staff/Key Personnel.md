@@ -339,3 +339,34 @@ Teacher Leaders
 </tbody>
 
 </table>
+
+Support Staff
+-------------
+<table class="iveo_table ives_tab_simple ive_eobj_left" style="width: 903.737px; height: 109px;">
+<tbody>
+<tr>
+<td style="width: 280px;"><b><font size="4">Administrative Manager</font></b>
+</td>
+<td style="width: 250px;"><font size="4">Mrs Shirley Koh</font>
+</td>
+<td style="width: 373px;"><font size="4">shirley_koh-tan@schools.gov.sg</font>
+</td>
+</tr>
+<tr>
+<td><b><font size="4">Operations Manager<br></font></b>
+</td>
+<td><font size="4">Mdm Linda Koh</font>
+</td>
+<td><font size="4">koh_tay_huay@moe.edu.sg&nbsp;</font>
+</td>
+</tr>
+<tr>
+<td><font size="4"><b>Operations Manager</b>&nbsp;</font>
+</td>
+<td><font size="4">Mr David Chua</font>
+</td>
+<td><font size="4">chua_chiew_hoe@moe.edu.sg</font>
+</td>
+</tr>
+</tbody>
+</table>
