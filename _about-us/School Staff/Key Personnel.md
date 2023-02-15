@@ -203,7 +203,7 @@ Teacher Leaders
 
 <tr>
 
-<td style="width: 283px;"><font size="4">Lead Teacher English</font></td>
+<td style="width: 283px;"><font size="4">Lead Teacher Englis</font></td>
 
 <td style="width: 250px;"><font size="4">Mr Steven Yeo</font></td>
 
