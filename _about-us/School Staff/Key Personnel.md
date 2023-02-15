@@ -194,3 +194,148 @@ Middle Managers
 </tr>
 </tbody>
 </table>
+
+Teacher Leaders
+---------------
+<table class="iveo_table ives_tab_simple ive_eobj_left" style="width: 865.43px; height: 106px;">
+
+<tbody>
+
+<tr>
+
+<td style="width: 283px;"><font size="4">Lead Teacher English</font></td>
+
+<td style="width: 250px;"><font size="4">Mr Steven Yeo</font></td>
+
+<td><font size="4">yeo_poh_teck@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Lead Teacher Music  
+</font></td>
+
+<td><font size="4">Mrs Jessica Lim  
+</font></td>
+
+<td><font size="4">chaw_kim_leng_jessica@moe.edu.sg  
+</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Lead Teacher Learning Needs</font></td>
+
+<td><font size="4">Ms Ling Yuan</font></td>
+
+<td><font size="4">ling_yuan@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Tamil Language</font></td>
+
+<td><font size="4">Mrs Shanti Moorthy</font></td>
+
+<td><font size="4">shanti_kulantaipian_sh@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher English</font></td>
+
+<td><font size="4">Mr Ng Kwang Ming David</font></td>
+
+<td><font size="4">ng_kwang_ming@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Chinese Language</font></td>
+
+<td><font size="4">Mr Tam Joon Chze</font></td>
+
+<td><font size="4">tam_joon_chze@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Science</font></td>
+
+<td><font size="4">Mr Eugene Sim  
+</font></td>
+
+<td><font size="4">sim_kok_hong_eugene@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Chinese Language</font></td>
+
+<td><font size="4">Mdm Ham Choi Keng</font></td>
+
+<td><font size="4">ham_choi_keng@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Mathematics</font></td>
+
+<td><font size="4">Mrs Yvonne Sim</font></td>
+
+<td><font size="4">lim_keok_yin@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Chinese Language</font></td>
+
+<td><font size="4">Ms Esther Lee</font></td>
+
+<td><font size="4">lee_siew_kian@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Character & Citizenship Education </font></td>
+
+<td><font size="4">Mrs Safi Shirbeeni</font></td>
+
+<td><font size="4">shamsulbadariah_hussein@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Learning Needs (Lower Pri) </font></td>
+
+<td><font size="4">Mrs Ng-<span style="color: rgb(95, 99, 104); font-family: arial, sans-serif;">Low Yin Siang</span></font></td>
+
+<td><font size="4">low_yin_siang@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
+
+<td><font size="4">Senior Teacher Physical Education </font></td>
+
+<td><font size="4"><span style="color: rgb(77, 81, 86); font-family: arial, sans-serif;">Mr Wu </span><span style="color: rgb(95, 99, 104); font-family: arial, sans-serif;">Ming Che</span>  
+</font></td>
+
+<td><font size="4">wu_ming_che@moe.edu.sg</font></td>
+
+</tr>
+
+</tbody>
+
+</table>
