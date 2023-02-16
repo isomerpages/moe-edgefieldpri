@@ -82,9 +82,9 @@ third_nav_title: School Staff
 
 <td><font size="4" face="arial, sans-serif" color="#444444">5 Love</font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""><span lang="EN-SG" class="">Mdm Koh Lay Kuan Mr Sebastian Ooi</span></span></font></td>
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""><span lang="EN-SG" class="">Mdm Koh Lay Kuan Mdm Joyce Ham</span></span></font></td>
 
-<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>koh_lay_kuan@moe.edu.sg ooi_kian_tiong_sebastian@moe.edu.sg</font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>koh_lay_kuan@moe.edu.sg ham_choi_keng@moe.edu.sg</font></td>
 
 </tr>
 
