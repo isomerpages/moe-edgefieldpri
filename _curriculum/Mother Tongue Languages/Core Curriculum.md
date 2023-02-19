@@ -1,6 +1,6 @@
 ---
 title: Core Curriculum
-permalink: /curriculum/Mother-Tongue-Languages/core-curriculum
+permalink: /curriculum/Mother-Tongue-Languages/core-curriculum/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
@@ -12,6 +12,8 @@ The offering of HMTL to P3 and P4 students will complement the existing offering
 
 For students who need additional help with their Mother Tongues, Bridging and Mother Tongue Support Programme (MTSP) will be provided for P1- P2 students and P3- P4 respectively. These specialised early intervention programmes are conducted by trained school teachers, The programme focused on building stronger foundation in students' oracy and literacy skills. Classes involve hands-on activities demonstrating “the practical usefulness of the languages”. Interactive learning materials like picture cards help students learn more actively in small groups.
 
-![](/images/MT1.jpeg)
+![](/images/InkedCore%20Curriculum%201_CL.jpg)
+![](/images/Core%20Curriculum%201_ML.jpg)
+![](/images/Core%20Curriculum%201_TL.jpg)
 ![](/images/MT2.jpeg)
 ![](/images/MT3.jpeg)
