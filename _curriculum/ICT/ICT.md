@@ -1,9 +1,13 @@
 ---
 title: ICT
-permalink: /curriculum/ICT
+permalink: /curriculum/ICT/
 description: ""
 third_nav_title: ICT
 ---
+### Computing Programme
+
+![](/images/ICT1.jpg)
+![](/images/ICT2.jpg)
 
 ### New Media Literacies
 
@@ -31,4 +35,3 @@ The Cyber Wellness curriculum is organised into 5 topics:|
 *   Cyber Ethics: Creating and sharing of online content in a responsible manner; Respecting copyright
 
 ![](/images/ICT4.png)
-![](/images/ICT5.jpeg)
