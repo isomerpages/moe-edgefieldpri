@@ -1,0 +1,26 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Values, Motto.md
+      - School Staff/.keep
+      - School Staff/School Staff.md
+      - School Staff/School Leaders.md
+      - School Staff/Key Personnel.md
+      - School Staff/Primary 1 Teachers.md
+      - School Staff/Primary 2 Teachers.md
+      - School Staff/Primary 3 Teachers.md
+      - School Staff/Primary 4 Teachers.md
+      - School Staff/Primary 5 Teachers.md
+      - School Staff/Primary 6 Teachers.md
+      - School Staff/School Administration Team.md
+      - School Staff/School Counsellor and SEN Officers.md
+      - School Staff/Support Staff.md
+      - Virtual Gallery/.keep
+      - Virtual Gallery/Virtual Gallery.md
+      - Virtual Gallery/Welcome Message from the Edgefield Bears.md
+      - Virtual Gallery/School Song.md
+      - School Corporate Video.md
+      - Our Facilities.md
+      - School Rules and Regulations.md
