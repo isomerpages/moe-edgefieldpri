@@ -1,6 +1,6 @@
 ---
 title: School Rules and Regulations
-permalink: /about-us/school-rules-and-regulations
+permalink: /about-us/school-rules-and-regulations/
 description: ""
 ---
 Pupils are to conduct themselves in the following manner:
