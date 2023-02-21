@@ -32,7 +32,7 @@ mso-bidi-theme-font:minor-latin;color:#0070C0;mso-ansi-language:EN-SG" lang="EN-
 <div style="text-align: justify;"><span style="background-color: initial;"><font size="4" style="" face="arial, sans-serif">RRP is an intervention programme implemented at Primary 3 and 4. It aims to raise the reading competency of students who are not making sufficient progress in the development of literacy skills at the end of Primary 2 at the word and text levels and are not dyslexic. Its objectives are to enable students to fluently read and comprehend grade-level texts.<br><br></font></span>
 </div>
 </div><h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">School-based Dyslexia Remediation (SDR) Programme</font></span></h2>
-<div style="text-align: justify;"><span style="background-color: initial;"><font face="arial, sans-serif" size="4">SDR programme is a specialised literacy remediation programme for primary 3 and 4 students with dyslexia. It aims to enable these students to become strategic decoders and spellers, flexible in the independent use of different strategies for reading, spelling and comprehension</font></span><span style="background-color: initial; font-size: 0.9375em;">.</span>
+<div style="text-align: justify;"><span style="background-color: initial;"><font face="arial, sans-serif" size="4">SDR programme is a specialised literacy remediation programme for primary 3 and 4 students with dyslexia. It aims to enable these students to become strategic decoders and spellers, flexible in the independent use of different strategies for reading, spelling and comprehension</font></span><span style="background-color: initial; font-size: 0.9375em;">.
 </div>
 </div>
 </span>
