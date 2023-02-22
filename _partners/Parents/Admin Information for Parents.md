@@ -13,7 +13,11 @@ third_nav_title: Parents
 * [P1 Booklist 2023](/files/P1%20Booklist%202023.pdf)
 * [P2Booklist 2023](/files/P2%20Booklist%202023.pdf)
 * [P3 Booklist 2023](/files/P1%20Booklist%202023.pdf)
-* [P4Booklist 2023](/files/P2%20Booklist%202023.pdf)
+* [P4 Booklist 2023](/files/P4%20Booklist%202023.pdf)
+* [P5 Booklist 2023](/files/P5%20Booklist%202023.pdf)
+* [P5 FDN Booklist 2023](/files/P5%20FDN%20Booklist%202023.pdf)
+* [P6 Booklist 2023](/files/P6%20Booklist%202023.pdf)
+* [P6 FDN Booklist 2023](/files/P6%20FDN%20Booklist%202023.pdf)
 
 ### Service Providers
 
@@ -70,7 +74,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u05r" colspan="2">Price List</th>
+    <th colspan="2" class="tg-u05r">Price List</th>
   </tr>
 </thead>
 <tbody>
@@ -131,7 +135,7 @@ As part of our student well-being efforts, the school has purchased insurance to
     <td class="tg-u05r">$1.00</td>
   </tr>
   <tr>
-    <td class="tg-c764" colspan="2">Other Items</td>
+    <td colspan="2" class="tg-c764">Other Items</td>
   </tr>
   <tr>
     <td class="tg-u05r">Yoghurt</td>
@@ -165,7 +169,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-u05r">Price List <br><br><img height="57" width="57" alt="halal logo.png" src="/images/halal%20logo.png"></th>
+    <th class="tg-u05r" colspan="2">Price List <br><br><img src="/images/halal%20logo.png" alt="halal logo.png" width="57" height="57"></th>
   </tr>
 </thead>
 <tbody>
@@ -175,11 +179,11 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Pasta</td>
-    <td class="tg-u05r"><br><img alt="Stall 2 - 1.jpg" src="/images/Stall%202-1.jpeg"><br> <br> <br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br><img src="/images/Stall%202-1.jpeg" alt="Stall 2 - 1.jpg"><br> <br> <br> <br> <br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-u05r">Mac &amp; Cheese</td>
-    <td class="tg-u05r"><br><img alt="Stall 2 - 2.jpg" src="/images/Stall%202%20-%202.jpeg"><br> </td>
+    <td class="tg-u05r"><br><img src="/images/Stall%202%20-%202.jpeg" alt="Stall 2 - 2.jpg"><br> </td>
   </tr>
   <tr>
     <td class="tg-u05r">Pizza</td>
@@ -230,7 +234,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u05r" colspan="2">Price List<br></th>
+    <th colspan="2" class="tg-u05r">Price List<br></th>
   </tr>
 </thead>
 <tbody>
@@ -240,11 +244,11 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Plain Rice with One Meat and One Vegetable</td>
-    <td class="tg-u05r"><br> <br> <img src="/images/Stall%203%20-%201.jpeg" alt="Stall 3 - 1.jpg" width="420" height="266"><br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br> <br> <img height="266" width="420" alt="Stall 3 - 1.jpg" src="/images/Stall%203%20-%201.jpeg"><br> <br> <br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-u05r">Fried Rice with One Meat</td>
-    <td class="tg-u05r"><br> <br> <img src="/images/Stall%203%20-%202.jpeg" alt="Stall 3 - 2.jpg" width="417" height="334"><br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br> <br> <img height="334" width="417" alt="Stall 3 - 2.jpg" src="/images/Stall%203%20-%202.jpeg"><br> <br> <br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-6iri">Add-on Items</td>
@@ -288,7 +292,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-u05r">Price List</th>
+    <th class="tg-u05r" colspan="2">Price List</th>
   </tr>
 </thead>
 <tbody>
@@ -298,23 +302,23 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Monday<br>Lor Mee</td>
-    <td class="tg-u05r"><br><img alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg"><br></td>
+    <td class="tg-u05r"><br><img src="/images/Stall%204%20-%201.jpeg" alt="Stall 4 - 1.jpg"><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">Tuesday<br>Laksa</td>
-    <td class="tg-u05r"><br> <br><img alt="Stall 4 - 2.jpg" src="/images/Stall%204%20-%202.jpeg"><br></td>
+    <td class="tg-u05r"><br> <br><img src="/images/Stall%204%20-%202.jpeg" alt="Stall 4 - 2.jpg"><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">Wednesday<br>Prawn Noodles     </td>
-    <td class="tg-xwen"><span style="color:#222"> </span><img height="307" width="450" alt="Stall 4 - 3.jpg" src="/images/Stall%204%20-%203.jpeg"><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-xwen"><span style="color:#222"> </span><img src="/images/Stall%204%20-%203.jpeg" alt="Stall 4 - 3.jpg" width="450" height="307"><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">Thursday<br><br><br>Lor Mee<br><br><br><br><br><br>Hor Fun<br><br><br></td>
-    <td class="tg-xwen"><span style="color:#222"> </span><img height="280" width="446" alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><img height="297" width="446" alt="IMG_9611.JPG" src="/images/4-4.jpeg"><br><br></td>
+    <td class="tg-xwen"><span style="color:#222"> </span><img src="/images/Stall%204%20-%201.jpeg" alt="Stall 4 - 1.jpg" width="446" height="280"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><img src="/images/4-4.jpeg" alt="IMG_9611.JPG" width="446" height="297"><br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">All Days<br>Fishball Noodles<br><br><br><br><br><br><br>Fried Bee Hoon/Mee/Kway Teow<br><br><br><br></td>
-    <td class="tg-u05r"><br> <span style="color:inherit;background-color:transparent"> </span><img alt="Stall 4 - 5.jpg" src="/images/Stall%204%20-%205.jpeg"><br><br> <br> <br> <br><br><br><br><br><br><br><img height="302" width="442" alt="Stall 4 - 7.jpg" src="/images/Stall%204%20-%206.jpeg"><br><br><br> <br></td>
+    <td class="tg-u05r"><br> <span style="color:inherit;background-color:transparent"> </span><img src="/images/Stall%204%20-%205.jpeg" alt="Stall 4 - 5.jpg"><br><br> <br> <br> <br><br><br><br><br><br><br><img src="/images/Stall%204%20-%206.jpeg" alt="Stall 4 - 7.jpg" width="442" height="302"><br><br><br> <br></td>
   </tr>
   <tr>
     <td class="tg-6iri">Add-on Items on All Days</td>
@@ -348,7 +352,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u05r" colspan="2">Price List</th>
+    <th colspan="2" class="tg-u05r">Price List</th>
   </tr>
 </thead>
 <tbody>
@@ -358,27 +362,27 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Monday – Fri<br> <br>Curry Rice</td>
-    <td class="tg-u05r"><br> <br><img src="/images/Stall%205%20-%20Curry%20Rice.jpeg" alt="Stall 5 - Curry Rice.jpg"><br> <br> <br> <br> <br> <br><br><br><br><br></td>
+    <td class="tg-u05r"><br> <br><img alt="Stall 5 - Curry Rice.jpg" src="/images/Stall%205%20-%20Curry%20Rice.jpeg"><br> <br> <br> <br> <br> <br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">Monday – Fri<br><br><br>Egg Prata<br> <br> <br> <br> <br> </td>
-    <td class="tg-u05r"><br> <br><img src="/images/Stall%205%20-%20Egg%20Prata.jpeg" alt="Stall 5 - Egg Prata.jpg"><br> <br> <br> <br> <br> <br><br><br><br><br></td>
+    <td class="tg-u05r"><br> <br><img alt="Stall 5 - Egg Prata.jpg" src="/images/Stall%205%20-%20Egg%20Prata.jpeg"><br> <br> <br> <br> <br> <br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">Monday – Fri<br><br><br>Plain Prata</td>
-    <td class="tg-u05r"><img src="/images/Stall%205%20-%20Plain%20Prata.jpeg" alt="Stall 5 - Plain Prata.jpg" width="449" height="300"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-u05r"><img height="300" width="449" alt="Stall 5 - Plain Prata.jpg" src="/images/Stall%205%20-%20Plain%20Prata.jpeg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">Monday – Fri<br><br><br>Mee Goreng<br> <br> <br> <br> <br> </td>
-    <td class="tg-u05r"><img src="/images/Stall%205%20-%20Mee%20Goreng.jpeg" alt="Stall 5 - Mee Goreng.jpg" width="449" height="300"><br> <br> <br> <br> <br> <br> <br> <br> <br><br><br></td>
+    <td class="tg-u05r"><img height="300" width="449" alt="Stall 5 - Mee Goreng.jpg" src="/images/Stall%205%20-%20Mee%20Goreng.jpeg"><br> <br> <br> <br> <br> <br> <br> <br> <br><br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r"><br><br>Monday – Fri<br><br><br>Roti John<br> <br> <br> <br> <br> <br> <br> </td>
-    <td class="tg-u05r"><img src="/images/Stall%205%20-%20Roti%20John.jpeg" alt="Stall 5 - Roti John.jpg" width="446" height="298"><br> <br> <br> <br> <br> <br> <br><br></td>
+    <td class="tg-u05r"><img height="298" width="446" alt="Stall 5 - Roti John.jpg" src="/images/Stall%205%20-%20Roti%20John.jpeg"><br> <br> <br> <br> <br> <br> <br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r"><br>Monday – Fri<br><br><br>Teriyaki Chicken<br> <br> <br> <br> <br> <br> <br> </td>
-    <td class="tg-u05r"><img src="/images/Stall%205%20-%20Teriyaki%20Chicken.jpeg" alt="Stall 5 - Teriyaki Chicken.jpg" width="447" height="298"></td>
+    <td class="tg-u05r"><img height="298" width="447" alt="Stall 5 - Teriyaki Chicken.jpg" src="/images/Stall%205%20-%20Teriyaki%20Chicken.jpeg"></td>
   </tr>
 </tbody>
 </table>
@@ -397,7 +401,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-u05r">Price List<br><br><img height="71" width="71" alt="halal logo.png" src="/images/halal%20logo.png"></th>
+    <th class="tg-u05r" colspan="2">Price List<br><br><img src="/images/halal%20logo.png" alt="halal logo.png" width="71" height="71"></th>
   </tr>
 </thead>
 <tbody>
@@ -407,11 +411,11 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">All Days Except Wednesday<br>Plain Rice, One Meat, One Vegetable</td>
-    <td class="tg-u05r"><br><br><br> <img alt="Stall 6 - 1.jpg" src="/images/Stall%206%20-%201.jpeg"><br> <br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br><br><br> <img src="/images/Stall%206%20-%201.jpeg" alt="Stall 6 - 1.jpg"><br> <br> <br> <br> <br> <br> </td>
   </tr>
   <tr>
     <td class="tg-u05r">Wednesday<br>Chicken Rice</td>
-    <td class="tg-u05r"><br> <img height="420" width="473" alt="Stall 6 - 2.jpg" src="/images/Stall%206%20-%202.jpeg"><br> <br> <br> <br> <br> <br> </td>
+    <td class="tg-u05r"><br> <img src="/images/Stall%206%20-%202.jpeg" alt="Stall 6 - 2.jpg" width="473" height="420"><br> <br> <br> <br> <br> <br> </td>
   </tr>
 </tbody>
 </table>
@@ -431,7 +435,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u05r" colspan="2">Price List<br><br><img src="/images/halal%20logo.png" style="width 25%"> </th>
+    <th colspan="2" class="tg-u05r">Price List<br><br><img style="width 25%" src="/images/halal%20logo.png"> </th>
   </tr>
 </thead>
 <tbody>
@@ -445,7 +449,7 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Maggie Goreng<br><br><br><br><br><br><br><br><br>Nasi Lemak<br><br><br><br><br><br></td>
-    <td class="tg-u05r"><img src="/images/7-1.jpeg" alt="IMG_9690.JPG" width="367"><br> <br><br><br><br><br><br><br><br><img src="/images/7-2.jpeg" alt="Stall 7 - 1.jpg" width="370" height="229"><br><br><br></td>
+    <td class="tg-u05r"><img width="367" alt="IMG_9690.JPG" src="/images/7-1.jpeg"><br> <br><br><br><br><br><br><br><br><img height="229" width="370" alt="Stall 7 - 1.jpg" src="/images/7-2.jpeg"><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r"> Tuesday</td>
@@ -453,7 +457,7 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Mee Rebus<br><br><br><br><br><br><br><br><br><br><br><br><br>Macaroni Soup<br><br><br></td>
-    <td class="tg-u05r"><img src="/images/7-3.jpeg" alt="Stall 7 - 2.jpg" width="370" height="271"><br><br><br><br><br><br><br><br><br><br><img src="/images/7-4.jpeg" alt="Stall 7 - 3.jpg" width="369" height="255"><br><br><br><br></td>
+    <td class="tg-u05r"><img height="271" width="370" alt="Stall 7 - 2.jpg" src="/images/7-3.jpeg"><br><br><br><br><br><br><br><br><br><br><img height="255" width="369" alt="Stall 7 - 3.jpg" src="/images/7-4.jpeg"><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-q9pi">Wednesday</td>
@@ -461,7 +465,7 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Maggie Soup<br><br><br><br><br><br><br><br>Mee Goreng<br><br></td>
-    <td class="tg-u05r"><img src="/images/7-5.jpeg" alt="Stall 7 - 4.jpg" width="375" height="254"><br><br><br><br><br><br><br><br><img src="/images/7-6.jpeg" alt="Stall 7 - 5.jpg" width="376" height="249"><br></td>
+    <td class="tg-u05r"><img height="254" width="375" alt="Stall 7 - 4.jpg" src="/images/7-5.jpeg"><br><br><br><br><br><br><br><br><img height="249" width="376" alt="Stall 7 - 5.jpg" src="/images/7-6.jpeg"><br></td>
   </tr>
   <tr>
     <td class="tg-q9pi">Thursday</td>
@@ -469,7 +473,7 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Roti Prata<br><br><br><br><br><br><br><br><br>Chicken Rice<br></td>
-    <td class="tg-u05r"><img src="/images/7-7.jpeg" alt="Stall 7 - 6.jpg" width="394" height="263"><br><br><br><br><br><br><br><br><img src="/images/7-8.jpeg" alt="Stall 7 - 7.jpg" width="395" height="264"><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-u05r"><img height="263" width="394" alt="Stall 7 - 6.jpg" src="/images/7-7.jpeg"><br><br><br><br><br><br><br><br><img height="264" width="395" alt="Stall 7 - 7.jpg" src="/images/7-8.jpeg"><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-q9pi">Friday</td>
@@ -477,7 +481,7 @@ As part of our student well-being efforts, the school has purchased insurance to
   </tr>
   <tr>
     <td class="tg-u05r">Nasi Lemak <br><br><br><br><br><br><br><br><br><br><br><br><br><br>Mee Soup</td>
-    <td class="tg-u05r"><img src="/images/7-2.jpeg" alt="Stall 7 - 1.jpg" width="396" height="245"><br><br><br><br><br><br><br><br><img src="/images/7-10.jpeg" alt="Stall 7 - 9.jpg" width="398" height="251"></td>
+    <td class="tg-u05r"><img height="245" width="396" alt="Stall 7 - 1.jpg" src="/images/7-2.jpeg"><br><br><br><br><br><br><br><br><img height="251" width="398" alt="Stall 7 - 9.jpg" src="/images/7-10.jpeg"></td>
   </tr>
 </tbody>
 </table>
@@ -496,7 +500,7 @@ As part of our student well-being efforts, the school has purchased insurance to
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-u05r">Price List</th>
+    <th class="tg-u05r" colspan="2">Price List</th>
   </tr>
 </thead>
 <tbody>
@@ -521,7 +525,7 @@ As part of our student well-being efforts, the school has purchased insurance to
     <td class="tg-u05r">$0.60</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-6iri">Halal Snacks</td>
+    <td class="tg-6iri" colspan="2">Halal Snacks</td>
   </tr>
   <tr>
     <td class="tg-u05r">Lo Mai Kai</td>
