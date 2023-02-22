@@ -8,5 +8,5 @@ EL Week is an annual week-long event that deepens students’ love for the langu
 
 ![](/images/EL14.png)
 ![](/images/EL%20week%20C.jpg)
-![](/images/EL16.png)
-![](/images/EL17.png)
+![](/images/EL%20Wee%20A.jpg)
+![](/images/EL%20week%20B.jpg)
