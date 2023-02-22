@@ -21,8 +21,8 @@ third_nav_title: English
 
 **PVLEGS©:** The following oracy programmes aim to develop every Edgefielder an empathetic communicator. Adopting Erik Palmer's Six Traits of Speaking©, Edgefielders familiarise themselves with Poise, Voice, Life, Eye contact, Gestures and Speed (PVLEGS©) as a guide to communicate effectively.
 
-*   Primary 1: Pick and Tell
-*   Primary 2: Show and Tell
+*   Primary 1: Show and Tell
+*   Primary 2: Pick and Tell
 *   Primary 3: Public Speaking
 *   Primary 4: Persuasive Speaking
 *   Primary 5 & 6: Debate Programme
@@ -30,7 +30,7 @@ third_nav_title: English
 ![](/images/EL8.png)
 ![](/images/EL9.png)
 ![](/images/EL10.png)
-![](/images/EL11.jpg)
+![](/images/Debate.jpg)
 
 **Joyful Writing Journey:** We celebrate our students’ voices in their writing through publications such as Big Books, Calendars, Poems and Voices.
 
