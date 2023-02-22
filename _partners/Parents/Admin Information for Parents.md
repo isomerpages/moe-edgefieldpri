@@ -8,10 +8,6 @@ third_nav_title: Parents
 
 * P1 Orientation Slides 2022
 
-* :&nbsp;[Primary 1 Orientation 2021 Admin Matters](/files/P1%20Orientation%202021%20Admin%20Matters.pdf)
-
-* :&nbsp;[Primary 1 Orientation 2021 Orientation Booklet](https://my.flipbookpdf.net/krDEe)
-
 ### Booklist 2023
 
 * [P1 Booklist 2023](/files/P1%20Booklist%202023.pdf)
