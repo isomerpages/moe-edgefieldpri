@@ -20,7 +20,7 @@ relationships including those with members of the opposite sex, and make wise,
 informed and responsible decisions on sexuality matters. SEd is premised on the
 importance of the family as the basic unit of society. This means encouraging
 healthy, heterosexual marriages and stable nuclear family units with extended
-family support. The teaching and learning of SEd is based on respect for the
+family support. The teachin and learning of SEd is based on respect for the
 values and beliefs of the different ethnic and religious communities in
 Singapore on sexuality issues.</span><span style="background-color: initial;">&nbsp;</span></p>
 <p style="text-align: justify;" class=""><span class="" lang="EN-GB">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
