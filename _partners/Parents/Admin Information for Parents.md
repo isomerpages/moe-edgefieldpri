@@ -64,10 +64,9 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MOE FAS pamphlet giving information of the MOE FAS scheme](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf)
 
-\-&nbsp; [NPP Application Form for MOE SPED FAS](/files/NPP-Application-Form-for-MOE-SPED-FAS)
+\-&nbsp; [NPP Application Form for MOE SPED FAS](/files/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
 
-\-&nbsp; [NEU PC Plus IMDA FBB Svc Appl 2023](/files/%20NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023)
-
+\-&nbsp; [NEU PC Plus IMDA FBB Svc Appl 2023](/files/%20NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf)
 
 \-&nbsp;[NEU PC+ Bundle Application](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/2022%20NPP-Application-Form-for-NON-MOE-SPED-FAS%201.pdf)&nbsp;(applicable for Non MOE FAS whose gross monthly household 
 income &lt;= $3400 OR the PCI &lt;=$900)
