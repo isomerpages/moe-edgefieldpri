@@ -34,7 +34,7 @@ PSG Bonding 2021 where parents made their very own key fobs and coin pouches at 
 
 The support of all parents as partners in education is important in ensuring that our children are developed to their fullest potential. We encourage all parents to be actively involved in the school activities and we welcome all on board.   
 
-Please click [here](https://forms.gle/Ag6Bi8gabeHzFfYU9) to sign up to join our parent support group.
+Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ecn68jTPNjB8bl6F8lCKUcOQ2Y8geHieA/viewform?embedded=true) to sign up to join our parent support group.
 
 ![](/images/PSG7.jpeg)
 ![](/images/PSG8.jpeg)
