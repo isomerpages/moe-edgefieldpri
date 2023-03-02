@@ -68,11 +68,6 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 
 \-&nbsp; [NEU PC Plus IMDA FBB Svc Appl 2023](/files/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf)
 
-\-&nbsp;[NEU PC+ Bundle Application](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/2022%20NPP-Application-Form-for-NON-MOE-SPED-FAS%201.pdf)&nbsp;(applicable for Non MOE FAS whose gross monthly household 
-income &lt;= $3400 OR the PCI &lt;=$900)
-
-
-
 \-&nbsp;[Leave of Absence (LOA)](https://form.gov.sg/60c173e39bc0e400137a13ab)
 
 \-&nbsp;[Application for Waiting List](https://form.gov.sg/60c708afc1e7220011fe9978)
