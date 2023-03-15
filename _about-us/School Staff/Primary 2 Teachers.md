@@ -69,7 +69,7 @@ sum_yoong_lee_matthew@moe.edu.sg
 </font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">catherine_lee@moe.edu.sg  
-ng_cheong_zsen@moe.edu.sg  
+<br>ng_cheong_zsen@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -110,7 +110,7 @@ lu_yangfan@moe.edu.sg
 <span lang="EN-SG" style="line-height: 15.6933px;"></span><span lang="EN-SG" class=""><br>Mdm Ruzanna Supar</span></font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">ho_soo_khim@moe.edu.sg  
-ruzanna_supar@moe.edu.sg  
+<br>ruzanna_supar@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -140,7 +140,7 @@ chia_peishan@moe.edu.sg
 <span lang="EN-SG" class=""></span></font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg 
-koh_seok_hui@moe.edu.sg  
+<br>koh_seok_hui@moe.edu.sg  
 </font></td>
 
 </tr>
