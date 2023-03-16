@@ -35,14 +35,15 @@ You can place your order online at&nbsp;[https://www.schooluniforms.sg](https://
 **School Shoe Vendor**
 
 Eng Seng Impex Pte Ltd  <br>
-Retail Store: Urban Glam  <br>
-Blk 308 Anchorvale Rd #01-02  <br>
-Daily: from 8am to 9pm &nbsp; &nbsp;&nbsp;  
+Shoes can be purchased from the school bookshop.
+
 
 **School Textbooks Vendor**
 
-Pacific Bookstores Pte. Ltd. &nbsp;&nbsp;  <br>
-Due to covid situation, the school bookshop is closed to parents/guardians.&nbsp; However, if you wish to purchase books on behalf of your child, please call the school at 63126091 to make an appointment 2 days before your intended visit.  
+Bookshop opening hours: <br>
+8.00am to 8.20am <br>
+11.30am to 12.00pm <br>
+2.00pm to 2.30pm from Mon to Fri during school term  
 
 **School Transport Provider**
 
