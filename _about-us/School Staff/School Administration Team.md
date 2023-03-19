@@ -4,8 +4,6 @@ permalink: /about-us/School-Staff/school-administration-team/
 description: ""
 third_nav_title: School Staff
 ---
-  
-
 <table class="iveo_table ives_tab_simple ive_eobj_left" style="width: 837.125px; height: 106px;">
 
 <tbody>
@@ -54,7 +52,7 @@ third_nav_title: School Staff
 
 <td><font size="4" face="arial, sans-serif">Admin Executive<span> </span></font></td>
 
-<td><font size="4" face="arial, sans-serif">Mdm Ho Bee Lay </font></td>
+<td><font size="4" face="arial, sans-serif">Mdm Jesline Hoe </font></td>
 
 <td><font size="4" face="arial, sans-serif">hoe_bee_lay@moe.edu.sg</font>  
 </td>
