@@ -13,4 +13,4 @@ The MTL Fortnight programme is a platform for students to actively learn their M
   
 The themes and learning activities for the various levels are as follows:
 
-![](/images/Mother%20Tongue%201.png)
+![](/images/MT4.jpeg)
