@@ -4,12 +4,15 @@ permalink: /partners/parent-support-group-psg/core-committee/
 description: ""
 third_nav_title: Parent Support Group (PSG)
 ---
-Our Parent Support Group (PSG) core committee was formed in 2001 with the following vision and mission:
+Our Parent Support Group (PSG) core committee was formed in 2001 with the following vision and mission:
+-----------------------
 
-### Our Vision  
+Our Vision
+----------
+
 To be a valued partner in achieving the school's vision of "Lives Empowered, Lives Touched" by working in close collaboration with the school.
-
   
+Our Mission
+-----------
 
-### Our Mission  
 To partner the school in nurturing and optimising the full potential of every pupil who endeavours to excel.
