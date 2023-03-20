@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Song.md
       - Principal's Message.md
       - Vision, Mission, Values, Motto.md
       - School Staff/.keep
@@ -23,5 +22,6 @@ collections:
       - Virtual Gallery/Welcome Message from the Edgefield Bears.md
       - Virtual Gallery/School Song.md
       - School Corporate Video.md
+      - School Song.md
       - Our Facilities.md
       - School Rules and Regulations.md
