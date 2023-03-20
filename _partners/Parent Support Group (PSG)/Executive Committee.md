@@ -18,3 +18,4 @@ Our Mission
 To partner the school in nurturing and optimising the full potential of every pupil who endeavours to excel.
 
 ![](/images/PSG1.jpg)
+![](/images/Parent%20Support%20Group%201.png)
