@@ -4,6 +4,8 @@ permalink: /about-us/Virtual-Gallery/school-song-lyrics/
 description: ""
 third_nav_title: Virtual Gallery
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9AOKjkmYCQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Edgefield Primary is our choice <br>
 Let’s proclaim it with one voice <br>
 Standing tall above it all <br>
