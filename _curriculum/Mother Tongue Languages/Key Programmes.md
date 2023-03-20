@@ -17,6 +17,5 @@ The themes and learning activities for the various levels are as follows:
 <br>
 ![](/images/MT5.jpeg)
 
-MTL Reading Programme<br>
-
-To ignite students’ interest in reading Mother Tongue language stories, we create many opportunities for students to read widely. We support them in learning by reading books of different genres, telling stories, role-playing and doing book reviews.  
+<font size="6">MTL Reading Programme</font><br>
+To ignite students’ interest in reading Mother Tongue language stories, we create many opportunities for students to read widely. We support them in learning by reading books of different genres, telling stories, role-playing and doing book reviews.
