@@ -4,7 +4,6 @@ permalink: /partners/parents/meet-the-parents-session-2023/
 description: ""
 third_nav_title: Parents
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -16,8 +15,8 @@ third_nav_title: Parents
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fws8"><a href="/files/P1%20MPS%202022.pdf"><span style="text-decoration:none;color:#7C080B">P1 MPS 2022.pdf</span></a><br></th>
-    <th class="tg-fws8"><a href="/files/P2%20MPS%202022.pdf"><span style="text-decoration:none;color:#7C080B">P2 MPS 2022.pdf</span></a><br></th>
+    <th class="tg-fws8"><a href="/files/P1%20MPS%202022.pdf"><span style="text-decoration:none;color:#7C080B">P1 & P2 MPS 2023.pdf</span></a><br></th>
+    <th class="tg-fws8"><a href="/files/P1&P2%20MPS%202023.pdf"><span style="text-decoration:none;color:#7C080B">P2 MPS 2022.pdf</span></a><br></th>
     <th class="tg-fws8"><a href="/files/P3%20MPS%202022.pdf"><span style="text-decoration:none;color:#7C080B">P3 MPS 2022.pdf</span></a><br></th>
   </tr>
 </thead>
