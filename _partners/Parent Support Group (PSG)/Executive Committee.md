@@ -18,4 +18,4 @@ Our Mission
 To partner the school in nurturing and optimising the full potential of every pupil who endeavours to excel.
 
 ![](/images/PSG1.jpg)
-<img src="images/PSG9.jpg" width="25%" height="25%">
+<img src="https://www.edgefieldpri.moe.edu.sg/images/PSG9.jpg" width="25%" height="25%">
