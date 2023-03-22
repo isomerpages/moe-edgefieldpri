@@ -58,3 +58,10 @@ in the learning process of our students.&quot;
 &quot;Train your mind to see the best in every situation&quot;. A quote that I really love, it is easy to say but hard to
 put in to practice.&quot;<br>
 *Cindy Seah*
+
+“I love kids, surrounding myself and helping kids in need is my passion. I used to be a part of the PSG
+team in my son’s pre-school days. I enjoy every single moment I used to share my time in helping the
+teachers and especially the kids because children are likely to live up to what you believe of them. Seeing
+their determination to improve makes me more eager to help.”
+<br>
+*Noor Hidayah Binte Abdul Hamid*
