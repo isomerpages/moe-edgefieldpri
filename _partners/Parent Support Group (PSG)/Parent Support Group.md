@@ -9,7 +9,7 @@ Our Minister of Education Chan Chun Sing mentioned that MOE seeks to strengthen 
 Parent Support Groups in all schools. The school, parents, and ministries will work together to establish a
 caring and enabling society that gives greater attention to the well-being of our children. PSGs also play
 an important role to provide support to our parent community.<br>
-At Edgefield Primary School, our PSG comprises a group of enthusiastic and dedicated parents who
+<br>At Edgefield Primary School, our PSG comprises a group of enthusiastic and dedicated parents who
 support the school programmes and activities to develop the students holistically. Over the years, our
 PSG has grown from strength to strength and plays vital roles in our school&#39;s academic programmes (e.g.
 Buddy Reading and Mother Tongue Fortnight), national events (e.g. National Day celebration and Racial
