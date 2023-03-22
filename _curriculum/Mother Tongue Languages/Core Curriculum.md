@@ -17,5 +17,3 @@ For students who need additional help with their Mother Tongues, Bridging and�
 ![](/images/InkedCore%20Curriculum%201_CL.jpg)
 ![](/images/Core%20Curriculum%201_ML.jpg)
 ![](/images/Core%20Curriculum%201_TL.jpg)
-![](/images/MT2.jpeg)
-![](/images/MT3.jpeg)
