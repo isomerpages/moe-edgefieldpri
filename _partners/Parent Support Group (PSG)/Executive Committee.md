@@ -24,3 +24,11 @@ To partner the school in nurturing and optimising the full potential of every pu
 “When you are happy, you enjoy the music, but when you are sad you understand the lyrics.”
 <br>
 *Lakshmi Subramanian*
+<br>
+<br>
+&quot;As a parent and PSG member, being a volunteer is a wonderful opportunity to make meaningful contributions to the community.&quot;
+<br>
+*Dhanushea Ganeshkumar*
+<br><br>
+&quot;Hoping for the best; Prepared for the worst; And unsurprised by anything in between.&quot; – Maya Angelou
+Subha Kumaran
