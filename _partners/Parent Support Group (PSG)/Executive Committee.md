@@ -18,3 +18,9 @@ Our Mission
 To partner the school in nurturing and optimising the full potential of every pupil who endeavours to excel.
 
 ![](/images/PSG1.jpg)
+
+**Our Thoughts/Favourite Quotes**
+<br>
+“When you are happy, you enjoy the music, but when you are sad you understand the lyrics.”
+<br>
+*Lakshmi Subramanian*
