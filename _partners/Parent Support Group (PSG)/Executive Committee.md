@@ -80,3 +80,8 @@ from the people in their learning environment. Activities that we organize and e
 children to participate will create stronger bonding in the families and instill in each child a spirit of
 excellence with good virtues.”<br>
 *Jill Huong Shiow Kim*
+
+“PSG allows me to contribute my time and skills to the success of the school’s programs, providing
+memorable activities and events to the students in their quest of becoming the future leaders and builders
+of the nation.”<br>
+*Kenther Sones Phang*
