@@ -68,3 +68,8 @@ their determination to improve makes me more eager to help.”
 
 &quot;Gain knowledge through experience, share knowledge through offering services.&quot;<br>
 *Anbumalar*
+
+&quot;Parents are important resources for their children. Parental involvement is crucial to children&#39;s
+development. Being in the PSG allows me opportunities to be involved in my child&#39;s development in
+school and to do the same for other parents.&quot;<br>
+*Tony Leong Kok Kuan*
