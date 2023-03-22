@@ -31,4 +31,5 @@ To partner the school in nurturing and optimising the full potential of every pu
 *Dhanushea Ganeshkumar*
 <br><br>
 &quot;Hoping for the best; Prepared for the worst; And unsurprised by anything in between.&quot; – Maya Angelou
-Subha Kumaran
+<br>
+*Subha Kumaran*
