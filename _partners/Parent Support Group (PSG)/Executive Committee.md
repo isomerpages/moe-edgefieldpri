@@ -51,3 +51,6 @@ in the learning process of our students.&quot;
 
 &quot;Let&#39;s root for each other and watch each other grow.&quot;<br>
 *Reny Sprins Khaw*
+
+“Knowledge will bring you the opportunity to make a difference!!”<br>
+*Kavita Hegde*
