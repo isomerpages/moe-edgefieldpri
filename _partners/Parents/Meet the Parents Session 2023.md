@@ -11,14 +11,14 @@ third_nav_title: Parents
 <div><br>
 </div>
 <div>
-<table class="ive_eobj_center iveo_table ives_tab_modern3" style="width: 688.641px; height: 118px;">
+<table class="ive_eobj_center iveo_table ives_tab_modern3" style="width: 730.969px; height: 118px;">
 <tbody>
 <tr>
-<td style="width: 264px;"><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="files/P1&P2%20MPS2%202023.pdf" target="_blank">P1&amp;P2 MPS 2023.pdf</a><br>
+<td style="width: 264px;"><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u704/Partners/Parents/MPS/P1 MPS 2022.pdf" target="_blank">P1&amp;P2 MPS 2023.pdf</a><br>
 </td>
 <td style="width: 238px;"><a class="refobj" href="https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/MPS/P3%20MPS%202022.pdf" target="_blank" style="padding-right: 4px; padding-left: 18px; text-decoration-line: underline; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">P3&amp;P4 MPS 2023.pdf</a>
 </td>
-<td style="width: 186px;"><a class="refobj" href="https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/MPS/P3%20MPS%202022.pdf" target="_blank" style="padding-right: 4px; padding-left: 18px; text-decoration-line: underline; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">P5&amp;P6 MPS 2023.pdf</a><br>
+<td style="width: 228px;"><a class="refobj" href="https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/MPS/P3%20MPS%202022.pdf" target="_blank" style="padding-right: 4px; padding-left: 18px; text-decoration-line: underline; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">P5&amp;P6 MPS 2023.pdf</a><br>
 </td>
 </tr>
 </tbody>
