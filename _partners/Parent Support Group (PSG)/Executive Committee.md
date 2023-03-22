@@ -43,3 +43,8 @@ love for school and studying.&quot;<br>
 &quot;I believe that investing in our children&#39;s development in the earliest age is the most important contribution
 we can make.&quot;<br>
 *Basavarajeswari*
+
+&quot;Encouraging &amp; supporting our children is part of the PSG fundamentals. This encompasses improvement
+in the learning process of our students.&quot;
+<br>
+*Dahlia Binte Samsu*
