@@ -33,3 +33,9 @@ To partner the school in nurturing and optimising the full potential of every pu
 &quot;Hoping for the best; Prepared for the worst; And unsurprised by anything in between.&quot; – Maya Angelou
 <br>
 *Subha Kumaran*
+
+&quot;Being a volunteer in PSG helps me understand better about my child&#39;s learning environment and
+contribute in building their learning experiences. I hope more and more parents will join PSG and bring
+more fun-filled activites to strengthen the bonds between our children and their parents as well as their
+love for school and studying.&quot;<br>
+*Celine Le*
