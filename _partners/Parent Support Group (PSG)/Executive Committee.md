@@ -39,3 +39,7 @@ contribute in building their learning experiences. I hope more and more parents 
 more fun-filled activites to strengthen the bonds between our children and their parents as well as their
 love for school and studying.&quot;<br>
 *Celine Le*
+
+&quot;I believe that investing in our children&#39;s development in the earliest age is the most important contribution
+we can make.&quot;<br>
+*Basavarajeswari*
