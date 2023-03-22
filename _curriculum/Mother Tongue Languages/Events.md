@@ -4,11 +4,6 @@ permalink: /curriculum/mother-tongue-languages/events/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-# Festive Celebrations
-
-Students experience Singapore’s vibrant ethnic cultures and traditions through celebrations of festive seasons such as Lunar New Year, Pongal Festival, Hari Raya Puasa, Dragon Boat Festival Deepavali etc.
-
-![](/images/MT8.jpeg)
 
 ### Cultural Camp
 
