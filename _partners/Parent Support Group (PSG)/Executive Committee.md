@@ -54,3 +54,7 @@ in the learning process of our students.&quot;
 
 “Knowledge will bring you the opportunity to make a difference!!”<br>
 *Kavita Hegde*
+
+&quot;Train your mind to see the best in every situation&quot;. A quote that I really love, it is easy to say but hard to
+put in to practice.&quot;<br>
+*Cindy Seah*
