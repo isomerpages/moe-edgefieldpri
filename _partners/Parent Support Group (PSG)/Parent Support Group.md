@@ -32,4 +32,4 @@ Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ec
 <br>![](/images/Sports%20Carnival%202.jpg)
 <br>![](/images/PSLE%20MSG.jpg)
 <br>![](/images/Workshop%202.jpeg)
-<br>
+<br>![](/images/Workshop2.jpg)
