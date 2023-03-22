@@ -65,3 +65,6 @@ teachers and especially the kids because children are likely to live up to what 
 their determination to improve makes me more eager to help.”
 <br>
 *Noor Hidayah Binte Abdul Hamid*
+
+&quot;Gain knowledge through experience, share knowledge through offering services.&quot;<br>
+*Anbumalar*
