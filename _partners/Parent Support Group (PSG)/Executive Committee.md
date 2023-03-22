@@ -48,3 +48,6 @@ we can make.&quot;<br>
 in the learning process of our students.&quot;
 <br>
 *Dahlia Binte Samsu*
+
+&quot;Let&#39;s root for each other and watch each other grow.&quot;<br>
+*Reny Sprins Khaw*
