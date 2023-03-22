@@ -28,3 +28,5 @@ the school activities and everyone is welcome to come on board!
 Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ecn68jTPNjB8bl6F8lCKUcOQ2Y8geHieA/viewform?embedded=true)] to join our parent support group!
 
 ![](/images/Sports%20Carnival%203.jpg)
+<br>![](/images/Sports%20Carnival%204.jpg)
+<br>
