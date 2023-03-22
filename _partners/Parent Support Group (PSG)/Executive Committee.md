@@ -73,3 +73,10 @@ their determination to improve makes me more eager to help.”
 development. Being in the PSG allows me opportunities to be involved in my child&#39;s development in
 school and to do the same for other parents.&quot;<br>
 *Tony Leong Kok Kuan*
+
+“If it takes a village to raise a child and, it takes a village to support that child’s parent. In the growing
+years, our children need lots of guidance and support not only from parents and family members, but also
+from the people in their learning environment. Activities that we organize and encourage the parents and
+children to participate will create stronger bonding in the families and instill in each child a spirit of
+excellence with good virtues.”<br>
+*Jill Huong Shiow Kim*
