@@ -3,7 +3,8 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-# Welcome to Edgefield Primary School
+<h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">Welcome to Edgefield Primary School</font></span></h2>
+
 
 It is my privilege to welcome you to a new year at EFPS. We are one of the first educational institutions established in the heart of Punggol. With a history of 20 years, we are known for the vibrancy of our forward-looking curriculum that empowers and nurtures the students for a better Singapore.  
 

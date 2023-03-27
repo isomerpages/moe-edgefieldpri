@@ -4,14 +4,14 @@ permalink: /curriculum/English/useful-links/
 description: ""
 third_nav_title: English
 ---
-**Books & Resources**
+<h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">Books & Resources</font></span></h2>
 
 *   [www.dk.com](http://www.dk.com/)
 *   [www.seussville.com](http://www.seussville.com/)
 *   [www.roalddahl.com](http://www.roalddahl.com/)
 *   [www.bbc.co.uk](http://www.bbc.co.uk/)
 
-**Recommended Reading list by NLB**  
+<h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">Recommended Reading list by NLB</font></span></h2>
 
 *   [P1](/files/P1.pdf)
 *   [P2](/files/P2.pdf)
@@ -22,11 +22,12 @@ third_nav_title: English
 *   [P6](/files/P6.pdf)
 *   [P6 Foundation](/files/P6.pdf)
 
-**Dictionary**
+<h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">Dictionary</font></span></h2>
 
 *   [www.dictionary.com](http://www.dictionary.com/)
 *   [www.collinsdictionary.com](http://www.collinsdictionary.com/)
 
-**Search Engine for Kids**
+<h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">Search Engine for Kids</font></span></h2>
+
 
 *   [www.askkids.com](http://www.askkids.com/)
