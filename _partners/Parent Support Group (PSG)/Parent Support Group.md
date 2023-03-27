@@ -29,9 +29,16 @@ Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ec
 
 Follow us on [Instagram] to find out more about us and our activities. Help to insert a hyperlink for the underlined word please.
 
-![](/images/Sports%20Carnival%203.jpg)
-<br>![](/images/Sports%20Carnival%204.jpg)
-<br>![](/images/Sports%20Carnival%202.jpg)
-<br>![](/images/PSLE%20MSG.jpg)
-<br>![](/images/Workshop%202.jpeg)
-<br>![](/images/Workshop2.jpg)
+<img src="/images/Sports%20Carnival%203.jpg" 
+     style="width:70%">
+		 
+<img src="/images/Sports%20Carnival%204.jpg" 
+     style="width:70%">		 
+	<img src="/images/Sports%20Carnival%202.jpg" 
+     style="width:70%">
+		<img src="images/PSLE%20MSG.jpg" 
+     style="width:70%">	 
+		 <img src="/images/Workshop%202.jpeg" 
+     style="width:70%">
+		 		 <img src="/images/Workshop2.jpg" 
+     style="width:70%">
