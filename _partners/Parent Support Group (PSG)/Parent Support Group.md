@@ -29,6 +29,14 @@ Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ec
 
 Follow us on [Instagram] to find out more about us and our activities. Help to insert a hyperlink for the underlined word please.
 
+
+
+![](/images/Buddy%20Reading%202.jpeg)
+![](/images/Buddy%20Reading.jpeg)
+![](/images/C_Library_03.jpg)
+![](/images/English%20BR%201.jpg)
+![](/images/English%20BR%202.jpg)
+
 <img src="/images/Sports%20Carnival%203.jpg" 
      style="width:70%">
 <img src="/images/Sports%20Carnival%204.jpg" 
