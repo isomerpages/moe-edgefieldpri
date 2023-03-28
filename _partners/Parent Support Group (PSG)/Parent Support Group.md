@@ -27,7 +27,7 @@ the school activities and everyone is welcome to come on board!
 
 Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ecn68jTPNjB8bl6F8lCKUcOQ2Y8geHieA/viewform?embedded=true)] to join our parent support group!
 
-Follow us on [Instagram] to find out more about us and our activities. Help to insert a hyperlink for the underlined word please.
+Follow us on [Instagram](https://instagram.com/efps_psg?igshid=YmMyMTA2M2Y=) to find out more about us and our activities. Help to insert a hyperlink for the underlined word please.
 
 <img src="/images/Buddy%20Reading%202.jpeg" 
      style="width:70%">
