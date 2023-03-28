@@ -30,8 +30,7 @@ Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ec
 Follow us on [Instagram] to find out more about us and our activities. Help to insert a hyperlink for the underlined word please.
 
 <img src="/images/Sports%20Carnival%203.jpg" 
-     style="width:70%">
-		 
+     style="width:70%">		 
 <img src="/images/Sports%20Carnival%204.jpg" 
      style="width:70%">		 
 	<img src="/images/Sports%20Carnival%202.jpg" 
