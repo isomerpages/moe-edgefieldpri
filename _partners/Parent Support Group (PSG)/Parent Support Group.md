@@ -29,17 +29,20 @@ Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ec
 
 Follow us on [Instagram] to find out more about us and our activities. Help to insert a hyperlink for the underlined word please.
 
-
-
-![](/images/Buddy%20Reading%202.jpeg)
-![](/images/Buddy%20Reading.jpeg)
-![](/images/C_Library_03.jpg)
-![](/images/English%20BR%201.jpg)
-![](/images/English%20BR%202.jpg)
-![](/images/Gardens%20Outing%202019%20(1).jpg)
-![](/images/PSLE%20Msg%201.png)
-
-
+<img src="/images/Buddy%20Reading%202.jpeg" 
+     style="width:70%">
+		 <img src="/images/Buddy%20Reading.jpeg" 
+     style="width:70%">
+		 <img src="/images/C_Library_03.jpg" 
+     style="width:70%">
+		 <img src="/images/English%20BR%201.jpg" 
+     style="width:70%">
+		 <img src="/images/English%20BR%202.jpg" 
+     style="width:70%">
+		 		 <img src="/images/Gardens%20Outing%202019%20(1).jpg" 
+     style="width:70%">
+<img src="/images/Sports%20Carnival%201.jpg" 
+     style="width:70%">
 <img src="/images/Sports%20Carnival%203.jpg" 
      style="width:70%">
 <img src="/images/Sports%20Carnival%204.jpg" 
