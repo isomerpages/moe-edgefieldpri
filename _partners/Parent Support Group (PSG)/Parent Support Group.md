@@ -36,6 +36,8 @@ Follow us on [Instagram] to find out more about us and our activities. Help to 
 ![](/images/C_Library_03.jpg)
 ![](/images/English%20BR%201.jpg)
 ![](/images/English%20BR%202.jpg)
+![](/images/Gardens%20Outing%202019%20(1).jpg)
+
 
 <img src="/images/Sports%20Carnival%203.jpg" 
      style="width:70%">
