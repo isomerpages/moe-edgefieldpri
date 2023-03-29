@@ -37,3 +37,13 @@ I have been a parent volunteer since 2014. My family and I were new to Punggol a
 I started my volunteer journey with the English and Tamil Buddy Reading Programme. I found the programme to be rewarding and a valuable learning experience for me. It was gratifying to guide the younger children in their reading. As a volunteer and later an EXCO member, I enjoyed organising various activities with the school. It was wonderful to witness the care and attention that the teachers in Edgefield took to plan educational activities to pique children’s curiosity in learning.
 
 The teachers at Edgefield are very caring and committed towards the students. They are ever ready and willing to help if when parents reach out for assistance. My eldest daughter who is in Junior College now still fondly remembers her primary school teachers. This is the impact the teachers in Edgefield have on their students. My younger daughter is in her final year in Edgefield this year. I am grateful to both my children’s teachers for imparting valuable life lessons and helping them grow into well-rounded and caring individuals.
+
+**Name: Subha Kumaran <br>
+Child's Name: Surya Arunpirakash  <br>
+Class: 4 Grace **
+
+Edgefield Primary School has good programmes, interesting CCA choices, a friendly learning environment, approachable teachers, and a dedicated Principal. 
+
+My daughter, an ex-Edgefielder, still fondly remembers the two-night P4 camp she had participated in. The camp was well-organized and conducted, prioritizing the children’s health and safety. As an Edgefield alumni, she feels grateful for all the opportunities she was given, which allowed her to grow in confidence to showcase her talent and realize her full potential. My son, who is currently an Edgefielder, is also under the care and guidance of empathetic teachers. 
+
+Being a PSG member has helped me to be a part of various programmes the school offers for the holistic development of students. It has also helped me understand the education system and thus, has allowed for me to better support my children in their education journey. I would recommend Edgefield Primary School to my friends and family wholeheartedly.
