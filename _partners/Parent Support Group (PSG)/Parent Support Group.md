@@ -27,9 +27,30 @@ the school activities and everyone is welcome to come on board!
 
 Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ecn68jTPNjB8bl6F8lCKUcOQ2Y8geHieA/viewform?embedded=true)] to join our parent support group!
 
-![](/images/Sports%20Carnival%203.jpg)
-<br>![](/images/Sports%20Carnival%204.jpg)
-<br>![](/images/Sports%20Carnival%202.jpg)
-<br>![](/images/PSLE%20MSG.jpg)
-<br>![](/images/Workshop%202.jpeg)
-<br>![](/images/Workshop2.jpg)
+Follow us on [Instagram](https://instagram.com/efps_psg?igshid=YmMyMTA2M2Y=) to find out more about us and our activities. Help to insert a hyperlink for the underlined word please.
+
+<img src="/images/Buddy%20Reading%202.jpeg" 
+     style="width:70%">
+		 <img src="/images/Buddy%20Reading.jpeg" 
+     style="width:70%">
+		 <img src="/images/C_Library_03.jpg" 
+     style="width:70%">
+		 <img src="/images/English%20BR%201.jpg" 
+     style="width:70%">
+		 <img src="/images/English%20BR%202.jpg" 
+     style="width:70%">
+		 	 <img src="/images/English%20BR%203.jpg" 
+     style="width:70%">
+		  <img src="/images/English%20BR%204.jpg" 
+     style="width:70%">		 		 <img src="/images/Gardens%20Outing%202019%20(1).jpg" 
+     style="width:70%">
+<img src="/images/Sports%20Carnival%201.jpg" 
+     style="width:70%">
+<img src="/images/Sports%20Carnival%203.jpg" 
+     style="width:70%">
+<img src="/images/Sports%20Carnival%204.jpg" 
+     style="width:70%">		 	<img src="/images/Sports%20Carnival%202.jpg" 
+     style="width:70%">		<img src="images/PSLE%20MSG.jpg" 
+     style="width:70%">	 		 <img src="/images/Workshop%202.jpeg" 
+     style="width:70%">		 		 <img src="/images/Workshop2.jpg" 
+     style="width:70%">
