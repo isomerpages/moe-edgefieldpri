@@ -21,7 +21,7 @@ The themes and learning activities for the various levels are as follows:
 To ignite students’ interest in reading Mother Tongue language stories, we create many opportunities for students to read widely. We support them in learning by reading books of different genres, telling stories, role-playing and doing book reviews.
 
 <img src="/images/Reading%20Prog_01.jpeg" 
-     style="width:70%">		 
+     style="width:70%"> 
 		 <img src="/images/Reading%20Prog_02.jpeg" 
      style="width:70%">
 <img src="/images/Reading%20Prog_03.jpeg" 
