@@ -26,4 +26,3 @@ For students who need additional help with their Mother Tongues, Bridging and�
      style="width:70%">
 		 		 <img src="/images/Core%20Curriculum_MTL_04" 
      style="width:70%">
-		 
