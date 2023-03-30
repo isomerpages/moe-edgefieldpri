@@ -9,6 +9,5 @@ Our Science curriculum aims to inculcate the spirit of scientific inquiry in our
 
 <img src="/images/CoreCurriculum1.jpg" 
      style="width: 70%">
-		 <img src="/images/CoreCurriculum1.jpg" 
+		 <img src="/images/CoreCurriculum2.jpg" 
      style="width: 70%">
-		 
