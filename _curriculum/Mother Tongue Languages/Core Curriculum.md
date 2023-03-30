@@ -14,7 +14,13 @@ The offering of HMTL to Primary 3 and Primary 4 students will complement the exi
 Mother Tongue Support Programme <br>
 For students who need additional help with their Mother Tongues, Bridging and Mother Tongue Support Programme (MTSP) will be provided for Primary 1 to Primary 2 students and Primary 3 to Primary 4 respectively. These specialised early intervention programmes are conducted by trained school teachers, The programme focused on building stronger foundation in students' oracy and literacy skills. Classes involve hands-on activities demonstrating “the practical usefulness of the languages”. Interactive learning materials like picture cards help students learn more actively in small groups.
 
-![](/images/InkedCore%20Curriculum%201_CL.jpg)
-![](/images/Core%20Curriculum%201_ML.jpg)
-![](/images/Core%20Curriculum%201_TL.jpg)
-![](/images/Core%20Curriculum_MTL_03.jpeg)![](/images/Core%20Curriculum_MTL_04.jpeg)
+<img src="/images/InkedCore%20Curriculum%201_CL.jpg" 
+     style="width:70%">
+<img src="/images/Core%20Curriculum%201_ML.jpg" 
+     style="width:70%">
+<img src="/images/Core%20Curriculum%201_TL.jpg" 
+     style="width:70%">
+		 <img src="/images/Core%20Curriculum_MTL_03" 
+     style="width:70%">
+		 		 <img src="/images/Core%20Curriculum_MTL_04" 
+     style="width:70%">
