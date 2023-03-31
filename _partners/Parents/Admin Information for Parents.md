@@ -67,8 +67,6 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 
 \-&nbsp; [NPP Application Form for MOE SPED FAS](/files/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
 
-\-&nbsp; [NEU PC Plus IMDA FBB Svc Appl 2023](/files/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf)
-
 \-&nbsp;[Leave of Absence (LOA)](https://form.gov.sg/60c173e39bc0e400137a13ab)
 
 \-&nbsp;[Application for Waiting List](https://form.gov.sg/60c708afc1e7220011fe9978)
