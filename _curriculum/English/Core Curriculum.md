@@ -24,6 +24,8 @@ students.
 <img style="width:70%" src="/images/SBA1.jpg">
 <img style="width:70%" src="/images/Picture3.png">
 <img style="width:70%" src="/images/noticeboard1.jpg">
+<img style="width:70%" src="/images/extensive%20reading%201.jpg">
+
 
 Learning Support Programme
 ---------------------
