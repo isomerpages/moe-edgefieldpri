@@ -21,7 +21,7 @@ third_nav_title: English
 *   Primary 4: Persuasive Speaking
 *   Primary 5 &amp; 6: Debate Programme
 
-![](/images/EL8.png)
-![](/images/EL9.png)
-![](/images/EL10.png)
-![](/images/EL12.png)
+<img src="/images/EL8.png" style="width:70%">
+<img src="/images/EL9.png" style="width:70%">
+<img src="/images/EL10.png" style="width:70%">
+<img src="/images/EL12.png" style="width:70%">
