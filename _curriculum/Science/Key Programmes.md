@@ -22,10 +22,10 @@ In line with the Singapore Green Plan 2030, Hydroponics is introduced to the Pri
 <img style="width:70%" src="/images/key%20programs%20(p4)%20hydroponics.JPG">
 
 ### P4 - Exploring the life cycle of mealworm and butterfly
+Seeing is believing! Our Primary 4 students get to see how mealworms and butterflies transform from their young. 
 
-Seeing is believing! Our Primary 4 students get to see how mealworms and butterflies transform from their young.
+![](/images/key%20programs%20(p4)%20mealworm%20and%20butterfly.JPG)
 
-![](/images/sci5.jpeg)
 
 ### P5 - Science Investigative Project
 
