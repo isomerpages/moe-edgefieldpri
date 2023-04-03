@@ -45,5 +45,4 @@ In this learning journey, students get a chance to examine real specimens and le
 
 ### P6 - Talent Development Programme - E2K Science Programme Singapore
 
-In this learning journey, students get a chance to examine real specimens and learn more about the structural adaptations of various animals, including extinct animals. 
-
+This programme, designed for Primary 3, 4 and 5 students who demonstrate a deep interest and ability in Science, is filled with many scientific investigations involving advanced science concepts. The students are engaged in scientific inquiry which will develop the habits, attitudes and dispositions scientists possess. 
