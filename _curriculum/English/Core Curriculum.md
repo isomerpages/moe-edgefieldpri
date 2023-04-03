@@ -22,3 +22,4 @@ key strategies include Shared Book Approach (SBA), Close and Critical Reading, S
 students.
 
 <img style="width:70%" src="/images/SBA1.jpg">
+<img style="width:70%" src="/images/Picture3.png">
