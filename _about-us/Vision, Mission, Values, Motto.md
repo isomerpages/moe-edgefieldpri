@@ -22,12 +22,12 @@ description: ""
 
 ### Our School Motto  
 
-<img src="/images/edgefield-logo%20.jpeg" 
-     style="width:60%">
-#### ENDEAVOUR TO EXCEL 
+<img src="/images/edgefield-logo%20.jpeg" style="width:60%">
 
-**The logo** depicts the school community endeavouring to excel in all aspects of life - academically, socially, morally. The logo also depicts the school's theme which is to touch lives and in doing so the unity and solidarity of the school community comes through.
+#### ENDEAVOUR TO EXCEL&nbsp;
 
-**Maroon** is used to emphasize the warmth of the school's environment and people. It also highlights the importance placed on human relationships.
+**The logo**&nbsp;depicts the school community endeavouring to excel in all aspects of life - academically, socially, morally. The logo also depicts the school's theme which is to touch lives and in doing so the unity and solidarity of the school community comes through.
 
-**Cream** is used to symbolize purity, sincerity and harmony.
+**Maroon**&nbsp;is used to emphasize the warmth of the school's environment and people. It also highlights the importance placed on human relationships.
+
+**Cream**&nbsp;is used to symbolize purity, sincerity and harmony.
