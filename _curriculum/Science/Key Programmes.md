@@ -12,7 +12,8 @@ To cultivate a sense of inquiry in their quest for Science knowledge and in life
 
 Our eco-garden serves as the best learning place for our young students to learn observation and classification skills.
 
-![](/images/sci3.jpeg)
+<img style="width:70%" src="/images/key%20programs%20(p3).JPG">
+
 
 ### P4 - Experiential learning on hydroponics
 
