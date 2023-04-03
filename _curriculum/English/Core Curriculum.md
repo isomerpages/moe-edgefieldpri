@@ -34,7 +34,6 @@ LSP is a specialised early intervention programme that aims to provide additiona
 
 Reading Remediation Programme (RRP)
 -----------------------------------
-
 RRP is an intervention programme implemented at Primary 3 and 4. It aims to raise the reading competency of students who are not making sufficient progress in the development of literacy skills at the end of Primary 2 at the word and text levels and are not dyslexic. Its objectives are to enable students to fluently read and comprehend grade-level texts.
 
 School-based Dyslexia Remediation (SDR) Programme
