@@ -10,13 +10,8 @@ third_nav_title: English
 
 <img src="/images/How%20to%20read%20card.png" style="width:70%">
 		 
-**Partnership with NLB:**&nbsp;The Books-to-Go (BTG) is an initiative of the National Library Board to bring the library books to school, ensuring that all students have access to quality reading materials.
 
-<img src="/images/EL6.png" style="width:70%">
-<img src="/images/EL7.png" style="width:70%">
-
-
-**KidsREAD:**&nbsp;This is a structured programme aimed at supporting reading at Primary 1 and 2 with well-curated books and activities provided by NLB. The programme is implemented once a week after school for one hour.
+**KidsREAD:**&nbsp;This is a structured programme aimed at supporting  Primary 1 and 2 students with well-curated books and activities provided by NLB. The programme is implemented once a week after school for one hour.
 
 **PVLEGS©:**&nbsp;The following oracy programmes aim to develop every Edgefielder an empathetic communicator. Adopting Erik Palmer's Six Traits of Speaking©, Edgefielders familiarise themselves with Poise, Voice, Life, Eye contact, Gestures and Speed (PVLEGS©) as a guide to communicate effectively.
 
@@ -29,9 +24,6 @@ third_nav_title: English
 ![](/images/EL8.png)
 ![](/images/EL9.png)
 ![](/images/EL10.png)
-![](/images/Debate.jpg)
 
-**Joyful Writing Journey:**&nbsp;We celebrate our students’ voices in their writing through publications such as Big Books, Calendars, Poems and Voices.
 
 ![](/images/EL12.png)
-![](/images/EL13.png)
