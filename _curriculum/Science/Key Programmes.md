@@ -35,17 +35,15 @@ Through such experiences, our students will become:
 •	self-directed learners who question, reflect, persevere and take responsibility for their own learning; <br>
 •	active contributors who are able to work effectively in teams, are innovative, exercise initiative, take calculated risks and strive for excellence.  
 
-![](/images/key%20programs%20(p5)%20science%20investigative.JPG)
-
+<img style="width:70%" src="/images/key%20programs%20(p5)%20science%20investigative.JPG">
 
 ### P6 - Learning Journeys to Lee Kong Chian Natural History Museum
 
-In this learning journey, students get a chance to examine real specimens and learn more about the structural adaptations of various animals, including extinct animals.
+In this learning journey, students get a chance to examine real specimens and learn more about the structural adaptations of various animals, including extinct animals. 
 
-![](/images/sci7.jpeg)
+<img style="width:70%" src="/images/key%20programs%20(p6)%20adaptation.JPG">
 
 ### P6 - Talent Development Programme - E2K Science Programme Singapore
 
-This programme, designed for Primary 4 and 5 students who demonstrate a deep interest and ability in Science, is filled with many scientific investigations involving advanced science concepts. The students are engaged in scientific inquiry which will develop the habits, attitudes and dispositions scientists possess.
+In this learning journey, students get a chance to examine real specimens and learn more about the structural adaptations of various animals, including extinct animals. 
 
-![](/images/sci8.jpeg)
