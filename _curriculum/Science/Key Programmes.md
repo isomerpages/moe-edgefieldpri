@@ -29,15 +29,14 @@ Seeing is believing! Our Primary 4 students get to see how mealworms and butterf
 
 ### P5 - Science Investigative Project
 
-After two years of exposure to Science concepts and experiments, the Primary 5 students are now ready to carry out their own investigative projects. Students research on questions related to real life situations.  
-  
+After two years of exposure to Science concepts and experiments, the Primary 5 students are now ready to carry out their own investigative projects. Students research on questions related to real life situations and conduct their experiments to find answers. 
 
-Through such experiences, our students will become:
+Through such experiences, our students will become:  
+•	self-directed learners who question, reflect, persevere and take responsibility for their own learning; <br>
+•	active contributors who are able to work effectively in teams, are innovative, exercise initiative, take calculated risks and strive for excellence.  
 
-*   self-directed learners who question, reflect, persevere and take responsibility for their own learning;
-*   active contributors who are able to work effectively in teams, are innovative, exercise initiative, take calculated risks and strive for excellence.
+![](/images/key%20programs%20(p5)%20science%20investigative.JPG)
 
-![](/images/sci6.jpeg)
 
 ### P6 - Learning Journeys to Lee Kong Chian Natural History Museum
 
