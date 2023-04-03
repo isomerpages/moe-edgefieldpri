@@ -24,6 +24,4 @@ third_nav_title: English
 ![](/images/EL8.png)
 ![](/images/EL9.png)
 ![](/images/EL10.png)
-
-
 ![](/images/EL12.png)
