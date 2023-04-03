@@ -6,12 +6,11 @@ third_nav_title: Science
 ---
 ### Inquiry-Based Science Programmes  
 
-To cultivate a sense of inquiry in their quest for Science knowledge and in life, we design and specially hands-on experiences for students to explore, experience, experiment and investigate.
+To cultivate a sense of inquiry in their quest for Science knowledge and in life, we design hands-on experiences for students to explore, experience, experiment and investigate. 
 
 ### P3 - Gardening @ The Edge
 
-
-To cultivate a sense of inquiry in their quest for Science knowledge and in life, we design and specially hands-on experiences for students to explore, experience, experiment and investigate.
+Our eco-garden serves as the best learning place for our young students to learn observation and classification skills.
 
 ![](/images/sci3.jpeg)
 
