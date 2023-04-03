@@ -24,3 +24,8 @@ students.
 <img style="width:70%" src="/images/SBA1.jpg">
 <img style="width:70%" src="/images/Picture3.png">
 <img style="width:70%" src="/images/noticeboard1.jpg">
+
+Learning Support Programme
+---------------------
+
+LSP is a specialised early intervention programme that aims to provide additional support in language and literacy skills in Primary 1 and 2. Students are identified through the Early Literacy Indicators, a group screening instrument developed by MOE, at the beginning of each year. Support in LSP is delivered through a daily withdrawal teaching programme conducted by specially trained teachers. Lessons are held daily for 30 minutes.
