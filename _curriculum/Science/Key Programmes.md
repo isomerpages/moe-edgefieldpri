@@ -43,6 +43,6 @@ In this learning journey, students get a chance to examine real specimens and le
 
 <img style="width:70%" src="/images/key%20programs%20(p6)%20adaptation.JPG">
 
-### Primary 6 - Talent Development Programme - E2K Science Programme Singapore
+### E2K Science Programme Singapore
 
-This programme, designed for Primary 3, 4 and 5 students who demonstrate a deep interest and ability in Science, is filled with many scientific investigations involving advanced science concepts. The students are engaged in scientific inquiry which will develop the habits, attitudes and dispositions scientists possess.
+This programme, designed for Primary 3, 4 and 5 students who demonstrate a deep interest and ability in Science, is filled with many scientific investigations involving advanced science concepts. The students are engaged in scientific inquiry which will develop the habits, attitudes and dispositions scientists possess. 
