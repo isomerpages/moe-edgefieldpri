@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT/.keep
       - Assessment Plans.md
       - English/.keep
       - English/Core Curriculum.md
@@ -24,6 +23,7 @@ collections:
       - Mother Tongue Languages/Events.md
       - Mother Tongue Languages/Broadcasting Programme.md
       - Mother Tongue Languages/Useful Links.md
+      - ICT/.keep
       - Physical Education/.keep
       - Physical Education/Core Curriculum.md
       - Physical Education/Key Programmes.md
@@ -34,8 +34,8 @@ collections:
       - Aesthetics/Key Programmes.md
       - Aesthetics/Events.md
       - Aesthetics/Useful Links.md
+      - CCE curriculum/.keep
       - CCE curriculum/Values Driven Initiatives.md
       - CCE curriculum/NE Commemorative Events.md
-      - CCE curriculum/.keep
       - CCE curriculum/Character & Citizenship Education.md
       - CCE curriculum/Key Programmes.md
