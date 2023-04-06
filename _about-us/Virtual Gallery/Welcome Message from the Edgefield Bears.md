@@ -4,6 +4,8 @@ permalink: /about-us/Virtual-Gallery/welcome-message-from-the-edgefield-bears/
 description: ""
 third_nav_title: Virtual Gallery
 ---
+![](/images/edgefield%20bear.png)
+
 "Hello everyone! Welcome to Edgefield Primary School! I am Eddie and this is my classmate, Gennie! We are the Edgefield Bears!  
 
 We were born on 17 July 2011 in time for Edgefield Primary's 10th Anniversary. Concurrently, our students don the new school uniform that year.  Gennie and I had the honour to be among the first few Edgefielders to don the uniform. We were so excited as the new uniform was trendy, sporty and it immediately won the hearts of all our stakeholders. The polo tee shirt was made from breathable fabric which can absorb sweat. Thus, it kept us cool throughout the day.
