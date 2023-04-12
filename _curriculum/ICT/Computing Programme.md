@@ -1,6 +1,6 @@
 ---
 title: Computing Programme
-permalink: /curriculum/ict/permalink/
+permalink: /curriculum/ict/computing-programme/
 description: ""
 third_nav_title: ICT
 ---

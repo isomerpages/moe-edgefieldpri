@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /curriculum/ict/permalink/
+permalink: /curriculum/ict/cyberwellness/
 description: ""
 third_nav_title: ICT
 ---
