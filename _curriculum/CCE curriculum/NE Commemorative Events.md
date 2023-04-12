@@ -17,3 +17,8 @@ International Friendship Day aims to sensitise our students towards the geo-poli
 
 ![](/images/CCE5.jpeg)
 ![](/images/CCE6.jpeg)
+
+### National Day
+Celebrated on 9 August annually, National Day marks our independence from Malaysia in 1965. It is also a platform for students to come together to celebrate the nation's milestones and achievements while rallying ourselves in preparation for the future.
+
+![](/images/CCE7.png)
