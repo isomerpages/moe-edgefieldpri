@@ -33,7 +33,7 @@ Our student leaders receive feedback during dialogue sessions and regular check-
 Student leaders are empowered to lead through various leadership opportunities that allow them to **M**odel the way, **I**nspire a shared vision, **C**hallenge current processes, **E**ncourage the heart and **E**nable others to act (**MICEE**).
 
 ### Prefects' Investiture
-
+![](/images/prefects%20investiture.jpg)
 
 ### Leadership Empowerment Day (LED)
 
