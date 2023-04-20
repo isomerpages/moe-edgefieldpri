@@ -119,11 +119,11 @@ low_hui_lin_doreen@moe.edu.sg
 
 <td><font size="4" face="arial, sans-serif">1 Love</font></td>
 
-<td><font size="4" face="arial, sans-serif">Mrs Lim Gui Hao  
+<td><font size="4" face="arial, sans-serif">Mdm Yeo  
 <span lang="EN-SG" class=""><br>Mr Tam Joon Chze</span>  
 </font></td>
 
-<td><font size="4" face="arial, sans-serif">lim_gui_hao@moe.edu.sg  
+<td><font size="4" face="arial, sans-serif">jessie_yeo_buay_joo 
 tam_joon_chze@moe.edu.sg  
 </font></td>
 
@@ -135,11 +135,11 @@ tam_joon_chze@moe.edu.sg
 
 </font></td>
 
-<td><font face="arial, sans-serif"><font size="4"><span lang="EN-SG" class=""></span>Mdm Wang Seow Yann  
+<td><font face="arial, sans-serif"><font size="4"><span lang="EN-SG" class=""></span>Mrs Lim Gui Hao  
 <br>Mrs Catherine Arumugam  
 </font></font></td>
 
-<td><font face="arial, sans-serif" size="4"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>wang_seow_yann@moe.edu.sg  
+<td><font face="arial, sans-serif" size="4"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>lim_gui_hao@moe.edu.sg  
 <font color="#444444">a_catherine@moe.edu.sg</font>  
 </font></td>
 
