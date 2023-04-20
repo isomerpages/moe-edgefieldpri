@@ -123,7 +123,7 @@ low_hui_lin_doreen@moe.edu.sg
 <span lang="EN-SG" class=""><br>Mr Tam Joon Chze</span>  
 </font></td>
 
-<td><font size="4" face="arial, sans-serif">jessie_yeo_buay_joo 
+<td><font size="4" face="arial, sans-serif">jessie_yeo_buay_joo@moe.edu.sg  
 tam_joon_chze@moe.edu.sg  
 </font></td>
 
