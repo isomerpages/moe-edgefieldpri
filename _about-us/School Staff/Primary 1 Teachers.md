@@ -131,8 +131,7 @@ tam_joon_chze@moe.edu.sg
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif">1 Patience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-
+<td><font size="4" face="arial, sans-serif">1 Patience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </font></td>
 
 <td><font face="arial, sans-serif"><font size="4"><span lang="EN-SG" class=""></span>Mrs Lim Gui Hao  
