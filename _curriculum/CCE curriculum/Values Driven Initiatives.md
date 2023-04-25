@@ -1,6 +1,6 @@
 ---
 title: Values Driven Initiatives
-permalink: /curriculum/cce-curriculum/permalink/
+permalink: /curriculum/cce-curriculum/values-driven-initiatives/
 description: ""
 third_nav_title: CCE curriculum
 ---

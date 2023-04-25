@@ -1,6 +1,6 @@
 ---
 title: Teaching and Learning Curriculum
-permalink: /curriculum/cce-curriculum/permalink/
+permalink: /curriculum/cce-curriculum/teaching-learning/
 description: ""
 third_nav_title: CCE curriculum
 ---

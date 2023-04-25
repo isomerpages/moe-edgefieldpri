@@ -69,6 +69,7 @@ may <span class="">click </span></span><span style="background-color: initial;" 
 Sexuality Education.</span>&nbsp;</span></p>
 </div></span></span></font>
 </div>
+<br>
 <div class=""><p><font face="arial, sans-serif" size="4"><b>Overview of Edgefield Primary School’s Sexuality Education Programme for 2023</b></font></p><font size="4" face="arial, sans-serif">
 <div style="text-align: justify;"><span style="background-color: initial;">4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click </span><a style="background-color: initial;" target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a><span style="background-color: initial;"> (</span><span style="background-color: initial;">for more information on the scope of Sexuality Education in the school curriculum.</span>
 </div>
@@ -352,8 +353,7 @@ mso-layout-grid-align:none;text-autospace:none" class="MsoNormal"><font size="4"
   infatuation and recognise the importance of respecting the boundaries of any
   relationship. They will also recognise the negative impact of teasing their
   peers who may be experiencing the feelings of infatuation and learn to behave
-  maturely towards each other.</font></span></p>
-  
+  maturely towards each other.</font></span></p>  
 </td>
   
 <td class="" width="208">
@@ -399,102 +399,7 @@ mso-layout-grid-align:none;text-autospace:none" class="MsoNormal"><font size="4"
 </div>
 </div>
 </div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
-<div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
-</div>
+
 <div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
 </div>
 <div class=""><font size="4" face="arial, sans-serif"><b><u><br></u></b></font>
@@ -507,9 +412,7 @@ mso-layout-grid-align:none;text-autospace:none" class="MsoNormal"><font size="4"
 </div><p style="text-align:justify;text-justify:inter-ideograph"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:&quot;Times New Roman&quot;;
 mso-bidi-font-weight:bold" lang="EN-GB"></span></p>
 <div class="">
-<div><p style="text-align:justify;text-justify:inter-ideograph"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:&quot;Times New Roman&quot;;
-mso-bidi-font-weight:bold" lang="EN-GB"></span></p>
-</div>
+
 <div>
 <div align="center">
 </div>

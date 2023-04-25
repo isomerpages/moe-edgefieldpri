@@ -1,6 +1,6 @@
 ---
 title: NE Commemorative Events
-permalink: /curriculum/cce-curriculum/permalink/
+permalink: /curriculum/cce-curriculum/ne-commemorative-events/
 description: ""
 third_nav_title: CCE curriculum
 ---
