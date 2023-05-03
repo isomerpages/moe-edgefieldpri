@@ -119,7 +119,7 @@ low_hui_lin_doreen@moe.edu.sg
 
 <td><font size="4" face="arial, sans-serif">1 Love</font></td>
 
-<td><font size="4" face="arial, sans-serif">Mdm Yeo  
+<td><font size="4" face="arial, sans-serif">Mdm Jessie Yeo  
 <span lang="EN-SG" class=""><br>Mr Tam Joon Chze</span>  
 </font></td>
 
