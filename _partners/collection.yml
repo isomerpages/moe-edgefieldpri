@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents/School Canteen Advertisement.md
       - Parents/.keep
       - Parents/Meet the Parents Session 2023.md
       - Parents/Admin Information for Parents.md
