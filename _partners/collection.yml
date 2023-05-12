@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/School Bus Service.md
-      - Parents/School Bus Advertisement.md
       - Parents/School Canteen Advertisement.md
       - Parents/.keep
       - Parents/Meet the Parents Session 2023.md
