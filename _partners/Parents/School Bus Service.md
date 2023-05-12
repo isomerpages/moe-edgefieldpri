@@ -4,3 +4,8 @@ permalink: /partners/parents/school-bus-service/
 description: ""
 third_nav_title: Parents
 ---
+Edgefield Primary School Bus Operator : Ting Transport
+
+Telephone : 91901884
+
+ 
