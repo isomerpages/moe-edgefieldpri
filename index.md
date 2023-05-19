@@ -6,6 +6,5 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
-  - hero:
-      background: /images/carousel4.gif
+  - hero: {}
 ---
