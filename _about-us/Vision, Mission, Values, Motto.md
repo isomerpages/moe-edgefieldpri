@@ -3,7 +3,7 @@ title: Vision, Mission, Values, Motto
 permalink: /about-us/vision-mission-values-motto/
 description: ""
 ---
-### Our School Mission
+### Our School Vision
 
 ##### **Lives Empowered, Lives Touched**
 
