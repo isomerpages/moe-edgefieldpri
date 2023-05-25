@@ -53,7 +53,7 @@ Contact Person: Henry Ting: 91901884
 
 ### Insurance
 
-As part of our student well-being efforts, the school has purchased insurance to provide basic coverage for our students in case of accidents.&nbsp; You may refer to the NTUC Income&nbsp;**[website](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students)**&nbsp;for the policy coverage and benefits.&nbsp; In the event of any claim, you have to do e-submission [https://studentgpa.incomegroupins.com.sg]([**click here**])of your claim through their website.&nbsp; No login user or password is required. If you need higher coverage for your child, please arrange a separate policy from your preferred insurer.
+As part of our student well-being efforts, the school has purchased insurance to provide basic coverage for our students in case of accidents.&nbsp; You may refer to the NTUC Income&nbsp;**[website](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students)**&nbsp;for the policy coverage and benefits.&nbsp; In the event of any claim, you have to do e-submission [(click here)](https://studentgpa.incomegroupins.com.sg)  of your claim through their website.&nbsp; No login user or password is required. If you need higher coverage for your child, please arrange a separate policy from your preferred insurer.
 
 ### Forms
 With effect from this year, parents have 2 options to apply for MOE FAS:
