@@ -100,11 +100,11 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Wisdom</font></td>
+<td><font color="#444444" face="arial, sans-serif" size="4">5 Wisdom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
 
 <td><font color="#444444" size="4" face="arial, sans-serif">Ms&nbsp;Ling Yuan<br></font> <font size="4" face="arial, sans-serif">Mr Muhammad Azhari</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">ling_yuan@moe.edu.sg muhammad_azhari_shahri@moe.edu.sg</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">ling_yuan@moe.edu.sg muhammad_azhari_shahri@moe.edu.sg&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
 
 <td></td>
 
