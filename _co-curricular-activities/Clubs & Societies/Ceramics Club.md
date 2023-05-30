@@ -22,11 +22,11 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
-    <td class="tg-u05r">Activities conducted during the CCA sessions are geared towards character building and inculcating the values of team spirit, integrity and perseverance.<br><br>Team building activities form an integral part of the CCA as members find meaning through interactions with the other members and their interdependence on each other to achieve a set task.<br><br>During debriefing time conducted at the end of each activity or CCA session, members are given the opportunity to discuss about issues that arise during the activities. Problem-solving, perseverance and gratitude are examples of the debrief focus.<br></td>
+    <td class="tg-u05r">Activities conducted during the CCA sessions are geared towards character building and inculcating the values of team spirit, integrity and perseverance.<br><br>Team building activities form an integral part of the CCA as members find meaning through interactions with the other members and their interdependence on each other to achieve a set task.<br><br>During debriefing time conducted at the end of each activity or CCA session, members are given the opportunity to discuss about issues that arise during the activity or session. Problem-solving, perseverance and gratitude are some examples of the debrief focus.<br></td>
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Ceramics Club leaders are empowered to hand hold the juniors in some activities. They are also required to host and showcase their art works during the annual CCA open house. This provides the opportunity to hone their leadership skills.</td>
+    <td class="tg-u05r">Ceramics Club leaders are empowered to hand-hold the juniors in some activities. They are also required to host and showcase their art works during the annual CCA open house. This provides the opportunity to hone their leadership skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
