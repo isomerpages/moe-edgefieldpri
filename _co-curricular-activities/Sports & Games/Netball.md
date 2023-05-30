@@ -14,7 +14,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r">The junior and senior teams train twice a week to prepare for the annual North Zone and National Primary Schools Netball Championships. The teams undergo rigorous physical training which develops competent netball skills and keen mental skills.  </td>
+    <td class="tg-u05r">The junior and senior teams train twice a week to prepare for the annual North Zone and National Primary Schools Netball Championships. The teams undergo rigorous physical training which help to develop competent netball skills and keen mental skills.  </td>
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
