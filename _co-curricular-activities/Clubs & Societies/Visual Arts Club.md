@@ -14,7 +14,7 @@ third_nav_title: Clubs & Societies
 <tbody>
   <tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r">CCA members get to experience creating art in different art forms during the year.  Members get the opportunity to go on learning journeys to art museums or art exhibitions.  These learning journeys expose them to a variety of different art movements or styles.  These allow them to develop a sense of better sense of aesthetics. </td>
+    <td class="tg-u05r">CCA members get to experience creating art in different art forms during the year.  Members get the opportunity to go on learning journeys to art museums or art exhibitions.  These learning journeys expose them to a variety of different art movements or styles.  These allow them to develop a better sense of aesthetics. </td>
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
