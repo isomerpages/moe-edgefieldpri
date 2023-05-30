@@ -27,7 +27,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-liiy">Empowering leaders and talents</td>
-    <td class="tg-539o">Photography Club leaders are empowered to lead logistics processes and maintenance of equipment during CCA  thereby developing a sense of discipline. They are also given opportunity to guide members from the junior class during shoots to hone their leadership skills.<br><br>Selected members are selected to take part in various national photography competitions to gain exposure, build confidence and exercise integrity.<br><br>All club members will be given opportunity to cover school events to develop team spirit, confidence and discipline.</td>
+    <td class="tg-539o">Photography Club leaders are empowered to lead logistics processes and maintenance of equipment during CCA  thereby developing a sense of discipline. They are also given opportunity to guide members from the junior class during photoshoots to hone their leadership skills.<br><br>Selected members are invited to take part in various national photography competitions to gain exposure, build confidence and exercise integrity.<br><br>All club members will be given opportunity to cover school events to develop team spirit, confidence and discipline.</td>
   </tr>
   <tr>
     <td class="tg-liiy">CCA Teachers</td>
