@@ -15,8 +15,8 @@ third_nav_title: Clubs & Societies
 <tbody>
   <tr>
     <td class="tg-liiy">Experiences</td>
-    <td class="tg-539o">Cub Scouts have three progress levels to achieve from Primary 3 to Primary 6:<br>1.       Bronze Arrow Badge<br>2.       Silver Arrow Badge<br>3.       Gold Arrow Badge<br> <br>The highest award is the Akela Award which will require Cubs to complete their Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and attend an interview with the District Commissioner. <br>One of the yearly core activities is Job Week. There are 43 proficiency badges, of which our school will definitely help our Cubs to achieve are First Aider, Road Safety, Swimmer and Camper. National Campaign badges like Young Aviator Level 1 &amp; 2 and Young Mariner Level 1 &amp; 2.</td>
-  </tr>
+    <td class="tg-539o">CCA members go through modules during the year:<br>1.   Camera Care and Handling<br>2.   Composition Techniques<br>3.   Camera Settings and Functions<br>4.   Understanding Light and Shadows in Photography<br>5.   Introduction to Editing Softwares<br>6.   Photojournalism<br>7.   Event Photography<br>8.   Thematic Photography<br>9.   Studio Photography<br><br>Members further hone their interest for photography by going on a learning journey at least once per semester. They would build their personal portfolio through these experiences.<!--</td-->
+  </td></tr>
   <tr>
     <td class="tg-liiy">Developing our students</td>
     <td class="tg-539o">CCA sessions take the form of Opening Ceremony, activities for progress badges (45mins to an hour), followed by games and songs. Sessions typically concludes with a Closing Ceremony. <br>Our Sixers and Assistant Sixers take turns to conduct the opening ceremony while other Cubs take turns to lead games and songs. Cubs develop a sense of pride and have opportunities to engage their peers.</td>
