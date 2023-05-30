@@ -14,7 +14,7 @@ third_nav_title: Clubs & Societies
 <tbody>
   <tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r">CCA members will master the 4 different techniques during the year:<br>1.   Coiling<br>2.   Pinching<br>3.   Slabbing<br>4.   Hollowing<br><br>Members will get to know the different types of clay and have fun exploring their creativity in clay modelling. They will practise on simple clay structure moulding to express their creativity, exposed to basic theory of glazing and applications. Other than getting a chance to create multi-functional ceramic pieces, members will get a chance to choose from the myriad of glazes to glaze their works and to take them home after firing.<br></td>
+    <td class="tg-u05r">CCA members will master the 4 different techniques during the year:<br>1.   Coiling<br>2.   Pinching<br>3.   Slabbing<br>4.   Hollowing<br><br>Members will get to know the different types of clay and have fun exploring their creativity in clay modelling. They will practise on simple clay structure moulding to express their creativity and be exposed to basic theory of glazing and applications. Other than getting a chance to create multi-functional ceramic pieces, members will get a chance to choose from the myriad of glazes to glaze their works and to take them home after firing.<br></td>
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
