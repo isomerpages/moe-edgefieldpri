@@ -18,11 +18,11 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members will learn to program their own interactive stories, games, and animations.  Thy can also share their creations with others in the online community.  Scratch helps CCA members to learn to think creatively, reason systematically, and work collaboratively.  These are essential skills for life in the 21st century.</td>
+    <td class="tg-u05r">During CCA sessions, members will learn to program their own interactive stories, games and animations.  They can also share their creations with others in the online community.  SCRATCH helps CCA members to learn to think creatively, reason systematically and work collaboratively.  These are essential skills for life in the 21st century.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
-    <td class="tg-u05r">Activities conducted during the CCA sessions are geared towards character building and inculcating the values of team spirit, integrity and empathy.<br>The ability to code computer programs is an important part of literacy in today’s society. When people learn to code in Scratch, they learn important strategies for solving problems, designing projects, and communicating ideas. CCA members work collaboratively as a team to imagine and create these ideas to become reality online <br>CCA members also work closely with the Cyberwellness and AVA team to gain more experience and insights with the digital world.</td>
+    <td class="tg-u05r">Activities conducted during the CCA sessions are geared towards character building and inculcating the values of team spirit, integrity and empathy.<br>The ability to code computer programs is an important part of literacy in today’s society. When people learn to code in SCRATCH, they learn important strategies for solving problems, designing projects and communicating ideas. CCA members work collaboratively as a team to imagine and create these ideas to become reality online. <br>CCA members also work closely with the Cyberwellness and AVA teams to gain more experiences and insights with the digital world.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents<br> </td>
