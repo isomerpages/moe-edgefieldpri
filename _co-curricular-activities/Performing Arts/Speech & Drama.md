@@ -34,10 +34,3 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eNNJ9DSPx_M" height="315" width="560"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hGo_M-dJyUE" height="315" width="560"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4oiZLIRkMXI" height="315" width="560"></iframe>
-
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqbUgUng39X7XOC7v9lZ_5astEA2jpHlbGkfWyjZ2o-gd6WEaTDHbRARtl1PR8Z4YFwR4VvpK7LZVL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
