@@ -18,7 +18,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members acquire valuable hands on experience of clay modelling. As there are several different methods for shaping clay to make ceramic items, members will be taught which techniques to apply when creating the different ceramic items like dishes, vases, tiles, and figurines.<br></td>
+    <td class="tg-u05r">During CCA sessions, members acquire valuable hand- on- experiences of clay modelling. As there are several different methods for shaping clay to make ceramic items, members will be taught which techniques to apply when creating the different ceramic items like dishes, vases, tiles and figurines.<br></td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
