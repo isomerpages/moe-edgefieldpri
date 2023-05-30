@@ -3,8 +3,7 @@ title: Student Care
 permalink: /partners/student-care/
 description: ""
 ---
-<img src="/images/student%20care.jpeg" 
-     style="width:65%">
+<img src="/images/student%20care.jpeg" style="width:65%">
 		 
 ### Welcome to Whee!Canopus
 
@@ -12,7 +11,7 @@ We are a premier school-based Student Care Centre (SCC) of choice that strives f
 
 Equipped with more than 10 years of experience, well-trained teachers and robust curriculum, we host a place where the brightest stars shine.
 
-Our company, MERCU Learning Point has also established itself as one of the leading partners for Student Care services at primary schools. We believe in establishing a collaborative environment with parents and schools. A strong partnership is an important catalyst in the development of our children.
+Our company, MERCU Learning Point, has also established itself as one of the leading partners for Student Care services at primary schools. We believe in establishing a collaborative environment with parents and schools. A strong partnership is an important catalyst in the development of our children.
 
   
 
