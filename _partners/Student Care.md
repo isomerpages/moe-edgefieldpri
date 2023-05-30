@@ -55,7 +55,7 @@ Whee!Canopus facilitates the learning and holistic development of students throu
 
 Our students will have more to look forward to as we have lined up new and improved programmes to aid them towards becoming well-rounded individuals.
 
-Another bonus not to be missed, are the ad-hoc enrichment programmes that are fully funded by Whee!Canopus, to ensure that every student is given the same opportunity to embrace new skills.
+Another bonus not to be missed is the ad-hoc enrichment programmes that are fully funded by Whee!Canopus to ensure that every student is given the same opportunity to embrace new skills.
 
 ![](/images/studentcare1.jpeg)
 
