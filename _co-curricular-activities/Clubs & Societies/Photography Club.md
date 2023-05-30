@@ -8,7 +8,7 @@ third_nav_title: Clubs & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-liiy">Photography Club</th>
+    <th class="tg-liiy">About Photography Club</th>
     <th class="tg-539o">Photography Club aims to nurture students to develop keen observation skills of their space and environment, using photography as a medium to tell their story and communicate their ideas. The CCA sessions are based on each child’s talent level, with Intermediate Photography class on Tuesdays, 2.00 – 3.30pm and Basic Photography class on Fridays, 2.00 – 3.30pm. Students are given opportunities to take photos in studio settings, outdoors within the school vicinity and during planned learning journeys in different parts of Singapore.<br></th>
   </tr>
 </thead>
