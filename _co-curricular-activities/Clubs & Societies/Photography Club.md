@@ -19,19 +19,19 @@ third_nav_title: Clubs & Societies
   </td></tr>
   <tr>
     <td class="tg-liiy">Developing our students</td>
-    <td class="tg-539o">CCA sessions take the form of Opening Ceremony, activities for progress badges (45mins to an hour), followed by games and songs. Sessions typically concludes with a Closing Ceremony. <br>Our Sixers and Assistant Sixers take turns to conduct the opening ceremony while other Cubs take turns to lead games and songs. Cubs develop a sense of pride and have opportunities to engage their peers.</td>
+    <td class="tg-539o">During CCA sessions, members acquire a basic understanding of a digital camera features and handling. They get to familiarise with the different camera modes and how each setting is chosen to create an intended effect. Members are given opportunities to learn and develop the ‘eye’ in shooting quality pictures.<br><br>They then apply technical skills to shoot photographs representing several themes. Members also learn basic photo editing skills using Adobe Lightroom software or available free online software, with integration of design elements in photos.</td>
   </tr>
   <tr>
     <td class="tg-liiy">Growing hearts and minds</td>
-    <td class="tg-539o">A feature of activities conducted is to ignite enthusiasm and teamwork within the Pack. Cubs develop resilience through continuous practice and repeated attempts to ensure the completion of given tasks. <br>During Sixer-in-council with the teachers, Sixers and Assistant Sixers are given time to discuss about issues that arise during the activities, and areas for improvement. Problem-solving, resilience, teamwork and initiative are examples of the discussion focus.</td>
+    <td class="tg-539o">Activities conducted during the CCA sessions are geared towards character building and inculcating the values of team spirit, integrity and empathy.<br><br>CCA members develop respect and empathy while exercising integrity and discipline during photoshoots, where they learn to find meaning through storytelling.<br><br>Members are given the opportunity to discuss about issues that arise during activities and learn to problem-solve with one another.</td>
   </tr>
   <tr>
     <td class="tg-liiy">Empowering leaders and talents</td>
-    <td class="tg-539o">Cubs who display leadership and responsibility are selected to attend Area and National Camps. After which, they will be appointed as Sixers and Assistant Sixers to lead a pack of 6.<br>Other Cubs who display courage and leadership qualities have been identified as assembly commanders and flag raisers for Fridays’ morning assembly, working alongside the Prefects.</td>
+    <td class="tg-539o">Photography Club leaders are empowered to lead logistics processes and maintenance of equipment during CCA, developing a sense of discipline. They are also given opportunity to guide members from the junior class during shoots to hone their leadership skills.<br><br>Selected members are selected to take part in various national photography competitions to gain exposure, build confidence and exercise integrity.<br><br>All club members will be given opportunity to cover school events to develop team spirit, confidence and discipline.</td>
   </tr>
   <tr>
     <td class="tg-liiy">CCA Teachers</td>
-    <td class="tg-539o">Ms Tay Ru Jun (Teacher-in-charge)<br>Ms Judith Goh<br>Mdm Salimah<br>Mr Duane</td>
+    <td class="tg-539o">Ms Azlin Mustaffa(Teacher-in-charge)<br>Miss Angela Koh Min Min<br>Mdm Zhang Fu Lei<br></td>
   </tr>
 </tbody>
 </table>
