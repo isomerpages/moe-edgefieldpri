@@ -36,4 +36,4 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIqddTz65bHQ39F8kQwF_dEYEv30PaJghGihCetSWpwQ7MPF5uUb54NMGiAGzMjrUJRY6VsuZyYMcV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdtDleu7xouq2-pfhNC_eKhdxQ_5DAFML4MUas4Pgg8eLK8lwdp21vOfKMTAIeEpsxdx6sjyI_sNgf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
