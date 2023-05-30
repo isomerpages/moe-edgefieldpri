@@ -18,15 +18,15 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members begin to learn the basic footwork and progress to learn the level one rope skipping skills. The members will advance to level two and level 3 skills once they are more familiar and experience in their level one skills.</td>
+    <td class="tg-u05r">During CCA sessions, members begin to learn the basic footwork and progress to learn level one rope skipping skills. The members will advance to level two and level three skills once they are more familiar and experience in their level one skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
-    <td class="tg-u05r">Rope Skipping CCA focuses on character building and inculcating the values of team spirit, integrity and empathy. The CCA develops the pupils’ leadership skills. <br>The CCA leaders in Rope Skipping CCA are good role models for the juniors. They would mentor and guide the juniors in the CCA, setting a good examples for the junior to follow. <br>The members are inspired to works towards a shared vision The members motivate each other through sharing and listening to work towards a common goal of achieving awards in the competitions. They learn to persevere as they challenge the process of their own ability to learn a certain level of rope skipping skill. </td>
+    <td class="tg-u05r">Rope Skipping CCA focuses on character building and inculcating the values of team spirit, integrity and empathy. The CCA develops the pupils’ leadership skills. <br>The CCA leaders in Rope Skipping CCA are good role models for the juniors. They mentor and guide the juniors in the CCA by setting good examples for the juniors to follow. <br>The members are inspired to works towards a shared vision. The members motivate one another through sharing and listening to work towards a common goal of achieving awards in the competitions. They learn to persevere as they challenge the process of their own abilities to learn a certain level of rope skipping skill. </td>
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Rope skipping members enables others to act and encourage the hearts of their team members. The members will cheer each other on during competitions, teach each other to learn a new skill and motivate each other through words of encouragement. The members support each other and grow with each other in the CCA. </td>
+    <td class="tg-u05r">Rope skipping members enable others to act and encourage the hearts of their team members. The members will cheer one another on during competitions, teach each other to learn a new skill and motivate each other through words of encouragement. The members support each other and grow with each other in the CCA. </td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
