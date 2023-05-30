@@ -15,11 +15,11 @@ third_nav_title: Clubs & Societies
 <tbody>
   <tr>
     <td class="tg-liiy">Experiences</td>
-    <td class="tg-539o">CCA members go through the following modules during the year:<br>1.   Camera Care and Handling<br>2.   Composition Techniques<br>3.   Camera Settings and Functions<br>4.   Understanding Light and Shadows in Photography<br>5.   Introduction to Editing Softwares<br>6.   Photojournalism<br>7.   Event Photography<br>8.   Thematic Photography<br>9.   Studio Photography<br><br>Members further hone their interest for photography by going on a learning journey at least once per semester. They would build their personal portfolio through these experiences.<!--</td-->
+    <td class="tg-539o">CCA members go through the following modules during the year:<br>1.   Camera Care and Handling<br>2.   Composition Techniques<br>3.   Camera Settings and Functions<br>4.   Understanding Light and Shadows in Photography<br>5.   Introduction to Editing Softwares<br>6.   Photojournalism<br>7.   Event Photography<br>8.   Thematic Photography<br>9.   Studio Photography<br><br>Members further hone their interest for photography by going on a learning journey at least once per semester. They will be able build their personal portfolio through these experiences.<!--</td-->
   </td></tr>
   <tr>
     <td class="tg-liiy">Developing our students</td>
-    <td class="tg-539o">During CCA sessions, members acquire a basic understanding of a digital camera features and handling. They get to familiarise with the different camera modes and how each setting is chosen to create an intended effect. Members are given opportunities to learn and develop the ‘eye’ in shooting quality pictures.<br><br>They then apply technical skills to shoot photographs representing several themes. Members also learn basic photo editing skills using Adobe Lightroom software or available free online software, with integration of design elements in photos.</td>
+    <td class="tg-539o">During CCA sessions, members acquire a basic understanding of a digital camera's features and handling. They get to familiarise with different camera modes and how each setting is chosen to create an intended effect. Members are given opportunities to learn and develop the ‘eye’ in shooting quality pictures.<br><br>They then apply technical skills to shoot photographs representing several themes. Members also learn basic photo editing skills using Adobe Lightroom software or any free online software with integration of design elements in photos.</td>
   </tr>
   <tr>
     <td class="tg-liiy">Growing hearts and minds</td>
