@@ -18,7 +18,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members acquire valuable outdoor survival skills like shelter-building and outdoor cooking. Practical navigational skills such as using Google maps as a way finding tool is also taught. <br>Members also learn basic belaying skills when they go through the sport climbing sessions at our school’s rock climbing wall. <br>Risk management and trail etiquette are also part of the skill set taught as the members go through the 4 modules. </td>
+    <td class="tg-u05r">During CCA sessions, members acquire valuable outdoor survival skills like shelter-building and outdoor cooking. Practical navigational skills such as using Google maps as a way finding tool is taught. <br>Members also learn basic belaying skills when they go through the sport climbing sessions at our school’s rock climbing wall. <br>Risk management and trail etiquette are part of the skill set taught as the members go through the 4 modules. </td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>

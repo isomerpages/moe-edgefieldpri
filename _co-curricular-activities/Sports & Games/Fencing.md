@@ -22,11 +22,11 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
-    <td class="tg-u05r">Besides physical skills, Fencers will be challenged in the mental aspects of Fencing.   The teaching methodology will illustrate the importance of resilience and analytical thinking—life-skills which will allow students to gain self-confidence and become “Winners in Life”.</td>
+    <td class="tg-u05r">Besides physical skills, fencers will be challenged in the mental aspects of fencing.   The teaching methodology will illustrate the importance of resilience and analytical thinking—life skills which will allow students to gain self-confidence and become “Winners in Life”.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Older primary students are paired up also with lower primary students for mentorship and are empowered to lead their younger members in some activities. This provides the opportunity for them to mentor and grow their leadership skills.</td>
+    <td class="tg-u05r">Older primary students are paired up with lower primary students for mentorship and are empowered to lead their younger members in some activities. This provides the opportunity for them to mentor and grow their leadership skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>

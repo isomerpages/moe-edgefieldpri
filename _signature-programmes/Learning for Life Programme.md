@@ -5,7 +5,7 @@ description: ""
 ---
 # Dance LLP
 
-_**Objective of Dance LLP:**_
+_**Objectives of Dance LLP:**_
 
 In delivering holistic education with values inculcation and development of 21st century competencies, the dancesport learning for life programme is designed with the following objectives:
 
@@ -28,8 +28,7 @@ Dancesport denotes competitive ballroom dancing, both a demanding sport and a pe
 
 The programme consists of 3 tiers - Engage, Endeavour, Empower.
 
-<img src="/images/ds1.jpeg" 
-     style="width:75%">
+<img src="/images/ds1.jpeg" style="width:75%">
 
 **_Engage – Curriculum Programme for All_**
 

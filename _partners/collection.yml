@@ -2,8 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - Parents/School Bus Service.md
       - Parents/.keep
+      - Parents/School Bus Service.md
+      - Parents/Useful information for P5P6 parents.md
       - Parents/Meet the Parents Session 2023.md
       - Parents/Admin Information for Parents.md
       - Parents/Sexuality Education.md

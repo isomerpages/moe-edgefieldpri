@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 <thead>
   <tr>
     <th class="tg-dafn">About Basketball</th>
-    <th class="tg-xwen"><span style="color:#222">Basketball CCA teaches students the skills &amp; knowledge of the game, improve their focus to develop teamwork &amp; resilience as a player.  Training schedules are on Tuesdays and Fridays,</span><br><span style="color:#222">2-3.30pm at the ISH level 1 &amp; level 4.</span></th>
+    <th class="tg-xwen"><span style="color:#222">Basketball CCA teaches students the skills &amp; knowledge of the games and improves their focus to develop teamwork &amp; resilience as a player.  Training schedules are on Tuesdays and Fridays,</span><br><span style="color:#222">2-3.30pm at the ISH level 1 &amp; level 4.</span></th>
   </tr>
 </thead>
 <tbody>
@@ -18,7 +18,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-xwen"><span style="color:#222">Students practice their leadership, teamwork &amp; communication skills on court. Learning technical skills, the knowledge of the game and experience coaching of the 3v3 and 5v5 formations.</span></td>
+    <td class="tg-xwen"><span style="color:#222">Students practice their leadership, teamwork &amp; communication skills on court. They will also be learning technical skills and having the knowledge of the game and experience coaching of the 3v3 and 5v5 formations.</span></td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
@@ -26,7 +26,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-xwen"><span style="color:#222">Students are empowered to be leaders within the team in various activities. This provides the opportunity to hone their leadership skills and organisational skills on court and in the real world.</span><br></td>
+    <td class="tg-xwen"><span style="color:#222">Students are empowered to be leaders within the team in various activities. This provides the opportunity to hone their leadership and organisational skills on court and in the real world.</span><br></td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>

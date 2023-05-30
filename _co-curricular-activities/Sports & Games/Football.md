@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 <thead>
   <tr>
     <th class="tg-dafn">About EFPS Football CCA (Competitive)</th>
-    <th class="tg-u05r">EFPS Football CCA (Competitive) is aimed at students who loves football and has the discipline and motivation to better themselves. The CCA sessions are on Tuesday and Fridays, 2.15 – 4.15pm. CCA Sessions take place in Punggol Secondary Field.</th>
+    <th class="tg-u05r">EFPS Football CCA (Competitive) is aimed at students who love football and have the discipline and motivation to better themselves. The CCA sessions are on Tuesdays and Fridays, 2.15 – 4.15pm. CCA sessions take place at Punggol Secondary Field.</th>
   </tr>
 </thead>
 <tbody>
@@ -26,7 +26,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">CCA leaders are empowered to lead the team in some activities. This provides the opportunity to hone their leadership skills.<br>They will be role models for the rest of the pupils to follow.</td>
+    <td class="tg-u05r">CCA leaders are empowered to lead the team in some activities. This provides them the opportunities to hone their leadership skills. They will be role models for the rest of the pupils to follow.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
