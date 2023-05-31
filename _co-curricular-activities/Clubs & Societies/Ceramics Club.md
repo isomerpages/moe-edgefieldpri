@@ -30,7 +30,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mrs Andrea Low (Teacher-in-charge)<br>Ms Koh Seok Hui</td>
+    <td class="tg-u05r">Mrs Andrea Low (Teacher-in-charge)<br>Mr Ho Keng Huat<br>Ms Koh Seok Hui </td>
   </tr>
 </tbody>
 </table>
