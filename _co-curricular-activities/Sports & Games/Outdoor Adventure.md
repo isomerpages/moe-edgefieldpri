@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mrs Noorhaizah Abdul Rahim (Teacher-in-charge)<br>Mdm Idayu Dewi Juwari<br>Mdm Lee Xin Yi</td>
+    <td class="tg-u05r">Mrs Noorhaizah Abdul Rahim (Teacher-in-charge)<br>Mdm Koh Angela<br>Mdm Lee Xin Yi<br>Mdm Wirziana</td>
   </tr>
 </tbody>
 </table>
