@@ -43,7 +43,9 @@ In the “Empower” Tier, students with the aptitude will participate in compet
 
 ### TIER 1: Exposure (Appreciating our Environment)
 
-![](/images/PAL%20lessons.png)
+![](/images/slide1.JPG)
+
+
 ![](/images/PAL%20lessons2.png)
 ![](/images/PAL%20lessons3.png)
 
