@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Shannon (Teacher-in-charge)<br>Mdm Fizah</td>
+    <td class="tg-u05r">Mdm Siti Hajar (Teacher-in-charge)<br>Mdm Koh Shannon<br>Mdm Nurafizah<br>Mdm Shanti</td>
   </tr>
 </tbody>
 </table>
