@@ -2,45 +2,45 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum and Innovation.md
       - Assessment Plans.md
+      - Aesthetics/.keep
+      - Aesthetics/Core Curriculum.md
+      - Aesthetics/Key Programmes.md
+      - Aesthetics/Events.md
+      - Curriculum and Innovation.md
+      - CCE curriculum/.keep
+      - CCE curriculum/Teaching and Learning Curriculum.md
+      - CCE curriculum/Values Driven Initiatives.md
+      - CCE curriculum/NE Commemorative Events.md
+      - CCE curriculum/Character & Citizenship Education.md
       - English/.keep
       - English/Core Curriculum.md
       - English/Key Programmes.md
       - English/Events.md
       - English/Useful Links.md
-      - Mathematics/.keep
-      - Mathematics/Core Curriculum.md
-      - Mathematics/Key Programmes.md
-      - Mathematics/Events.md
-      - Mathematics/Useful Links.md
-      - Science/.keep
-      - Science/Core Curriculum.md
-      - Science/Key Programmes.md
-      - Science/Useful Links.md
-      - Mother Tongue Languages/.keep
-      - Mother Tongue Languages/Core Curriculum.md
-      - Mother Tongue Languages/Key Programmes.md
-      - Mother Tongue Languages/Events.md
-      - Mother Tongue Languages/Broadcasting Programme.md
-      - Mother Tongue Languages/Useful Links.md
       - ICT/.keep
       - ICT/Computing Programme.md
       - ICT/Cyber Wellness.md
       - ICT/New Media Literacies.md
       - ICT/School Resources Website.md
       - ICT/Useful Links.md
+      - Mathematics/.keep
+      - Mathematics/Core Curriculum.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/Events.md
+      - Mathematics/Useful Links.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Core Curriculum.md
+      - Mother Tongue Languages/Key Programmes.md
+      - Mother Tongue Languages/Events.md
+      - Mother Tongue Languages/Broadcasting Programme.md
+      - Mother Tongue Languages/Useful Links.md
       - Physical Education/.keep
       - Physical Education/Core Curriculum.md
       - Physical Education/Key Programmes.md
       - Physical Education/Events.md
       - Physical Education/Useful Links.md
-      - Aesthetics/.keep
-      - Aesthetics/Core Curriculum.md
-      - Aesthetics/Key Programmes.md
-      - Aesthetics/Events.md
-      - CCE curriculum/Teaching and Learning Curriculum.md
-      - CCE curriculum/.keep
-      - CCE curriculum/Values Driven Initiatives.md
-      - CCE curriculum/NE Commemorative Events.md
-      - CCE curriculum/Character & Citizenship Education.md
+      - Science/.keep
+      - Science/Core Curriculum.md
+      - Science/Key Programmes.md
+      - Science/Useful Links.md
