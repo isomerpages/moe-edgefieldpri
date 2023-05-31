@@ -9,14 +9,14 @@ Pupils are to conduct themselves in the following manner:
 
 *   Be in class for morning assembly by **7.25am**.
 *   Students are deemed **late** if they arrive after **7.30am**.
-*   Produce either a medical certificate or a letter from parents or guardians to their respective Form Teachers if absent from school, unable to participate in PE lessons, CCA, Remedial and Supplementary lessons. For school examinations, an official medical certificate must be produced.
+*   Produce either a medical certificate or a letter from parents or guardians to their respective Form Teachers if absent from school, unable to participate in PE lessons, CCA, remedial and supplementary lessons. For school examinations, an official medical certificate must be produced.
 *   Parents are kindly requested to inform the school if their children are unable to come to school. Parents can telephone the General Office to inform the school of their child’s absence.  
       
     
 
 **2. Flag Raising Ceremony**  
 
-*   Attend the daily flag-raising ceremony 
+*   Attend the daily flag-raising ceremony. 
 *   Stand at attention during the ceremony. Pupils who are Singaporeans are to sing the National Anthem and recite the pledge.
 
 **3. Possession of Prohibited Items**
@@ -52,7 +52,7 @@ Students  are not allowed to have in their possession any weapon. They are als
 *   Keep the rows of desks straight and the chairs neatly placed.
 *   Be attentive during lessons.
 *   Take turns to answer questions or give comments.
-*   Complete and hand over all classwork/homework on time.
+*   Complete and hand in all classwork/homework on time.
 *   Bring all books required for the day.
 
   
