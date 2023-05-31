@@ -55,4 +55,5 @@ In the “Empower” Tier, students with the aptitude will participate in compet
 
 ### TIER 3: Empower (Environmental Activists in Action)
 ![](/images/slide6.JPG)
+<br>
 ![](/images/slide7.JPG)
