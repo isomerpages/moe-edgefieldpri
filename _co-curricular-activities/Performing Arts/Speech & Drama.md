@@ -18,7 +18,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">Through exposure to different creative mediums like mimes, voice modulations, recitations as well as drama games, (our members’ favourite is Splat!), students develop their confidence, stretch their imagination and grow as dynamic communicators. </td>
+    <td class="tg-u05r">Through exposure to different creative media like mimes, voice modulations, recitations as well as drama games, (our members’ favourite is Splat!), students develop their confidence, stretch their imagination and grow as dynamic communicators. </td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
