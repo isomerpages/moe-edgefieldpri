@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Ng Siew Hong, Jackie (Teacher-in-charge) <br>Mr Hendratno</td>
+    <td class="tg-u05r">Mdm Ng Siew Hong, Jackie (Teacher-in-charge) <br>Mr Hendratno<br>Mdm Joyce Ham</td>
   </tr>
 </tbody>
 </table>
