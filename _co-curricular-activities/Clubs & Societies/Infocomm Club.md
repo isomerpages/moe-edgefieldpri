@@ -30,7 +30,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Siti Hajr Kamaruddin (Teacher-in-charge)<br><br>Mdm Doreen Low<br><br>Mdm Aw Pei Shi<br><br>Mr Patrick Shiu</td>
+    <td class="tg-u05r">Mr Patrick Shiu (Teacher-in-charge)<br><br>Mdm Doreen Low<br><br>Mdm Aw Pei Shi<br><br>Mdm Paul Pouline</td>
   </tr>
 </tbody>
 </table>
