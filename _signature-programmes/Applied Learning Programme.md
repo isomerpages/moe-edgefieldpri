@@ -50,6 +50,7 @@ In the “Empower” Tier, students with the aptitude will participate in compet
 
 
 ### TIER 2: Experience (Connecting with our Environment)
+![](/images/slide4.JPG)
 ![](/images/slide5.JPG)
 
 ### TIER 3: Empower (Environmental Activists in Action)
