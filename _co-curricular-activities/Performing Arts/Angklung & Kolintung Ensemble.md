@@ -27,7 +27,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r"><br>During CCA sessions, members acquire musical knowledge of the traditional instruments. They also develop their musicianship to make music as a team. Members also learn to play different instruments and harmonize with one another to make beautiful melodies <br></td>
+    <td class="tg-u05r"><br>During CCA sessions, members acquire musical knowledge of the traditional instruments. They also develop their musicianship to make music as a team. Members also learn to play different instruments and harmonize with one another to make beautiful melodies.<br></td>
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
