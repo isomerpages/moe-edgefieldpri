@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Miss Shanice Chia (Teacher-in-charge)<br>Mdm Koh Lay Kuan<br>Mdm Paul Pouline</td>
+    <td class="tg-u05r">Miss Shanice Chia (Teacher-in-charge)<br>Mdm Koh Lay Kuan<br>Mrs Juliana Ng<br>Ms Koh Crystal</td>
   </tr>
 </tbody>
 </table>
