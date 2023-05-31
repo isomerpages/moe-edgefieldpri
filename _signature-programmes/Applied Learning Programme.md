@@ -47,7 +47,7 @@ In the “Empower” Tier, students with the aptitude will participate in compet
 <br>
 ![](/images/slide2.JPG)
 ![](/images/slide3.JPG)
-
+![](/images/slide4.JPG)
 ![](/images/PAL%20lessons2.png)
 ![](/images/PAL%20lessons3.png)
 
