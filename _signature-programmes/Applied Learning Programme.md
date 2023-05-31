@@ -51,6 +51,7 @@ In the “Empower” Tier, students with the aptitude will participate in compet
 
 ### TIER 2: Experience (Connecting with our Environment)
 ![](/images/slide5.JPG)
+![](/images/slide6.JPG)
 ![](/images/PAL%20lessons4.png)
 ![](/images/PAL%20lessons5.png)
 
