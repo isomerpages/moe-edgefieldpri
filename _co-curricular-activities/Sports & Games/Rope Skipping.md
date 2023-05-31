@@ -18,7 +18,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members begin to learn the basic footwork and progress to learn level one rope skipping skills. The members will advance to level two and level three skills once they are more familiar and experience in their level one skills.</td>
+    <td class="tg-u05r">During CCA sessions, members begin to learn basic the footwork and progress to learn level one rope skipping skills. The members will advance to level two and level three skills once they are more familiar and experience in their level one skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
