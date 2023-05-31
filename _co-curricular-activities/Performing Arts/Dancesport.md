@@ -122,7 +122,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mrs Cher-Lim Gui Hao (Teacher-in-charge)<br>Mdm Yanie<br>Mdm Fu Dong<br>Mdm Jaseela Mohd<br>Mdm Khairiyanie Aziz<br>Ms Jia Fang<br>Mdm Lim Lee Nah<br>Mdm Jia Fang<br> Mdm Yvonne Lim<br> Mdm Yvonne Lim</td>
+    <td class="tg-u05r">Mrs Cher-Lim Gui Hao (Teacher-in-charge)<br>Mdm Yanie<br>Mdm Fu Dong<br>Mdm Jaseela Mohd<br>Mdm Khairiyanie Aziz<br>Ms Jia Fang<br>Mdm Lim Lee Nah<br>Mdm Jia Fang<br> Mdm Yvonne Lim<br>Mdm Jia Fang</td>
   </tr>
 </tbody>
 </table>
