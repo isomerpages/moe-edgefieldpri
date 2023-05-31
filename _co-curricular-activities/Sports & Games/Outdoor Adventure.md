@@ -14,7 +14,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r">CCA members go through 4 modules during the year:<br>1.       Navigation<br>2.       Camp Crafts<br>3.       Environmental Awareness and Appreciation<br>4.       Adventure Challenges <br>Members get the opportunity to go on a learning journey at least once per semester. These learning journeys include local hikes to the nature reserve, navigation fieldtrip to the parks as well as high ropes challenges at local adventure challenge venues. They further hone their love for the outdoors by getting to know more about Singapore’s flora and fauna during these learning journeys. </td>
+    <td class="tg-u05r">CCA members go through 4 modules during the year:<br>1.       Navigation<br>2.       Camp Crafts<br>3.       Environmental Awareness and Appreciation<br>4.       Adventure Challenges <br>Members get the opportunity to go on a learning journey at least once per semester. These learning journeys include local hikes to the nature reserve, navigation field trips to the parks as well as high ropes challenges at local adventure challenge venues. They further hone their love for the outdoors by getting to know more about Singapore’s flora and fauna during these learning journeys. </td>
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
