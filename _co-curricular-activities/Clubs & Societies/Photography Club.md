@@ -31,7 +31,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-liiy">CCA Teachers</td>
-    <td class="tg-539o">Ms Azlin Mustaffa(Teacher-in-charge)<br>Miss Angela Koh Min Min<br>Mdm Zhang Fu Lei<br></td>
+    <td class="tg-539o">Ms Azlin Mustaffa(Teacher-in-charge)<br>Miss Angela Koh Min Min<br>Mr Christmas Lee<br>Mdm Zhang Fu Lei<br></td>
   </tr>
 </tbody>
 </table>
