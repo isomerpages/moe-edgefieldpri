@@ -26,7 +26,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Gymnastics leaders are empowered to lead the team should there be any delay in the arrival of the coaches. This provides the opportunity for them to hone their leadership skills.</td>
+    <td class="tg-u05r">Gymnastics leaders are empowered to lead the team should there be any delay in the arrival of the coaches. This provides the opportunity for them.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
