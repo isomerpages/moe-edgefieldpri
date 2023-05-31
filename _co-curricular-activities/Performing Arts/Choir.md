@@ -30,7 +30,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mr Marcus Sim (Teacher-in-charge)<br>Mrs Manju Manoj</td>
+    <td class="tg-u05r">Mr Marcus Sim (Teacher-in-charge)<br>Mrs Manju Manoj<br>Mdm Salimah Haniffa</td>
   </tr>
 </tbody>
 </table>
