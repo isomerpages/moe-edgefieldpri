@@ -47,7 +47,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Benazir (Teacher-in-charge)<br>Ms Koo Siew Ping </td>
+    <td class="tg-u05r">Mdm Benazir (Teacher-in-charge)<br>Mdm Joyce Choo<br>Mr Terence Teng</td>
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
