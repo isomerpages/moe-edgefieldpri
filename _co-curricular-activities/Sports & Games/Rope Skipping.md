@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 <thead>
   <tr>
     <th class="tg-dafn">About Rope Skipping</th>
-    <th class="tg-u05r">Rope Skipping aims to develop students’ motor and language skills as they learn how skip. The CCA sessions are on Tuesday (For all pupils) and Friday (School Team) from 2.00p.m. – 4.00p.m. Activities are conducted in the school hall.</th>
+    <th class="tg-u05r">Rope Skipping aims to develop students’ motor and language skills as they learn how to skip. The CCA sessions are on Tuesday (For all pupils) and Friday (School Team) from 2.00p.m. – 4.00p.m. Activities are conducted in the school hall.</th>
   </tr>
 </thead>
 <tbody>
