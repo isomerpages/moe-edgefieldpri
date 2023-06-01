@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/performing-arts/dancespor
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <table class="tg">
 <thead>
   <tr>
@@ -70,9 +69,9 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dafn">Developing our students</th>
-    <th class="tg-u05r">During CCA sessions, members develop positive thinking towards public performances and competitions and have high self-esteem and are more confident of themselves. Social graciousness are also instilled in members as they are trained to behave as ladies and gentlemen.</th>
-  </tr>
+    <td class="tg-dafn">Developing our students</td>
+    <td class="tg-u05r">During CCA sessions, members develop positive thinking towards public performances and competitions and have high self-esteem and are more confident of themselves. Social graciousness are also instilled in members as they are trained to behave as ladies and gentlemen.
+  </td></tr>
 </thead>
 <tbody>
   <tr>
