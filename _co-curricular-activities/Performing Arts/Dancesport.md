@@ -7,9 +7,9 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-v41i">Talent 1</th>
-    <th class="tg-brl1">Fridays</th>
-    <th class="tg-brl1">2.00 p.m. – 4.00 p.m</th>
+    <td class="tg-v41i">Talent 1</td>
+    <td class="tg-brl1">Fridays</td>
+    <td class="tg-brl1">2.00 p.m. – 4.00 p.m</td>
   </tr>
 </thead>
 <tbody>
