@@ -30,7 +30,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r"><br>Mdm Julieana Razek (Teacher-in-charge)<br><br><br>Mdm Nur Yanty Jumali</td>
+    <td class="tg-u05r">Mdm Julieana Razek (Teacher-in-charge)<br>Mdm Nur Yanty Jumali</td>
   </tr>
 </tbody>
 </table>
