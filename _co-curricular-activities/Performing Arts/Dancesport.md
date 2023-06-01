@@ -4,6 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-cca/performing-arts/dancespor
 description: ""
 third_nav_title: Performing Arts
 ---
+
 <table class="tg">
 <thead>
   <tr>
@@ -46,8 +47,8 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-v41i">Learning journey</th>
-    <th class="tg-brl1">Concerts</th>
+    <td class="tg-v41i">Learning journey</td>
+    <td class="tg-brl1">Concerts</td>
   </tr>
 </thead>
 <tbody>
@@ -65,7 +66,6 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
-
 
 <table class="tg">
 <thead>
@@ -89,6 +89,9 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+
+
+
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FU_fiZlt-gQ" height="315" width="560"></iframe>
 
