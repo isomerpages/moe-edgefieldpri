@@ -30,7 +30,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Miss Suhaila (Teacher-in-charge)<br>Mr Eugene Sim<br>Mr Terence Wong <br>Mrs Melissa Yip<br>Mr Yong David</td>
+    <td class="tg-u05r">Miss Suhaila (Teacher-in-charge)<br>Mr Eugene Sim<br>Mr Terence Wong <br>Mdm Melissa Yip<br>Mr David Yong</td>
   </tr>
 </tbody>
 </table>
