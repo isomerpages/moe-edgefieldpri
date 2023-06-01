@@ -54,40 +54,30 @@ third_nav_title: Performing Arts
   <tr>
     <td class="tg-v41i">Performances</td>
     <td class="tg-brl1">Singapore Youth Festival (every 2 years)<br>Aesthetic Night (every 2 years)<br>EFPS Open House<br>Ad-hoc performances (in school and external venues)<br></td>
-  </tr>
-  <tr>
+  </tr>  <tr>
     <td class="tg-v41i">Competition</td>
     <td class="tg-brl1">Wanna Dance Competition</td>
   </tr>
   <tr>
+  </tr><tr>
     <td class="tg-v41i">Exam</td>
     <td class="tg-brl1">CSTD Ballroom Examination</td>
   </tr>
-</tbody>
+  <tr>
+    <td class="tg-v41i">Developing our students</td>
+    <td class="tg-brl1">During CCA sessions, members develop positive thinking towards public performances and competitions and have high self-esteem and are more confident of themselves. Social graciousness are also instilled in members as they are trained to behave as ladies and gentlemen.</td>
+  </tr>
+	<tr>
+  </tr><tr>
+    <td class="tg-v41i">Growing hearts and minds</td>
+    <td class="tg-brl1">Training sessions are geared towards character building. It also inculcates the values of respect, team spirit, loyalty, discipline and courage.<br><br>During the debrief that is conducted at the end the training session, members are given the opportunity to discuss about issues, challenges and learning points that arise during the training. Resilience, respect and discipline are examples of the debrief focus.</td>
+  </tr>
+  <tr>
+</tr></tbody>
 </table>
 
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members develop positive thinking towards public performances and competitions and have high self-esteem and are more confident of themselves. Social graciousness are also instilled in members as they are trained to behave as ladies and gentlemen.
-  </td></tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dafn">Growing hearts and minds</td>
-    <td class="tg-u05r">Training sessions are geared towards character building. It also inculcates the values of respect, team spirit, loyalty, discipline and courage.<br><br>During the debrief that is conducted at the end the training session, members are given the opportunity to discuss about issues, challenges and learning points that arise during the training. Resilience, respect and discipline are examples of the debrief focus.<br></td>
-  </tr>
-  <tr>
-    <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Dancesport leaders are empowered to lead the team in activities such as warm-up and relaying of information to team members. They also lead the discussion during the reflections sessions that is conducted after each training. This provides the opportunity to hone their leadership skills.</td>
-  </tr>
-  <tr>
-    <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mrs Cher-Lim Gui Hao (Teacher-in-charge)<br>Mdm Fu Dong<br>Mdm Jaseela Mohd<br>Mdm Khairiyanie Aziz<br>Mdm Lim Lee Nah<br> Mdm Yvonne Lim</td>
-  </tr>
-</tbody>
-</table>
+
+    
 
 
 
