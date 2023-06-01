@@ -30,7 +30,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-hwm7">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Noor Ellynda  (Teacher-in-charge)</td>
+    <td class="tg-u05r">Mdm Noor Ellynda  (Teacher-in-charge)<br>Mdm Low Yin Siang<br>Ms Parameswari</td>
   </tr>
 </tbody>
 </table>
