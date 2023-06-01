@@ -53,7 +53,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-v41i">Performances</td>
-    <td class="tg-brl1"><br>Singapore Youth Festival (every 2 years)<br>Aesthetic Night (every 2 years)<br>EFPS Open House<br>Ad-hoc performances (in school and external venues)<br></td>
+    <td class="tg-brl1">Singapore Youth Festival (every 2 years)<br>Aesthetic Night (every 2 years)<br>EFPS Open House<br>Ad-hoc performances (in school and external venues)<br></td>
   </tr>
   <tr>
     <td class="tg-v41i">Competition</td>
