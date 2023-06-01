@@ -30,7 +30,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-liiy">CCA Teachers</td>
-    <td class="tg-539o">Ms Tan Shuling(Teacher-in-charge)<br>Ms Tay  Ru Jun<br>Ms Judith Goh<br>Mr Duane<br>Wulandari Sukma</td>
+    <td class="tg-539o">Ms Tan Shuling(Teacher-in-charge)<br>Ms Tay  Ru Jun<br>Ms Judith Goh<br>Mr Duane Chan<br>Ms Wulandari Sukma</td>
   </tr>
 </tbody>
 </table>
