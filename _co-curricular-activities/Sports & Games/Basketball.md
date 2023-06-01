@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mr James Ling (Teacher-in-charge)<br>Mr Chew Wei<br>Mr Melvn Ow</td>
+    <td class="tg-u05r">Mr James Ling (Teacher-in-charge)<br>Mr Chew Wei<br>Mr Melvn Ow<br>Mr  Norman<br>Mdm Pratibha Rai</td>
   </tr>
 </tbody>
 </table>
