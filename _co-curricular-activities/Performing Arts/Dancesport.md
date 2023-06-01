@@ -72,8 +72,16 @@ third_nav_title: Performing Arts
     <td class="tg-v41i">Growing hearts and minds</td>
     <td class="tg-brl1">Training sessions are geared towards character building. It also inculcates the values of respect, team spirit, loyalty, discipline and courage.<br><br>During the debrief that is conducted at the end the training session, members are given the opportunity to discuss about issues, challenges and learning points that arise during the training. Resilience, respect and discipline are examples of the debrief focus.</td>
   </tr>
+  
   <tr>
-</tr></tbody>
+    <td class="tg-dafn">Empowering leaders and talents</td>
+    <td class="tg-u05r">Dancesport leaders are empowered to lead the team in activities such as warm-up and relaying of information to team members. They also lead the discussion during the reflections sessions that is conducted after each training. This provides the opportunity to hone their leadership skills.</td>
+  </tr>
+  <tr>
+    <td class="tg-dafn">CCA Teachers</td>
+    <td class="tg-u05r">Mrs Cher-Lim Gui Hao (Teacher-in-charge)<br>Mdm Fu Dong<br>Mdm Jaseela Mohd<br>Mdm Khairiyanie Aziz<br>Mdm Lim Lee Nah<br> Mdm Yvonne Lim</td>
+  </tr>
+</tbody>
 </table>
 
 
