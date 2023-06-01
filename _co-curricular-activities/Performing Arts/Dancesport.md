@@ -29,9 +29,9 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-dafn">About Dancesport</td>
-    <td class="tg-u05r">Dancesport is a form of competitive ballroom dancing that combines social skills with exercises. Its characteristics consists of physical strengths, agility, coordination, stamina, high level of fitness, discipline, teamwork, grace, style and musical interpretation.<br><br> The CCA sessions are on Tuesdays and Fridays. The training sessions are conducted in the dance studios with experienced dance instructors.<br><br></td>
-  </tr>
+    <th class="tg-dafn">About Dancesport</th>
+    <th class="tg-u05r">Dancesport is a form of competitive ballroom dancing that combines social skills with exercises. Its characteristics consists of physical strengths, agility, coordination, stamina, high level of fitness, discipline, teamwork, grace, style and musical interpretation.<br><br> The CCA sessions are on Tuesdays and Fridays. The training sessions are conducted in the dance studios with experienced dance instructors.<br><br>
+  </th></tr>
 </thead>
 </table>
 
