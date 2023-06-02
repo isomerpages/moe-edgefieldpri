@@ -30,7 +30,7 @@ third_nav_title: Clubs & Societies
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mrs Cindy Tan (Teacher-in-charge)<br>Ms Koh Seok Hui<br>Mrs Asri</td>
+    <td class="tg-u05r">Mrs Cindy Tan (Teacher-in-charge)<br>Ms Koh Seok Hui<br>Ms Esther Lee <br>Mrs Asri</td>
   </tr>
 </tbody>
 </table>

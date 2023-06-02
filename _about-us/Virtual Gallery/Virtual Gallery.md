@@ -6,15 +6,10 @@ third_nav_title: Virtual Gallery
 ---
 ![](/images/Virtual%20Heritage.jpeg)
 
-<center> <b> Welcome to the Virtual Heritage Gallery </b></center>
-
-
-As the school moves into high gear to celebrate her 20th Anniversary in 2021, the e-Open House Working Committee has set up this Virtual Heritage Gallery, centred on the theme,"Reflect, Connect &amp; Imagine."  
-Drawing on&nbsp; archival materials, each memory route weaves its own narrative about the relationship between the school and those who have passed and will pass through her doors.&nbsp;The team behind this project adopts the mind of a Historian.
 
 ### The School History
 
-Edgefield Primary School commenced operation in 2002. We are the first primary school in the Punggol 21 Estate. Back in 2002 when we took our first batch of students, we had just 200 students and 25 staff.&nbsp;Under the leadership of the founding Principal, Mrs Sabrina James, the school quickly transformed herself into a conducive and vibrant learning environment, emphasizing not just on academic excellence, but on social, moral and leadership development.Our pioneer batch of P6 pupils obtained 100% passes in the 2013 PSLE.
+Edgefield Primary School commenced operation in 2002. We are the first primary school in the Punggol 21 Estate. Back in 2002 when we took our first batch of students, we had just 200 students and 25 staff.&nbsp;Under the leadership of the founding Principal, Mrs Sabrina James, the school quickly transformed herself into a conducive and vibrant learning environment, emphasizing not just on academic excellence, but on social, moral and leadership development. Our pioneer batch of P6 pupils obtained 100% passes in the 2013 PSLE.
 
 ### Past and Present
 ![](/images/Principals.png)

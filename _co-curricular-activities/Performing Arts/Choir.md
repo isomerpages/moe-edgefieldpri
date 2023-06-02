@@ -8,13 +8,13 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-dafn">About Choir</th>
-    <th class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.00pm – 4.00pm. Activities are mostly held in the school’s music room. Others activities include exchange programmes with other school choirs or musical appreciations.<br>th&gt;
+    <th class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.00pm – 4.00pm. Activities are mostly held in the school’s music room. Other activities include exchange programmes with other school choirs or musical appreciations.<br>th&gt;
   </th></tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r">By the end of each year, CCA members will acquire:<br>1.   Knowledge of musical background (i.e. learning to read musical scores)<br>2.   Vocal techniques (i.e. Intonation, Breathing techniques, Harmonisation, expression in singing) <br>Annually, our members get to perform on various events (i.e. SYF, ABRSM, Aesthetics Night, Speech and Prize-Giving Day etc). Our pupils participate in school exchanges and attend musical performances to increase their musical knowledge through collaborative experiences. We have our annual Choir Camp to facilitate peer bonding and enhance their choral singing. Members also get the opportunity to hone their love for singing by performing their favourite songs as a group during our in-house End-of-year concert cum farewell for the Primary 6 members.td&gt;
+    <td class="tg-u05r">By the end of each year, CCA members will acquire:<br>1.   Knowledge of musical background (i.e. learning to read musical scores)<br>2.   Vocal techniques (i.e. Intonation, Breathing techniques, Harmonisation, expression in singing) <br>Annually, our members get to perform on various events (i.e. SYF, ABRSM, Aesthetics Night, Speech and Prize-Giving Day etc). Our pupils participate in school exchanges and attend musical performances to increase their musical knowledge through collaborative experiences. We have our annual Choir Camp to facilitate peer bonding and enhance their choral singing. Members also get the opportunity to hone their love for singing by performing their favourite songs as a group during our in-house End-of-year concert cum farewell for the Primary 6 members.
   </td></tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
@@ -30,7 +30,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mr Marcus Sim (Teacher-in-charge)<br>Mrs Manju Manoj</td>
+    <td class="tg-u05r">Mr Marcus Sim (Teacher-in-charge)<br>Mrs Manju Manoj<br>Mdm Salimah Haniffa</td>
   </tr>
 </tbody>
 </table>

@@ -26,11 +26,11 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">CCA leaders are empowered to lead the team in some activities. This provides them the opportunities to hone their leadership skills. They will be role models for the rest of the pupils to follow.</td>
+    <td class="tg-u05r">CCA leaders are empowered to lead the team in some activities. This provides them the opportunities. They will be role models for the rest of the pupils to follow.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mr Benjamin Kuan (Teacher-in-charge)<br>Mr Fedly<br>Mr Wu Ming Che<br>Mrs Noor Haizah<br>Mr Norman</td>
+    <td class="tg-u05r">Mr Wu Ming Che (Teacher-in-charge)<br>Mdm Koh Shanon<br>Mrs Noor Haizah</td>
   </tr>
 </tbody>
 </table>

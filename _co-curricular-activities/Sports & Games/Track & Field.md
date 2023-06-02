@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mr Matthew Sum (Teacher In-Charge)<br>Mrs Charn Ve’Joy<br>Mr. Chin Sing Loong Denis</td>
+    <td class="tg-u05r">Mr Matthew Sum (Teacher In-Charge)<br>Mrs Charn Ve’Joy<br>Mr. Chin Sing Loong Denis<br>Mr Sebastian Ooi</td>
   </tr>
 </tbody>
 </table>

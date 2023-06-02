@@ -18,7 +18,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members acquire physical, technical, tactical and mental skills of fencing.  They also get to spar with each other in a controlled and safe environment.Through the sparring sessions where sportsmanship is valued and practised in many forms such as the salute and the shaking of hands after the bouts,  Members get to understand and practice Resilience, Respect and Sportsmanship.<br><br><br>Selected members will also get to represent the school in fencing competitions held by Fencing Singapore, clubs and other schools.</td>
+    <td class="tg-u05r">During CCA sessions, members acquire physical, technical, tactical and mental skills of fencing.  They also get to spar with each other in a controlled and safe environment.Through the sparring sessions where sportsmanship is valued and practised in many forms such as the salute and the shaking of hands after the bouts, members get to understand and practice Resilience, Respect and Sportsmanship.<br><br><br>Selected members will also get to represent the school in fencing competitions held by Fencing Singapore, clubs and other schools.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>

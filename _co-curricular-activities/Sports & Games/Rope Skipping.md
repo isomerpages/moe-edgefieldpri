@@ -7,8 +7,8 @@ third_nav_title: Sports & Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dafn">About ODAC</th>
-    <th class="tg-u05r">Rope Skipping aimed to develop students’ motor and language skills as they learn how skip. The CCA sessions are on Tuesday (For all pupils) and Friday (School Team) from 2.00p.m. – 4.00p.m. Activities are conducted in the school hall.</th>
+    <th class="tg-dafn">About Rope Skipping</th>
+    <th class="tg-u05r">Rope Skipping aims to develop students’ motor and language skills as they learn how to skip. The CCA sessions are on Tuesdays (for all pupils) and Fridays (school team) from 2.00p.m. – 4.00p.m. Activities are conducted in the school hall.</th>
   </tr>
 </thead>
 <tbody>
@@ -18,7 +18,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members begin to learn the basic footwork and progress to learn level one rope skipping skills. The members will advance to level two and level three skills once they are more familiar and experience in their level one skills.</td>
+    <td class="tg-u05r">During CCA sessions, members begin to learn basic the footwork and progress to learn level one rope skipping skills. The members will advance to level two and level three skills once they are more familiar and experience in their level one skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Shannon (Teacher-in-charge)<br>Mdm Fizah</td>
+    <td class="tg-u05r">Mdm Siti Hajar (Teacher-in-charge)<br>Mdm Koh Shannon<br>Mdm Nurafizah<br>Mdm Shanti</td>
   </tr>
 </tbody>
 </table>

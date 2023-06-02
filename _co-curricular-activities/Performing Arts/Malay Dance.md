@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-dafn">About<br>Malay Dance<br> </th>
-    <th class="tg-u05r"><br>Malay Dance  is aimed for students who love to learn about the different types of Malay dance and techniques used in this ethnic dance.  Students develop their talent in Malay dance through the sessions that are conducted on Fridays, 2.00 to 4.00pm</th>
+    <th class="tg-u05r">Malay Dance  is aimed for students who love to learn about the different types of Malay dance and techniques used in this ethnic dance.  Students develop their talent in Malay dance through the sessions that are conducted on Fridays, 2.00 to 4.00pm</th>
   </tr>
 </thead>
 <tbody>
@@ -30,7 +30,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r"><br>Mdm Julieana Razek (Teacher-in-charge)<br><br><br>Mdm Nur Yanty Jumali</td>
+    <td class="tg-u05r">Mdm Julieana Razek (Teacher-in-charge)<br>Mdm Nur Yanty Jumali</td>
   </tr>
 </tbody>
 </table>
