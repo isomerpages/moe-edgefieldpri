@@ -20,3 +20,4 @@ The outcomes of the integrated curriculum are:
 
   
  **LTP@P1 Outdoor Education (OE)**
+ ![](/images/curriculuminnovation%203.png)
