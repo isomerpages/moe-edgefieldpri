@@ -33,4 +33,6 @@ The outcomes of the integrated curriculum are:
 
 **2.&nbsp;&nbsp; Collaborative Play (CP)** is a learning approach where students work together to achieve a common goal or to complete a shared activity.&nbsp; Communication is key to successful collaborative play. Students are advised to communicate openly throughout the activity as they learn the importance of working together and supporting one another.
 
-·&nbsp;&nbsp;&nbsp;&nbsp; **CP@LEGO Wall**
+**CP@LEGO Wall**
+
+![](/images/curriculuminnovation%206.png)
