@@ -19,3 +19,9 @@ Maker Education aims to inculcate the love for STEAM – Science, Technology, En
 
 This is a physical space for pupils and staff to ideate, tinker with digital or physical fabrication tools, and construct objects, creating solutions to problems of tomorrow.
 ![](/images/Picture1makerspace.jpeg)
+
+ 
+
+#### Winners of SHHK National Thinkers Challenge in 2022.
+
+#### Most Innovative and Creative Award
