@@ -59,3 +59,4 @@ The outcomes of the integrated curriculum are:
 The sub themes for the FLD 2023 include green efforts, sustainability, healthy living, innovation as well as education career guidance. The speakers are from local companies, volunteers from our Parent Support Group as well as our alumni.
 
 Free Learning Day was held on 24 &amp; 25 May 2023.&nbsp; Click&nbsp;[here](https://sites.google.com/moe.edu.sg/efpsfreelearningday/home)&nbsp;to access synopses of keynote and concurrent sessions held on Free Learning Day.
+![](/images/curriculuminnovation%208.png)
