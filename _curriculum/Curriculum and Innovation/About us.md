@@ -49,6 +49,7 @@ The outcomes of the integrated curriculum are:
 
 **4.&nbsp;&nbsp; Maker Education.**&nbsp; Click [here](https://www.edgefieldpri.moe.edu.sg/signature-programmes/makerspace/) to access our Signature Programme.
 
+### Events
 
 **The Free Learning Day (FLD)** is a conference-style learning event for students. Comprising of keynote and concurrent sessions, our P3 to P5 students decide what they would like to learn and choose their sessions, promoting choice and greater ownership of learning.
 
