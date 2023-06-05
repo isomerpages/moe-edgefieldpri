@@ -62,3 +62,4 @@ Free Learning Day was held on 24 &amp; 25 May 2023.&nbsp; Click&nbsp;[here](http
 ![](/images/curriculuminnovation%208.png)
 
 ![](/images/curriculuminnovation%209.png)
+![](/images/curriculuminnovation%2010.png)
