@@ -2,13 +2,13 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum and Innovation/Free Learning Day 2023.md
-      - Curriculum and Innovation/.keep
       - Assessment Plans.md
       - Aesthetics/.keep
       - Aesthetics/Core Curriculum.md
       - Aesthetics/Key Programmes.md
       - Aesthetics/Events.md
+      - Curriculum and Innovation/.keep
+      - Curriculum and Innovation/Free Learning Day 2023.md
       - CCE curriculum/.keep
       - CCE curriculum/Teaching and Learning Curriculum.md
       - CCE curriculum/Values Driven Initiatives.md
