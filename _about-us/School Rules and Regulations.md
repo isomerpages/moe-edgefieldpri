@@ -60,6 +60,9 @@ Students are to conduct themselves in the following manner:
 *   Name tags are to be sewn onto every school uniform, 1.5cm above the pocket.
 *   Boys must be clean shaven, and no wearing of beard and moustache are allowed.
 *   Students are not allowed to wear bracelets, friendship bands, anklets and rings. Religious accessories should not be displayed.
+
+![](/images/school%20uniform.png)
+
 **8. Good toilet habit**
 
 *   Flush the toilet after use.
@@ -92,4 +95,4 @@ Bullying is a complex issue. It can be physical, verbal or social in nature. Bul
 *   Repeated / prolonged / persistent\* 
 *   Verbal/ social, physical, cyber
 
-The school takes a firm zero tolerance stance towards all forms of bullying. This is to ensure the safety of all staff and students in Edgefield Primary School. The zero-tolerance stance has been communicated to all students. Appropriate actions will be taken against any students who are found to be involved in bullying incidents.!
+The school takes a firm zero tolerance stance towards all forms of bullying. This is to ensure the safety of all staff and students in Edgefield Primary School. The zero-tolerance stance has been communicated to all students. Appropriate actions will be taken against any students who are found to be involved in bullying incidents.
