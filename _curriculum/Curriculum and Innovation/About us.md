@@ -42,3 +42,5 @@ The outcomes of the integrated curriculum are:
 **3.&nbsp;&nbsp; Innovation Programme (IvP)** is an integrated learning experience that encourages students to break away from the compartmentalisation of the different disciplines. &nbsp;Set against the backdrop of authentic, world and social issues, IvP expands the scope of study by encouraging students to understand and relate to real-life issues before designing point-of-view solutions that reflect their approach towards solving them.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Besides, exploring the inter-relationships and inter-connectedness of knowledge, the IvP aims to nurture citizenry in every student, to encourage them to take ownership and action for world and social issues around them, leaving a positive impact on the community.
+
+![](/images/curriculuminnovation%207.png)
