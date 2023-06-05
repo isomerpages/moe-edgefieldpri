@@ -65,6 +65,8 @@ Students are to conduct themselves in the following manner:
 
 ![](/images/school%20shoes.png)
 
+![](/images/hair%20neat.png)
+
 **8. Good toilet habit**
 
 *   Flush the toilet after use.
