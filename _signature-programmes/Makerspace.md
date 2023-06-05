@@ -23,5 +23,6 @@ This is a physical space for pupils and staff to ideate, tinker with digital or 
  
 
 #### Winners of SHHK National Thinkers Challenge in 2022.
-![](/images/maker%20space.png)
+**Most Innovative and Creative Award**
+   ![](/images/maker%20space.png)
 ![](/images/maker%20space2.png)
