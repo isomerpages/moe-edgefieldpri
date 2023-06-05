@@ -16,4 +16,4 @@ The outcomes of the integrated curriculum are:
 1.	Learning Through Play (LTP) is a learning approach that involves using play activities as a way of helping our P1 and P2 students explore their environment, learn new skills, and develop their cognitive, social, and emotional abilities.  Through play, our students can develop a wide range of skills such as problem-solving, critical thinking, social skills, emotional regulation, language, and communication skills.
 
      **LTP@P1 Values In Action (VIA)**
-		 
+![](/images/curriculuminnovation2.jpg)
