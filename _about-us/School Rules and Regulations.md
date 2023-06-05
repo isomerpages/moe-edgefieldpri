@@ -77,7 +77,7 @@ Students are to conduct themselves in the following manner:
 *   Inform teachers of any leakage or damage.
 
 
-**9\.Disciplinary Action**
+**9\. Disciplinary Action**
 
 Failure to comply with the Above Code of Conduct may result in corrective consequences stipulated in the school’s Discipline Case Management Guidelines. 
 
