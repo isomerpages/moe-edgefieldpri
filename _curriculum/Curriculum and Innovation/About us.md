@@ -11,3 +11,4 @@ At EFPS, we recognize every student has unique interests, strengths, and learnin
 Through the promotion of student choice and voice, Edgefielders can be inspired to take ownership of their learning and shape their unique educational journey.
 
 The outcomes of the integrated curriculum are:
+![](/images/curriculuminnovation1.png)
