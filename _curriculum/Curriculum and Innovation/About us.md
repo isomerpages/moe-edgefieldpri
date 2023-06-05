@@ -60,3 +60,5 @@ The sub themes for the FLD 2023 include green efforts, sustainability, healthy l
 
 Free Learning Day was held on 24 &amp; 25 May 2023.&nbsp; Click&nbsp;[here](https://sites.google.com/moe.edu.sg/efpsfreelearningday/home)&nbsp;to access synopses of keynote and concurrent sessions held on Free Learning Day.
 ![](/images/curriculuminnovation%208.png)
+
+![](/images/curriculuminnovation%209.png)
