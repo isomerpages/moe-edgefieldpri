@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Curriculum and Innovation/Curriculum and Innovation 1.md
       - Curriculum and Innovation/.keep
       - Assessment Plans.md
       - Aesthetics/.keep
