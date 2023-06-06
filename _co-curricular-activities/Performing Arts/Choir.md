@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-dafn">About Choir</th>
-    <th class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.00pm – 4.00pm. Activities are mostly held in the school’s music room. Other activities include exchange programmes with other school choirs or musical appreciations.<br>th&gt;
+    <th class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.00pm – 4.00pm. Activities are mostly held in the school’s music room. Other activities include exchange programmes with other school choirs or musical appreciations.
   </th></tr>
 </thead>
 <tbody>
