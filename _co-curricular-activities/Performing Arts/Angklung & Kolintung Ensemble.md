@@ -15,11 +15,12 @@ Angklung and Kulintang Ensemble appeals to all students who enjoy music. It offe
 <tbody>
   <tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r">By the end of each year, CCA members will acquire:<br>1.   Knowledge of musical background (i.e. learning to read musical scores)<br>2.   Vocal techniques (i.e. Intonation, Breathing techniques, Harmonisation, expression in singing) <br>Annually, our members get to perform on various events (i.e. SYF, ABRSM, Aesthetics Night, Speech and Prize-Giving Day etc). Our pupils participate in school exchanges and attend musical performances to increase their musical knowledge through collaborative experiences. We have our annual Choir Camp to facilitate peer bonding and enhance their choral singing. Members also get the opportunity to hone their love for singing by performing their favourite songs as a group during our in-house End-of-year concert cum farewell for the Primary 6 members.
+    <td class="tg-u05r">Members are given the opportunity to make music using Angklung, Kulintang and other instruments. They are learning traditional and modern songs. Members get opportunities to go on learning journeys where they learn more about music or get the opportunity to showcase their talent to the public.
   </td></tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members will learn warm-up techniques to prepare for choral singing. Choral pieces are chosen by the choir conductor for practice, and they can come in different languages such as Japanese or Bahasa Indonesia. Members will learn pronunciation and vocal techniques required to sing the choral pieces well. Overall, all choir members will learn how to perform a choral piece well as one collective voice. We also allow each member to showcase a talent and give them individual guidance to improve.<br><br></td>
+    <td class="tg-u05r">   During CCA sessions, members acquire musical knowledge of the traditional instruments.  
+They also develop their musicianship to make music as a team. Members also learn to play different instruments and harmonize with one another to make beautiful melodies.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
