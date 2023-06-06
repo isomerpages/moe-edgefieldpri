@@ -26,7 +26,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Potential P4 and 5 choir student leaders are trained during the annual choir camp held in June. The selected student leaders will then help out to oversee the discipline and order of the choir during practices. These experiences provide them the opportunity to hone their leadership skills.<br><br></td>
+    <td class="tg-u05r">Potential P4 and 5 choir student leaders are trained during the annual choir camp held in June. The selected student leaders will then help out to oversee the discipline and order of the choir during practices. These experiences provide them the opportunity to hone their leadership skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
