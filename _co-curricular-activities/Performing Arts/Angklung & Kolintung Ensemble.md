@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-dafn">About Angklung and Kolintang Ensemble</th>
-    <th class="tg-u05r">Angklung and Kolintang Ensemble appeals to students who love the soothing music made from bamboo tubes. The CCA sessions are conducted on Tuesdays, 2.00 – 3.30pm in the music room. </th>
+    <th class="tg-u05r">  Angklung and Kulintang Ensemble appeals to all students who enjoy music. It offers an engaging and meaningful musical experience for all ages. The CCA sessions are conducted on Tuesdays, 2.00pm to 4.00pm in the music room. </th>
   </tr>
 </thead>
 <tbody>
