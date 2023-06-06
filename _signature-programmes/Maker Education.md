@@ -1,5 +1,5 @@
 ---
-title: Makerspace
+title: Maker Education
 permalink: /signature-programmes/makerspace/
 description: ""
 ---
