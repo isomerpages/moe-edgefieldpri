@@ -17,7 +17,7 @@ third_nav_title: Performing Arts
    
   </tr><tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r"> Members are given the opportunity to make music using Angklung, Kulintang and other instruments. They are learning traditional and modern songs. Members get opportunities to go on learning journeys where they learn more about music or get the opportunity to showcase their talent to the public.<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/E8htULEoeHs" height="315" width="560"></iframe></td>
+    <td class="tg-u05r"> Members are given the opportunity to make music using Angklung, Kulintang and other instruments. They are learning traditional and modern songs. Members get opportunities to go on learning journeys where they learn more about music or get the opportunity to showcase their talent to the public.</td>
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
