@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-dafn">About Choir</th>
-    <th class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.00pm – 4.00pm. Activities are mostly held in the school’s music room. Other activities include exchange programmes with other school choirs or musical appreciations.<br>th&gt;
+    <th class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.00pm – 4.00pm. Activities are mostly held in the school’s music room. Other activities include exchange programmes with other school choirs or musical appreciations.
   </th></tr>
 </thead>
 <tbody>
@@ -18,7 +18,7 @@ third_nav_title: Performing Arts
   </td></tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members will learn warm-up techniques to prepare for choral singing. Choral pieces are chosen by the choir conductor for practice, and they can come in different languages such as Japanese or Bahasa Indonesia. Members will learn pronunciation and vocal techniques required to sing the choral pieces well. Overall, all choir members will learn how to perform a choral piece well as one collective voice. We also allow each member to showcase a talent and give them individual guidance to improve.<br><br></td>
+    <td class="tg-u05r">During CCA sessions, members will learn warm-up techniques to prepare for choral singing. Choral pieces are chosen by the choir conductor for practice, and they can come in different languages such as Japanese or Bahasa Indonesia. Members will learn pronunciation and vocal techniques required to sing the choral pieces well. Overall, all choir members will learn how to perform a choral piece well as one collective voice. We also allow each member to showcase a talent and give them individual guidance to improve.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
@@ -26,7 +26,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Potential P4 and 5 choir student leaders are trained during the annual choir camp held in June. The selected student leaders will then help out to oversee the discipline and order of the choir during practices. These experiences provide them the opportunity to hone their leadership skills.<br><br></td>
+    <td class="tg-u05r">Potential P4 and 5 choir student leaders are trained during the annual choir camp held in June. The selected student leaders will then help out to oversee the discipline and order of the choir during practices. These experiences provide them the opportunity to hone their leadership skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>

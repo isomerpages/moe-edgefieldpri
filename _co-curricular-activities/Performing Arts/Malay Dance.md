@@ -18,7 +18,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members learn to  grasp the techniques of Inang dance this semester.  They also develop the school values of teamwork, integrity, emphaty and discipline during their dance practice sessions.  </td>
+    <td class="tg-u05r">During CCA sessions, members learn to grasp the techniques of the different malay dances.  They also develop the school values of teamwork, integrity, emphaty and discipline during their dance practice sessions.  </td>
   </tr>
   <tr>
     <td class="tg-u05r"><br>Growing hearts and minds</td>
