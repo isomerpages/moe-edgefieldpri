@@ -18,7 +18,7 @@ third_nav_title: Performing Arts
   </td></tr>
   <tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members will learn warm-up techniques to prepare for choral singing. Choral pieces are chosen by the choir conductor for practice, and they can come in different languages such as Japanese or Bahasa Indonesia. Members will learn pronunciation and vocal techniques required to sing the choral pieces well. Overall, all choir members will learn how to perform a choral piece well as one collective voice. We also allow each member to showcase a talent and give them individual guidance to improve.<br><br></td>
+    <td class="tg-u05r">During CCA sessions, members will learn warm-up techniques to prepare for choral singing. Choral pieces are chosen by the choir conductor for practice, and they can come in different languages such as Japanese or Bahasa Indonesia. Members will learn pronunciation and vocal techniques required to sing the choral pieces well. Overall, all choir members will learn how to perform a choral piece well as one collective voice. We also allow each member to showcase a talent and give them individual guidance to improve.</td>
   </tr>
   <tr>
     <td class="tg-dafn">Growing hearts and minds</td>
