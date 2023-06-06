@@ -7,48 +7,37 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dafn">About Angklung and Kolintang Ensemble</th>
-    <th class="tg-u05r">  Angklung and Kulintang Ensemble appeals to all students who enjoy music. It offers an engaging and meaningful musical experience for all ages. The CCA sessions are conducted on Tuesdays, 2.00pm to 4.00pm in the music room.<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-Xdi3tLWSjY" height="315" width="560"></iframe> </th>
-  </tr>
+    <th class="tg-dafn">About Choir</th>
+    <th class="tg-u05r"> 
+Angklung and Kulintang Ensemble appeals to all students who enjoy music. It offers an engaging and meaningful musical experience for all ages. The CCA sessions are conducted on Tuesdays, 2.00pm to 4.00pm in the music room.
+  </th></tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-xwen"><span style="color:#222"> </span></td>
-   
-  </tr><tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r"> Members are given the opportunity to make music using Angklung, Kulintang and other instruments. They are learning traditional and modern songs. Members get opportunities to go on learning journeys where they learn more about music or get the opportunity to showcase their talent to the public.</td>
-  </tr>
+    <td class="tg-u05r">By the end of each year, CCA members will acquire:<br>1.   Knowledge of musical background (i.e. learning to read musical scores)<br>2.   Vocal techniques (i.e. Intonation, Breathing techniques, Harmonisation, expression in singing) <br>Annually, our members get to perform on various events (i.e. SYF, ABRSM, Aesthetics Night, Speech and Prize-Giving Day etc). Our pupils participate in school exchanges and attend musical performances to increase their musical knowledge through collaborative experiences. We have our annual Choir Camp to facilitate peer bonding and enhance their choral singing. Members also get the opportunity to hone their love for singing by performing their favourite songs as a group during our in-house End-of-year concert cum farewell for the Primary 6 members.
+  </td></tr>
   <tr>
-    <td class="tg-xwen"><span style="color:#222"> </span></td>
-  
-  </tr><tr>
     <td class="tg-dafn">Developing our students</td>
-    <td class="tg-u05r">During CCA sessions, members acquire musical knowledge of the traditional instruments. They develop their musicianship to make music as a team. Members also learn to play different instruments and harmonize with one another to make beautiful melodies.<br></td>
+    <td class="tg-u05r">During CCA sessions, members will learn warm-up techniques to prepare for choral singing. Choral pieces are chosen by the choir conductor for practice, and they can come in different languages such as Japanese or Bahasa Indonesia. Members will learn pronunciation and vocal techniques required to sing the choral pieces well. Overall, all choir members will learn how to perform a choral piece well as one collective voice. We also allow each member to showcase a talent and give them individual guidance to improve.<br><br></td>
   </tr>
   <tr>
-    <td class="tg-xwen"><span style="color:#222"> </span></td>
-    
-  </tr><tr>
     <td class="tg-dafn">Growing hearts and minds</td>
-    <td class="tg-u05r">Activities conducted during the CCA sessions are geared towards character building and inculcating the values of team spirit, integrity and empathy. <br>Team building activities form an integral part of the CCA as members find meaning through interactions with the other members and their interdependence on each other to achieve a set task. <br>Members also learn the value of discipline through playing the correct parts at the right time. Members have reflection activities that focuses on problem-solving, resilience, gratitude and empathy. </td>
+    <td class="tg-u05r">Activities conducted during the CCA sessions are geared towards character building and inculcating the values of team spirit, self-discipline and empathy.<br>Members are also given the empowerment to suggest what they would like to do. These opportunities are given to encourage pro-activeness, creativity and exploration of personal strengths.<br>Reflections are conducted at the end of CCA so that each pupil are given time to think about what they have learnt or achieve together as a choir. It is also a time for pupils to address any matters related to the choir.<br></td>
   </tr>
   <tr>
-    <td class="tg-xwen"><span style="color:#222"> </span></td>
- 
-  </tr><tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Angklung student leaders are empowered to lead the team in some activities such as warm-up exercise. Section leaders also take charge in guiding the juniors in playing their instrument. This provides the opportunity to hone their leadership skills. <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/E8htULEoeHs" height="315" width="560"></iframe></td>
+    <td class="tg-u05r">Potential P4 and 5 choir student leaders are trained during the annual choir camp held in June. The selected student leaders will then help out to oversee the discipline and order of the choir during practices. These experiences provide them the opportunity to hone their leadership skills.<br><br></td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Benazir (Teacher-in-charge)<br>Mdm Joyce Choo<br>Mr Terence Teng <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nsbKKbKF4Tc" height="315" width="560"></iframe></td>
-  </tr>
-  <tr>
-    <td class="tg-xwen"><span style="color:#222"> </span></td>
-    <td class="tg-1uvx"><span style="color:#222"> </span><span style="font-weight:700;background-color:transparent">Why choose Angklung as your CCA?&nbsp;&nbsp;</span></td>
+    <td class="tg-u05r">Mr Marcus Sim (Teacher-in-charge)<br>Mrs Manju Manoj<br>Mdm Salimah Haniffa</td>
   </tr>
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0lyWJOAm3_xp5XEZ2bovfoTqPXqd_GVB9fYtq3cTD5X07kiT9t-b2G8H0OlwXUhmqOkyiPFXipQhz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/j07ZuOTJuGw" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GFCdBGQBkNY" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6ymt0ZaDvAcb0jxF-aBNgqk8QrrGXCiVXEJdLjp8i5Lh3pKb9Ar3qx7Ue7Br08c17IpP2BNijwq4C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
