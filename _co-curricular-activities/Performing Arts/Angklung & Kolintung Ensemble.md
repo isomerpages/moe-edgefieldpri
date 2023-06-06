@@ -28,17 +28,13 @@ They also develop their musicianship to make music as a team. Members also learn
   </tr>
   <tr>
     <td class="tg-dafn">Empowering leaders and talents</td>
-    <td class="tg-u05r">Potential P4 and 5 choir student leaders are trained during the annual choir camp held in June. The selected student leaders will then help out to oversee the discipline and order of the choir during practices. These experiences provide them the opportunity to hone their leadership skills.<br><br></td>
+    <td class="tg-u05r"> Angklung student leaders are empowered to lead the team in some activities such as warm-up exercise. Section leaders also take charge in guiding the juniors in playing their instrument. This provides the opportunity to hone their leadership skills.</td>
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mr Marcus Sim (Teacher-in-charge)<br>Mrs Manju Manoj<br>Mdm Salimah Haniffa</td>
+    <td class="tg-u05r"> Mdm Benazir (Teacher-in-charge)<br>Mr Terence Teng
+<br>
+Mdm Joyce Choo</td>
   </tr>
 </tbody>
 </table>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/j07ZuOTJuGw" height="315" width="560"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GFCdBGQBkNY" height="315" width="560"></iframe>
-
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6ymt0ZaDvAcb0jxF-aBNgqk8QrrGXCiVXEJdLjp8i5Lh3pKb9Ar3qx7Ue7Br08c17IpP2BNijwq4C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
