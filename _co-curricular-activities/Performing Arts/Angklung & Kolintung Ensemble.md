@@ -42,7 +42,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-dafn">CCA Teachers</td>
-    <td class="tg-u05r">Mdm Benazir (Teacher-in-charge)<br>Mdm Joyce Choo<br>Mr Terence Teng</td>
+    <td class="tg-u05r">Mdm Benazir (Teacher-in-charge)<br>Mdm Joyce Choo<br>Mr Terence Teng <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nsbKKbKF4Tc" height="315" width="560"></iframe></td>
   </tr>
   <tr>
     <td class="tg-xwen"><span style="color:#222"> </span></td>
