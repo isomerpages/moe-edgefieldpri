@@ -9,7 +9,7 @@ third_nav_title: Performing Arts
   <tr>
     <th class="tg-dafn">About Choir</th>
     <th class="tg-u05r"> 
-Angklung and Kulintang Ensemble appeals to all students who enjoy music. It offers an engaging and meaningful musical experience for all ages. The CCA sessions are conducted on Tuesdays, 2.00pm to 4.00pm in the music room.
+Angklung and Kulintang Ensemble appeals to all students who enjoy music. It offers an engaging and meaningful musical experience for all ages. The CCA sessions are conducted on Tuesdays, 2.00pm to 4.00pm in the music room. <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-Xdi3tLWSjY" height="315" width="560"></iframe>
   </th></tr>
 </thead>
 <tbody>
