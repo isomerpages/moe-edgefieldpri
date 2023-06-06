@@ -10,10 +10,11 @@ The MTL Fortnight programme is a platform for students to actively learn their M
   
 The themes and learning activities for the various levels are as follows:
 
-![](/images/mtl_fortnight_1june2023_01.JPG)
-![](/images/mtl_fortnight_1june2023_02.JPG)
-![](/images/mtl_fortnight_1june2023_03.JPG)
-![](/images/mtl_fortnight_1june2023_04.JPG)
+<img style="width:90%" src="/images/mtl_fortnight_1june2023_01.JPG">
+		 <img style="width:70%" src="/images/mtl_fortnight_1june2023_02.JPG">
+		 <img style="width:70%" src="/images/mtl_fortnight_1june2023_03.JPG">
+		 <img style="width:80%" src="/images/mtl_fortnight_1june2023_04.JPG">
+
 
 <h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">MTL Reading Programme</font></span></h2>
 
