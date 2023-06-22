@@ -80,7 +80,7 @@ Depending on the severity of each disciplinary case, the following actions may b
 *   Caning (for boys only)
 *   Other actions (as deemed appropriate by the school)
 
-**10\. School’s Anti-Bullying Stand**
+**9\. School’s Anti-Bullying Stand**
 
 Bullying is a complex issue. It can be physical, verbal or social in nature. Bullying is defined based on ALL these distinct factors:
 
