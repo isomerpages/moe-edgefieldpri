@@ -67,17 +67,7 @@ Students are to conduct themselves in the following manner:
 
 ![](/images/hair%20neat.png)
 
-**8\. Good toilet habit**
-
-*   Flush the toilet after use.
-*   Throw litter into the waste-paper baskets.
-*   Wash hands after a visit to the toilet.
-*   Keep the washbasins and the toilets clean
-*   Keep the floor clean and dry
-*   Inform teachers of any leakage or damage.
-
-
-**9\. Disciplinary Action**
+**8\. Disciplinary Action**
 
 Failure to comply with the Above Code of Conduct may result in corrective consequences stipulated in the school’s Discipline Case Management Guidelines. 
 
@@ -90,7 +80,7 @@ Depending on the severity of each disciplinary case, the following actions may b
 *   Caning (for boys only)
 *   Other actions (as deemed appropriate by the school)
 
-**10\. School’s Anti-Bullying Stand**
+**9\. School’s Anti-Bullying Stand**
 
 Bullying is a complex issue. It can be physical, verbal or social in nature. Bullying is defined based on ALL these distinct factors:
 
