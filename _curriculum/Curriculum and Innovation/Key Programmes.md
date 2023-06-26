@@ -1,18 +1,9 @@
 ---
-title: About us
-permalink: /curriculum/curriculum-and-innovation/permalink/
+title: Key Programmes
+permalink: /curriculum/curriculum-and-innovation/key-programmes/
 description: ""
 third_nav_title: Curriculum and Innovation
 ---
-### Core Curriculum
-
-At EFPS, we recognize every student has unique interests, strengths, and learning styles.  Our integrated curriculum aims to nurture Edgefielders into&nbsp;stewards of their world, capable of navigating the future with confidence, making a positive impact to the community and protecting our Singaporean way of life.
-
-Through the promotion of student choice and voice, Edgefielders can be inspired to take ownership of their learning and shape their unique educational journey.
-
-The outcomes of the integrated curriculum are:
-<img style="width:80%" src="/images/curriculuminnovation1.png">
-
 ### Key Programmes
 
      
@@ -48,15 +39,3 @@ The outcomes of the integrated curriculum are:
  
 
 **4.&nbsp;&nbsp; Maker Education.**&nbsp; Click [here](https://www.edgefieldpri.moe.edu.sg/signature-programmes/makerspace/) to access our Signature Programme.
-
-### Events
-
-**The Free Learning Day (FLD)** is a conference-style learning event for students. Comprising of keynote and concurrent sessions, our P3 to P5 students decide what they would like to learn and choose their sessions, promoting choice and greater ownership of learning.
-
-The sub themes for the FLD 2023 include green efforts, sustainability, healthy living, innovation as well as education career guidance. The speakers are from local companies, volunteers from our Parent Support Group as well as our alumni.
-
-Free Learning Day was held on 24 &amp; 25 May 2023.&nbsp; Click&nbsp;[here](https://sites.google.com/moe.edu.sg/efpsfreelearningday/home)&nbsp;to access synopses of keynote and concurrent sessions held on Free Learning Day.
-<img style="width:70%" src="/images/curriculuminnovation%208.png">
-<img style="width:70%" src="/images/curriculuminnovation%209.png">
-
-<img style="width:70%" src="/images/curriculuminnovation%2010.png">
