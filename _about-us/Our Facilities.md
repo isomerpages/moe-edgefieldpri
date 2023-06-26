@@ -9,6 +9,6 @@ description: ""
 
 
 ### Special rooms and facilities 
-
+![](/images/special%20rooms%20and%20facilities%201%20(n).png)
 ![](/images/rooms%20and%20facilities%201.png)
 ![](/images/rooms%20and%20facilities%202.png)
