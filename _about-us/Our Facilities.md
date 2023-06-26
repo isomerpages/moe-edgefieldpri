@@ -5,7 +5,8 @@ description: ""
 ---
 ### The School Facade
 
-![](/images/School%20Facade.png)
+![](/images/school%20facade%20(n).png)
+
 
 ### Special rooms and facilities 
 
