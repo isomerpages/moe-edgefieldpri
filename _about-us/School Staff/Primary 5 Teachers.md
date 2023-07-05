@@ -52,9 +52,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Grace</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Miss Crystal Koh <br> Mdm Jaseela Ameen</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Miss Crystal Koh <br>Ms Esther Lee <br> Mdm Jaseela Ameen</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">koh_hui_ting_crystal@moe.edu.sg jaseela_mohamed_noorul_ameen@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">koh_hui_ting_crystal@moe.edu.sg lee_siew_kian@moe.edu.sg<br>jaseela_mohamed_noorul_ameen@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"></span></font></td>
 
 </tr>
 
