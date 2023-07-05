@@ -83,11 +83,11 @@ yeo_poh_teck@moe.edu.sg  <br>julieana_razek@moe.edu.sg
 <td><font face="arial, sans-serif" size="4" color="#444444">6 Joy</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Miss Suhaila Mohd Taib  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""></span><br>Mr Jabin Lim  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""></span><br>Mr Jabin Lim<br>Mdm Rafeyah  
 </font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444">suhaila_mohd_taib@moe.edu.sg  
-lim_ming_ee_jabin@moe.edu.sg  
+lim_ming_ee_jabin@moe.edu.sg  <br>rafeyah_abdul_rahman@moe.edu.sg
 <span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span></font></td>
 
 </tr>
