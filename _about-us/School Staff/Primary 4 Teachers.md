@@ -21,7 +21,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif">Assistant Year Head </font></td>
+<td><font size="4" face="arial, sans-serif">Assistant Year Head&nbsp;</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mdm Pratibha Rai</font></td>
 
@@ -49,11 +49,11 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif" color="#444444">4 Charity </font></td>
+<td><font size="4" face="arial, sans-serif" color="#444444">4 Charity&nbsp;</font></td>
 
-<td><font face="arial, sans-serif" size="4">Mrs Juliana Ng<br>Mr Marcus Sim</font></td>
+<td><font face="arial, sans-serif" size="4">Mrs Juliana Ng<br>Mr Marcus Sim<br> Mdm Louisa Koh</font></td>
 
-<td><font face="arial, sans-serif" size="4">juliana_natalia_lee_osman@moe.edu.sg<br>sim_ming_quan_marcus@moe.edu.sg</font></td>
+<td><font face="arial, sans-serif" size="4">juliana_natalia_lee_osman@moe.edu.sg<br>sim_ming_quan_marcus@moe.edu.sg<br>koh_kim_lian_a@moe.edu.sg</font></td>
 
 </tr>
 
