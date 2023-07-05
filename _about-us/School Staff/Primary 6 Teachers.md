@@ -97,10 +97,10 @@ lim_ming_ee_jabin@moe.edu.sg  <br>rafeyah_abdul_rahman@moe.edu.sg
 <td><font face="arial, sans-serif" size="4" color="#444444">6 Love</font></td>
 
 <td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""><span lang="EN-SG" class="">Mdm Zahira Begum  
-<br>Mdm Alifah Yusoff&nbsp;</span></span></font></td>
+<br>Mdm Alifah Yusoff&nbsp;<br>Ms Debbie See</span></span></font></td>
 
 <td><font face="arial, sans-serif" color="#444444"><font size="4"><span lang="EN-SG" style="line-height: 107%;"></span>zahira_begum_abdul_rahman@moe.edu.sg  
-</font><font size="4">alfiah_md_yusoff@moe.edu.sg</font></font></td>
+</font><font size="4">alfiah_md_yusoff@moe.edu.sg<br>see_seow_ping_debbie@moe.edu.sg</font></font></td>
 
 </tr>
 
