@@ -117,10 +117,10 @@ salimah_mohd_haniffa@moe.edu.sg <br>wirziana_abdul_wahab@moe.edu.sg
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Wisdom</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mrs Safi Shirbeen  
-<span lang="EN-SG" style="color: rgb(68, 68, 68); line-height: 19.26px;"></span><span lang="EN-SG" class="" style="color: rgb(68, 68, 68);"></span><span style="color: rgb(68, 68, 68);"><br>Mr Patrick Shiu</span></font></td>
+<span lang="EN-SG" style="color: rgb(68, 68, 68); line-height: 19.26px;"></span><span lang="EN-SG" class="" style="color: rgb(68, 68, 68);"></span><span style="color: rgb(68, 68, 68);"><br> Mr Vai<br>Mr Patrick Shiu</span></font></td>
 
 <td><font size="4" face="arial, sans-serif">shamsulbadariah_hussein@moe.edu.sg  
-<span style="color: rgb(68, 68, 68);">shiu_kwok_tung@moe.edu.sg</span></font></td>
+<span style="color: rgb(68, 68, 68);"><br>vairavan_uthaman_chettiar@moe.edu.sg<br>shiu_kwok_tung@moe.edu.sg</span></font></td>
 
 </tr>
 
