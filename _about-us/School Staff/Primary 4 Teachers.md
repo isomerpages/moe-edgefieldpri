@@ -76,11 +76,11 @@ third_nav_title: School Staff
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Grace</font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mr Terence Wong
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><br>Miss Angela Koh Min Min  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><br>Miss Angela Koh Min Min<br>Mdm Pouline Paul  
 </font></td>
 
 <td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>wong_wing_yew@moe.edu.sg  
-koh_minmin_angela@moe.edu.sg  
+koh_minmin_angela@moe.edu.sg <br> paul_pouline@moe.edu.sg
 </font></td>
 
 </tr>
