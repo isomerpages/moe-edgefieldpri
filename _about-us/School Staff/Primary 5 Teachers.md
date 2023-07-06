@@ -42,9 +42,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Faith</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Koh Andrea <br> <span style="line-height: 19.26px; line-height: 19.26px;" lang="EN-SG"></span><span style="" class="" lang="EN-SG"></span>Mr Terence Teng<span style="" class="" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Koh Andrea <br> <span style="line-height: 19.26px; line-height: 19.26px;" lang="EN-SG"></span><span style="" class="" lang="EN-SG"></span>Mr Terence Teng<br>Mdm Louisa Koh<span style="" class="" lang="EN-SG"></span></font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">koh_siew_fong@moe.edu.sg teng_sze_chun_terence@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"></span><span style="line-height: 107%;" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">koh_siew_fong@moe.edu.sg teng_sze_chun_terence@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"><br>koh_kim_lian_a@moe.edu.sg</span><span style="line-height: 107%;" lang="EN-SG"></span></font></td>
 
 </tr>
 
@@ -52,9 +52,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Grace</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Miss Crystal Koh <br> Mdm Jaseela Ameen</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Miss Crystal Koh <br>Ms Esther Lee <br> Mdm Jaseela Ameen</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">koh_hui_ting_crystal@moe.edu.sg jaseela_mohamed_noorul_ameen@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">koh_hui_ting_crystal@moe.edu.sg lee_siew_kian@moe.edu.sg<br>jaseela_mohamed_noorul_ameen@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"></span></font></td>
 
 </tr>
 
@@ -62,9 +62,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Hope</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Siti Hajar<br> Ms Loi Wei Ling<span class="" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Siti Hajar<br>Mdm Shanti <br>Ms Loi Wei Ling<span class="" lang="EN-SG"></span></font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">siti_hajar_kamaruddin@moe.edu.sg loi_wei_ling@moe.edu.sg</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">siti_hajar_kamaruddin@moe.edu.sg<br>shanti_kulantaipian_sh@moe.edu.sg loi_wei_ling@moe.edu.sg</font></td>
 
 </tr>
 
@@ -82,9 +82,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Love</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG"></span><span class="" lang="EN-SG"><span class="" lang="EN-SG">Mdm Koh Lay Kuan<br> Mdm Joyce Ham</span></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG"></span><span class="" lang="EN-SG"><span class="" lang="EN-SG">Mdm Koh Lay Kuan<br>Mr Sebastian Ooi <br>Mdm Joyce Ham</span></span></font></td>
 
-<td><font color="#444444" face="arial, sans-serif" size="4"><span style="line-height: 107%;" lang="EN-SG"></span>koh_lay_kuan@moe.edu.sg ham_choi_keng@moe.edu.sg</font></td>
+<td><font color="#444444" face="arial, sans-serif" size="4"><span style="line-height: 107%;" lang="EN-SG"></span>koh_lay_kuan@moe.edu.sg<br>ooi_kian_tiong_sebastian@moe.edu.sg<br>ham_choi_keng@moe.edu.sg</font></td>
 
 </tr>
 
@@ -92,9 +92,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Patience</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG">Mr Christmas Lee<br></span> <span class="" lang="EN-SG">Mdm Idayu Dewi</span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG">Mr Christmas Lee<br>Mdm Jasmin Quek</span> <span class="" lang="EN-SG"><br>Mdm Idayu Dewi<br> Mdm Illi Sakinah</span></font></td>
 
-<td><font color="#444444" face="arial, sans-serif" size="4">lee_choon_seng_christmas@moe.edu.sg idayu_dewi_bt_juwari@moe.edu.sg</font></td>
+<td><font color="#444444" face="arial, sans-serif" size="4">lee_choon_seng_christmas@moe.edu.sg <br>quek_kah_hoon@moe.edu.sg<br>idayu_dewi_bt_juwari@moe.edu.sg<br>ili_sakinah_sarwan@moe.edu.sg</font></td>
 
 </tr>
 
@@ -102,9 +102,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Wisdom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Ms&nbsp;Ling Yuan<br></font> <font size="4" face="arial, sans-serif">Mr Muhammad Azhari</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Ms Para Sambasivam <br>Ms&nbsp;Ling Yuan<br></font> <font size="4" face="arial, sans-serif">Mr Muhammad Azhari</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">ling_yuan@moe.edu.sg muhammad_azhari_shahri@moe.edu.sg&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">parameswari_s_sambasivam@moe.edu.sg<br>ling_yuan@moe.edu.sg muhammad_azhari_shahri@moe.edu.sg&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
 
 <td></td>
 
