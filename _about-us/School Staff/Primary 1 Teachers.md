@@ -51,10 +51,10 @@ third_nav_title: School Staff
 <td><font size="4" face="arial, sans-serif">1 Charity</font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mdm Aw Pei Shi  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""><br>Mdm Nur Yanty Jumali</span>  
+<span lang="EN-SG" style="line-height: 107%;"><br>Mdm Jessica Chew</span><span lang="EN-SG" class=""><br>Mdm Nur Yanty Jumali</span>  
 </font></td>
 
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>aw_pei_shi@moe.edu.sg  
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>aw_pei_shi@moe.edu.sg  chaw_kim_leng_jessica@moe.edu.sg <br>
 nur_ yanty_jumali@moe.edu.sg  
 </font></td>
 
