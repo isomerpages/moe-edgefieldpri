@@ -40,12 +40,12 @@ third_nav_title: School Staff
 
 <td><font size="4" face="arial, sans-serif" color="#444444">6 Faith</font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Melissa Yip</span><span lang="EN-SG" class="" style="">  
-</span><br>Mdm Azlin Mustaffa <br>Mr Fedly Sulaiman
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Azlin Mustaffa</span><span lang="EN-SG" class="" style="">  
+</span><br>Mr Fedly Sulaiman<br>Mdm Melissa Yip
 </font></td>
 
-<td><font size="4" color="#444444"><font face="arial, sans-serif">yip_cheng_han_melissa@moe.edu.sg<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span>  
-</font><font face="arial, sans-serif">azlin_mustaffa@moe.edu.sg <br>mohammad_fedly_b_sulaiman@moe.edu.sg 
+<td><font size="4" color="#444444"><font face="arial, sans-serif">azlin_mustaffa@moe.edu.sg<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span>  
+</font><font face="arial, sans-serif">mohammad_fedly_b_sulaiman@moe.edu.sg  <br>mohammad_fedly_b_sulaiman@moe.edu.sg 
 </font></font></td>
 
 </tr>
