@@ -79,11 +79,11 @@ third_nav_title: School Staff
 <td><font face="arial, sans-serif" size="4">3 Grace</font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style="">Mdm Esthelle Ang</span>  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style=""><br>Mdm Fu Dong</span>  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="" style=""><br>Mdm Fu Dong <br> Mr Hendratno Eunos</span>  
 </font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>ang_mui_mui_esthelle@moe.edu.sg  
-</font><br>fu_dong@moe.edu.sg  
+</font><br>fu_dong@moe.edu.sg  <br>hendratno_b_mohamed_eunos@moe.edu.sg
 </font></td>
 
 </tr>
