@@ -79,7 +79,7 @@ sum_yoong_lee_matthew@moe.edu.sg
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Grace</font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">Mr Bernard Foo
-<br>Mdm Kunasuntari  <br>Mdm Zahidah
+<br>Mdm Kunasuntari  <br>Mdm Zahidah Nizar
 </font></td>
 
 <td><font size="4" color="#444444" face="arial, sans-serif">foo_kwee_joo_bernard@moe.edu.sg  
