@@ -96,7 +96,7 @@ third_nav_title: School Staff
 <span lang="EN-SG" class="" style=""></span><br>Mdm Joyce Choo <br>Mr Wu Ming Che 
 </font></td>
 
-<td><font face="arial, sans-serif" size="4"><font color="#444444">chia_poh_choo_shanice</font></font><font face="arial, sans-serif" size="4">@moe.edu.sg</font><font face="arial, sans-serif" size="4"><br>joyce_choo_lay_yien@moe.edu.sg  
+<td><font face="arial, sans-serif" size="4"><font color="#444444">chia_poh_choo_shanice</font></font><font face="arial, sans-serif" size="4">@moe.edu.sg</font><font face="arial, sans-serif" size="4"><br>joyce_choo_lay_yien@moe.edu.sg <br> wu_ming_che@moe.edu.sg
 </font></td>
 
 </tr>
