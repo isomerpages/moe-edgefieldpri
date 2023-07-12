@@ -89,12 +89,12 @@ third_nav_title: School Staff
 
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Hope</font></td>
 
-<td><font size="4" face="arial, sans-serif">Mr Chew Wei<br>Mr Raymond Quake  
-<span style="color: rgb(68, 68, 68);"><br>Mdm Lee Xin Yee</span><font color="#444444"><span lang="EN-SG" class="">  
+<td><font size="4" face="arial, sans-serif">Mr Chew Wei<br>Mdm Lee Xin Yee
+<span style="color: rgb(68, 68, 68);"><br>Mr Raymond Quake </span><font color="#444444"><span lang="EN-SG" class="">  
 </span></font></font></td>
 
-<td><font size="4" face="arial, sans-serif">chew_wei@moe.edu.sg<br>quake_kheok_meng_raymond@moe.edu.sg  
-<font color="#444444">lee_xin_yi@moe.edu.sg  
+<td><font size="4" face="arial, sans-serif">chew_wei@moe.edu.sg<br>lee_xin_yi@moe.edu.sg  
+<font color="#444444">quake_kheok_meng_raymond@moe.edu.sg  
 </font></font></td>
 
 </tr>
