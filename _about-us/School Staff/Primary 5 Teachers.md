@@ -104,7 +104,7 @@ third_nav_title: School Staff
 
 <td><font color="#444444" size="4" face="arial, sans-serif">Ms Ling Yuan <br>Mr Muhammad Azhar<br></font> <font size="4" face="arial, sans-serif">Ms Parameswari<br> Mr Sebastian Ooi</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">ling_yuan@moe.edu.sg <br>ling_yuan@moe.edu.sg muhammad_azhari_shahri@moe.edu.sg&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">ling_yuan@moe.edu.sg <br>muhammad_azhari_shahri@moe.edu.sg </font></td>
 
 <td></td>
 
