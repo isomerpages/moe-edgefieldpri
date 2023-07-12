@@ -82,12 +82,12 @@ lee_jianfeng_edmund@moe.edu.sg <br>yeo_poh_teck@moe.edu.sg
 
 <td><font face="arial, sans-serif" size="4" color="#444444">6 Joy</font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Miss Suhaila Mohd Taib  
-<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""></span><br>Mr Jabin Lim<br>Mdm Rafeyah  
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mr Jabin Lim  
+<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span><span lang="EN-SG" class=""></span><br>Mdm Rafeyah<br>Miss Suhaila Mohd Taib  
 </font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">suhaila_mohd_taib@moe.edu.sg  
-lim_ming_ee_jabin@moe.edu.sg  <br>rafeyah_abdul_rahman@moe.edu.sg
+<td><font face="arial, sans-serif" size="4" color="#444444">lim_ming_ee_jabin@moe.edu.sg   
+ rafeyah_abdul_rahman@moe.edu.sg<br>suhaila_mohd_taib@moe.edu.sg
 <span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span></font></td>
 
 </tr>
