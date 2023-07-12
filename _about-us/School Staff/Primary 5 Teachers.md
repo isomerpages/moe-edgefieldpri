@@ -42,9 +42,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Faith</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Koh Andrea <br> <span style="line-height: 19.26px; line-height: 19.26px;" lang="EN-SG"></span><span style="" class="" lang="EN-SG"></span>Mr Terence Teng<br>Mdm Louisa Koh<span style="" class="" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Koh Andrea <br> <span style="line-height: 19.26px; line-height: 19.26px;" lang="EN-SG"></span><span style="" class="" lang="EN-SG"></span>Mdm Louisa Koh<br>Mr Terence Teng<span style="" class="" lang="EN-SG"></span></font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">koh_siew_fong@moe.edu.sg teng_sze_chun_terence@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"><br>koh_kim_lian_a@moe.edu.sg</span><span style="line-height: 107%;" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">koh_siew_fong@moe.edu.sg koh_kim_lian_a@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"><br>teng_sze_chun_terence@moe.edu.sg</span><span style="line-height: 107%;" lang="EN-SG"></span></font></td>
 
 </tr>
 
