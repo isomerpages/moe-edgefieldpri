@@ -92,9 +92,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Patience</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG">Mr Christmas Lee<br>Mdm Jasmin Quek</span> <span class="" lang="EN-SG"><br>Mdm Idayu Dewi<br> Mdm Illi Sakinah</span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG">Mdm Idayu Dewi<br>Mdm Illi Sakinah <br> </span> <span class="" lang="EN-SG">Jasmin Quek<br> Mdm Illi Sakinah</span></font></td>
 
-<td><font color="#444444" face="arial, sans-serif" size="4">lee_choon_seng_christmas@moe.edu.sg <br>quek_kah_hoon@moe.edu.sg<br>idayu_dewi_bt_juwari@moe.edu.sg<br>ili_sakinah_sarwan@moe.edu.sg</font></td>
+<td><font color="#444444" face="arial, sans-serif" size="4">idayu_dewi_bt_juwari@moe.edu.sg<br>ili_sakinah_sarwan@moe.edu.sg<br>lee_choon_seng_christmas@moe.edu.sg idayu_dewi_bt_juwari@moe.edu.sg<br>ili_sakinah_sarwan@moe.edu.sg</font></td>
 
 </tr>
 
