@@ -20,7 +20,7 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif">Assistant Year Head </font></td>
+<td><font size="4" face="arial, sans-serif">Assistant Year Head&nbsp;</font></td>
 
 <td><font face="arial, sans-serif" size="4">Mdm Pratibha Rai</font></td>
 
@@ -50,11 +50,11 @@ third_nav_title: School Staff
 
 <td><font face="arial, sans-serif" size="4">3 Charity</font></td>
 
-<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Mr Benjamin Kuan  
+<td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Ms Tay Ru Jun  <br> Mdm Fauziah Mas'od
 </span></font><font face="arial, sans-serif" size="4"><br>Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
 </span></font></td>
 
-<td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>kuan_yong_hui_benjamin@moe.edu.sg  
+<td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>tay_ru_jun@moe.edu.sg 
 </font></font><font size="4" face="arial, sans-serif"><br>tay_ru_jun@moe.edu.sg</font></td>
 
 </tr>
