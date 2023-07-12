@@ -65,11 +65,11 @@ third_nav_title: School Staff
 </font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4">Mr Duane Chan 
-<br>Mdm Noorhaizah Abdul Rahim  
+<br>Mdm Noorhaizah Abdul Rahim  <br> Mdm Sydney Peh
 </font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444">duane_chan_xin_jie@moe.edu.sg  
-<br>noorhaizah_abdul_rahim@moe.edu.sg</font>  
+<br>noorhaizah_abdul_rahim@moe.edu.sg<br>peh_boon_teng_sydney@moe.edu.sg</font>  
 </font></td>
 
 </tr>
