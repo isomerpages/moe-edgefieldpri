@@ -61,12 +61,12 @@ third_nav_title: School Staff
 
 <td><font size="4" face="arial, sans-serif" color="#444444">4 Faith</font></td>
 
-<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mr David Yong<br>Ms Tan Shuling 
-<br>Mdm Nurafizah Othman  
+<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mdm Nurafizah Othman  <br>Ms Tan Shuling 
+<br>Mr David Yong 
 </span></font></td>
 
-<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>yong_heng_sai@moe.edu.sg <br>tan_shuling@moe.edu.sg 
-<br>nurafizah_othman@moe.edu.sg  
+<td><font size="4" face="arial, sans-serif" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>nurafizah_othman@moe.edu.sg  <br>tan_shuling@moe.edu.sg 
+<br>yong_heng_sai@moe.edu.sg 
 </font></td>
 
 </tr>
