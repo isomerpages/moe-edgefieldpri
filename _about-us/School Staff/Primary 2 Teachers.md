@@ -119,12 +119,12 @@ lu_yangfan@moe.edu.sg
 
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Love</font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">Mr Melvin Ow  
-<br>Mrs Ong-Chia Peishan  
+<td><font size="4" color="#444444" face="arial, sans-serif">Mrs Ong-Chia Peishan  <br>Mdm Norsinah Suadi
+<br>Mr Melvin Ow
 <span lang="EN-SG" class=""></span></font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">ow_weng_wai_melvin@moe.edu.sg  
-chia_peishan@moe.edu.sg  
+<td><font size="4" color="#444444" face="arial, sans-serif">chia_peishan@moe.edu.sg <br>norsinah_suadi@moe.edu.sg
+ ow_weng_wai_melvin@moe.edu.sg  
 </font></td>
 
 </tr>
