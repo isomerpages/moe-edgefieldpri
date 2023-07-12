@@ -135,12 +135,12 @@ lu_yangfan@moe.edu.sg
 
 </font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class=""></span>Ms Wulan  
-<br>Ms Koh Seok Hui  
+<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class=""></span>Ms Ashley Leong <br>Ms Wulan  
+<br>Mdm Rohani Ahmad
 <span lang="EN-SG" class=""></span></font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg 
-<br>koh_seok_hui@moe.edu.sg  
+<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span> leong_pui_rhu@moe.edu.sg
+<br>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg  rohani_ahmad_a@moe.edu.sg
 </font></td>
 
 </tr>
