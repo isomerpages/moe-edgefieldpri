@@ -24,7 +24,7 @@ third_nav_title: School Staff
 
 <td><font face="arial, sans-serif" size="4">Mr Mike Ng</font></td>
 
-<td><font face="arial, sans-serif"> <font size="4">ng_cheong_zsen@moe.edu.sg</font></font></td>
+<td><font face="arial, sans-serif">&nbsp;<font size="4">ng_cheong_zsen@moe.edu.sg</font></font></td>
 
 </tr>
 
@@ -78,12 +78,12 @@ sum_yoong_lee_matthew@moe.edu.sg
 
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Grace</font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">Mrs Charn Ve' Joy  
-<br>Mdm Kunasuntari  
+<td><font size="4" color="#444444" face="arial, sans-serif">Mr Bernard Foo
+<br>Mdm Kunasuntari  <br>Mdm Zahidah Nizar
 </font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">ong_ve_joy@moe.edu.sg  
-<br>kunasuntari_marimuthu@moe.edu.sg  
+<td><font size="4" color="#444444" face="arial, sans-serif">foo_kwee_joo_bernard@moe.edu.sg  
+<br>kunasuntari_marimuthu@moe.edu.sg  <br>zahidah_mohamed_nizar@moe.edu.sg
 </font></td>
 
 </tr>
@@ -92,11 +92,11 @@ sum_yoong_lee_matthew@moe.edu.sg
 
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Hope</font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class="">Mrs Khairiyanie Aziz</span>  
+<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class="">Mdm Asimah Aziz<br>Mrs Khairiyanie Aziz</span>  
 <br>Mdm Lu Yangfan  
 </font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>khairiyanie_abdul_aziz@moe.edu.sg  
+<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>asimah_abdul_aziz@moe.edu.sg<br>khairiyanie_abdul_aziz@moe.edu.sg  
 lu_yangfan@moe.edu.sg  
 </font></td>
 
@@ -119,12 +119,12 @@ lu_yangfan@moe.edu.sg
 
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Love</font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">Mr Melvin Ow  
-<br>Mrs Ong-Chia Peishan  
+<td><font size="4" color="#444444" face="arial, sans-serif">Mrs Ong-Chia Peishan  <br>Mdm Norsinah Suadi
+<br>Mr Melvin Ow
 <span lang="EN-SG" class=""></span></font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">ow_weng_wai_melvin@moe.edu.sg  
-chia_peishan@moe.edu.sg  
+<td><font size="4" color="#444444" face="arial, sans-serif">chia_peishan@moe.edu.sg <br>norsinah_suadi@moe.edu.sg
+ ow_weng_wai_melvin@moe.edu.sg  
 </font></td>
 
 </tr>
@@ -135,12 +135,12 @@ chia_peishan@moe.edu.sg
 
 </font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class=""></span>Ms Wulan  
-<br>Ms Koh Seok Hui  
+<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" class=""></span>Ms Ashley Leong <br>Ms Wulan  
+<br>Mdm Rohani Ahmad
 <span lang="EN-SG" class=""></span></font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg 
-<br>koh_seok_hui@moe.edu.sg  
+<td><font size="4" color="#444444" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span> leong_pui_rhu@moe.edu.sg
+<br>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg  rohani_ahmad_a@moe.edu.sg
 </font></td>
 
 </tr>
