@@ -68,12 +68,12 @@ third_nav_title: School Staff
 
 <td><font face="arial, sans-serif" size="4" color="#444444">6 Hope</font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" class="">Mr Edmund Lee  
-</span><br>Mr Steven Yeo <br> Mdm Juliena Razek 
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" class="">Mdm Juliena Razek
+</span><br>Mr Edmund Lee<br> Mr Steven Yeo
 <span lang="EN-SG" class=""></span></font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">lee_jianfeng_edmund@moe.edu.sg  
-yeo_poh_teck@moe.edu.sg  <br>julieana_razek@moe.edu.sg
+<td><font face="arial, sans-serif" size="4" color="#444444">julieana_razek@moe.edu.sg  
+lee_jianfeng_edmund@moe.edu.sg <br>yeo_poh_teck@moe.edu.sg
 </font></td>
 
 </tr>
