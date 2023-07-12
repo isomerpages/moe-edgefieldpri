@@ -54,12 +54,12 @@ third_nav_title: School Staff
 
 <td><font face="arial, sans-serif" size="4" color="#444444">6 Grace</font></td>
 
-<td><font face="arial, sans-serif" size="4"><font color="#444444">Mr Norman Selvaraju  
-<br>Mdm Lee Mei Ling<br> Mr Eugene Sim</font><font color="#444444">  
+<td><font face="arial, sans-serif" size="4"><font color="#444444">Mdm Lee Mei Ling  
+<br>Mr Norman Selvaraju<br> Mr Eugene Sim</font><font color="#444444">  
 <span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span></font></font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444"> norman_selvaraju@moe.edu.sg
-  lee_mei_ling_a@moe.edu.sg <br> sim_kok_hong_eugene@moe.edu.sg
+<td><font face="arial, sans-serif" size="4" color="#444444"> lee_mei_ling_a@moe.edu.sg
+  norman_selvaraju@moe.edu.sg<br> sim_kok_hong_eugene@moe.edu.sg
 </font></td>
 
 </tr>
