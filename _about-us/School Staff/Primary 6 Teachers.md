@@ -45,7 +45,7 @@ third_nav_title: School Staff
 </font></td>
 
 <td><font size="4" color="#444444"><font face="arial, sans-serif">azlin_mustaffa@moe.edu.sg<span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" style="line-height: 107%;"></span>  
-</font><font face="arial, sans-serif">mohammad_fedly_b_sulaiman@moe.edu.sg  <br>mohammad_fedly_b_sulaiman@moe.edu.sg 
+</font><font face="arial, sans-serif">mohammad_fedly_b_sulaiman@moe.edu.sg  <br>yip_cheng_han_melissa
 </font></font></td>
 
 </tr>
