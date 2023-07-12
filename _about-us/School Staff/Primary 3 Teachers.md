@@ -93,7 +93,7 @@ third_nav_title: School Staff
 <td><font face="arial, sans-serif" size="4">3 Hope</font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4">Ms Shanice Chia  
-<span lang="EN-SG" class="" style=""></span><br>Mdm Joyce Choo  
+<span lang="EN-SG" class="" style=""></span><br>Mdm Joyce Choo <br>Mr Wu Ming Che 
 </font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444">chia_poh_choo_shanice</font></font><font face="arial, sans-serif" size="4">@moe.edu.sg</font><font face="arial, sans-serif" size="4"><br>joyce_choo_lay_yien@moe.edu.sg  
