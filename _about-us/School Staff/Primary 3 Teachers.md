@@ -120,9 +120,9 @@ third_nav_title: School Staff
 <td><font face="arial, sans-serif" size="4">3 Wisdom</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mr Ho Keng Huat<font color="#000000"><span lang="EN-SG" class="" style=""><span lang="EN-SG" class="" style="">  
-</span></span></font><br>Mdm Jackie Ng</font></td>
+</span></span></font><br>Mdm Jackie Ng <br> Mdm Pratibha Rai</font></td>
 
-<td><font size="4" face="arial, sans-serif">ho_keng_huat@moe.edu.sg<br>ng_siew_hong_a@moe.edu.sg</font></td>
+<td><font size="4" face="arial, sans-serif">ho_keng_huat@moe.edu.sg<br>ng_siew_hong_a@moe.edu.sg<br>pratibha_rai_matuk_rai@moe.edu.sg</font></td>
 
 </tr>
 
