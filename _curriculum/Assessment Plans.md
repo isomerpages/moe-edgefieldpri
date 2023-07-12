@@ -11,7 +11,7 @@ Semester 1
 
 * [2023 Assessment Letter to Parents - P2 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P2%20Learning%20Outcomes.pdf)
 
-Semester 2
+###Semester 2
 
 * [2023 Assessment Letter to Parents - P3 Learning Outcomes Semester 2](/files/2023%20assessment%20letter%20to%20parents%20-%20p3%20learning%20outcomes%20sem%202.pdf)
 
