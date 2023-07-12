@@ -79,10 +79,10 @@ tan_pin_pin_b@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Grace</font></td>
 
 <td><font size="4" face="arial, sans-serif">Mrs Adeline Chew  
-<br>Mr David Ng  
+<br>Ms Khoo Siew Ping<br>Mr David Ng  
 </font></td>
 
-<td><font size="4" face="arial, sans-serif">chew-ng_xiang_min_adeline@moe.edu.sg  
+<td><font size="4" face="arial, sans-serif">chew-ng_xiang_min_adeline@moe.edu.sg <br>koo_siew_ping@moe.edu.sg 
 ng_kwang_ming@moe.edu.sg  
 </font></td>
 
