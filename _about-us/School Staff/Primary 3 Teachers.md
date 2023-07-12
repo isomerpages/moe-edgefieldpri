@@ -105,12 +105,12 @@ third_nav_title: School Staff
 
 <td><font face="arial, sans-serif" size="4">3 Joy</font></td>
 
-<td><font face="arial, sans-serif" size="4">Mr Denis Chin<font color="#444444">  
+<td><font face="arial, sans-serif" size="4">Mr Denis Chin<font color="#444444"> <br> Mdm Deepa Mahalingam
 <span lang="EN-SG" class="" style=""></span><br>Mrs Yvonne Sim  
 </font></font></td>
 
 <td><font face="arial, sans-serif" size="4">chin_singloong@moe.edu.sg</font><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>  
-</font><br>lim_keok_yin@moe.edu.sg  
+</font><br>deepa_k_mahalingam@moe.edu.sg<br>lim_keok_yin@moe.edu.sg  
 </font></td>
 
 </tr>
