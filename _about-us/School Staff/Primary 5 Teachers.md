@@ -72,9 +72,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Joy</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Ms Judith Goh<br> Mr Khairul Lizan</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Ms Judith Goh<br> Mr Khairul Lizan<br>Mdm Yong Jia Fang</font></td>
 
-<td><font color="#444444"><font size="4" face="arial, sans-serif">goh_xue_ni_judith@moe.edu.sg</font> <font face="arial, sans-serif" size="4">khairul_lizan_ahmadjirony@moe.edu.sg</font></font></td>
+<td><font color="#444444"><font size="4" face="arial, sans-serif">goh_xue_ni_judith@moe.edu.sg</font> <font face="arial, sans-serif" size="4">khairul_lizan_ahmadjirony@moe.edu.sg<br>yong_jia_fang@moe.edu.sg</font></font></td>
 
 </tr>
 
