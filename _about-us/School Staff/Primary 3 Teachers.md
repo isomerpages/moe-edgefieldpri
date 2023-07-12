@@ -51,11 +51,11 @@ third_nav_title: School Staff
 <td><font face="arial, sans-serif" size="4">3 Charity</font></td>
 
 <td><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">Ms Tay Ru Jun  <br> Mdm Fauziah Mas'od
-</span></font><font face="arial, sans-serif" size="4"><br>Ms Tay Ru Jun</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
+</span></font><font face="arial, sans-serif" size="4"><br>Ms Khew SuLyn</font><font face="arial, sans-serif" color="#444444" size="4"><span lang="EN-SG" class="" style="">  
 </span></font></td>
 
 <td><font face="arial, sans-serif" size="4"><font color="#444444"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>tay_ru_jun@moe.edu.sg 
-</font></font><font size="4" face="arial, sans-serif"><br>tay_ru_jun@moe.edu.sg</font></td>
+</font></font><font size="4" face="arial, sans-serif"><br>fauziah_masod@moe.edu.sg <br>khew_sulyn@moe.edu.sg</font></td>
 
 </tr>
 
