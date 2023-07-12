@@ -62,9 +62,9 @@ third_nav_title: School Staff
 
 <td><font color="#444444" face="arial, sans-serif" size="4">5 Hope</font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Siti Hajar<br>Mdm Shanti <br>Ms Loi Wei Ling<span class="" lang="EN-SG"></span></font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">Ms Loi Wei Ling<br>Mdm Shanti <br>Mdm Siti Hajar<span class="" lang="EN-SG"></span></font></td>
 
-<td><font color="#444444" size="4" face="arial, sans-serif">siti_hajar_kamaruddin@moe.edu.sg<br>shanti_kulantaipian_sh@moe.edu.sg loi_wei_ling@moe.edu.sg</font></td>
+<td><font color="#444444" size="4" face="arial, sans-serif">loi_wei_ling@moe.edu.sg<br>shanti_kulantaipian_sh@moe.edu.sg siti_hajar_kamaruddin@moe.edu.sg</font></td>
 
 </tr>
 
