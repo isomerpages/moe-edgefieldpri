@@ -108,12 +108,12 @@ lim_ming_ee_jabin@moe.edu.sg  <br>rafeyah_abdul_rahman@moe.edu.sg
 
 <td><font face="arial, sans-serif" size="4" color="#444444">6 Patience</font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444">Mdm Noor Ellynda Ismail  
-<br>Mr James Ling<span lang="EN-SG" class=""><span style="font-weight: bold;">  
+<td><font face="arial, sans-serif" size="4" color="#444444">Mr James Ling  
+<br>Mr Stephen Goh<br> Mdm Nor Ellynda<span lang="EN-SG" class=""><span style="font-weight: bold;">  
 </span></span></font></td>
 
-<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>noor_ellynda_mohd_ismail@moe.edu.sg  
-euk_shin_james_ling@moe.edu.sg  
+<td><font face="arial, sans-serif" size="4" color="#444444"><span lang="EN-SG" style="line-height: 107%;"></span>euk_shin_james_ling@moe.edu.sg goh_tiew_cheng@moe.edu.sg
+noor_ellynda_mohd_ismail@moe.edu.sg
 </font></td>
 
 </tr>
