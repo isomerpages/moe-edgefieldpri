@@ -24,7 +24,7 @@ third_nav_title: School Staff
 
 <td><font face="arial, sans-serif" size="4">Mr Mike Ng</font></td>
 
-<td><font face="arial, sans-serif"> <font size="4">ng_cheong_zsen@moe.edu.sg</font></font></td>
+<td><font face="arial, sans-serif">&nbsp;<font size="4">ng_cheong_zsen@moe.edu.sg</font></font></td>
 
 </tr>
 
@@ -78,11 +78,11 @@ sum_yoong_lee_matthew@moe.edu.sg
 
 <td><font size="4" color="#444444" face="arial, sans-serif">2 Grace</font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">Mrs Charn Ve' Joy  
+<td><font size="4" color="#444444" face="arial, sans-serif">Mr Bernard Foo
 <br>Mdm Kunasuntari  
 </font></td>
 
-<td><font size="4" color="#444444" face="arial, sans-serif">ong_ve_joy@moe.edu.sg  
+<td><font size="4" color="#444444" face="arial, sans-serif">foo_kwee_joo_bernard@moe.edu.sg  
 <br>kunasuntari_marimuthu@moe.edu.sg  
 </font></td>
 
