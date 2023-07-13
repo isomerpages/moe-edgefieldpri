@@ -13,7 +13,7 @@ Assessment Plans for 2023
 
 * [2023 Assessment Letter to Parents - P3 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P3%20Semester%201.pdf)
 
-* [2023 Assessment Letter to Parents - P4 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P4%20Learning%20Outcomes.pdf)
+* [2023 Assessment Letter to Parents - P4 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P4%20Semester%201.pdf)
 
 * [2023 Assessment Letter to Parents - P5 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P5%20Learning%20Outcomes.pdf)
 
