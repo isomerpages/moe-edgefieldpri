@@ -6,6 +6,8 @@ third_nav_title: Mother Tongue Languages
 ---
 ###  CL Cultural Performance Exposure Scheme
 
+![](/images/cultural%20performance%201.png)
+
 新加坡推广华文学习委员会的“文化随意门”计划旨在加强学生对华文
 的理解和对中华文化的认识。2023 年 8 月 23 日,我校五年级的华文学生
 在文化随意门计划下,观看了新加坡福建会馆表演的精彩戏剧《包小龙
