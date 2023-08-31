@@ -11,8 +11,7 @@ third_nav_title: Mother Tongue Languages
 新加坡推广华文学习委员会的“文化随意门”计划旨在加强学生对华文 的理解和对中华文化的认识。2023 年 8 月 23 日,我校五年级的华文学生 在文化随意门计划下,观看了新加坡福建会馆表演的精彩戏剧《包小龙捉贼记》。剧中人物的金钥匙串被偷盗,老板包小龙应用祖先包青天当
 年审石头的技巧,邀请观众席中的同学们参与调查和审问的过程,并一起讨论决定审判结果,最后一起捉到了贼。表演贴近生活而且互动性强, 同学们在阵阵笑声和掌声中欢乐学华文。这次体验不仅为学生带来娱乐, 还向他们传达了有关中华传统、语言和社会的知识。
 
-
-
+![](/images/cultural%20performance%202.png)
 The Cultural Performance Exposure Scheme (CPES)
 aims to enhance our students’ understanding and
 knowledge of the Chinese Language and the Chinese
