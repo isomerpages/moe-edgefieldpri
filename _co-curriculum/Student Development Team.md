@@ -5,17 +5,17 @@ description: ""
 ---
 ![](/images/Student%20Development.png)
 
-### A Quality Edgefield Experience
+## A Quality Edgefield Experience
 
 The Student Development Team@Edgefield ensures a balanced and holistic school experience for all students, supporting their overall growth. Like tiny seedlings when they first enter the school, our students undergo a rich array of school experiences across their six years here with us and flourish into curious and confident young learners ready to brave their journey ahead alongside others.
 
 ![](/images/Balancing%20Education.jpeg)
 
-### Progressive focus areas
+## Progressive focus areas
 
 ![](/images/Progressive%20focus%20areas.png)
 
-### A glimpse of Edgefield experiences across levels
+## A glimpse of Edgefield experiences across levels
 ![](/images/Lower%20primary%20experiences.jpeg)
 
 **Learning Journeys** – New Possibilities to learning  
@@ -45,16 +45,16 @@ Every learning journey is a learning experience that injects life and meaning to
   
 **P6 Grad Day** – Celebrating accomplishments and cherishing fond memories before embarking on the next chapter in life
 
-### Supporting Student Well-Being
+## Supporting Student Well-Being
 
 Students thrive best in an environment that is safe and where positive emotions flow. We do this by providing opportunities for all Edgefielders to experience Positive emotions, promote student Engagement, build meaningful Relationships, understand the Meaning behind all that they do and celebrate their Accomplishments (PERMA).
 
 ![](/images/SDT1.png)
 
-### Peer Supporter
+## Peer Supporter
 ![](/images/Peer%20supporters.jpeg)
 
-### I AM POSSIBLE
+## I AM POSSIBLE
 
 I Am Possible is a school programme that aims to develop the holistic potential of selected students in our school. Here, students are taught life skills, self-management skills and school values through various exciting and engaging activities. 
 
