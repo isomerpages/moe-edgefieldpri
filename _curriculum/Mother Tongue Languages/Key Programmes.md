@@ -4,7 +4,7 @@ permalink: /curriculum/Mother-Tongue-Languages/key-programmes/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-<h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">MTL Fortnight Programme</font></span></h2>
+## MTL Fortnight Programme
 
 The MTL Fortnight programme is a platform for students to actively learn their MT languages as a living language. It aims to create an immersive environment for learning and appreciating MT languages and cultures in authentic settings.  
   
@@ -16,7 +16,7 @@ The themes and learning activities for the various levels are as follows:
 		 <img style="width:80%" src="/images/mtl_fortnight_1june2023_04.JPG">
 
 
-<h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">MTL Reading Programme</font></span></h2>
+## MTL Reading Programme
 
 To ignite students’ interest in reading Mother Tongue language stories, we create many opportunities for students to read widely. We support them in learning by reading books of different genres, telling stories, role-playing and doing book reviews.
 
