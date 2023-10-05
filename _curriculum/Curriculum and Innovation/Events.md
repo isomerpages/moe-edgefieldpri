@@ -4,7 +4,7 @@ permalink: /curriculum/curriculum-and-innovation/events/
 description: ""
 third_nav_title: Curriculum and Innovation
 ---
-### Events
+## Events
 
 **The Free Learning Day (FLD)** is a conference-style learning event for students. Comprising of keynote and concurrent sessions, our P3 to P5 students decide what they would like to learn and choose their sessions, promoting choice and greater ownership of learning.
 
