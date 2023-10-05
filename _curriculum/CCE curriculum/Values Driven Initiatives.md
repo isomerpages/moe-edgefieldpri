@@ -4,7 +4,7 @@ permalink: /curriculum/cce-curriculum/values-driven-initiatives/
 description: ""
 third_nav_title: CCE curriculum
 ---
-### Values-Driven Initiatives
+## Values-Driven Initiatives
 Since the year 2008, the Friend of Singa (FOS) team has been collaborating with the Singapore Kindness Movement (SKM) to ripple small acts of kindness in the school and community. Every year, a team of Friend of Singa (FOS) ambassadors will embark on projects to drive kindness and graciousness in the school and beyond. We provide platforms for these Kindness Ambassadors to demonstrate positive habits of mind and actions. We leverage our partnerships with external agencies in the promotion of kindness for the community.
 
 The FOS (2021) team celebrated the SBS Transit Kindness Month in May 2021 by preparing and sending Care Bags to bus Captains and station staff at Punggol station to show their appreciation for their hard work and commitment to serve the community.
