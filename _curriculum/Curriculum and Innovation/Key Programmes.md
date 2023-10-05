@@ -4,29 +4,29 @@ permalink: /curriculum/curriculum-and-innovation/key-programmes/
 description: ""
 third_nav_title: Curriculum and Innovation
 ---
-### Key Programmes
+## Key Programmes
 
      
 **1.**&nbsp;&nbsp; Learning Through Play (LTP) is a learning approach that involves using play activities as a way of helping our P1 and P2 students explore their environment, learn new skills, and develop their cognitive, social, and emotional abilities.&nbsp; Through play, our students can develop a wide range of skills such as problem-solving, critical thinking, social skills, emotional regulation, language, and communication skills.
 
-**LTP@P1 Values In Action (VIA)**
+## LTP@P1 Values In Action (VIA)
 <img style="width:70%" src="/images/curriculuminnovation2.jpg">
   
- **LTP@P1 Outdoor Education (OE)**
+## LTP@P1 Outdoor Education (OE)
 <img style="width:70%" src="/images/curriculuminnovation%203.png">
  
-**LTP@P2 Values In Action (VIA)**
+## LTP@P2 Values In Action (VIA)
 <img style="width:70%" src="/images/curriculuminnovation%204.png">
 
 
 
-**LTP@P2 Outdoor Education (OE)**
+## LTP@P2 Outdoor Education (OE)
 <img style="width:70%" src="/images/curriculuminnovation%205.png">
 
 
 **2.&nbsp;&nbsp; Collaborative Play (CP)** is a learning approach where students work together to achieve a common goal or to complete a shared activity.&nbsp; Communication is key to successful collaborative play. Students are advised to communicate openly throughout the activity as they learn the importance of working together and supporting one another.
 
-**CP@LEGO Wall**
+## CP@LEGO Wall
 <img style="width:70%" src="/images/curriculuminnovation%206.png">
    
 
