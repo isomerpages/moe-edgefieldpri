@@ -4,7 +4,7 @@ permalink: /partners/parent-support-group-psg/
 description: ""
 third_nav_title: Parent Support Group (PSG)
 ---
-**About Us** <br>
+## About Us
 Our Minister of Education Chan Chun Sing mentioned that MOE seeks to strengthen the partnership with
 Parent Support Groups in all schools. The school, parents, and ministries will work together to establish a
 caring and enabling society that gives greater attention to the well-being of our children. PSGs also play
@@ -16,7 +16,7 @@ Buddy Reading and Mother Tongue Fortnight), national events (e.g. National Day c
 Harmony Day), and festive celebrations. By working hand in hand with the school, our PSG is involved in
 the lives of our children, thus helping them reach their potential.<br>
 
-**Our Vision**<br>
+## Our Vision<br>
 To be a valued partner in achieving the school's vision of "Lives Empowered, Lives Touched" by working
 in close collaboration with the school.
 Our Activities
