@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/student%20care.jpeg" style="width:65%">
 		 
-### Welcome to Whee!Canopus
+## Welcome to Whee!Canopus
 
 We are a premier school-based Student Care Centre (SCC) of choice that strives for excellence in character and education for your child.
 
@@ -15,12 +15,12 @@ Our company, MERCU Learning Point, has also established itself as one of the lea
 
   
 
-### Our Vision
+## Our Vision
 
 To become the Student Care Centre of choice that strives to develop students with good character and a love for learning.
 
   
-### Our Mission
+## Our Mission
 
 
 *   To help students to flourish in a safe and loving environment.
@@ -29,7 +29,7 @@ To become the Student Care Centre of choice that strives to develop students wit
 
   
 
-### Our CORE VALUES
+## Our CORE VALUES
 
 
 **C**are: Display care towards others  
@@ -47,7 +47,7 @@ To become the Student Care Centre of choice that strives to develop students wit
 **S**park: Instil fun in our programmes  
   
 
-### Whee!Canopus Curriculum: Values-based Programme
+## Whee!Canopus Curriculum: Values-based Programme
 
 Whee!Canopus facilitates the learning and holistic development of students through an array of values-based programmes that incorporates the school’s values.
 
