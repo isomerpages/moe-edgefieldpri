@@ -3,13 +3,13 @@ title: Applied Learning Programme
 permalink: /signature-programmes/applied-learning-programme-environmental-science-n-sustainability/
 description: ""
 ---
-# Applied Learning Programme : Environmental Science &amp; Sustainability
+## Applied Learning Programme : Environmental Science &amp; Sustainability
 
 **STEM-based Applied Learning Programme (ALP)**
 
 **Environmental Science and Sustainability**
 
-#### Objective of ALP:
+## Objective of ALP
 
 _**Environmental Science and Sustainability Education**_&nbsp;is our school’s Applied Learning Programme to help students connect their knowledge with real-world application. The ALP is designed with the following objectives:
 
@@ -22,7 +22,7 @@ Using the EDGE framework, the programme is designed to achieved the objectives o
 
 ![](/images/alp1.png)
 
-#### Approach:
+## Approach
 
 The 3E approach;&nbsp;_Exposure, Experience and Empower_&nbsp;enables the school to inculcate in students the respect and love for the environment and how to be the change agents in contributing to environmental sustainability.
 
@@ -41,7 +41,7 @@ In the “Empower” Tier, students with the aptitude will participate in compet
 
 ![](/images/ALP3.jpeg)
 
-### TIER 1: Exposure (Appreciating our Environment)
+## TIER 1: Exposure (Appreciating our Environment)
 
 ![](/images/slide1.JPG)
 <br>
@@ -49,11 +49,11 @@ In the “Empower” Tier, students with the aptitude will participate in compet
 ![](/images/slide3.JPG)
 
 
-### TIER 2: Experience (Connecting with our Environment)
+## TIER 2: Experience (Connecting with our Environment)
 ![](/images/slide4.JPG)
 ![](/images/slide5.JPG)
 
-### TIER 3: Empower (Environmental Activists in Action)
+## TIER 3: Empower (Environmental Activists in Action)
 ![](/images/slide6.JPG)
 <br>
 ![](/images/slide7.JPG)
