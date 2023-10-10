@@ -93,20 +93,14 @@ third_nav_title: School Staff
 
 <td><font size="4">Management Support Officer</font></td>
 
-<td><font size="4">Mdm Siti Zamila  
+<td><font size="4">Ms Yap Koon Ching 
 </font></td>
 
-<td><font size="4">siti_zamila_jumat@moe.edu.sg</font></td>
+<td><font size="4">yap_koon_ching@moe.edu.sg</font></td>
 
 </tr>
 
 <tr>
-
-<td><font size="4">Management Support Officer</font></td>
-
-<td><font size="4">Ms Serene Koh</font></td>
-
-<td><font size="4">koh_geok_suan_a@moe.edu.sg</font></td>
 
 </tr>
 
