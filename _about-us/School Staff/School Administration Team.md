@@ -42,7 +42,7 @@ third_nav_title: School Staff
 
 <td><font size="4">Admin Executive</font></td>
 
-<td><font size="4">Ms Nur Suriani </font></td>
+<td><font size="4">Ms Nur Suriani&nbsp;</font></td>
 
 <td><font size="4">nur_suriani_abdul_hamid@moe.edu.sg</font></td>
 
@@ -50,9 +50,9 @@ third_nav_title: School Staff
 
 <tr>
 
-<td><font size="4" face="arial, sans-serif">Admin Executive<span> </span></font></td>
+<td><font size="4" face="arial, sans-serif">Admin Executive<span>&nbsp;</span></font></td>
 
-<td><font size="4" face="arial, sans-serif">Mdm Jesline Hoe </font></td>
+<td><font size="4" face="arial, sans-serif">Mdm Jesline Hoe&nbsp;</font></td>
 
 <td><font size="4" face="arial, sans-serif">hoe_bee_lay@moe.edu.sg</font>  
 </td>
@@ -73,17 +73,7 @@ third_nav_title: School Staff
 
 <td><font size="4">Management Support Officer</font></td>
 
-<td><font size="4">Mdm Grace Tan</font></td>
-
-<td><font size="4">tan_geok_lan_grace@moe.edu.sg</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4">Management Support Officer</font></td>
-
-<td><font size="4">Mrs Anmol Sanjay </font></td>
+<td><font size="4">Mrs Anmol Sanjay&nbsp;</font></td>
 
 <td><font size="4">anmol_sanjay_kanaya@moe.edu.sg</font></td>
 
@@ -93,8 +83,7 @@ third_nav_title: School Staff
 
 <td><font size="4">Management Support Officer</font></td>
 
-<td><font size="4">Mdm Siti Zamila  
-</font></td>
+<td><font size="4">Mdm Siti Zamila </font></td>
 
 <td><font size="4">siti_zamila_jumat@moe.edu.sg</font></td>
 
@@ -104,9 +93,14 @@ third_nav_title: School Staff
 
 <td><font size="4">Management Support Officer</font></td>
 
-<td><font size="4">Ms Serene Koh</font></td>
+<td><font size="4">Ms Yap Koon Ching 
+</font></td>
 
-<td><font size="4">koh_geok_suan_a@moe.edu.sg</font></td>
+<td><font size="4">yap_koon_ching@moe.edu.sg</font></td>
+
+</tr>
+
+<tr>
 
 </tr>
 
