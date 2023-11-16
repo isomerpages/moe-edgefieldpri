@@ -3,11 +3,12 @@ title: Admin Information for Parents
 permalink: /partners/parents/admin-information-for-parents/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ## Primary 1 Admin Matters 2022/Orientation Booklet
 
-* [P1 Orientation Slides 2022](/files/P1%20Orientation%20Slides%202022.pdf)
-* [Primary 1 Orientation 2022 Orientation Booklet](https://online.fliphtml5.com/ltwzm/fufa/)
+* [P1 Orientation 2023](/files/10th_November_2023_P1_Orientation.pdf)
+
 
 ## Booklist 2023
 
