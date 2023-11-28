@@ -94,7 +94,8 @@ ng_kwang_ming@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Hope</font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Ms Wulan
-<br>Mrs Cindy Tan  
+<br>Mrs Cindy Tan<br>
+	Ms Yong&nbsp;Jia Fang
 </font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg 
