@@ -80,11 +80,11 @@ tan_pin_pin_b@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Grace</font></td> 
 
 <td><font size="4" face="arial, sans-serif">Mr Mike Ng
-<br>Mdm Zahidah Nizar<br>Mr David Ng  
+<br>Mdm Zahidah Nizar<br>Ms Tan Shu Ling
 </font></td>
 
-<td><font size="4" face="arial, sans-serif">ng_cheong_zsen@moe.edu.sg <br>zahidah_mohamed_nizar@moe.edu.sg 
-ng_kwang_ming@moe.edu.sg  
+<td><font size="4" face="arial, sans-serif">ng_cheong_zsen@moe.edu.sg <br>zahidah_mohamed_nizar@moe.edu.sg <br>
+tan_shuling@moe.edu.sg
 </font></td>
 
 </tr>
