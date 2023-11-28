@@ -66,11 +66,11 @@ nur_ yanty_jumali@moe.edu.sg
 <td><font size="4" face="arial, sans-serif">1 Faith</font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mrs Ng-Low Yin Siang</span><br>  
-Mdm&nbsp;Jaseela&nbsp;Ameen
+Mdm Jaseela Ameen@moe.edu.sg
 </font></td>
 
 <td><font size="4" face="arial, sans-serif">
-low_yin_siang@moe.edu.sg<br> Mdm&nbsp;_Jaseela_&nbsp;Ameen
+low_yin_siang@moe.edu.sg<br> jaseela_mohamed_noorul_ameen@moe.edu.sg
 </font></td>
 
 </tr>
