@@ -98,7 +98,8 @@ ng_kwang_ming@moe.edu.sg
 </font></td>
 
 <td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg 
-teo_suat_ching_cindy@moe.edu.sg  
+teo_suat_ching_cindy@moe.edu.sg<br>
+	yong_jia_fang@moe.edu.sg
 </font></td>
 
 </tr>
