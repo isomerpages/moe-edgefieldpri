@@ -3,6 +3,7 @@ title: Primary 1 Teachers
 permalink: /about-us/School-Staff/primary-1-teachers/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 <table class="ive_eobj_center iveo_table ives_tab_simple" style="width: 766.85px; height: 56px;">
 
@@ -92,11 +93,11 @@ ng_kwang_ming@moe.edu.sg
 
 <td><font size="4" face="arial, sans-serif">1 Hope</font></td>
 
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mdm Lim Lee Nah  
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Ms Wulan
 <br>Mrs Cindy Tan  
 </font></td>
 
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>lim_lee_nah@moe.edu.sg  
+<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg 
 teo_suat_ching_cindy@moe.edu.sg  
 </font></td>
 
