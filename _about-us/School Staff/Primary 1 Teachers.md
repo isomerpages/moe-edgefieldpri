@@ -5,30 +5,43 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
+
 <table style="width:676.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 0in 0in 0in" width="901" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.55pt"><td style="width:184.0pt;border:solid #A5A5A5 1.0pt;
-  border-bottom:solid #A5A5A5 2.25pt;background:#D9E2F3;mso-background-themecolor:
-  accent1;mso-background-themetint:51;padding:5.75pt 8.6pt 5.75pt 8.6pt;
-  height:27.55pt" valign="top" width="245"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Year Head</span></b></p></td><td style="width:2.75in;border-top:solid #A5A5A5 1.0pt;
+  border-bottom:solid #A5A5A5 2.25pt;background:#92D050;padding:5.75pt 8.6pt 5.75pt 8.6pt;
+  height:27.55pt" valign="top" width="245"><p class="MsoNormal"><b><span style="color:#F2F2F2;mso-themecolor:background1;
+  mso-themeshade:242;mso-style-textfill-fill-color:#F2F2F2;mso-style-textfill-fill-themecolor:
+  background1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
+  lumm=95000">Year Head</span></b></p></td><td style="width:2.75in;border-top:solid #A5A5A5 1.0pt;
   border-left:none;border-bottom:solid #A5A5A5 2.25pt;border-right:solid #A5A5A5 1.0pt;
-  mso-border-left-alt:solid #A5A5A5 1.0pt;background:#D9E2F3;mso-background-themecolor:
-  accent1;mso-background-themetint:51;padding:5.75pt 8.6pt 5.75pt 8.6pt;
-  height:27.55pt" valign="top" width="264"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Mrs Catherine Arumugam</span></b></p></td><td style="width:294.0pt;border-top:solid #A5A5A5 1.0pt;
+  mso-border-left-alt:solid #A5A5A5 1.0pt;background:#92D050;padding:5.75pt 8.6pt 5.75pt 8.6pt;
+  height:27.55pt" valign="top" width="264"><p class="MsoNormal"><b><span style="color:#F2F2F2;mso-themecolor:background1;
+  mso-themeshade:242;mso-style-textfill-fill-color:#F2F2F2;mso-style-textfill-fill-themecolor:
+  background1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
+  lumm=95000">Mrs Catherine Arumugam</span></b></p></td><td style="width:294.0pt;border-top:solid #A5A5A5 1.0pt;
   border-left:none;border-bottom:solid #A5A5A5 2.25pt;border-right:solid #A5A5A5 1.0pt;
-  mso-border-left-alt:solid #A5A5A5 1.0pt;background:#D9E2F3;mso-background-themecolor:
-  accent1;mso-background-themetint:51;padding:5.75pt 8.6pt 5.75pt 8.6pt;
-  height:27.55pt" valign="top" width="392"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">a_catherine@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.55pt"><td style="width:184.0pt;border:solid #A5A5A5 1.0pt;
-  border-top:none;mso-border-top-alt:solid #A5A5A5 2.25pt;background:#D9E2F3;
-  mso-background-themecolor:accent1;mso-background-themetint:51;padding:5.75pt 8.6pt 5.75pt 8.6pt;
-  height:27.55pt" valign="top" width="245"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Assist. Year Head</span></b></p></td><td style="width:2.75in;border-top:none;border-left:
+  mso-border-left-alt:solid #A5A5A5 1.0pt;background:#92D050;padding:5.75pt 8.6pt 5.75pt 8.6pt;
+  height:27.55pt" valign="top" width="392"><p class="MsoNormal"><b><span style="color:#F2F2F2;mso-themecolor:background1;
+  mso-themeshade:242;mso-style-textfill-fill-color:#F2F2F2;mso-style-textfill-fill-themecolor:
+  background1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
+  lumm=95000">a_catherine@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.55pt"><td style="width:184.0pt;border:solid #A5A5A5 1.0pt;
+  border-top:none;mso-border-top-alt:solid #A5A5A5 2.25pt;background:#92D050;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:27.55pt" valign="top" width="245"><p class="MsoNormal"><b><span style="color:#F2F2F2;mso-themecolor:background1;
+  mso-themeshade:242;mso-style-textfill-fill-color:#F2F2F2;mso-style-textfill-fill-themecolor:
+  background1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
+  lumm=95000">Assist. Year Head</span></b></p></td><td style="width:2.75in;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 2.25pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
-  51;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:27.55pt" valign="top" width="264"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Mr Mike Ng</span></b></p></td><td style="width:294.0pt;border-top:none;border-left:
+  background:#92D050;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:27.55pt" valign="top" width="264"><p class="MsoNormal"><b><span style="color:#F2F2F2;mso-themecolor:background1;
+  mso-themeshade:242;mso-style-textfill-fill-color:#F2F2F2;mso-style-textfill-fill-themecolor:
+  background1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
+  lumm=95000">Mr Mike Ng</span></b></p></td><td style="width:294.0pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 2.25pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
-  51;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:27.55pt" valign="top" width="392"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">ng_cheong_zsen@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:54.05pt"><td style="width:184.0pt;border:solid #A5A5A5 1.0pt;
+  background:#92D050;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:27.55pt" valign="top" width="392"><p class="MsoNormal"><b><span style="color:#F2F2F2;mso-themecolor:background1;
+  mso-themeshade:242;mso-style-textfill-fill-color:#F2F2F2;mso-style-textfill-fill-themecolor:
+  background1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
+  lumm=95000">ng_cheong_zsen@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:54.05pt"><td style="width:184.0pt;border:solid #A5A5A5 1.0pt;
   border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;padding:5.75pt 8.6pt 5.75pt 8.6pt;
   height:54.05pt" valign="top" width="245"><p class="MsoNormal">1 Charity</p></td><td style="width:2.75in;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
