@@ -5,162 +5,328 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-<table class="ive_eobj_center iveo_table ives_tab_simple" style="width: 766.85px; height: 56px;">
+   <!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {border-top:1.0pt solid #A5A5A5; border-right:1.0pt solid #A5A5A5; border-bottom:2.0pt solid #A5A5A5; border-left:1.0pt solid #A5A5A5; vertical-align:top; padding-bottom:5.73pt; padding-left:8.6pt; padding-top:5.73pt; padding-right:8.6pt;} .oa2 {border-top:2.0pt solid #A5A5A5; border-right:1.0pt solid #A5A5A5; border-bottom:1.0pt solid #A5A5A5; border-left:1.0pt solid #A5A5A5; background:#F0F0F0; mso-pattern:auto none; vertical-align:top; padding-bottom:5.73pt; padding-left:8.6pt; padding-top:5.73pt; padding-right:8.6pt;} .oa3 {border:1.0pt solid #A5A5A5; vertical-align:top; padding-bottom:5.73pt; padding-left:8.6pt; padding-top:5.73pt; padding-right:8.6pt;} .oa4 {border:1.0pt solid #A5A5A5; background:#F0F0F0; mso-pattern:auto none; vertical-align:top; padding-bottom:5.73pt; padding-left:8.6pt; padding-top:5.73pt; padding-right:8.6pt;} -->
 
-<tbody>
-
-<tr>
-
-<th style="width: 223px;"><font size="4" face="arial, sans-serif"><font color="#444444">Year Head</font></font></th>
-
-<th style="width: 237px;"><font size="4" face="arial, sans-serif"><span style="font-weight: normal;">Mrs Catherine Arumugam</span></font></th>
-
-<th style="width: 306px;"><span style="font-weight: normal;"><font size="4" face="arial, sans-serif">a_catherine@moe.edu.sg</font></span><span style="font-weight: 500;"></span></th>
-
-</tr>
-
-<tr>
-
-<td><font face="arial, sans-serif" size="4">Assistant Year Head</font></td>
-
-<td><font face="arial, sans-serif" size="4">Mr Mike Ng</font></td>
-
-<td><font face="arial, sans-serif" size="4">ng_cheong_zsen@moe.edu.sg</font></td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table class="iveo_table ives_tab_simple ive_eobj_center" style="width: 768.325px; height: 453px;">
-
-<tbody>
-
-<tr>
-
-<th style="width: 102px;"><font face="arial, sans-serif" size="4"><font color="#444444">Class</font></font></th>
-
-<th style="width: 299px;"><font face="arial, sans-serif" size="4">Form Teachers</font></th>
-
-<th style="width: 367px;"><font face="arial, sans-serif" size="4">Email address</font></th>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Charity</font></td>
-
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Mdm Aw Pei Shi  
-<span lang="EN-SG" style="line-height: 107%;"><br>Mdm Jessica Chew</span><span lang="EN-SG" class=""><br>Mdm Nur Yanty Jumali</span>  
-</font></td>
-
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>aw_pei_shi@moe.edu.sg  chaw_kim_leng_jessica@moe.edu.sg <br>
-nur_ yanty_jumali@moe.edu.sg  
-</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Faith</font></td>
-
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class="">Mrs Ng-Low Yin Siang</span><br>  
-Mdm Jaseela Ameen@moe.edu.sg
-</font></td>
-
-<td><font size="4" face="arial, sans-serif">
-low_yin_siang@moe.edu.sg<br> jaseela_mohamed_noorul_ameen@moe.edu.sg
-</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Grace</font></td> 
-
-<td><font size="4" face="arial, sans-serif">Mr Mike Ng
-<br>Mdm Zahidah Nizar<br>Ms Tan Shu Ling
-</font></td>
-
-<td><font size="4" face="arial, sans-serif">ng_cheong_zsen@moe.edu.sg <br>zahidah_mohamed_nizar@moe.edu.sg <br>
-tan_shuling@moe.edu.sg
-</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Hope</font></td>
-
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span><span lang="EN-SG" class=""></span>Ms Wulan
-<br>Ms Loi Wei Ling<br>
-	Ms Yong&nbsp;Jia Fang
-</font></td>
-
-<td><font size="4" face="arial, sans-serif"><span lang="EN-SG" style="line-height: 107%;"></span>wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg 
-loi_wei_ling@moe.edu.sg<br>
-	yong_jia_fang@moe.edu.sg
-</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Joy</font></td>
-
-<td><font size="4" face="arial, sans-serif">Mrs Manju Manoj  
-<span lang="EN-SG" style="line-height: 15.6933px;"></span><span lang="EN-SG" class=""><br>Ms Doreen Low</span></font></td>
-
-<td><font size="4" face="arial, sans-serif">manoj_kumar_gupta@moe.edu.sg  
-low_hui_lin_doreen@moe.edu.sg  
-</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Love</font></td>
-
-<td><font size="4" face="arial, sans-serif">Mdm Jessie Yeo  
-<span lang="EN-SG" class=""><br>Mr Tam Joon Chze</span>  
-</font></td>
-
-<td><font size="4" face="arial, sans-serif">jessie_yeo_buay_joo@moe.edu.sg  
-tam_joon_chze@moe.edu.sg  
-</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Patience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</font></td>
-
-<td><font face="arial, sans-serif"><font size="4"><span lang="EN-SG" class=""></span>Mrs Lim Gui Hao  
-<br>Mrs Catherine Arumugam  
-</font></font></td>
-
-<td><font face="arial, sans-serif" size="4"><span lang="EN-SG" style="line-height: 107%; line-height: 107%;"></span>lim_gui_hao@moe.edu.sg  
-<font color="#444444">a_catherine@moe.edu.sg</font>  
-</font></td>
-
-</tr>
-
-<tr>
-
-<td><font size="4" face="arial, sans-serif">1 Wisdom</font></td>
-
-<td><font size="4" face="arial, sans-serif">Mdm Sarina Shariman  
-<br>Ms Pang Xiao Yan  
-</font></td>
-
-<td><font size="4" face="arial, sans-serif">sarina_shariman@moe.edu.sg  
-pang_xiao_yan@moe.edu.sg</font>  
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table style="border-collapse:
+ collapse;width:602pt;mso-yfti-tbllook:1184" width="802" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;width:77pt" width="103"> <col style="mso-width-source:userset;width:181pt" width="241"> <col style="mso-width-source:userset;width:344pt" width="459"></colgroup><tbody><tr style="mso-height-source:userset;height:54.06pt" height="72"><td style="height:54.06pt;width:77pt" width="103" class="oa1" height="72"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  color:black;mso-color-index:1;language:en-US;font-weight:normal;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">1 Charity</span></p></td><td style="width:181pt" width="241" class="oa1"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mrs</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Charn&nbsp;Ve'&nbsp;Joy</span><span style="font-size:13.0pt;font-family:Calibri;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+  minor-fareast;mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:
+  1;language:en-SG;font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-SG;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms Winnie Ang<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Bernard&nbsp;</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Foo</span></p></td><td style="width:344pt" width="459" class="oa1"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">ong_ve_joy@moe.edu.sg<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">-</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">foo_kwee_joo_bernard@moe.edu.sg</span></p></td></tr><tr style="mso-height-source:userset;height:48.41pt" height="65"><td style="height:48.41pt;width:77pt" width="103" class="oa2" height="65"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  color:black;mso-color-index:1;language:en-US;font-weight:normal;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">1 Faith</span></p></td><td style="width:181pt" width="241" class="oa2"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mrs</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Ng-Low Yin Siang&nbsp;<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mdm</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Jaseela&nbsp;Ameen</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mdm</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Jackie Ng</span></p></td><td style="width:344pt" width="459" class="oa2"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">low_yin_siang@moe.edu.sg<br>jaseela_mohamed_noorul_ameen@moe.edu.sg<br>ng_siew_hong_a@moe.edu.sg</span></p></td></tr><tr style="mso-height-source:userset;height:31.77pt" height="42"><td style="height:31.77pt;width:77pt" width="103" class="oa3" height="42"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  color:black;mso-color-index:1;language:en-US;font-weight:normal;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">1 Grace</span></p></td><td style="width:181pt" width="241" class="oa3"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Mike Ng<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mdm</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Zahidah Nizar<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Tan Shu Ling</span></p></td><td style="width:344pt" width="459" class="oa3"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">ng_cheong_zsen@moe.edu.sg<br>zahidah_mohamed_nizar@moe.edu.sg<br>tan_shuling@moe.edu.sg</span></p></td></tr><tr style="mso-height-source:userset;height:48.41pt" height="65"><td style="height:48.41pt;width:77pt" width="103" class="oa4" height="65"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  color:black;mso-color-index:1;language:en-US;font-weight:normal;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">1 Hope</span></p></td><td style="width:181pt" width="241" class="oa4"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> </span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Wulan</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Loi&nbsp;Wei Ling<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mdm</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Yong Jia Fang</span></p></td><td style="width:344pt" width="459" class="oa4"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">loi_wei_ling@moe.edu.sg<br>yong_jia_fang@moe.edu.sg</span></p></td></tr><tr style="mso-height-source:userset;height:48.41pt" height="65"><td style="height:48.41pt;width:77pt" width="103" class="oa3" height="65"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  color:black;mso-color-index:1;language:en-US;font-weight:normal;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">1 Kindness</span></p></td><td style="width:181pt" width="241" class="oa3"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Ms</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Pang&nbsp;Xiao Yan</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-SG;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><br>Mr </span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">David Ng<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mdm</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Noorhaizah&nbsp;Abdul Rahim</span></p></td><td style="width:344pt" width="459" class="oa3"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">pang_xiao_yan@moe.edu.sg<br>ng_kwang_ming@moe.edu.sg</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">noorhaizah_abdul_rahim@moe.edu.sg</span></p></td></tr><tr style="mso-height-source:userset;height:48.41pt" height="65"><td style="height:48.41pt;width:77pt" width="103" class="oa4" height="65"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  color:black;mso-color-index:1;language:en-US;font-weight:normal;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">1 Patience</span></p></td><td style="width:181pt" width="241" class="oa4"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mrs</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Ng Lee&nbsp;Mei Ling</span><span style="font-size:13.0pt;font-family:Calibri;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+  minor-fareast;mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:
+  1;language:en-SG;font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Matthew&nbsp;Sum<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mdm</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Wirziana&nbsp;Abdul Wahab</span></p></td><td style="width:344pt" width="459" class="oa4"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">lee_mei_ling_a@moe.edu.sg<br>sum_yoong_lee_matthew@moe.edu.sg<br>wirziana_abdul_wahab@moe.edu.sg</span></p></td></tr><tr style="mso-height-source:userset;height:48.41pt" height="65"><td style="height:48.41pt;width:77pt" width="103" class="oa3" height="65"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  color:black;mso-color-index:1;language:en-US;font-weight:normal;mso-style-textfill-type:
+  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
+  black;mso-style-textfill-fill-alpha:100.0%">1 Wisdom</span></p></td><td style="width:181pt" width="241" class="oa3"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mrs</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Catherine Lee<br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mrs</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"> Ong-Chia&nbsp;</span><span style="font-size:13.0pt;font-family:Calibri;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+  minor-fareast;mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:
+  1;language:en-US;font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Peishan</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Mr</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Phoon</span><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">&nbsp;Peng Yim</span></p></td><td style="width:344pt" width="459" class="oa3"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
+  margin-left:0in;margin-right:0in;text-align:left;direction:ltr;unicode-bidi:
+  embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:13.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;language:en-US;
+  font-weight:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
+  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">catherine_lee@moe.edu.sg<br>chia_peishan@moe.edu.sg<br>phoon_peng_yim@moe.edu.sg</span></p></td></tr></tbody></table>
