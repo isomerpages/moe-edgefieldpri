@@ -3,115 +3,65 @@ title: Primary 5 Teachers
 permalink: /about-us/School-Staff/primary-5-teachers/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
-<table style="width: 699px; height: 73px;" class="iveo_table ives_tab_simple ive_eobj_center">
-
-<tbody>
-
-<tr>
-
-<th style="width: 146px;"><font color="#444444" face="arial, sans-serif" size="4">Year Head</font></th>
-
-<th style="width: 229px;"><span style="font-weight: normal;"><font color="#444444" face="arial, sans-serif" size="4">Mdm Alfiah&nbsp;Bte Md Yusoff</font></span></th>
-
-<th style="width: 325px;"><font color="#444444" face="arial, sans-serif" size="4"><span style="font-weight: normal;">alfiah_md_yusoff@moe.edu.sg</span></font></th>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<font size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span></font>
-
-<table style="width: 797.312px; height: 370px;" class="ive_eobj_center iveo_table ives_tab_simple">
-
-<tbody>
-
-<tr>
-
-<th style="width: 100px;"><font color="#444444" face="arial, sans-serif" size="4">Class</font></th>
-
-<th style="width: 304px;"><font color="#444444" face="arial, sans-serif" size="4">Form Teachers</font></th>
-
-<th style="width: 393px;"><font color="#444444" face="arial, sans-serif" size="4">Email address</font></th>
-
-</tr>
-
-<tr>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Faith</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Koh Andrea <br> <span style="line-height: 19.26px; line-height: 19.26px;" lang="EN-SG"></span><span style="" class="" lang="EN-SG"></span>Mdm Louisa Koh<br>Mr Terence Teng<span style="" class="" lang="EN-SG"></span></font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">koh_siew_fong@moe.edu.sg koh_kim_lian_a@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"><br>teng_sze_chun_terence@moe.edu.sg</span><span style="line-height: 107%;" lang="EN-SG"></span></font></td>
-
-</tr>
-
-<tr>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Grace</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">Mdm Jaseela Ameen <br>Ms Crystal Koh<br> Ms Esther Lee</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">jaseela_mohamed_noorul_ameen@moe.edu.sg koh_hui_ting_crystal@moe.edu.sg<br>lee_siew_kian@moe.edu.sg<span style="line-height: 107%;" lang="EN-SG"></span></font></td>
-
-</tr>
-
-<tr>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Hope</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">Ms Loi Wei Ling<br>Mdm Shanti <br>Mdm Siti Hajar<span class="" lang="EN-SG"></span></font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">loi_wei_ling@moe.edu.sg<br>shanti_kulantaipian_sh@moe.edu.sg siti_hajar_kamaruddin@moe.edu.sg</font></td>
-
-</tr>
-
-<tr>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Joy</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">Ms Judith Goh<br> Mr Khairul Lizan<br>Mdm Yong Jia Fang</font></td>
-
-<td><font color="#444444"><font size="4" face="arial, sans-serif">goh_xue_ni_judith@moe.edu.sg</font> <font face="arial, sans-serif" size="4">khairul_lizan_ahmadjirony@moe.edu.sg<br>yong_jia_fang@moe.edu.sg</font></font></td>
-
-</tr>
-
-<tr>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Love</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG"></span><span class="" lang="EN-SG"><span class="" lang="EN-SG">Mdm Joyce Ham<br>Mdm Koh Lay Kuan<br>Mr Phoon Peng Yim</span></span></font></td>
-
-<td><font color="#444444" face="arial, sans-serif" size="4"><span style="line-height: 107%;" lang="EN-SG"></span>ham_choi_keng@moe.edu.sg<br>koh_lay_kuan@moe.edu.sg<br>phoon_peng_yim@moe.edu.sg</font></td>
-
-</tr>
-
-<tr>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Patience</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif"><span style="line-height: 107%;" lang="EN-SG"></span><span class="" lang="EN-SG">Mdm Idayu Dewi<br>Mdm Illi Sakinah <br> </span> <span class="" lang="EN-SG">Jasmin Quek<br> Mdm Illi Sakinah</span></font></td>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">idayu_dewi_bt_juwari@moe.edu.sg<br>ili_sakinah_sarwan@moe.edu.sg<br>quek_kah_hoon@moe.edu.sg <br>ili_sakinah_sarwan@moe.edu.sg</font></td>
-
-</tr>
-
-<tr>
-
-<td><font color="#444444" face="arial, sans-serif" size="4">5 Wisdom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">Ms Ling Yuan <br>Mr Muhammad Azhari<br></font> <font size="4" face="arial, sans-serif">Ms Parameswari<br> Mr Sebastian Ooi</font></td>
-
-<td><font color="#444444" size="4" face="arial, sans-serif">ling_yuan@moe.edu.sg <br>muhammad_azhari_shahri@moe.edu.sg <br>parameswari_s_sambasivam@moe.edu.sg<br>ooi_kian_tiong_sebastian@moe.edu.sg </font></td>
-
-<td></td>
-
-<td></td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table style="width:610.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in" width="813" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:42.4pt"><td style="width:112.0pt;border:solid #A5A5A5 1.0pt;
+  border-bottom:solid #A5A5A5 2.25pt;background:#70AD47;mso-background-themecolor:
+  accent6;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="149"><p class="MsoNormal"><span style="color:white;mso-themecolor:background1">Year Head</span></p></td><td style="width:152.0pt;border-top:solid #A5A5A5 1.0pt;
+  border-left:none;border-bottom:solid #A5A5A5 2.25pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-left-alt:solid #A5A5A5 1.0pt;background:#70AD47;mso-background-themecolor:
+  accent6;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="203"><p class="MsoNormal"><span style="color:white;mso-themecolor:background1">Mdm Alfiah&nbsp;Bte Md Yusoff</span></p></td><td style="width:346.0pt;border-top:solid #A5A5A5 1.0pt;
+  border-left:none;border-bottom:solid #A5A5A5 2.25pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-left-alt:solid #A5A5A5 1.0pt;background:#70AD47;mso-background-themecolor:
+  accent6;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="461"><p class="MsoNormal"><span style="color:white;mso-themecolor:background1">alfiah_md_yusoff@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:1;height:42.4pt"><td style="width:112.0pt;border:solid #A5A5A5 1.0pt;
+  border-top:none;mso-border-top-alt:solid #A5A5A5 2.25pt;background:#F0F0F0;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="149"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">5 Charity</span></p></td><td style="width:152.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 2.25pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="203"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ms&nbsp;Suhaila&nbsp;Mohd Taib</span><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG" lang="EN-SG"><br></span><span style="color:black;mso-color-alt:windowtext">Ms&nbsp;Tay Ru Jun<br>Mdm&nbsp;Lee&nbsp;Xin Yee</span></p></td><td style="width:346.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 2.25pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="461"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">suhaila_mohd_taib@moe.edu.sg<br>chew_wei@moe.edu.sg<br>lee_xin_yi@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:48.4pt"><td style="width:112.0pt;border:solid #A5A5A5 1.0pt;
+  border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;padding:5.75pt 8.6pt 5.75pt 8.6pt;
+  height:48.4pt" valign="top" width="149"><p class="MsoNormal">5 Faith</p></td><td style="width:152.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="203"><p class="MsoNormal">Mr&nbsp;Raymond Quake<br>Mdm&nbsp;Azlin&nbsp;Mustaffa</p><p class="MsoNormal">Ms&nbsp;Angela&nbsp;Koh</p></td><td style="width:346.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="461"><p class="MsoNormal">quake_kheok_meng_raymond@moe.edu.sg<br>azlin_mustaffa@moe.edu.sg<br>koh_minmin_angela@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:3;height:40.0pt"><td style="width:112.0pt;border:solid #A5A5A5 1.0pt;
+  border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;background:#F0F0F0;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:40.0pt" valign="top" width="149"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">5 Grace</span></p></td><td style="width:152.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:40.0pt" valign="top" width="203"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm&nbsp;Alfiah&nbsp;Bte Md Yusoff<br>Ms&nbsp;Judith&nbsp;Goh<br>Mr&nbsp;Tam&nbsp;Joon Chze</span></p></td><td style="width:346.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:40.0pt" valign="top" width="461"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">alfiah_md_yusoff@moe.edu.sg<br>goh_xue_ni_judith@moe.edu.sg<br>tam_joon_chze@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:55.9pt"><td style="width:112.0pt;border:solid #A5A5A5 1.0pt;
+  border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;padding:5.75pt 8.6pt 5.75pt 8.6pt;
+  height:55.9pt" valign="top" width="149"><p class="MsoNormal">5 Hope</p></td><td style="width:152.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:55.9pt" valign="top" width="203"><p class="MsoNormal">Ms&nbsp;Debbie&nbsp;See<br>Mr Muhammad&nbsp;Azhari<br>Mr&nbsp;Fedly&nbsp;Sulaiman</p></td><td style="width:346.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:55.9pt" valign="top" width="461"><p class="MsoNormal">see_seow_ping_debbie@moe.edu.sg<br>muhammad_azhari_shahri@moe.edu.sg<br>mohammad_fedly_b_sulaiman@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:5;height:25.4pt"><td style="width:112.0pt;border:solid #A5A5A5 1.0pt;
+  border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;background:#F0F0F0;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:25.4pt" valign="top" width="149"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">5 Joy</span></p></td><td style="width:152.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:25.4pt" valign="top" width="203"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm&nbsp;Norsinah&nbsp;Suadi</span><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG"><br></span><span style="color:black;mso-color-alt:windowtext">Mr&nbsp;Melvin&nbsp;Ow<br>Mdm&nbsp;Lu Yangfan</span></p></td><td style="width:346.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:25.4pt" valign="top" width="461"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">norsinah_suadi@moe.edu.sg<br>ow_weng_wai_melvin@moe.edu.sg<br>lu_yangfan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:48.4pt"><td style="width:112.0pt;border:solid #A5A5A5 1.0pt;
+  border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;padding:5.75pt 8.6pt 5.75pt 8.6pt;
+  height:48.4pt" valign="top" width="149"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">5</span> Wisdom</p></td><td style="width:152.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="203"><p class="MsoNormal">Mr&nbsp;Steven Yeo<br>Mdm Pauline</p></td><td style="width:346.0pt;border-top:none;border-left:
+  none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
+  mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="461"><p class="MsoNormal">yeo_poh_teck@moe.edu.sg<br>paul_pouline@moe.edu.sg</p></td></tr></tbody></table>
