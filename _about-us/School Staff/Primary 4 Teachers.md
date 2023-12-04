@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School Staff
 variant: markdown
 ---
-
-
 <table style="width:8.25in;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
  0in 0in 0in 0in" width="792" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:42.4pt"><td style="width:80.0pt;border:solid #A5A5A5 1.0pt;
   border-bottom:solid #A5A5A5 2.25pt;background:#70AD47;mso-background-themecolor:
