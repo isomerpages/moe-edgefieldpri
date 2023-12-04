@@ -62,7 +62,7 @@ variant: markdown
   height:48.4pt" valign="top" width="179"><p class="MsoNormal">1 Kindness</p></td><td style="width:3.75in;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="360"><p class="MsoNormal">Ms&nbsp;Pang&nbsp;Xiao Yan<span style="mso-ansi-language:EN-SG" lang="EN-SG"><br>Mr </span>David Ng<br>Mdm&nbsp;Noorhaizah&nbsp;Abdul Rahim</p></td><td style="width:271.5pt;border-top:none;border-left:
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="360"><p class="MsoNormal">Ms&nbsp;Pang&nbsp;Xiao Yan<span style="mso-ansi-language:EN-SG" lang="EN-SG"><br>Mr </span>David Ng<br>Mdm&nbsp;Noorhaizah Rahim</p></td><td style="width:271.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
   padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="362"><p class="MsoNormal">pang_xiao_yan@moe.edu.sg<br>ng_kwang_ming@moe.edu.sg<br>noorhaizah_abdul_rahim@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:7;height:48.4pt"><td style="width:134.5pt;border:solid #A5A5A5 1.0pt;
@@ -71,7 +71,7 @@ variant: markdown
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
   background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="360"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mrs Ng Lee&nbsp;Mei Ling</span><span style="color:black;mso-color-alt:
-  windowtext;mso-ansi-language:EN-SG" lang="EN-SG"><br></span><span style="color:black;mso-color-alt:windowtext">Mr&nbsp;Matthew&nbsp;Sum<br>Mdm&nbsp;Wirziana&nbsp;Abdul Wahab</span></p></td><td style="width:271.5pt;border-top:none;border-left:
+  windowtext;mso-ansi-language:EN-SG" lang="EN-SG"><br></span><span style="color:black;mso-color-alt:windowtext">Mr&nbsp;Matthew&nbsp;Sum<br>Mdm&nbsp;Wirziana&nbsp;Wahab</span></p></td><td style="width:271.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
   background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="362"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">lee_mei_ling_a@moe.edu.sg<br>sum_yoong_lee_matthew@moe.edu.sg<br>wirziana_abdul_wahab@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:48.4pt"><td style="width:134.5pt;border:solid #A5A5A5 1.0pt;
