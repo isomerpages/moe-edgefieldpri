@@ -30,10 +30,10 @@ variant: markdown
   height:42.4pt" valign="top" width="167"><p class="MsoNormal">2 Charity</p></td><td style="width:265.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="354"><p class="MsoNormal">Mdm Aw&nbsp;Pei Shi<br>Mr Tan Hwee Koon<span style="mso-ansi-language:EN-SG" lang="EN-SG"><br></span>Mdm&nbsp;Ruzanna&nbsp;Supar</p></td><td style="width:4.0in;border-top:none;border-left:none;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="354"><p class="MsoNormal">Mdm Aw&nbsp;Pei Shi<br>Mdm&nbsp;Ruzanna&nbsp;Supar<span style="mso-ansi-language:EN-SG" lang="EN-SG"><br></span>Mr Tan Hwee Koon</p></td><td style="width:4.0in;border-top:none;border-left:none;
   border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="384"><p class="MsoNormal">aw_pei_shi@moe.edu.sg<br>-<br>ruzanna_supar@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:3;height:48.4pt"><td style="width:125.5pt;border:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="384"><p class="MsoNormal">aw_pei_shi@moe.edu.sg<br>ruzanna_supar@moe.edu.sg<br>-</p></td></tr><tr style="mso-yfti-irow:3;height:48.4pt"><td style="width:125.5pt;border:solid #A5A5A5 1.0pt;
   border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;background:#F0F0F0;
   padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="167"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">2 Faith</span></p></td><td style="width:265.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
