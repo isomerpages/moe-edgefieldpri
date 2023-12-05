@@ -38,10 +38,10 @@ variant: markdown
   padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="167"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">2 Faith</span></p></td><td style="width:265.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="354"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm&nbsp;Benazir&nbsp;Begam<br>Mdm&nbsp;Jaseela&nbsp;Ameen<br>Mdm&nbsp;Louisa Koh</span></p></td><td style="width:4.0in;border-top:none;border-left:none;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="354"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm&nbsp;Benazir&nbsp;Begam<br>Ms Janice Cai<br>Mdm&nbsp;Louisa Koh</span></p></td><td style="width:4.0in;border-top:none;border-left:none;
   border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="384"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">benazir_begam_samusu_malik@moe.edu.sg<br>jaseela_mohamed_noorul_ameen@moe.edu.sg<br>koh_kim_lian_a@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:31.75pt"><td style="width:125.5pt;border:solid #A5A5A5 1.0pt;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="384"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">benazir_begam_samusu_malik@moe.edu.sg<br>-<br>koh_kim_lian_a@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:31.75pt"><td style="width:125.5pt;border:solid #A5A5A5 1.0pt;
   border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;padding:5.75pt 8.6pt 5.75pt 8.6pt;
   height:31.75pt" valign="top" width="167"><p class="MsoNormal">2 Grace</p></td><td style="width:265.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
