@@ -63,10 +63,10 @@ variant: markdown
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
   padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="215"><p class="MsoNormal">Mr Denis&nbsp;Chin<span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"><br></span>Mrs&nbsp;Juliana&nbsp;Ng</p></td><td style="width:329.55pt;border-top:none;border-left:
+  EN-SG" lang="EN-SG"><br></span>Mdm Juliena Razek</p></td><td style="width:329.55pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="439"><p class="MsoNormal">chin_singloong@moe.edu.sg<br>juliana_natalia_lee_osman@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:48.4pt"><td style="width:103.0pt;border:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="439"><p class="MsoNormal">chin_singloong@moe.edu.sg<br>julieana_razek@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:48.4pt"><td style="width:103.0pt;border:solid #A5A5A5 1.0pt;
   border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;background:#F0F0F0;
   padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="137"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG" lang="EN-SG">4</span><span style="color:black;mso-color-alt:windowtext"> Wisdom</span></p></td><td style="width:161.45pt;border-top:none;border-left:
