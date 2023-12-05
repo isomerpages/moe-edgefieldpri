@@ -20,7 +20,7 @@ variant: markdown
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 2.25pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
   background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="312"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ms&nbsp;Suhaila&nbsp;Mohd Taib</span><span style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG" lang="EN-SG"><br></span><span style="color:black;mso-color-alt:windowtext">Ms&nbsp;Tay Ru Jun<br>Mdm&nbsp;Lee&nbsp;Xin Yee</span></p></td><td style="width:228.0pt;border-top:none;border-left:
+  mso-ansi-language:EN-SG" lang="EN-SG"><br></span><span style="color:black;mso-color-alt:windowtext">Mr Chew Wei<br>Mdm&nbsp;Lee&nbsp;Xin Yee</span></p></td><td style="width:228.0pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 2.25pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
   background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:42.4pt" valign="top" width="304"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">suhaila_mohd_taib@moe.edu.sg<br>chew_wei@moe.edu.sg<br>lee_xin_yi@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:48.4pt"><td style="width:148.0pt;border:solid #A5A5A5 1.0pt;
