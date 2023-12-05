@@ -75,4 +75,4 @@ variant: markdown
   background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="354"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr&nbsp;Vairavan&nbsp;Chettiar<br>Ms Feng Yingni</span></p></td><td style="width:4.0in;border-top:none;border-left:none;
   border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="384"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">vairavan_uthaman@moe.edu.sg<br>feng_Yingni@moe.edu.sg</span></p></td></tr></tbody></table>
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="384"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">vairavan_uthaman@moe.edu.sg<br>feng_yingni@moe.edu.sg</span></p></td></tr></tbody></table>
