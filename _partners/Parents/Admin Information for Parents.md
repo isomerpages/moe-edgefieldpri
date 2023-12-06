@@ -8,7 +8,7 @@ variant: markdown
 ## Primary 1 Admin Matters 2022/Orientation Booklet
 
 * [P1 Orientation 2023](/files/10th_November_2023_P1_Orientation.pdf)
-
+*  [2024 P1 Orientation Booklet](https://online.fliphtml5.com/hqnzl/yvqx/#p=1)
 
 ## Booklist 2023
 
