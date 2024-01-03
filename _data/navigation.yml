@@ -1,0 +1,23 @@
+logo: /images/edgefield-logo .jpeg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    url: /co-curriculum/student-discipline-n-student-leadership
+    sublinks:
+      - title: Discipline & Leadership
+        url: /co-curriculum/student-discipline-n-student-leadership
+      - title: Student Development Team
+        url: /co-curriculum/student-development-team
+      - title: CCAs
+        url: /co-curriculum/co-curricular-activities-cca/clubs-and-societies/visual-arts-club
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Partners
+    collection: partners
+  - title: Achievements
+    collection: achievements
+  - title: Open House
+    url: https://www.thinglink.com/card/1705415837248127971

@@ -1,0 +1,6 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Student Discipline & Leadership.md
+      - Student Development Team.md
