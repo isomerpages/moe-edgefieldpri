@@ -46,10 +46,10 @@ variant: markdown
   height:31.75pt" valign="top" width="167"><p class="MsoNormal">2 Grace</p></td><td style="width:265.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:31.75pt" valign="top" width="354"><p class="MsoNormal">Mrs&nbsp;Adeline&nbsp;Chew<br>Mrs&nbsp;Pauline Leong&nbsp;<br>Mdm&nbsp;Nurafizah&nbsp;Othman</p></td><td style="width:4.0in;border-top:none;border-left:none;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:31.75pt" valign="top" width="354"><p class="MsoNormal">Mrs&nbsp;Adeline&nbsp;Chew<br>Mr David Ng<br>Mdm&nbsp;Nurafizah&nbsp;Othman</p></td><td style="width:4.0in;border-top:none;border-left:none;
   border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:31.75pt" valign="top" width="384"><p class="MsoNormal">chew-ng_xiang_min_adeline@moe.edu.sg<br>ho_soo_khim@moe.edu.sg<br>nurafizah_othman@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:5;height:55.9pt"><td style="width:125.5pt;border:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:31.75pt" valign="top" width="384"><p class="MsoNormal">chew-ng_xiang_min_adeline@moe.edu.sg<br>ng_kwang_ming@moe.edu.sg<br>nurafizah_othman@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:5;height:55.9pt"><td style="width:125.5pt;border:solid #A5A5A5 1.0pt;
   border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;background:#F0F0F0;
   padding:5.75pt 8.6pt 5.75pt 8.6pt;height:55.9pt" valign="top" width="167"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">2 Hope</span></p></td><td style="width:265.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
