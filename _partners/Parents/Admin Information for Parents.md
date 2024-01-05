@@ -70,7 +70,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 
 \-&nbsp;[Application for Waiting List](https://form.gov.sg/60c708afc1e7220011fe9978)
 
-
+![](/images/DigitalAccess_Home.png)
 
 ## Canteen Food Prices
 
