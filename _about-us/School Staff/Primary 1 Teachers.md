@@ -62,10 +62,10 @@ variant: markdown
   height:48.4pt" valign="top" width="179"><p class="MsoNormal">1 Kindness</p></td><td style="width:3.75in;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="360"><p class="MsoNormal">Ms&nbsp;Pang&nbsp;Xiao Yan<span style="mso-ansi-language:EN-SG" lang="EN-SG"><br>Mr </span>David Ng<br>Mdm&nbsp;Noorhaizah Rahim</p></td><td style="width:271.5pt;border-top:none;border-left:
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="360"><p class="MsoNormal">Ms&nbsp;Pang&nbsp;Xiao Yan<span style="mso-ansi-language:EN-SG" lang="EN-SG"><br>Mrs Pauline Leong <br>Mdm&nbsp;Noorhaizah Rahim</span></p></td><td style="width:271.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="362"><p class="MsoNormal">pang_xiao_yan@moe.edu.sg<br>ng_kwang_ming@moe.edu.sg<br>noorhaizah_abdul_rahim@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:7;height:48.4pt"><td style="width:134.5pt;border:solid #A5A5A5 1.0pt;
+  padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="362"><p class="MsoNormal">pang_xiao_yan@moe.edu.sg<br>ho_soo_khim@moe.edu.sg<br>noorhaizah_abdul_rahim@moe.edu.sg</p></td></tr><tr style="mso-yfti-irow:7;height:48.4pt"><td style="width:134.5pt;border:solid #A5A5A5 1.0pt;
   border-top:none;mso-border-top-alt:solid #A5A5A5 1.0pt;background:#F0F0F0;
   padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="179"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">1 Patience</span></p></td><td style="width:3.75in;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;

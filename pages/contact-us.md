@@ -6,14 +6,11 @@ agency_name: Edgefield Primary School
 locations:
   - address:
       - 41 Edgefield Plains
-      - "Singapore "
+      - Singapore
       - "828869"
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: ""
-      - days: Sat
-        time: 8.30am - 12.00pm
+        time: 7.00am - 5.00pm
         description: ""
     maps_link: ""
     title: General Office
@@ -23,4 +20,5 @@ contacts:
       - email: edgefield_ps@moe.edu.sg
       - other: "Fax : 6312 6093"
     title: General Enquiries & Feedback
+feedback: ""
 ---
