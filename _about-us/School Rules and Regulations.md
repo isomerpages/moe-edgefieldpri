@@ -2,6 +2,7 @@
 title: School Rules and Regulations
 permalink: /about-us/school-rules-and-regulations/
 description: ""
+variant: markdown
 ---
 Students are to conduct themselves in the following manner:
 
@@ -31,16 +32,22 @@ Students are to conduct themselves in the following manner:
 *   Do not bring to school any equipment not required for your lessons or CCAs.
 *   Apart from electronic dictionaries or calculators, other electronic or communicative devices (such as MP3 players and game consoles) will be confiscated upon detection if you bring them to school and school events without authorization or a valid reason.
 
-**5\. Handphone Guidelines**
+**5\. Handphone Lockers Guidelines**
 
-*   Only P3 to P6 students are allowed to bring handphones to school. However, they must observe the restrictions concerning the use of handphones in school premises and at school events so as not to disrupt teaching and learning.
-*   Students are required to rent and use special school lockers for storing handphones. These lockers are owned and managed by an external vendor. Availability of the lockers are on a first-come-first-served basis. An annual rental fee will be charged for each locker. Students are also required to purchase a prefixed number combination lock from the vendor. The purchased lock will belong to the students.
-*   Sharing of the handphone lockers is strictly not allowed.
-*   Students are to deposit their switched-off handphones inside their handphone lockers upon arriving in school. Handphones can only be retrieved only after the last period of the day, or after-school activities (such as support classes and CCAs), whichever is later. 
-*   Students can only use their handphones after exiting the school.
-*   The school shall not be held responsible for any loss or damage to the handphones. Students must be responsible for the care of their own handphones.
-*   Students who breach the guidelines will have their handphones confiscated. Parents/guardians are required to come to school to collect the handphones. 
-*   There is a coin phone inside the canteen for students to make phone calls. Students are also allowed to make phone calls from the General Office if necessary.
+The school only allows P3 to P6 students to request for the use of handphone lockers in school. However, they must observe the restrictions concerning the use of handphones.
+
+1.    Students are to use only prefixed number combination lock provided by the school.   
+
+2.    Sharing of the handphone lockers is strictly not allowed.
+
+3.    Students are to deposit their switched-off handphones inside their handphone lockers upon arrival to school. Handphones are to be retrieved only after the last period of the day or after-school activities (such as support classes, CCA, etc), whichever is later.
+
+4.    Students can only use their handphones after they exit the school premises.
+
+5.    The school shall not be held responsible for any loss or damage to the students’ handphones. Students must be responsible for the care of their own handphones.
+
+6.    Students who breach the guidelines will have their handphones confiscated. Parents/ Guardians are required to come to school to collect the handphones.
+
 
 **6\. Classroom Conduct**
 
