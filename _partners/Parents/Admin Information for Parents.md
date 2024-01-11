@@ -255,7 +255,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Plain Rice with One Meat and One Vegetable</td>
@@ -313,7 +313,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Monday<br>Lor Mee</td>
@@ -373,7 +373,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Monday – Fri<br> <br>Curry Rice</td>
@@ -422,7 +422,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>(Small $1.40, Medium $1.60, Large $2.00)</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>(Small $1.60, Medium $2.00, Large $2.40)</td>
   </tr>
   <tr>
     <td class="tg-u05r">All Days Except Wednesday<br>Plain Rice, One Meat, One Vegetable</td>
@@ -456,7 +456,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-q9pi">Monday</td>
