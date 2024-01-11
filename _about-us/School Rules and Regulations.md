@@ -62,7 +62,7 @@ The school only allows P3 to P6 students to request for the use of handphone loc
 **7\. Attire & Appearance**
 
 *   All students of Edgefield Primary School have two official sets of school attire, namely the School Uniform and the PE Attire. The PE Attire is meant for P3 to P6 students to wear during PE lessons and CCAs which are physically strenuous in nature. P1 to P2 are to put on the PE attire daily. 
-*   A formal attire and appearance check will be conducted at the beginning of each term. Students will be informed prior to the attire and appearance check.
+*   A formal attire and appearance check will be conducted at the beginning of every month. Students will be informed prior to the attire and appearance check.
 *   Students must wear the prescribed school uniform and any modification to the uniform is **NOT** allowed.
 *   Name tags are to be sewn onto every school uniform, 1.5cm above the pocket.
 *   Boys must be clean shaven, and no wearing of beard and moustache are allowed.
