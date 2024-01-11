@@ -9,17 +9,18 @@ variant: markdown
 
 * [P1 Orientation 2023](/files/10th_November_2023_P1_Orientation.pdf)
 *  [2024 P1 Orientation Booklet](https://online.fliphtml5.com/hqnzl/yvqx/#p=1)
+*  [P1 Parents Sharing 2024](/files/P1_Parents_Sharing_2024.pdf)
 
-## Booklist 2023
+## Booklist 2024
 
-* [P1 Booklist 2023](/files/P1%20Booklist%202023.pdf)
-* [P2Booklist 2023](/files/P2%20Booklist%202023.pdf)
-* [P3 Booklist 2023](/files/P3%20Booklist%202023.pdf)
-* [P4 Booklist 2023](/files/P4%20Booklist%202023.pdf)
-* [P5 Booklist 2023](/files/P5%20Booklist%202023.pdf)
-* [P5 FDN Booklist 2023](/files/P5%20FDN%20Booklist%202023.pdf)
-* [P6 Booklist 2023](/files/P6%20Booklist%202023.pdf)
-* [P6 FDN Booklist 2023](/files/P6%20FDN%20Booklist%202023.pdf)
+* [P1 Booklist 2024](/files/EFPS_P1.pdf)
+* [P2 Booklist 2024](/files/EFPS_P2.pdf)
+* [P3 Booklist 2024](/files/EFPS_P3.pdf)
+* [P4 Booklist 2024](/files/EFPS_P4.pdf)
+* [P5 Booklist 2024](/files/EFPS_P5.pdf)
+* [P5 FDN Booklist 2024](/files/EFPS_P5_FDN.pdf)
+* [P6 Booklist 2024](/files/EFPS_P6.pdf)
+* [P6 FDN Booklist 2024](/files/EFPS_P6_FDN.pdf)
 
 ## Service Providers
 
@@ -190,7 +191,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come with choice of mashed potato/soup/nachos and a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come with choice of mashed potato/soup/nachos and a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Pasta</td>
@@ -255,7 +256,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Plain Rice with One Meat and One Vegetable</td>
@@ -313,7 +314,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Monday<br>Lor Mee</td>
@@ -373,7 +374,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come with a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Monday – Fri<br> <br>Curry Rice</td>
@@ -422,7 +423,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>(Small $1.40, Medium $1.60, Large $2.00)</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>(Small $1.60, Medium $2.00, Large $2.40)</td>
   </tr>
   <tr>
     <td class="tg-u05r">All Days Except Wednesday<br>Plain Rice, One Meat, One Vegetable</td>
@@ -456,7 +457,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-q9pi">Monday</td>
