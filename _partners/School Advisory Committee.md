@@ -20,26 +20,10 @@ variant: markdown
 
 ### Members
 
-
-<img src="/images/Dr%20William%20Chung.jpeg" style="width:30%">
-		 
-<center><b>Dr William Chung</b></center>
-
-
 <img src="/images/Dr%20Danny%20Lai.jpeg" style="width:30%">
 		 
 <center><b>Dr Danny Lai</b></center>
 
-
-<img src="/images/Mr%20Joseph%20Tan.jpeg" style="width:30%">
-		 
-<center><b>Mr Joseph Tan</b></center>
-
-
 <img src="/images/Mr%20Albel%20Singh.jpeg" style="width:30%">
 <center><b> LTC(RET) Albel Singh</b></center>
 
-
-<img src="/images/Mr%20Keith%20Png.jpeg" style="width:30%">
-		 
-<center><b>Mr Keith Peh</b></center>
