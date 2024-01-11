@@ -13,6 +13,10 @@ variant: markdown
 ## Booklist 2024
 
 * [P1 Booklist 2024](/files/EFPS_P1.pdf)
+* [P2 Booklist 2024](/files/EFPS_P2.pdf)
+* [P3 Booklist 2024](/files/EFPS_P3.pdf)
+* [P4 Booklist 2024](/files/EFPS_P4.pdf)
+* [P5 Booklist 2024](/files/EFPS_P5.pdf)
 * [P5 FDN Booklist 2023](/files/P5%20FDN%20Booklist%202023.pdf)
 * [P6 Booklist 2023](/files/P6%20Booklist%202023.pdf)
 * [P6 FDN Booklist 2023](/files/P6%20FDN%20Booklist%202023.pdf)
