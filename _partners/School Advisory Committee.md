@@ -25,9 +25,11 @@ variant: markdown
 <center><b>Dr Danny Lai</b></center>
 
 
-![](/images/Tony_Leong.jpg)
 <img src="/images/Mr%20Albel%20Singh.jpeg" style="width:30%">
 <center><b> LTC(RET) Albel Singh</b></center>
 
-<img src="/images/Tony_Leong.jpg" style="width:20%">		 
+<img src="/images/Tony_Leong.jpg" style="width:30%">		 
 <center><b>Mr Tony Leong</b></center>
+
+<img src="/images/Dr_Hur_Wei_Tieng.jpg" style="width:30%">		 
+<center><b>Dr Hur Wei Tieng</b></center>
