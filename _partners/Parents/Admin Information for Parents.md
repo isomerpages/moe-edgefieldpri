@@ -9,6 +9,7 @@ variant: markdown
 
 * [P1 Orientation 2023](/files/10th_November_2023_P1_Orientation.pdf)
 *  [2024 P1 Orientation Booklet](https://online.fliphtml5.com/hqnzl/yvqx/#p=1)
+*  [P1 Parents Sharing 2024](/files/P1_Parents_Sharing_2024.pdf)
 
 ## Booklist 2024
 
