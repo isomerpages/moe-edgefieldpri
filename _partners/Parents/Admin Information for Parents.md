@@ -10,7 +10,7 @@ variant: markdown
 * [P1 Orientation 2023](/files/10th_November_2023_P1_Orientation.pdf)
 *  [2024 P1 Orientation Booklet](https://online.fliphtml5.com/hqnzl/yvqx/#p=1)
 
-## Booklist 2023
+## Booklist 2024
 
 * [P1 Booklist 2023](/files/P1%20Booklist%202023.pdf)
 * [P2Booklist 2023](/files/P2%20Booklist%202023.pdf)
@@ -190,7 +190,7 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 <tbody>
   <tr>
     <td class="tg-6iri">Main Items</td>
-    <td class="tg-6iri">Price of Bento Meal<br>All mains come with choice of mashed potato/soup/nachos and a serving of fruit<br>Small $1.40, Medium $1.60, Large $2.00</td>
+    <td class="tg-6iri">Price of Bento Meal<br>All mains come with choice of mashed potato/soup/nachos and a serving of fruit<br>Small $1.60, Medium $2.00, Large $2.40</td>
   </tr>
   <tr>
     <td class="tg-u05r">Pasta</td>
