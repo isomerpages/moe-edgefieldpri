@@ -5,7 +5,6 @@ description: ""
 third_nav_title: English
 variant: markdown
 ---
-	 
 <h2 style="text-align: left;"><span style="background-color: initial; font-size: 0.9375em;"><font color="#444444" face="arial, sans-serif">KidsREAD</font></span></h2>
 This is a structured programme aimed at supporting  Primary 1 and 2 students with well-curated books and activities provided by NLB. The programme is implemented once a week after school for one hour.
 
