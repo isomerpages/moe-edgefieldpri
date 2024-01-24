@@ -72,7 +72,8 @@ variant: markdown
   mso-ansi-language:EN-SG" lang="EN-SG">3</span><span style="color:black;mso-color-alt:windowtext"> Wisdom</span></p></td><td style="width:265.5pt;border-top:none;border-left:
   none;border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="354"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr&nbsp;Vairavan&nbsp;Chettiar<br>Ms Feng Yingni</span></p></td><td style="width:4.0in;border-top:none;border-left:none;
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="354"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr&nbsp;Vairavan&nbsp;Chettiar<br>Ms Feng Yingni<br>Mdm Khairiyanie</span></p></td><td style="width:4.0in;border-top:none;border-left:none;
   border-bottom:solid #A5A5A5 1.0pt;border-right:solid #A5A5A5 1.0pt;
   mso-border-top-alt:solid #A5A5A5 1.0pt;mso-border-left-alt:solid #A5A5A5 1.0pt;
-  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="384"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">vairavan_uthaman@moe.edu.sg<br>feng_yingni@moe.edu.sg</span></p></td></tr></tbody></table>
+  background:#F0F0F0;padding:5.75pt 8.6pt 5.75pt 8.6pt;height:48.4pt" valign="top" width="384"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">vairavan_uthaman@moe.edu.sg<br>feng_yingni@moe.edu.sg<br>khairiyanie_abdul_aziz@moe.edu.sg
+	</span></p></td></tr></tbody></table>

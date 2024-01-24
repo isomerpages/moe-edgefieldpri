@@ -2,30 +2,6 @@
 title: Assessment Plans
 permalink: /curriculum/assessment-plans/
 description: ""
+variant: tiptap
 ---
-Assessment Plans for 2023
--------------------------------------------------
-### Semester 1
-
-* [2023 Assessment Letter to Parents - P1 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P1%20Learning%20Outcomes.pdf)
-
-* [2023 Assessment Letter to Parents - P2 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P2%20Learning%20Outcomes.pdf)
-
-* [2023 Assessment Letter to Parents - P3 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P3%20Semester%201.pdf)
-
-* [2023 Assessment Letter to Parents - P4 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P4%20Semester%201.pdf)
-
-* [2023 Assessment Letter to Parents - P5 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P5%20Semester%201.pdf)
-
-* [2023 Assessment Letter to Parents - P6 Learning Outcomes](/files/2023%20Assessment%20Letter%20to%20Parents%20-%20P6%20Semester%201%20Revised.pdf)
-
-
-### Semester 2
-
-* [2023 Assessment Letter to Parents - P3 Learning Outcomes Semester 2](/files/2023%20assessment%20letter%20to%20parents%20-%20p3%20learning%20outcomes%20sem%202.pdf)
-
-* [2023 Assessment Letter to Parents - P4 Learning Outcomes Semester 2](/files/2023%20assessment%20letter%20to%20parents%20-%20p4%20%20learning%20outcomes%20sem%202.pdf)
-
-* [2023 Assessment Letter to Parents - P5 Learning Outcomes Semester 2](/files/2023%20assessment%20letter%20to%20parents%20-%20p5%20learning%20outcomes%20sem%202.pdf)
-
-* [2023 Assessment Letter to Parents - P6 Learning Outcomes Semester 2](/files/2023%20assessment%20letter%20to%20parents%20-%20p6%20%20learning%20outcomes%20sem%202.pdf)
+<h2>Assessment Plans for 2024</h2><h3>Semester 1</h3><p><a href="/files/2024_T1_Assessment_Letter_to_Parents___P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 T1 Assessment Letter to Parents - P3</a><br><a href="/files/2024_T1_Assessment_Letter_to_Parents___P4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 T1 Assessment Letter to Parents - P4</a><br><a href="/files/2024_T1_Assessment_Letter_to_Parents___P5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 T1 Assessment Letter to Parents - P5</a><br><a href="/files/2024_T1_Assessment_Letter_to_Parents___P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 T1 Assessment Letter to Parents - P6</a></p><p></p><p></p>
