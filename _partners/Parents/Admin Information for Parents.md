@@ -67,8 +67,6 @@ b)&nbsp;[Hardcopy Form](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u7
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MOE FAS pamphlet giving information of the MOE FAS scheme](https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf)
 
-\-&nbsp;[Leave of Absence (LOA)](https://form.gov.sg/60c173e39bc0e400137a13ab)
-
 \-&nbsp;[Application for Waiting List](https://form.gov.sg/60c708afc1e7220011fe9978)
 
 ![](/images/DigitalAccess_Home.png)
