@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /partners/Parents/sexuality-education/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 <div class=""><font face="arial, sans-serif" size="4" class=""><span class=""><span class="">
 <div style="text-align: justify;" class=""><p style="margin: 0in 0in 6pt 1in; text-indent: -0.5in;" class="MsoNormal"><span style="" lang="EN-SG"></span></p>
@@ -70,7 +71,7 @@ Sexuality Education.</span>&nbsp;</span></p>
 </div></span></span></font>
 </div>
 <br>
-<div class=""><p><font face="arial, sans-serif" size="4"><b>Overview of Edgefield Primary School’s Sexuality Education Programme for 2023</b></font></p><font size="4" face="arial, sans-serif">
+<div class=""><p><font face="arial, sans-serif" size="4"><b>Overview of Edgefield Primary School’s Sexuality Education Programme for 2024</b></font></p><font size="4" face="arial, sans-serif">
 <div style="text-align: justify;"><span style="background-color: initial;">4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click </span><a style="background-color: initial;" target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a><span style="background-color: initial;"> (</span><span style="background-color: initial;">for more information on the scope of Sexuality Education in the school curriculum.</span>
 </div>
 <div style="text-align: justify;"><br>
@@ -98,7 +99,7 @@ Sexuality Education.</span>&nbsp;</span></p>
 <div style="text-align: justify;"><span style="background-color: initial;">7.       Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</span>
 </div></font><h2 style=""><p style="text-align:justify;text-justify:inter-ideograph;
 mso-layout-grid-align:none;text-autospace:none" class="MsoNormal"><font size="4" face="arial, sans-serif"><span style="" lang="EN-GB"></span></font></p><font size="4"><font face="arial, sans-serif" color="#444444">
-<div style="text-align: center;"><span style="background-color: initial;">At Edgefield Primary School, the following Sexuality Education lessons will be taught in 2023:</span>
+<div style="text-align: center;"><span style="background-color: initial;">At Edgefield Primary School, the following Sexuality Education lessons will be taught in 2024:</span>
 </div></font><font color="#444444"><font face="arial, sans-serif">
 <div style="text-align: center;"><span style="background-color: initial;"><br>Primary 5</span>
 </div></font></font></font></h2>    <h3 style="text-align: center;" class="">
@@ -406,7 +407,7 @@ mso-layout-grid-align:none;text-autospace:none" class="MsoNormal"><font size="4"
 </div>
 <div class=""><b style="font-family: arial, sans-serif; font-size: large; background-color: initial;"><u>Please Note:</u></b><br>
 </div>
-<div class=""><font size="4" face="arial, sans-serif"><br><b>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </b><br><br><b>Information for Parents</b><br><br>8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br><br>9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents in Term 1 via parents gateway.<br><br>10.     Parents can contact Mrs Ng Lee Mei Ling, (lee_mei_ling_a@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.</font><p class=""><b style="background-color: initial; font-size: 0.9375em;" class=""><span class="" lang="EN-GB"><font size="4" face="arial, sans-serif"></font></span></b></p>
+<div class=""><font size="4" face="arial, sans-serif"><br><b>*For 2024, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </b><br><br><b>Information for Parents</b><br><br>8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br><br>9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents in Term 1 via parents gateway.<br><br>10.     Parents can contact Mrs Ng Lee Mei Ling, (lee_mei_ling_a@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.</font><p class=""><b style="background-color: initial; font-size: 0.9375em;" class=""><span class="" lang="EN-GB"><font size="4" face="arial, sans-serif"></font></span></b></p>
 </div>
 </div>
 </div><p style="text-align:justify;text-justify:inter-ideograph"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:&quot;Times New Roman&quot;;
