@@ -76,8 +76,8 @@ cognitive or emotional maturity to modulate their behaviours. Furthermore,
 our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 guidance so that they can respond with discernment to the sexual messages
-in the media and other sources.</p>
-<p>
+in the media and other sources.
+<br>
 <br>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
 at Primary 5 and 6. In SEd, students learn to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
