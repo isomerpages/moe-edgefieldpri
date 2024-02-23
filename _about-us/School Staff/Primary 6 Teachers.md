@@ -20,6 +20,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head (P6) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp;Parameswari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>parameswari_s_sambasivam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
