@@ -32,7 +32,6 @@ through the acquisition of <u>social and emotional skills</u> of self-awareness,
 management of their thoughts, feelings and behaviours, development of empathy
 for others, possession of effective communication, problem-solving and
 decision-making skills; and</p>
-<p></p>
 <p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 To help students develop a moral compass, respect for themselves and for
 others as sexual beings, premised on the family as the basic unit of society,
@@ -52,7 +51,6 @@ Make responsible decisions for yourself, your family and society; and</p>
 Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.&nbsp;</p>
-<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" class="" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;
 <br>
@@ -271,13 +269,13 @@ so that the students will feel more comfortable during the discussions.</p>
 </p>
 <p><strong><u><br></u></strong>
 </p>
-<p><strong><u>Please Note:</u></strong>
+<p><strong><u>Please Note:</u></strong> 
 <br>
 </p>
 <p>
 <br><strong>*For 2024, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </strong>
 <br>
-<br><strong>Information for Parents</strong>
+<br><strong>Information for Parents</strong> 
 <br>
 <br>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
