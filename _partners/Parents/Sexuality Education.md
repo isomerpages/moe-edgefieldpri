@@ -84,8 +84,7 @@ social and emotional changes they experience as they mature, develop healthy
 and rewarding relationships including those with members of the opposite
 sex, and make wise, informed and responsible decisions on sexuality matters.</p>
 <h2>At Edgefield Primary School, the following Sexuality Education lessons will be taught in 2024:</h2>
-<p>
-<br>Primary 5</p>
+<p>Primary 5</p>
 <table>
 <tbody>
 <tr>
