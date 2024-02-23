@@ -260,14 +260,8 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u><br></u></strong>
-</p>
-<p><strong><u><br></u></strong>
-</p>
 <p><strong><u>Please Note:</u></strong> 
 <br>
-</p>
-<p>
 <br><strong>*For 2024, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </strong>
 <br>
 <br><strong>Information for Parents</strong> 
@@ -283,7 +277,6 @@ to parents in Term 1 via parents gateway.
 <br>10. Parents can contact Mrs Ng Lee Mei Ling, (lee_mei_ling_a@moe.edu.sg)
 for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
