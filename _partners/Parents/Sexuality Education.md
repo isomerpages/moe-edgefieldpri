@@ -169,10 +169,7 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<h2><br></h2>
 <p>Primary 6</p>
-<p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
