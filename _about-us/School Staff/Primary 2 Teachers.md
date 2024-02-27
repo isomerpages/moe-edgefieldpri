@@ -97,7 +97,7 @@ variant: tiptap
 <p>Mrs&nbsp;Manju&nbsp;Manoj
 <br>Mdm&nbsp;Doreen&nbsp;Low
 <br>Mdm&nbsp;Jessica&nbsp;Chew</p>
-<p>Mrs Teo Foong Chee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>manoj_kumar_gupta@moe.edu.sg
