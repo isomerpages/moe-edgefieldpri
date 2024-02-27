@@ -102,8 +102,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>manoj_kumar_gupta@moe.edu.sg
 <br>low_hui_lin_doreen@moe.edu.sg
-<br>
-</p>
+<br>chaw_kim_leng_jessica@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
