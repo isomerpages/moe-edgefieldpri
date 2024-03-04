@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h2>Welcome to Edgefield Primary School</h2>
 <p></p>
-<img src="/images/Mdm_Rabiathul_Bazriya.jpg" style="width:110%">
+<img src="/images/Mdm_Rabiathul_Bazriya.jpg" style="width:55%">
 <p>&lt;p style="text-align: center;"&gt;Text_content&lt;/p&gt;</p>
 <p></p>
 <p></p>
