@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h2>ABOUT THE PRINCIPAL</h2>
-<p>&lt;img style="width:55%" src="/images/Mdm_Rabiathul_Bazriya.jpg"&gt;</p>
+<img src="/images/Mdm_Rabiathul_Bazriya.jpg" style="width:55%">
 <p>Mdm Rabiathul Bazriya started her career as a primary school teacher in
 1989 at the age of 21 years old.&nbsp; With experience spanning over 35
 years, she has taught both at the primary schools and secondary schools
@@ -42,4 +42,3 @@ thinking students to develop their passion and find deeper purpose in learning.&
 In addition, to her, building a sound character and developing good values
 in students is premium importance for them to be able to contribute well
 to themselves and to the society.&nbsp;</p>
-<p></p>
