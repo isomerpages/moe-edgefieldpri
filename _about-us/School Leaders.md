@@ -4,7 +4,7 @@ permalink: /about-us/permalink/
 variant: markdown
 description: ""
 ---
-<h2>ABOUT THE PRINCIPAL</h2>
+<h2>ABOUT THE PRINCIPAL - Mdm Rabiathul Bazriya</h2>
 <img src="/images/Mdm_Rabiathul_Bazriya.jpg" style="width:45%">
 <p>Mdm Rabiathul Bazriya started her career as a primary school teacher in
 1989 at the age of 21 years old.&nbsp; With experience spanning over 35
