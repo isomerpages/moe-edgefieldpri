@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Welcome to Edgefield Primary School</h2>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/Mdm_Rabiathul_Bazriya.jpg">
-</div>
+<p></p>
+<p>&lt;p style="text-align: center;"&gt;Text_content&lt;/p&gt;</p>
+<p></p>
 <p></p>
 <p>Happy New Year to everyone.&nbsp; I would like to warmly welcome everyone
 back to school in 2024 and especially our Primary 1 students who have joined
