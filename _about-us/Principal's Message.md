@@ -19,7 +19,8 @@ Our school will use the power of **WE** in engaging all staff and students at th
 To teach well, we will learn well. Hence, through staff collaboration and capacity building we will develop Subject mastery and competency in every staff so that we can teach effectively to enable better students engagement to realise the learning outcomes.
 
 We need everyone’s contribution, engagement and support to realize our dreams for our students and for the school.&nbsp; We seek parents’ support and partnership to help us in our journey so that we continue to be a school of choice that is relevant to times.&nbsp; Let’s Believe to See that we can bring Edgefield Primary to the next level of schooling.
-  
+
+
 
 Mdm Rabiathul Bazriya <br>
 Principal
