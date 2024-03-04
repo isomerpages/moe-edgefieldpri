@@ -8,8 +8,6 @@ variant: markdown
 <p></p>
 <img src="/images/Mdm_Rabiathul_Bazriya.jpg" style="width:55%">
 
-<p style="text-align: center;">Mdm Rabiathul Bazriya</p>
-
 <p>Happy New Year to everyone.&nbsp; I would like to warmly welcome everyone
 back to school in 2024 and especially our Primary 1 students who have joined
 us this year.&nbsp; It is certainly a new beginning for me as the Principal
