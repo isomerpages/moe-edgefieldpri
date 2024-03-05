@@ -36,7 +36,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Aw&nbsp;Pei Shi
 <br>Mdm&nbsp;Ruzanna&nbsp;Supar
-<br>Ms Tan Hwee Koon</p>
+<br>Ms Tan Hwee Khoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>aw_pei_shi@moe.edu.sg
