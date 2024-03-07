@@ -87,7 +87,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee&nbsp;Mei Ling</a> 
 <br><a href="sum_yoong_lee_matthew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Matthew&nbsp;Sum</a> 
-<br>Mdm&nbsp;Wirziana&nbsp;Wahab</p>
+<br><a href="wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Wirziana&nbsp;Wahab</a>
+</p>
 </td>
 </tr>
 <tr>
