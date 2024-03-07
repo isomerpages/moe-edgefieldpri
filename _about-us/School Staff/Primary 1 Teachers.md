@@ -28,7 +28,7 @@ variant: tiptap
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ong_ve_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Charn&nbsp;Ve'&nbsp;Joy</a>
+<p><a href="ong_ve_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Charn&nbsp;Ve'&nbsp;Joy</a> 
 <br><a href="foo_kwee_joo_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Bernard&nbsp;Foo</a>
 </p>
 </td>
