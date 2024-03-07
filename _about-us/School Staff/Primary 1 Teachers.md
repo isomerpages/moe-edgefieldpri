@@ -76,7 +76,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="pang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Pang&nbsp;Xiao Yan</a> 
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a> 
-<br>
 </p>
 </td>
 </tr>
