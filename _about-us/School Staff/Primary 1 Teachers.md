@@ -12,7 +12,8 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Catherine Arumugam</p>
+<p><a href="a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
+</p>
 </td>
 </tr>
 <tr>
