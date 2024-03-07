@@ -29,7 +29,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ong_ve_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Charn&nbsp;Ve'&nbsp;Joy</a> 
-<br><a href="foo_kwee_joo_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Bernard&nbsp;Foo</a>
+<br><a href="foo_kwee_joo_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Bernard&nbsp;Foo</a> 
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Ang</a>
 </p>
 </td>
@@ -39,9 +39,10 @@ variant: tiptap
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng-Low Yin Siang&nbsp;
-<br>Mdm&nbsp;Jaseela&nbsp;Ameen
-<br>Mdm Jackie Ng</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Low Yin Siang</a>&nbsp;
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaseela Ameen</a>
+<br><a href="ng_siew_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jackie Ng</a>
+</p>
 </td>
 </tr>
 <tr>
