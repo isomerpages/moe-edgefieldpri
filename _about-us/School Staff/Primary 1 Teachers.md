@@ -12,8 +12,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
-</p>
+<p>Mrs Catherine Arumugam</p>
 </td>
 </tr>
 <tr>
@@ -21,8 +20,7 @@ variant: tiptap
 <p>Assist. Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
-</p>
+<p>Mr Mike Ng</p>
 </td>
 </tr>
 <tr>
@@ -30,8 +28,7 @@ variant: tiptap
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Charn&nbsp;Ve'&nbsp;Joy</a>
-</p>
+<p>Mrs Charn&nbsp;Ve'&nbsp;Joy</p>
 <p></p>
 <p>Mrs Charn&nbsp;Ve'&nbsp;Joy
 <br>Ms Winnie Ang
