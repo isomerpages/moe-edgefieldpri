@@ -74,9 +74,10 @@ variant: tiptap
 <p>1 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Pang&nbsp;Xiao Yan</a>
-<br>Mrs Pauline Leong
-<br>Mdm&nbsp;Noorhaizah Rahim</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Pang&nbsp;Xiao Yan</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a> 
+<br>
+</p>
 </td>
 </tr>
 <tr>
