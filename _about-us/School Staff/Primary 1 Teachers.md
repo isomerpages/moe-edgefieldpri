@@ -31,10 +31,6 @@ variant: tiptap
 <p>Mrs Charn&nbsp;Ve'&nbsp;Joy</p>
 <p>Ms Winnie Ang</p>
 <p>Mr&nbsp;Bernard&nbsp;Foo</p>
-<p>Mrs Charn&nbsp;Ve'&nbsp;Joy
-<br>Ms Winnie Ang
-<br>
-</p>
 </td>
 </tr>
 <tr>
