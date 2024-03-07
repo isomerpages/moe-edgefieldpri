@@ -52,7 +52,7 @@ variant: tiptap
 <p>1 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
+<p><a href="ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a> 
 <br><a href="zahidah_mohamed_nizar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahidah Nizar</a> 
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Tan Shu Ling</a>
 </p>
