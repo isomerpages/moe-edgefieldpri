@@ -21,7 +21,8 @@ variant: tiptap
 <p>Assist. Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mike Ng</p>
+<p><a href="ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
+</p>
 </td>
 </tr>
 <tr>
