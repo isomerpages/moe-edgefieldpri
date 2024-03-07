@@ -28,9 +28,9 @@ variant: tiptap
 <p>1 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Charn&nbsp;Ve'&nbsp;Joy</p>
-<p>Ms Winnie Ang</p>
-<p>Mr&nbsp;Bernard&nbsp;Foo</p>
+<p>Mrs Charn&nbsp;Ve'&nbsp;Joy
+<br>
+</p>
 </td>
 </tr>
 <tr>
