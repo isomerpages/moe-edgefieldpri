@@ -97,7 +97,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="catherine_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Catherine Lee</a> 
-<br><a href="chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Chia&nbsp;Peishan</a>
+<br><a href="chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Chia&nbsp;Peishan</a> 
 <br><a href="phoon_peng_yim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Phoon Peng Yim</a>
 </p>
 </td>
