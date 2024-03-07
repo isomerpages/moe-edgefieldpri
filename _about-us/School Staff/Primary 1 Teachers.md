@@ -29,10 +29,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Charn&nbsp;Ve'&nbsp;Joy</p>
-<p></p>
+<p>Ms Winnie Ang</p>
+<p>Mr&nbsp;Bernard&nbsp;Foo</p>
 <p>Mrs Charn&nbsp;Ve'&nbsp;Joy
 <br>Ms Winnie Ang
-<br>Mr&nbsp;Bernard&nbsp;Foo</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
