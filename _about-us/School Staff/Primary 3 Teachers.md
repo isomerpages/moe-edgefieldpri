@@ -50,8 +50,9 @@ variant: tiptap
 <p>3 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Gene&nbsp;Lim
-<br>Mdm&nbsp;Salimah</p>
+<p><a href="lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Gene&nbsp;Lim</a> 
+<br><a href="salimah_mohd_haniffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Salimah</a>
+</p>
 </td>
 </tr>
 <tr>
