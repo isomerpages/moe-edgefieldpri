@@ -30,7 +30,7 @@ variant: tiptap
 <p>3 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Patrick&nbsp;Shiu</a> 
+<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Patrick&nbsp;Shiu</a> 
 <br><a href="teo_suat_ching_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Cindy&nbsp;Tan</a>
 </p>
 </td>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wong_wing_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Terence Wong</a>
+<p><a href="wong_wing_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Terence Wong</a> 
 <br><a href="zahira_begum_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zahira&nbsp;Begum Abdul Rahman</a>
 </p>
 </td>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sim_kok_hong_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Eugene&nbsp;Sim</a>
+<p><a href="sim_kok_hong_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Eugene&nbsp;Sim</a> 
 <br><a href="nur_ yanty_jumali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur&nbsp;Yanty&nbsp;Jumali</a>
 </p>
 </td>
@@ -80,8 +80,8 @@ variant: tiptap
 <p>3 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Vairavan&nbsp;Chettiar</a>
-<br><a href="feng_yingni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Feng Yingni</a>
+<p><a href="vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Vairavan&nbsp;Chettiar</a> 
+<br><a href="feng_yingni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Feng Yingni</a> 
 <br><a href="khairiyanie_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Khairiyanie</a>
 </p>
 </td>
