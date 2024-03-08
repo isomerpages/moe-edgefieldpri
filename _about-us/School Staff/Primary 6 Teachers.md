@@ -73,7 +73,7 @@ variant: tiptap
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Asri - Tan&nbsp;Pin Pin</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Asri - Tan&nbsp;Pin Pin</a> 
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Rafeyah</a> 
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Khairul Lizan</a>
 </p>
@@ -95,9 +95,9 @@ variant: tiptap
 <p>6 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Juliana&nbsp;Ng</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Edmund&nbsp;Lee</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jasmin&nbsp;Quek</a>
+<p><a href="juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Juliana&nbsp;Ng</a> 
+<br><a href="lee_jianfeng_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Edmund&nbsp;Lee</a> 
+<br><a href="quek_kah_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jasmin&nbsp;Quek</a>
 </p>
 </td>
 </tr>
