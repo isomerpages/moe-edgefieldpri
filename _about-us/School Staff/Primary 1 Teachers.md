@@ -42,8 +42,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="low_yin_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Low Yin Siang</a> 
-<br><a href="jaseela_mohamed_noorul_ameen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jaseela&nbsp;Ameen</a>
+<br><a href="jaseela_mohamed_noorul_ameen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jaseela&nbsp;Ameen</a> 
 <br><a href="ng_siew_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jackie Ng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
+<br><a href="zahidah_mohamed_nizar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahidah Nizar</a>
+<br><a href="tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shuling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
