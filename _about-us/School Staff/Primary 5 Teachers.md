@@ -76,9 +76,10 @@ variant: tiptap
 <p>5 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Steven Yeo
-<br>Mdm Pauline
-<br>Mdm Lee Xin Yi</p>
+<p><a href="yeo_poh_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Steven Yeo</a>
+<br><a href="paul_pouline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline</a> 
+<br><a href="lee_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Xin Yi</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
