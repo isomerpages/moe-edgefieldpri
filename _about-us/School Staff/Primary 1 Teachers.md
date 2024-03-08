@@ -71,12 +71,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="pang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Pang&nbsp;Xiao Yan</a>
+<br><a href="ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a>
+<br><a href="noorhaizah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhaizah Rahim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee&nbsp;Mei Ling</a>
-<br><a href="sum_yoong_lee_matthew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Matthew&nbsp;Sum</a>
+<p><a href="lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee&nbsp;Mei Ling</a> 
+<br><a href="sum_yoong_lee_matthew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Matthew&nbsp;Sum</a> 
 <br><a href="wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Wirziana&nbsp;Wahab</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Wisdom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="catherine_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Lee</a>
+<br><a href="chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Chia Peishan</a>
 </p>
 </td>
 </tr>
