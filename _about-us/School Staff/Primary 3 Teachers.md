@@ -12,7 +12,8 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vairavan Chettiar</p>
+<p><a href="vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Chettiar</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -20,7 +21,8 @@ variant: tiptap
 <p>Assist. Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pratibha Rai</p>
+<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -28,8 +30,9 @@ variant: tiptap
 <p>3 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Patrick&nbsp;Shiu
-<br>Mrs&nbsp;Cindy&nbsp;Tan</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Patrick&nbsp;Shiu</a> 
+<br><a href="teo_suat_ching_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Cindy&nbsp;Tan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -37,8 +40,9 @@ variant: tiptap
 <p>3 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Melissa Yip
-<br>Mr Shamsuddin</p>
+<p><a href="yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Melissa Yip</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Shamsuddin</a>
+</p>
 </td>
 </tr>
 <tr>
