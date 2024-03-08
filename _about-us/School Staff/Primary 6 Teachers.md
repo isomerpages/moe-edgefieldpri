@@ -12,7 +12,8 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alfiah&nbsp;Bte Md Yusoff</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah&nbsp;Bte Md Yusoff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -20,7 +21,8 @@ variant: tiptap
 <p>Assistant Year Head (P6) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Parameswari</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Parameswari</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -28,9 +30,10 @@ variant: tiptap
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Koh Lay&nbsp;Kuan
-<br>Norman&nbsp;Selvaraju
-<br>Mdm&nbsp;Ham&nbsp;Choi Keng</p>
+<p><a href="koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Koh Lay&nbsp;Kuan</a> 
+<br><a href="norman_selvaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Norman&nbsp;Selvaraju</a> 
+<br><a href="ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Ham&nbsp;Choi Keng</a>
+</p>
 </td>
 </tr>
 <tr>
