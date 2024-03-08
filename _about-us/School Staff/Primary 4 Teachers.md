@@ -12,7 +12,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Chettiar</a>
+<p><a href="mailto:vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Chettiar</a>
 </p>
 </td>
 </tr>
@@ -21,7 +21,7 @@ variant: tiptap
 <p>Assist. Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
 </p>
 </td>
 </tr>
@@ -30,8 +30,8 @@ variant: tiptap
 <p>4 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fauziah&nbsp;Mas'od</a> 
-<br><a href="tay_ru_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Tay Ru Jun</a>
+<p><a href="mailto:fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fauziah&nbsp;Mas'od</a> 
+<br><a href="mailto:tay_ru_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Tay Ru Jun</a>
 </p>
 </td>
 </tr>
@@ -40,8 +40,8 @@ variant: tiptap
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="duane_chan_xin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Duane&nbsp;Chan</a> 
-<br><a href="fu_dong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fu Dong</a> 
+<p><a href="mailto:duane_chan_xin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Duane&nbsp;Chan</a> 
+<br><a href="mailto:fu_dong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fu Dong</a> 
 <br>
 </p>
 </td>
@@ -51,8 +51,8 @@ variant: tiptap
 <p>4 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Esthelle&nbsp;Ang</a> 
-<br><a href="idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Idayu&nbsp;Dewi</a>
+<p><a href="mailto:ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Esthelle&nbsp;Ang</a> 
+<br><a href="mailto:idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Idayu&nbsp;Dewi</a>
 </p>
 </td>
 </tr>
@@ -61,9 +61,9 @@ variant: tiptap
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeen</a> 
-<br><a href="hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Eunos</a> 
-<br><a href="zhang_fulei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zhang Fu Lei</a>
+<p><a href="mailto:shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeen</a> 
+<br><a href="mailto:hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Eunos</a> 
+<br><a href="mailto:zhang_fulei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zhang Fu Lei</a>
 </p>
 </td>
 </tr>
@@ -72,8 +72,8 @@ variant: tiptap
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chin_singloong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis&nbsp;Chin</a> 
-<br><a href="julieana_razek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliena Razek</a>
+<p><a href="mailto:chin_singloong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis&nbsp;Chin</a> 
+<br><a href="mailto:julieana_razek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliena Razek</a>
 </p>
 </td>
 </tr>
@@ -82,8 +82,8 @@ variant: tiptap
 <p>4 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Pratibha&nbsp;Rai</a> 
-<br><a href="ho_keng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Ho Keng Huat</a>
+<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Pratibha&nbsp;Rai</a> 
+<br><a href="mailto:ho_keng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Ho Keng Huat</a>
 </p>
 </td>
 </tr>
