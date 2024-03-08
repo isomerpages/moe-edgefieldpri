@@ -85,7 +85,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessie Yeo</a> 
-<br><a href="euk_shin_james_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;James Ling</a>
+<br><a href="euk_shin_james_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;James Ling</a> 
 <br><a href="lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Esther Lee</a>
 </p>
 </td>
@@ -95,9 +95,10 @@ variant: tiptap
 <p>2 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Lim Gui Hao
-<br>Mdm Loo Kum Yok
-<br>Mrs Catherine Arumugam</p>
+<p><a href="lim_gui_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Lim Gui Hao</a>
+<br><a href="loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loo Kum Yok</a> 
+<br><a href="a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
+</p>
 </td>
 </tr>
 <tr>
