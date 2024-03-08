@@ -63,7 +63,7 @@ variant: tiptap
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_lee_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Lim Lee Nah</a>
+<p><a href="lim_lee_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Lim Lee Nah</a> 
 <br><a href="joyce_choo_lay_yien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Joyce Choo</a>
 </p>
 </td>
@@ -73,10 +73,10 @@ variant: tiptap
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Manju&nbsp;Manoj
-<br>Mdm&nbsp;Doreen&nbsp;Low
-<br>Mdm&nbsp;Jessica&nbsp;Chew</p>
-<p></p>
+<p><a href="manoj_kumar_gupta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Manju&nbsp;Manoj</a>
+<br><a href="low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Doreen&nbsp;Low</a> 
+<br><a href="chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessica&nbsp;Chew</a>
+</p>
 </td>
 </tr>
 <tr>
