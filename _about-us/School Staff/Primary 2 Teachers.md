@@ -31,7 +31,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi</a> 
-<br><a href="ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Ruzanna&nbsp;Supar</a>
+<br><a href="ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Ruzanna&nbsp;Supar</a> 
 <br><a href="tan_hwee_khoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Hwee Khoon</a>
 </p>
 </td>
@@ -52,9 +52,10 @@ variant: tiptap
 <p>2 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Adeline&nbsp;Chew
-<br>Mr David Ng
-<br>Mdm&nbsp;Nurafizah&nbsp;Othman</p>
+<p><a href="chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Adeline&nbsp;Chew</a>
+<br><a href="ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Ng</a>
+<br><a href="nurafizah_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Nurafizah&nbsp;Othman</a>
+</p>
 </td>
 </tr>
 <tr>
