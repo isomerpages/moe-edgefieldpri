@@ -73,9 +73,9 @@ variant: tiptap
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Asri - Tan&nbsp;Pin Pin</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Rafeyah</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Khairul Lizan</a>
+<p><a href="tan_pin_pin_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Asri - Tan&nbsp;Pin Pin</a> 
+<br><a href="rafeyah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Rafeyah</a> 
+<br><a href="khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Khairul Lizan</a>
 </p>
 </td>
 </tr>
@@ -84,9 +84,9 @@ variant: tiptap
 <p>6 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Parameswari</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor&nbsp;Ellynda</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Wu&nbsp;Ming&nbsp;Che</a>
+<p><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Parameswari</a> 
+<br><a href="noor_ellynda_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor&nbsp;Ellynda</a> 
+<br><a href="wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu&nbsp;Ming&nbsp;Che</a>
 </p>
 </td>
 </tr>
