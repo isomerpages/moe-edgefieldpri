@@ -63,9 +63,9 @@ variant: tiptap
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wee</a>
-<br><a href="loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi&nbsp;Wei Ling</a>
-<br>
+<p><a href="wulandari_sukma_muhammad_rahiman_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wee</a> 
+<br><a href="loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi&nbsp;Wei Ling</a> 
+<br><a href="yong_jia_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Yong Jia Fang</a>
 </p>
 </td>
 </tr>
