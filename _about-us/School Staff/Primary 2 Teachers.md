@@ -106,7 +106,7 @@ variant: tiptap
 <p>2 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sarina_shariman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a>
+<p><a href="sarina_shariman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a> 
 <br><a href="koo_siew_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koo Siew Ping</a>
 </p>
 </td>
