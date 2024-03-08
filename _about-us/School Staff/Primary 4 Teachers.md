@@ -30,7 +30,7 @@ variant: tiptap
 <p>4 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fauziah&nbsp;Mas'od</a>
+<p><a href="fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fauziah&nbsp;Mas'od</a> 
 <br><a href="tay_ru_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Tay Ru Jun</a>
 </p>
 </td>
@@ -40,8 +40,8 @@ variant: tiptap
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Duane&nbsp;Chan
-<br>Mdm&nbsp;Fu Dong
+<p><a href="duane_chan_xin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Duane&nbsp;Chan</a> 
+<br><a href="fu_dong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fu Dong</a>
 <br>
 </p>
 </td>
