@@ -52,8 +52,8 @@ variant: tiptap
 <p>2 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Adeline&nbsp;Chew</a>
-<br><a href="ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Ng</a>
+<p><a href="chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Adeline&nbsp;Chew</a> 
+<br><a href="ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Ng</a> 
 <br><a href="nurafizah_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Nurafizah&nbsp;Othman</a>
 </p>
 </td>
@@ -63,9 +63,9 @@ variant: tiptap
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Lim Lee Nah
-<br>Mdm&nbsp;Joyce Choo&nbsp;
-<br>Mdm&nbsp;Asimah&nbsp;Aziz</p>
+<p><a href="lim_lee_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Lim Lee Nah</a>
+<br><a href="joyce_choo_lay_yien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Joyce Choo</a>
+</p>
 </td>
 </tr>
 <tr>
