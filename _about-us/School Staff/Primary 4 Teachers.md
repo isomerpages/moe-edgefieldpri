@@ -51,7 +51,7 @@ variant: tiptap
 <p>4 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Esthelle&nbsp;Ang</a>
+<p><a href="ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Esthelle&nbsp;Ang</a> 
 <br><a href="idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Idayu&nbsp;Dewi</a>
 </p>
 </td>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeen</a>
+<p><a href="shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeen</a> 
 <br><a href="hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Eunos</a> 
 <br><a href="zhang_fulei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zhang Fu Lei</a>
 </p>
@@ -72,8 +72,9 @@ variant: tiptap
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Denis&nbsp;Chin
-<br>Mdm Juliena Razek</p>
+<p><a href="chin_singloong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis&nbsp;Chin</a> 
+<br><a href="julieana_razek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliena Razek</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,8 +82,9 @@ variant: tiptap
 <p>4 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Pratibha&nbsp;Rai
-<br>Mr&nbsp;Ho Keng Huat</p>
+<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Pratibha&nbsp;Rai</a> 
+<br><a href="ho_keng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Ho Keng Huat</a>
+</p>
 </td>
 </tr>
 </tbody>
