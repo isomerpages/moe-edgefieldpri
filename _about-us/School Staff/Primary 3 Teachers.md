@@ -60,8 +60,9 @@ variant: tiptap
 <p>3 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Terence Wong
-<br>Mdm&nbsp;Zahira&nbsp;Begum Abdul Rahman</p>
+<p><a href="wong_wing_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Terence Wong</a>
+<br><a href="zahira_begum_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zahira&nbsp;Begum Abdul Rahman</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +70,9 @@ variant: tiptap
 <p>3 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Eugene&nbsp;Sim
-<br>Mdm Nur&nbsp;Yanty&nbsp;Jumali</p>
+<p><a href="sim_kok_hong_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Eugene&nbsp;Sim</a>
+<br><a href="nur_ yanty_jumali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur&nbsp;Yanty&nbsp;Jumali</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -78,9 +80,10 @@ variant: tiptap
 <p>3 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Vairavan&nbsp;Chettiar
-<br>Ms Feng Yingni
-<br>Mdm Khairiyanie</p>
+<p><a href="vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Vairavan&nbsp;Chettiar</a>
+<br><a href="feng_yingni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Feng Yingni</a>
+<br><a href="khairiyanie_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Khairiyanie</a>
+</p>
 </td>
 </tr>
 </tbody>
