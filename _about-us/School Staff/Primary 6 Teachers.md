@@ -41,9 +41,10 @@ variant: tiptap
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh&nbsp;Andrea
-<br>Mr&nbsp;Terence&nbsp;Teng
-<br>Mdm&nbsp;Noorhaizah</p>
+<p><a href="koh_siew_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koh&nbsp;Andrea</a> 
+<br><a href="teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Terence&nbsp;Teng</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhaizah</a>
+</p>
 </td>
 </tr>
 <tr>
