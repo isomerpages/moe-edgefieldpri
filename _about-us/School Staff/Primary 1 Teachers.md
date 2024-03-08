@@ -42,10 +42,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="low_yin_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Low Yin Siang</a>
-</p>
-<p><a href="jaseela_mohamed_noorul_ameen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaseela Ameen</a>
-</p>
-<p><a href="ng_siew_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jackie Ng</a>
+<br><a href="jaseela_mohamed_noorul_ameen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jaseela&nbsp;Ameen</a> 
 </p>
 </td>
 </tr>
