@@ -41,7 +41,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="duane_chan_xin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Duane&nbsp;Chan</a> 
-<br><a href="fu_dong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fu Dong</a>
+<br><a href="fu_dong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fu Dong</a> 
 <br>
 </p>
 </td>
@@ -51,8 +51,9 @@ variant: tiptap
 <p>4 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Esthelle&nbsp;Ang
-<br>Mdm&nbsp;Idayu&nbsp;Dewi</p>
+<p><a href="ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Esthelle&nbsp;Ang</a>
+<br><a href="idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Idayu&nbsp;Dewi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -60,9 +61,10 @@ variant: tiptap
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Safi Shirbeen
-<br>Mr Hendratno Eunos
-<br>Mdm&nbsp;Zhang Fu Lei</p>
+<p><a href="shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeen</a>
+<br><a href="hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Eunos</a> 
+<br><a href="zhang_fulei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zhang Fu Lei</a>
+</p>
 </td>
 </tr>
 <tr>
