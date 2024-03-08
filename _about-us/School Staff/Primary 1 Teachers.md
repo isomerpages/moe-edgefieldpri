@@ -12,7 +12,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
+<p><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
 </p>
 </td>
 </tr>
@@ -74,8 +74,8 @@ variant: tiptap
 <p>1 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="pang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Pang&nbsp;Xiao Yan</a>
-<br><a href="ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a>
+<p><a href="pang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Pang&nbsp;Xiao Yan</a> 
+<br><a href="ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a> 
 <br><a href="noorhaizah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhaizah Rahim</a>
 </p>
 </td>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>1 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="catherine_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Lee</a>
+<p><a href="catherine_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Lee</a> 
 <br><a href="chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ong-Chia Peishan</a>
 </p>
 </td>
