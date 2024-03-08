@@ -30,7 +30,7 @@ variant: tiptap
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aw&nbsp;Pei Shi
+<p><a href="aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi</a>
 <br>Mdm&nbsp;Ruzanna&nbsp;Supar
 <br>Ms Tan Hwee Khoon</p>
 </td>
