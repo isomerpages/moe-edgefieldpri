@@ -21,8 +21,8 @@ variant: tiptap
 <p>5 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="suhaila_mohd_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Suhaila&nbsp;Mohd Taib</a>
-<br><a href="chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Wei</a>
+<p><a href="suhaila_mohd_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Suhaila&nbsp;Mohd Taib</a> 
+<br><a href="chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Wei</a> 
 <br><a href="koh_minmin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Angela&nbsp;Koh</a>
 </p>
 </td>
@@ -32,8 +32,8 @@ variant: tiptap
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Raymond Quake</a>
-<br><a href="azlin_mustaffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Azlin&nbsp;Mustaffa</a>
+<p><a href="quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Raymond Quake</a> 
+<br><a href="azlin_mustaffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Azlin&nbsp;Mustaffa</a> 
 <br><a href="ling_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ling Yuan</a>
 </p>
 </td>
@@ -43,9 +43,10 @@ variant: tiptap
 <p>5 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Alfiah&nbsp;Bte Md Yusoff
-<br>Ms&nbsp;Judith&nbsp;Goh
-<br>Mr&nbsp;Tam&nbsp;Joon Chze</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Alfiah&nbsp;Bte Md Yusoff</a>
+<br><a href="goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Judith&nbsp;Goh</a> 
+<br><a href="tam_joon_chze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Tam&nbsp;Joon Chze</a>
+</p>
 </td>
 </tr>
 <tr>
