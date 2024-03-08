@@ -52,9 +52,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
-<br><a href="zahidah_mohamed_nizar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahidah Nizar</a>
-<br><a href="tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shuling@moe.edu.sg</a>
+<p><a href="ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a> 
+<br><a href="zahidah_mohamed_nizar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahidah Nizar</a> 
+<br><a href="tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Tan Shu Ling</a>
 </p>
 </td>
 </tr>
