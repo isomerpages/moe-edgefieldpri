@@ -5,4 +5,88 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<table><tbody><tr><td rowspan="1" colspan="1"><p>Year Head</p></td><td rowspan="1" colspan="1"><p>Mr Vairavan Chettiar</p></td><td rowspan="1" colspan="1"><p>vairavan_uthaman@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Assist. Year Head</p></td><td rowspan="1" colspan="1"><p>Mdm Pratibha Rai</p></td><td rowspan="1" colspan="1"><p>pratibha_rai_matuk_rai@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Charity</p></td><td rowspan="1" colspan="1"><p>Mdm&nbsp;Fauziah&nbsp;Mas'od<br>Ms&nbsp;Tay Ru Jun</p></td><td rowspan="1" colspan="1"><p>fauziah_masod@moe.edu.sg<br>tay_ru_jun@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Faith</p></td><td rowspan="1" colspan="1"><p>Mr&nbsp;Duane&nbsp;Chan<br>Mdm&nbsp;Fu Dong<br></p></td><td rowspan="1" colspan="1"><p>duane_chan_xin_jie@moe.edu.sg<br>fu_dong@moe.edu.sg<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Grace</p></td><td rowspan="1" colspan="1"><p>Mdm&nbsp;Esthelle&nbsp;Ang<br>Mdm&nbsp;Idayu&nbsp;Dewi</p></td><td rowspan="1" colspan="1"><p>ang_mui_mui_esthelle@moe.edu.sg<br>idayu_dewi_bt_juwari@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Hope</p></td><td rowspan="1" colspan="1"><p>Mrs Safi Shirbeen<br>Mr Hendratno Eunos<br>Mdm&nbsp;Zhang Fu Lei</p></td><td rowspan="1" colspan="1"><p>shamsulbadariah_hussein@moe.edu.sg<br>hendratno_b_mohamed_eunos@moe.edu.sg<br>zhang_fulei@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Joy</p></td><td rowspan="1" colspan="1"><p>Mr Denis&nbsp;Chin<br>Mdm Juliena Razek</p></td><td rowspan="1" colspan="1"><p>chin_singloong@moe.edu.sg<br>julieana_razek@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Wisdom</p></td><td rowspan="1" colspan="1"><p>Mdm&nbsp;Pratibha&nbsp;Rai<br>Mr&nbsp;Ho Keng Huat</p></td><td rowspan="1" colspan="1"><p>pratibha_rai_matuk_rai@moe.edu.sg<br>ho_keng_huat@moe.edu.sg</p></td></tr></tbody></table><p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Chettiar</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assist. Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Charity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fauziah&nbsp;Mas'od</a> 
+<br><a href="tay_ru_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Tay Ru Jun</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Faith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="duane_chan_xin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Duane&nbsp;Chan</a> 
+<br><a href="fu_dong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Fu Dong</a> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Esthelle&nbsp;Ang</a> 
+<br><a href="idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Idayu&nbsp;Dewi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Hope</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeen</a> 
+<br><a href="hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Eunos</a> 
+<br><a href="zhang_fulei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zhang Fu Lei</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Joy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chin_singloong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis&nbsp;Chin</a> 
+<br><a href="julieana_razek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Juliena Razek</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Wisdom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Pratibha&nbsp;Rai</a> 
+<br><a href="ho_keng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Ho Keng Huat</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
