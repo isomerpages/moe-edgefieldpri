@@ -73,7 +73,7 @@ variant: tiptap
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="manoj_kumar_gupta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Manju&nbsp;Manoj</a>
+<p><a href="manoj_kumar_gupta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Manju&nbsp;Manoj</a> 
 <br><a href="low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Doreen&nbsp;Low</a> 
 <br><a href="chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessica&nbsp;Chew</a>
 </p>
@@ -84,9 +84,10 @@ variant: tiptap
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Jessie Yeo
-<br>Mr&nbsp;James Ling
-<br>Ms&nbsp;Esther Lee</p>
+<p><a href="jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessie Yeo</a> 
+<br><a href="euk_shin_james_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;James Ling</a>
+<br><a href="lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Esther Lee</a>
+</p>
 </td>
 </tr>
 <tr>
