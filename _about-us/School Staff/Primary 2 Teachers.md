@@ -30,9 +30,10 @@ variant: tiptap
 <p>2 Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi</a>
-<br>Mdm&nbsp;Ruzanna&nbsp;Supar
-<br>Ms Tan Hwee Khoon</p>
+<p><a href="aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi</a> 
+<br><a href="ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Ruzanna&nbsp;Supar</a>
+<br><a href="tan_hwee_khoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Hwee Khoon</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,9 +41,10 @@ variant: tiptap
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Benazir&nbsp;Begam
-<br>Ms Janice Cai
-<br>Mdm&nbsp;Louisa Koh</p>
+<p><a href="benazir_begam_samusu_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Benazir Begam</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms Janice Cai</a> 
+<br><a href="koh_kim_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Louisa Koh</a>
+</p>
 </td>
 </tr>
 <tr>
