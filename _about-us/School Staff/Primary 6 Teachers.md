@@ -43,7 +43,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="koh_siew_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koh&nbsp;Andrea</a> 
 <br><a href="teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Terence&nbsp;Teng</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhaizah</a>
+<br><a href="noorhaizah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhaizah</a>
 </p>
 </td>
 </tr>
@@ -52,9 +52,10 @@ variant: tiptap
 <p>6 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Crystal&nbsp;Koh
-<br>Mdm&nbsp;Illi&nbsp;Sakinah
-<br>Mdm&nbsp;Deepa&nbsp;Mahalingam</p>
+<p><a href="koh_hui_ting_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Crystal&nbsp;Koh</a> 
+<br><a href="ili_sakinah_sarwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Illi&nbsp;Sakinah</a> 
+<br><a href="deepa_k_mahalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Deepa&nbsp;Mahalingam</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -62,9 +63,9 @@ variant: tiptap
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti&nbsp;Hajar
-<br>Mrs&nbsp;Yvonne&nbsp;Lim
-<br>Mdm&nbsp;Shanti&nbsp;</p>
+<p><a href="siti_hajar_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti&nbsp;Hajar</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Yvonne&nbsp;Lim</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Shanti</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -72,9 +73,10 @@ variant: tiptap
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Asri - Tan&nbsp;Pin Pin
-<br>Mdm&nbsp;Rafeyah
-<br>Mr&nbsp;Khairul Lizan</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Asri - Tan&nbsp;Pin Pin</a>
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Rafeyah</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Khairul Lizan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,9 +84,10 @@ variant: tiptap
 <p>6 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Parameswari
-<br>Mdm Nor&nbsp;Ellynda
-<br>Mr Wu&nbsp;Ming&nbsp;Che</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Parameswari</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor&nbsp;Ellynda</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Wu&nbsp;Ming&nbsp;Che</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,9 +95,10 @@ variant: tiptap
 <p>6 Patience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Juliana&nbsp;Ng
-<br>Mr&nbsp;Edmund&nbsp;Lee
-<br>Mdm&nbsp;Jasmin&nbsp;Quek</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Juliana&nbsp;Ng</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Edmund&nbsp;Lee</a> 
+<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jasmin&nbsp;Quek</a>
+</p>
 </td>
 </tr>
 </tbody>
