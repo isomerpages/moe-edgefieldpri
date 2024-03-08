@@ -64,8 +64,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="siti_hajar_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti&nbsp;Hajar</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Yvonne&nbsp;Lim</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Shanti</a>&nbsp;</p>
+<br><a href="lim_keok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Yvonne&nbsp;Lim</a> 
+<br><a href="shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Shanti</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
