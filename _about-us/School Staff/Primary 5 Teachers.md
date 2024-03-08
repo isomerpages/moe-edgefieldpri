@@ -54,9 +54,10 @@ variant: tiptap
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Debbie&nbsp;See
-<br>Mr Muhammad&nbsp;Azhari
-<br>Mr&nbsp;Fedly&nbsp;Sulaiman</p>
+<p><a href="see_seow_ping_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Debbie&nbsp;See</a>
+<br><a href="muhammad_azhari_shahri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad&nbsp;Azhari</a>
+<br><a href="mohammad_fedly_b_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Fedly&nbsp;Sulaiman</a>
+</p>
 </td>
 </tr>
 <tr>
