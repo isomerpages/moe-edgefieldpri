@@ -208,7 +208,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pratibha Rai</p>
+<p><a href="vairavan_uthaman_chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +218,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alfiah Bte Md Yusoff</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah Bte Md Yusoff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +228,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Lizan Ahmadjirony</p>
+<p><a href="khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairul Lizan Ahmadjirony</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -240,7 +243,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Steven Yeo</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Steven Yeo</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -391,6 +395,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low</a>
+<p><a href="low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low</a> 
 <a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
 </p>
