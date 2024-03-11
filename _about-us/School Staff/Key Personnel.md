@@ -305,7 +305,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Eugene Sim
+<p><a href="sim_kok_hong_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Eugene Sim</a> 
 <br>
 </p>
 </td>
