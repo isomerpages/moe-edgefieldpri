@@ -373,7 +373,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Executive Admin Staff</h3>
+<h2>Executive Admin Staff</h2>
 <table>
 <tbody>
 <tr>
