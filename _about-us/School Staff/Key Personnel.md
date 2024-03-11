@@ -254,7 +254,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Jessica Lim
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Jessica Lim</a> 
 <br>
 </p>
 </td>
@@ -265,7 +265,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ling Yuan</p>
+<p><a href="ling_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ling Yuan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +275,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shanti Moorthy</p>
+<p><a href="shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shanti Moorthy</a>
+</p>
 </td>
 </tr>
 <tr>
