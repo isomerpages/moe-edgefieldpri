@@ -97,7 +97,7 @@ variant: tiptap
 <p><strong>LH Chinese</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu Ling&nbsp;</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shu Ling</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wirziana Abdul Wahab</p>
+<p><a href="wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +116,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Lee Mei Ling
+<p><a href="lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee Mei Ling</a> 
 <br>
 </p>
 </td>
@@ -126,7 +127,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Muhammad Azhari</p>
+<p><a href="muhammad_azhari_shahri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Muhammad Azhari</a>
+</p>
 </td>
 </tr>
 <tr>
