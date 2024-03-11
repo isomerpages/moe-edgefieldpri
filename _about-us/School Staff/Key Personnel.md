@@ -198,7 +198,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vairavan Uthaman Chettiar</p>
+<p><a href="ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
+</p>
 </td>
 </tr>
 <tr>
