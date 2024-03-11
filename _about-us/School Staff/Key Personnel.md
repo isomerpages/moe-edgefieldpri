@@ -78,9 +78,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Teng
-<br>
-</p>
+<p>Mr Terence Teng</p>
 </td>
 </tr>
 <tr>
