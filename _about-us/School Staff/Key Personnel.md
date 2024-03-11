@@ -15,7 +15,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsinah Suadi&nbsp;</p>
+<p><a href="norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsinah Suadi</a>
+</p>
 </td>
 </tr>
 <tr>
