@@ -368,37 +368,45 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Executive Admin Staff</h2>
+<h3>Executive Admin Staff</h3>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Manager</strong>
+<p><strong>Administrative Manager&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shirley Koh</p>
+<p><a href="mailto:shirley_koh-tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shirley Koh</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager<br></strong>
-</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Linda Koh</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Linda Koh</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager</strong>&nbsp;</p>
+<p>Operations Manager&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr David Chua</p>
+<p><a href="chua_chiew_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Chua</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><a href="low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low</a> 
-<a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
-</p>
+<p></p>
