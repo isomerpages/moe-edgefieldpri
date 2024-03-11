@@ -336,7 +336,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Lee</p>
+<p><a href="lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Esther Lee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -345,7 +346,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Safi Shirbeeni</p>
+<p><a href="shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeeni</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +356,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng-Low Yin Siang</p>
+<p><a href="low_yin_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Low Yin Siang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -399,14 +402,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="chua_chiew_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Chua</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
