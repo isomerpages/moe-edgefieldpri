@@ -295,7 +295,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tam Joon Chze</p>
+<p><a href="tam_joon_chze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tam Joon Chze</a>
+</p>
 </td>
 </tr>
 <tr>
