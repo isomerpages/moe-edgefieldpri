@@ -188,7 +188,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mike Ng</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
+</p>
 </td>
 </tr>
 <tr>
