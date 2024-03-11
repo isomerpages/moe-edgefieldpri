@@ -25,7 +25,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmin Quek&nbsp;&nbsp;</p>
+<p><a href="quek_kah_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jasmin Quek</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Masod
+<p><a href="fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fauziah Masod</a>
 <br>
 </p>
 </td>
