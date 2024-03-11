@@ -316,7 +316,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ham Choi Keng</p>
+<p><a href="ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ham Choi Keng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -325,7 +326,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yvonne Sim</p>
+<p><a href="lim_keok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yvonne Sim</a>
+</p>
 </td>
 </tr>
 <tr>
