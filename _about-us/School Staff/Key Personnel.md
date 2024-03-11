@@ -68,7 +68,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edmund Lee&nbsp;</p>
+<p><a href="lee_jianfeng_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Lee</a>
+</p>
 </td>
 </tr>
 <tr>
