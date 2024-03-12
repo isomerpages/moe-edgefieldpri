@@ -312,9 +312,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher&nbsp;</strong>
-</p>
-<p><strong>Chinese Language</strong>
+<p><strong>Senior Teacher Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -334,8 +332,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher </strong>
-<br><strong>Chinese Language</strong>
+<p><strong>Senior Teacher Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
