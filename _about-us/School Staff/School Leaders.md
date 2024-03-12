@@ -3,38 +3,42 @@ title: School Leaders
 permalink: /about-us/School-Staff/school-leaders/
 description: ""
 third_nav_title: School Staff
-variant: markdown
+variant: tiptap
 ---
+<p>
 <br>
-<table class="iveo_table ives_tab_simple ive_eobj_left" style="width: 782.4px; height: 115px;">
+</p>
+<table>
 <tbody>
 <tr>
-<th style="width: 217px;">Principal<font color="#444444"></font>
-</th>
-<th style="width: 249px;"><span style="font-weight: normal;">Mdm Rabiathul Bazriya</span>
-</th>
-<th style="width: 316px;"><span style="font-weight: normal;">rabiathul_bazriya@schools.gov.sg</span>
-</th>
-</tr>
-<tr>
-
-</tr>
-<tr>
-<td><b>Vice-Principal</b>
+<td rowspan="1" colspan="1">
+<p><strong>Principal</strong>
+</p>
 </td>
-<td>Ms Shirley Leow
-</td>
-<td>shirley_leow@schools.gov.sg
+<td rowspan="1" colspan="1">
+<p><a href="rabiathul_bazriya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rabiathul Bazriya</a>
+</p>
 </td>
 </tr>
 <tr>
-<td><b>Vice-Principal (Admin)</b>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Principal</strong>
+</p>
 </td>
-<td>Mr Teh Chong Ann&nbsp;
-</td>
-<td>teh_chong_ann@schools.gov.sg
+<td rowspan="1" colspan="1">
+<p><a href="shirley_leow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Leow</a>
+</p>
 </td>
 </tr>
-  
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Principal (Admin)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="teh_chong_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Chong Ann</a>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
