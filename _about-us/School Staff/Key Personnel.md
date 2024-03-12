@@ -198,7 +198,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
+<p><a href="mailto:vairavan_uthaman_chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
 </p>
 </td>
 </tr>
