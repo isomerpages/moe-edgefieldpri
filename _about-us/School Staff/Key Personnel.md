@@ -354,8 +354,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher </strong>
-<br><strong>(Learner Profile - </strong>
-<br><strong>Lower Primary Learner)&nbsp;</strong>
+<br><strong>(Learner Profile - Lower Primary Learner)&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
