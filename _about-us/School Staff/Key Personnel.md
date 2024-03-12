@@ -261,7 +261,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead Teacher&nbsp;Learning Needs</strong>
+<p><strong>Lead Teacher Learning Needs</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,7 +271,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher&nbsp;Tamil Language</strong>
+<p><strong>Senior Teacher Tamil Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,7 +291,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher&nbsp;Chinese Language</strong>
+<p><strong>Senior Teacher Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,7 +312,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher&nbsp;Chinese Language</strong>
+<p><strong>Senior Teacher&nbsp;</strong>
+</p>
+<p><strong>Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,7 +334,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher Chinese Language</strong>
+<p><strong>Senior Teacher </strong>
+<br><strong>Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,7 +345,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher Character &amp; Citizenship Education&nbsp;</strong>
+<p><strong>Senior Teacher Character </strong>
+<br><strong>&amp; Citizenship Education&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -352,7 +356,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Learner Profile - Lower Primary Learner)&nbsp;</strong>
+<p><strong>Senior Teacher </strong>
+<br><strong>(Learner Profile - </strong>
+<br><strong>Lower Primary Learner)&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,7 +368,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher Physical Education&nbsp;</strong>
+<p><strong>Senior Teacher </strong>
+<br><strong>Physical Education&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
