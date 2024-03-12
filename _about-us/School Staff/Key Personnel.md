@@ -391,7 +391,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p><strong>Operations Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_tay_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Linda Koh</a>
@@ -400,7 +401,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager&nbsp;</p>
+<p><strong>Operations Manager&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_chiew_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Chua</a>
