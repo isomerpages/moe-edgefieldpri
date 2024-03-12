@@ -224,7 +224,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH Student Management &amp; Student Leadership</strong>
+<p><strong>SH Student Management &amp;</strong>
+</p>
+<p><strong>Student Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
