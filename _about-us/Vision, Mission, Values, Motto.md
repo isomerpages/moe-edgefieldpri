@@ -4,7 +4,7 @@ permalink: /about-us/vision-mission-values-motto/
 description: ""
 variant: tiptap
 ---
-<h2>Our School Vision</h2>
+<h3>Our School Vision</h3>
 <h3>Lives Empowered, Lives Touched</h3>
 <h2>Our School Mission</h2>
 <h3>To Educate and Nurture the School Community For a Better Singapore</h3>
