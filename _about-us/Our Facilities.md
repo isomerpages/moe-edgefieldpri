@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/school%20facade%20(n).png">
 </div>
-<h2>Special rooms and facilities</h2>
+<h3>Special rooms and facilities</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/special%20rooms%20and%20facilities%201%20(n).png">
 </div>
