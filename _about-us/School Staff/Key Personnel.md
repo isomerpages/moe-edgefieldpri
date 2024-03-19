@@ -10,7 +10,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong> 
+<p>School Staff Developer
 <br>
 </p>
 </td>
@@ -21,8 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Mother Tongue</strong>
-</p>
+<p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_kah_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jasmin Quek</a>
@@ -31,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Science&nbsp;</strong> 
+<p>HOD Science&nbsp;
 <br>
 </p>
 </td>
@@ -43,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD ICT</strong> 
+<p>HOD ICT
 <br>
 </p>
 </td>
@@ -54,8 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Curriculum and Innovation</strong>
-</p>
+<p>HOD Curriculum and<strong> </strong>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gene Lim</a>
@@ -64,8 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Maths</strong>
-</p>
+<p>HOD Maths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jianfeng_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Lee</a>
@@ -74,8 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH Science</strong>
-</p>
+<p>LH Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Teng</a>
@@ -84,8 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH English</strong>
-</p>
+<p>LH English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng</a>
@@ -94,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH Chinese</strong>&nbsp;</p>
+<p>LH Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shu Ling</a>&nbsp;</p>
