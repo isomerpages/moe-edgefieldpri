@@ -4,7 +4,7 @@ permalink: /about-us/our-facilities/
 description: ""
 variant: tiptap
 ---
-<h2>The School Facade</h2>
+<h3>The School Facade</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/school%20facade%20(n).png">
 </div>
