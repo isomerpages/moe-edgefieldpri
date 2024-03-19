@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Teacher Leaders</h2>
+<h3>Teacher Leaders</h3>
 <table>
 <tbody>
 <tr>
@@ -372,7 +372,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Executive Admin Staff</h2>
+<h3>Executive Admin Staff</h3>
 <table>
 <tbody>
 <tr>
