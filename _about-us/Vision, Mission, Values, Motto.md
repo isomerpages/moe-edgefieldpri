@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Our School Vision</h3>
-<h3>Lives Empowered, Lives Touched</h3>
+<p>Lives Empowered, Lives Touched</p>
 <h2>Our School Mission</h2>
 <h3>To Educate and Nurture the School Community For a Better Singapore</h3>
 <h2>Our School Values</h2>
