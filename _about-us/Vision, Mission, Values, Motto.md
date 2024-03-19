@@ -5,10 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Vision</h2>
-<h5><strong>Lives Empowered, Lives Touched</strong></h5>
+<h3>Lives Empowered, Lives Touched</h3>
 <h2>Our School Mission</h2>
-<p><strong>To Educate and Nurture the School Community For a Better Singapore</strong>
-</p>
+<h3>To Educate and Nurture the School Community For a Better Singapore</h3>
 <h2>Our School Values</h2>
 <p><strong>In order to fulfill our School Mission, we have a set of core values to help us achieve our aims. They are:</strong>
 </p>
@@ -30,7 +29,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/edgefield-logo%20.jpeg">
 </div>
-<h4>ENDEAVOUR TO EXCEL&nbsp;</h4>
+<h3>ENDEAVOUR TO EXCEL&nbsp;</h3>
 <p><strong>The logo</strong>&nbsp;depicts the school community endeavouring
 to excel in all aspects of life - academically, socially, morally. The
 logo also depicts the school's theme which is to touch lives and in doing
