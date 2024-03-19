@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<h2>Middle Managers</h2>
+<h3>Middle Managers</h3>
 <table>
 <tbody>
 <tr>
