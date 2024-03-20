@@ -13,7 +13,7 @@ dare.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Makerspace1.png">
 </div>
-<h2>Tiered Approach to Innovating and Problem-Solving</h2>
+<h3>Tiered Approach to Innovating and Problem-Solving</h3>
 <table>
 <tbody>
 <tr>
@@ -75,14 +75,14 @@ dare.</p>
 </tr>
 </tbody>
 </table>
-<h2>The Makerspace @ Library</h2>
+<h3>The Makerspace @ Library</h3>
 <p>This is a physical space for pupils and staff to ideate, tinker with digital
 or physical fabrication tools, and construct objects, creating solutions
 to problems of tomorrow.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1makerspace.jpeg">
 </div>
-<h2>Winners of SHHK National Thinkers Challenge in 2022</h2>
+<h3>Winners of SHHK National Thinkers Challenge in 2022</h3>
 <p><strong>Most Innovative and Creative Award</strong>
 </p>
 <div class="isomer-image-wrapper">
