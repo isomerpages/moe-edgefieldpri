@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Recommended Reading list by NLB</h2>
+<h3>Recommended Reading list by NLB</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a>
@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Dictionary</h2>
+<h3>Dictionary</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="http://www.dictionary.com/" rel="noopener noreferrer nofollow" target="_blank">www.dictionary.com</a>
@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Search Engine for Kids</h2>
+<h3>Search Engine for Kids</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="http://www.askkids.com/" rel="noopener noreferrer nofollow" target="_blank">www.askkids.com</a>
