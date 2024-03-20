@@ -2,10 +2,15 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>Welcome to Edgefield Primary School</h2>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Rabiathul_Bazriya.png">
+</div>
 <p>Happy New Year to everyone.&nbsp; I would like to warmly welcome everyone
 back to school in 2024 and especially our Primary 1 students who have joined
 us this year.&nbsp; It is certainly a new beginning for me as the Principal
