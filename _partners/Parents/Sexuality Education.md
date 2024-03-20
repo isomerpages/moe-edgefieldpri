@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<p><strong>Moe Sexuality Education in Schools</strong>&nbsp;</p>
+<h3><strong>Moe Sexuality Education in Schools</strong>&nbsp;</h3>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 is about enabling students to understand the physiological, social and
 emotional changes they experience as they mature, develop healthy and rewarding
