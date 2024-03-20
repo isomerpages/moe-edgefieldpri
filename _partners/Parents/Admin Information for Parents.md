@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Booklist 2024</h2>
+<h3>Booklist 2024</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/EFPS_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2024</a>
@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Service Providers</h2>
+<h3>Service Providers</h3>
 <p><strong>School Uniform Vendor</strong>&nbsp; &nbsp; &nbsp;&nbsp;</p>
 <p>Bibi &amp; Baba
 <br>Sales Outlet: 545 Orchard Rd #02-28 Far East Shopping Centre
@@ -81,7 +81,7 @@ variant: tiptap
 </p>
 <p>Ting Transport Pte. Ltd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Contact Person: Henry Ting: 91901884</p>
-<h2>Insurance</h2>
+<h3>Insurance</h3>
 <p>As part of our student well-being efforts, the school has purchased insurance
 to provide basic coverage for our students in case of accidents.&nbsp;
 You may refer to the NTUC Income&nbsp;<strong><a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">website</a></strong>&nbsp;for
@@ -90,7 +90,7 @@ have to do e-submission <a href="https://studentgpa.incomegroupins.com.sg" rel="
 claim through their website.&nbsp; No login user or password is required.
 If you need higher coverage for your child, please arrange a separate policy
 from your preferred insurer.</p>
-<h2>Forms</h2>
+<h3>Forms</h3>
 <p>With effect from this year, parents have 2 options to apply for MOE FAS:</p>
 <p>a) E-Form <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
@@ -103,7 +103,7 @@ from your preferred insurer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
 </div>
-<h2>Canteen Food Prices</h2>
+<h3>Canteen Food Prices</h3>
 <p><strong>Stall 1</strong>
 </p>
 <table>
