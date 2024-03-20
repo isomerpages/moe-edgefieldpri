@@ -4,10 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<h2>Welcome to Edgefield Primary School</h2>
-<p></p>
-<p></p>
-<p></p>
+<h3>Welcome to Edgefield Primary School</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Rabiathul_Bazriya.png">
 </div>
