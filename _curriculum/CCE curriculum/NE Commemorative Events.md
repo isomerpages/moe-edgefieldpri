@@ -30,7 +30,7 @@ living, working and studying in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE6.jpeg">
 </div>
-<h2>National Day</h2>
+<h3>National Day</h3>
 <p>Celebrated on 9 August annually, National Day marks our independence from
 Malaysia in 1965. It is also a platform for students to come together to
 celebrate the nation's milestones and achievements while rallying ourselves
