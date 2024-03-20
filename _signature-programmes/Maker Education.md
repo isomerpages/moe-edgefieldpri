@@ -52,7 +52,7 @@ dare.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <table>
 <tbody>
 <tr>
