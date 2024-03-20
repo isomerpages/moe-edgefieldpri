@@ -4,11 +4,11 @@ permalink: /about-us/vision-mission-values-motto/
 description: ""
 variant: tiptap
 ---
-<h2>Our School Vision</h2>
-<h3>Lives Empowered, Lives Touched</h3>
-<h2>Our School Mission</h2>
-<h3>To Educate and Nurture the School Community For a Better Singapore</h3>
-<h2>Our School Values</h2>
+<h3>Our School Vision</h3>
+<h4>Lives Empowered, Lives Touched</h4>
+<h3>Our School Mission</h3>
+<h4>To Educate and Nurture the School Community For a Better Singapore</h4>
+<h3>Our School Values</h3>
 <p><strong>In order to fulfill our School Mission, we have a set of core values to help us achieve our aims. They are:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Self-Discipline</p>
 </li>
 </ul>
-<h2>Our School Motto</h2>
+<h3>Our School Motto</h3>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/edgefield-logo%20.jpeg">
 </div>
