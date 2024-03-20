@@ -44,7 +44,7 @@ active seniors (Merdeka generation) in Singapore.</p>
 </div>
 <p><strong>Please refer to the following links for the different media coverage</strong>
 </p>
-<p><a href="https://sbr.com.sg/commercial-property-residential-property/news/meet-winners-frasers-propertys-inclusive-spaces-award" rel="noopener noreferrer nofollow" target="_blank">https://sbr.com.sg/commercial-property-residential-property/news/meet-winners-frasers-propertys-inclusive-spaces-award</a>
+<p><a href="https://sbr.com.sg/commercial-property-residential-property/news/meet-winners-frasers-propertys-inclusive-spaces-award" rel="noopener noreferrer nofollow" target="_blank">https://sbr.com.sg/commercial-property-residential-property/news/meet-winners-frasers-propertys-inclusive-spaces-award</a> 
 <a href="https://www.8world.com/singapore/spaces-in-shopping-malls-1591586" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/singapore/spaces-in-shopping-malls-1591586</a>
 </p>
 <p><a href="https://www.businesstimes.com.sg/life-culture/inspiring-innovative-senior-friendly-urban-ideas-dialogue-between-generations" rel="noopener noreferrer nofollow" target="_blank">https://www.businesstimes.com.sg/life-culture/inspiring-innovative-senior-friendly-urban-ideas-dialogue-between-generations</a>
