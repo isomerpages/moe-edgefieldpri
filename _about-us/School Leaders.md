@@ -4,7 +4,7 @@ permalink: /about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>ABOUT THE PRINCIPAL</h2>
+<h3>ABOUT THE PRINCIPAL</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Rabiathul_Bazriya.png">
 </div>
