@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Innovation
 variant: tiptap
 ---
-<h2>Core Curriculum</h2>
+<h3>Core Curriculum</h3>
 <p>At EFPS, we recognize every student has unique interests, strengths, and
 learning styles. Our integrated curriculum aims to nurture Edgefielders
 into&nbsp;stewards of their world, capable of navigating the future with

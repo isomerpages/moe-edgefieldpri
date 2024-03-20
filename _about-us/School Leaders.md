@@ -1,14 +1,13 @@
 ---
 title: School Leaders
 permalink: /about-us/permalink/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<h2>ABOUT THE PRINCIPAL</h2>
+<h3>ABOUT THE PRINCIPAL</h3>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/Mdm_Rabiathul_Bazriya.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mdm_Rabiathul_Bazriya.png">
 </div>
-<h4><center>Mdm Rabiathul Bazriya</center></h4>
 <p>Mdm Rabiathul Bazriya started her career as a primary school teacher in
 1989 at the age of 21 years old.&nbsp; With experience spanning over 35
 years, she has taught both at the primary schools and secondary schools

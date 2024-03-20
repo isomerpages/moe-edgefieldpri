@@ -5,12 +5,12 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<h2>Middle Managers</h2>
+<h3>Middle Managers</h3>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong> 
+<p>School Staff Developer
 <br>
 </p>
 </td>
@@ -21,8 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Mother Tongue</strong>
-</p>
+<p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_kah_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jasmin Quek</a>
@@ -31,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Science&nbsp;</strong> 
+<p>HOD Science&nbsp;
 <br>
 </p>
 </td>
@@ -43,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD ICT</strong> 
+<p>HOD ICT
 <br>
 </p>
 </td>
@@ -54,8 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Curriculum and Innovation</strong>
-</p>
+<p>HOD Curriculum and<strong> </strong>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gene Lim</a>
@@ -64,8 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Maths</strong>
-</p>
+<p>HOD Maths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jianfeng_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Lee</a>
@@ -74,8 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH Science</strong>
-</p>
+<p>LH Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Teng</a>
@@ -84,8 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH English</strong>
-</p>
+<p>LH English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng</a>
@@ -94,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LH Chinese</strong>&nbsp;</p>
+<p>LH Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shu Ling</a>&nbsp;</p>
@@ -235,7 +230,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Teacher Leaders</h2>
+<h3>Teacher Leaders</h3>
 <table>
 <tbody>
 <tr>
@@ -377,13 +372,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Executive Admin Staff</h2>
+<h3>Executive Admin Staff</h3>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Manager&nbsp;</strong>
-</p>
+<p>Administrative Manager&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shirley_koh-tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Koh</a>
@@ -392,8 +386,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager</strong>
-</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_tay_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Linda Koh</a>
