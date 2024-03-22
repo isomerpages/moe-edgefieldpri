@@ -10,7 +10,7 @@ variant: tiptap
 language. The activities include Spelling Bee, movies stories and online
 reading.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_events_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/English_events_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
