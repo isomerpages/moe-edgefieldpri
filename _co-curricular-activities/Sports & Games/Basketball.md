@@ -3,12 +3,13 @@ title: Basketball
 permalink: /co-curriculum/co-curricular-activities-cca/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-dafn">About Basketball</th>
-    <th class="tg-xwen"><span style="color:#222">Basketball CCA teaches students the skills &amp; knowledge of the games and improves their focus to develop teamwork &amp; resilience as a player.  Training schedules are on Tuesdays and Fridays,</span><br><span style="color:#222">2-3.30pm at the ISH level 1 &amp; level 4.</span></th>
+    <th class="tg-xwen"><span style="color:#222">Basketball CCA teaches students the skills &amp; knowledge of the games and improves their focus to develop teamwork &amp; resilience as a player.  Training schedules are on Tuesdays and Fridays,</span><br><span style="color:#222">2.15pm - 3.45pm at the ISH level 1 &amp; level 4.</span></th>
   </tr>
 </thead>
 <tbody>

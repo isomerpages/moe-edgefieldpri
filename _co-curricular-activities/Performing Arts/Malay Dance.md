@@ -3,12 +3,13 @@ title: Malay Dance
 permalink: /co-curriculum/co-curricular-activities-cca/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-dafn">About<br>Malay Dance<br> </th>
-    <th class="tg-u05r">Malay Dance  is aimed for students who love to learn about the different types of Malay dance and techniques used in this ethnic dance.  Students develop their talent in Malay dance through the sessions that are conducted on Fridays, 2.00 to 4.00pm</th>
+    <th class="tg-u05r">Malay Dance  is aimed for students who love to learn about the different types of Malay dance and techniques used in this ethnic dance.  Students develop their talent in Malay dance through the sessions that are conducted on Fridays, 2.15pm to 4.15pm</th>
   </tr>
 </thead>
 <tbody>
