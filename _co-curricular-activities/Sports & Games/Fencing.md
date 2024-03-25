@@ -3,12 +3,13 @@ title: Fencing
 permalink: /co-curriculum/co-curricular-activities-cca/sports-n-games/fencing/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-hwm7">About Fencing</th>
-    <th class="tg-u05r">This program aims to allow students to develop basic skills in the Olympic sport of Fencing in a safe, fun and engaging manner. Through games and the use of safe training aids, students will pick up the basic footwork, attacking and defending skills which are utilized in Fencing.<br>The CCA sessions are on Tuesdays 1400 to 1530. Activities are held in 2 classes (D2-01) and (D3-01)</th>
+    <th class="tg-u05r">This program aims to allow students to develop basic skills in the Olympic sport of Fencing in a safe, fun and engaging manner. Through games and the use of safe training aids, students will pick up the basic footwork, attacking and defending skills which are utilized in Fencing.<br>The CCA sessions are on Tuesdays 1415 to 1545. Activities are held in 2 classes (D2-01) and (D3-01)</th>
   </tr>
 </thead>
 <tbody>
