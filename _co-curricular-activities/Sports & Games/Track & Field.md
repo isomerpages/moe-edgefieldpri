@@ -3,6 +3,7 @@ title: Track & Field
 permalink: /co-curriculum/co-curricular-activities-cca/sports-n-games/track-n-field/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <table class="tg">
 <thead>
@@ -14,7 +15,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-dafn">Experiences</td>
-    <td class="tg-u05r">Track and Field develops pupils in the sport of athletics (run, jump and throw) and provides opportunities for them to be selected to represent the school in athletics competitions.<br><br>The CCA sessions are conducted at the school quadrangle on Tuesdays and Fridays from 2.00 p.m. to 3.30 p.m.<br><br></td>
+    <td class="tg-u05r">Track and Field develops pupils in the sport of athletics (run, jump and throw) and provides opportunities for them to be selected to represent the school in athletics competitions.<br><br>The CCA sessions are conducted at the school quadrangle on Tuesdays and Fridays from 2.15 p.m. to 3.45 p.m.<br><br></td>
   </tr>
   <tr>
     <td class="tg-u05r">Developing our students</td>
