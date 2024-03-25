@@ -3,13 +3,14 @@ title: Dancesport
 permalink: /co-curriculum/co-curricular-activities-cca/performing-arts/dancesport/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <table class="tg">
 <thead>
   <tr>
     <td class="tg-v41i">Talent 1</td>
     <td class="tg-brl1">Fridays</td>
-    <td class="tg-brl1">2.00 p.m. – 4.00 p.m</td>
+    <td class="tg-brl1">2.15 p.m. – 4.15 p.m</td>
   </tr>
 </thead>
 <tbody>
