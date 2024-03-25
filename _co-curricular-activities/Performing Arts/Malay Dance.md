@@ -9,7 +9,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-dafn">About<br>Malay Dance<br> </th>
-    <th class="tg-u05r">Malay Dance  is aimed for students who love to learn about the different types of Malay dance and techniques used in this ethnic dance.  Students develop their talent in Malay dance through the sessions that are conducted on Fridays, 2.15 to 4.15pm</th>
+    <th class="tg-u05r">Malay Dance  is aimed for students who love to learn about the different types of Malay dance and techniques used in this ethnic dance.  Students develop their talent in Malay dance through the sessions that are conducted on Fridays, 2.15pm to 4.15pm</th>
   </tr>
 </thead>
 <tbody>
