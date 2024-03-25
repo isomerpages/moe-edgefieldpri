@@ -9,7 +9,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-hwm7">About ODAC</th>
-    <th class="tg-u05r">Outdoor Adventure Club (ODAC) is aimed at students who love nature and the outdoors. The CCA sessions are on Fridays, 2.00pm – 3.30pm. Activities are conducted in an outdoor setting within the school.</th>
+    <th class="tg-u05r">Outdoor Adventure Club (ODAC) is aimed at students who love nature and the outdoors. The CCA sessions are on Fridays, 2.15pm – 3.45pm. Activities are conducted in an outdoor setting within the school.</th>
   </tr>
 </thead>
 <tbody>
