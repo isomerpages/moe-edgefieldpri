@@ -3,6 +3,7 @@ title: School Administration Team
 permalink: /about-us/School-Staff/school-administration-team/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 <table class="iveo_table ives_tab_simple ive_eobj_left" style="width: 837.125px; height: 106px;">
 
@@ -66,6 +67,13 @@ third_nav_title: School Staff
 <td><font size="4">Mr Zahlan Yusop</font></td>
 
 <td><font size="4">zahlan_md_yusop@moe.edu.sg</font></td>
+
+</tr>
+<tr><td><font size="4">ICT Manager</font></td>
+
+<td><font size="4">Mr Yusri Osman</font></td>
+
+<td><font size="4">muhammad_yusri_osman@moe.edu.sg</font></td>
 
 </tr>
 
