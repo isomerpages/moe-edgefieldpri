@@ -95,10 +95,10 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Anmol Sanjay&nbsp;</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Anmol Sanjay</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>anmol_sanjay_kanaya@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
