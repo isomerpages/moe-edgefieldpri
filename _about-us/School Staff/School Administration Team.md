@@ -83,7 +83,8 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yusri Osman</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Yusri Osman</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_yusri_osman@moe.edu.sg</p>
