@@ -71,10 +71,11 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zahlan Yusop</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Zahlan Yusop</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zahlan_md_yusop@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
