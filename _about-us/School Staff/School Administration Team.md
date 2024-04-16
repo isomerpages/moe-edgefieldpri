@@ -60,10 +60,10 @@ variant: tiptap
 <p>Admin Executive&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jesline Hoe&nbsp;</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Jesline Hoe</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hoe_bee_lay@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
