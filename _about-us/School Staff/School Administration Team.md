@@ -30,7 +30,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr David Chua</a>
+<p><a href="chua_chiew_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Chua</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Admin Executive&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mdm Jesline Hoe</a>&nbsp;</p>
+<p><a href="hoe_bee_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jesline Hoe</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
