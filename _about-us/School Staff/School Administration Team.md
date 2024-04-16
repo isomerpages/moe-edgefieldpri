@@ -48,7 +48,8 @@ variant: tiptap
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Suriani&nbsp;</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Suriani</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_suriani_abdul_hamid@moe.edu.sg</p>
