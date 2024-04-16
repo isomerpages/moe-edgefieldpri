@@ -106,10 +106,11 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zamila</p>
+<p><a href="siti_zamila_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Zamila</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_zamila_jumat@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -117,10 +118,11 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Koon Ching</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Koon Ching</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_koon_ching@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
