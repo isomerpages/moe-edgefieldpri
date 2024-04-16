@@ -56,7 +56,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Zahlan Yusop</a>
+<p><a href="zahlan_md_yusop@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zahlan Yusop</a>
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Mrs Anmol Sanjay</a>&nbsp;</p>
+<p><a href="anmol_sanjay_kanaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Anmol Sanjay</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Koon Ching</a>
+<p><a href="yap_koon_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Koon Ching</a>
 </p>
 </td>
 </tr>
