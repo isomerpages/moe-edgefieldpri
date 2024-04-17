@@ -8,8 +8,8 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dafn">About Us</th>
-    <th class="tg-u05r">Science &amp; Environmental Club is aimed at students who love the wonders of science. The club provides opportunities for pupils to explore areas of Science not covered in the curriculum.<br>The CCA sessions are on Fridays, 2.15 – 3.45pm. Activities are conducted within the school, both indoors and outdoors.</th>
+    <td class="tg-dafn">About Us</td>
+    <td class="tg-u05r">Science &amp; Environmental Club is aimed at students who love the wonders of science. The club provides opportunities for pupils to explore areas of Science not covered in the curriculum.<br>The CCA sessions are on Fridays, 2.15 – 3.45pm. Activities are conducted within the school, both indoors and outdoors.</td>
   </tr>
 </thead>
 <tbody>
