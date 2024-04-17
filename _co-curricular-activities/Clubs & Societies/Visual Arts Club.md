@@ -8,9 +8,9 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dafn">About Art Club</th>
-    <th class="tg-u05r">Art Club aims to develop visual literate students who love art and are keen on learning the different skills of the art medium. The CCA sessions are on Tuesdays, 2.15– 3.45pm. Activities are conducted in the art room.</th>
-  </tr>
+    <td class="tg-dafn">About Art Club</td>
+    <td class="tg-u05r">Art Club aims to develop visual literate students who love art and are keen on learning the different skills of the art medium. The CCA sessions are on Tuesdays, 2.15– 3.45pm. Activities are conducted in the art room.
+  </td></tr>
 </thead>
 <tbody>
   <tr>
