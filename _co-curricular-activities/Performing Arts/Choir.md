@@ -8,9 +8,9 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dafn">About Choir</th>
-    <th class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.15pm – 4.15pm. Activities are mostly held in the school’s music room. Other activities include exchange programmes with other school choirs or musical appreciations.
-  </th></tr>
+    <td class="tg-dafn">About Choir</td>
+    <td class="tg-u05r">Our choir aims to provide a platform for students who have passion for singing to learn different genres of music and sing well with confidence while performing.<br>The CCA sessions are mainly on Fridays, 2.15pm – 4.15pm. Activities are mostly held in the school’s music room. Other activities include exchange programmes with other school choirs or musical appreciations.
+  </td></tr>
 </thead>
 <tbody>
   <tr>
