@@ -8,7 +8,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dafn">About Infocomm Club</th>
+    <td class="tg-dafn">About Infocomm Club</td>
     <th class="tg-u05r">Infocomm club aimed to nuture pupil’s ICT curiosity through various activities and participation in national-wide competition which incorporates social, family and school values.<br>The CCA sessions are on Tuesdayss, 2.15 – 3.45pm at Computer Lab 1.</th>
   </tr>
 </thead>
