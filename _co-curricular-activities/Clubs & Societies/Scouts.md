@@ -8,9 +8,9 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-liiy">About Cub Scouts</th>
-    <th class="tg-539o">Cub Scouts programme is to provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying the child’s basic need to face and overcome challenges. Activities are driven towards “Fun &amp; Discovery” amongst Cubs. <br><br>The CCA sessions are on Fridays, 2.00 – 4.00 pm. <br><br>Activities are conducted in school and Cubs are given opportunities to go on learning journeys.  As much as possible, Scout Teachers (known as Akelas) adhere to the Scouting Method to have Cubs experience Scouting as recommended by Scouts Association.<br><br>Online CCA sessions will be conducted by levels through SLS or live lessons (details will be informed when the need arises) and it will be 2.15pm - 3.45pm on Fridays.  <br></th>
-  </tr>
+    <td class="tg-liiy">About Cub Scouts</td>
+    <td class="tg-539o">Cub Scouts programme is to provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying the child’s basic need to face and overcome challenges. Activities are driven towards “Fun &amp; Discovery” amongst Cubs. <br><br>The CCA sessions are on Fridays, 2.00 – 4.00 pm. <br><br>Activities are conducted in school and Cubs are given opportunities to go on learning journeys.  As much as possible, Scout Teachers (known as Akelas) adhere to the Scouting Method to have Cubs experience Scouting as recommended by Scouts Association.<br><br>Online CCA sessions will be conducted by levels through SLS or live lessons (details will be informed when the need arises) and it will be 2.15pm - 3.45pm on Fridays.  <br>
+  </td></tr>
 </thead>
 <tbody>
   <tr>
