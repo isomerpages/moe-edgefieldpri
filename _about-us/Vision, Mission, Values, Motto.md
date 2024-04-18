@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>Our School Vision</h3>
-<h4>Lives Empowered, Lives Touched</h4>
+<p>Lives Empowered, Lives Touched</p>
 <h3>Our School Mission</h3>
-<h4>To Educate and Nurture the School Community For a Better Singapore</h4>
+<p>To Educate and Nurture the School Community For a Better Singapore</p>
 <h3>Our School Values</h3>
 <p><strong>In order to fulfill our School Mission, we have a set of core values to help us achieve our aims. They are:</strong>
 </p>
@@ -37,5 +37,6 @@ so the unity and solidarity of the school community comes through.</p>
 <p><strong>Maroon</strong>&nbsp;is used to emphasize the warmth of the school's
 environment and people. It also highlights the importance placed on human
 relationships.</p>
-<h3><strong>Cream</strong>&nbsp;is used to symbolize purity, sincerity and harmony.</h3>
+<p><strong>Cream&nbsp;</strong>is used to symbolize purity, sincerity and
+harmony.</p>
 <p></p>
