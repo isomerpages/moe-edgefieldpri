@@ -75,9 +75,7 @@ CCA to ensure that the session is able to run smoothly every week.</p>
 <p>Mr Patrick Shiu (Teacher-in-charge)
 <br>
 <br>Mdm Doreen Low
-<br>
 <br>Mdm Aw Pei Shi
-<br>
 <br>Mdm Paul Pouline</p>
 </td>
 </tr>
