@@ -3,51 +3,46 @@ title: Support Staff
 permalink: /about-us/School-Staff/support-staff/
 description: ""
 third_nav_title: School Staff
+variant: tiptap
 ---
-<table class="iveo_table ives_tab_simple ive_eobj_left" style="width: 830.5px; height: 115px;">
-
+<table>
 <tbody>
-
 <tr>
-
-<th style="width: 242px;"><font size="4">Librarian<span style="font-weight: normal;"></span></font></th>
-
-<th style="width: 249px;"><span style="font-weight: normal;"><font size="4">Mdm Eunice Tan</font></span></th>
-
-<th style="width: 316px;"><span style="font-weight: normal;"><font size="4">eunice_tan_siew_kim@moe.edu.sg</font></span></th>
-
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="eunice_tan_siew_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunica Tan</a>
+</p>
+</td>
 </tr>
-
 <tr>
-
-<td><font size="4">Science Laboratory Assistant</font></td>
-
-<td><font size="4">Mdm Jennifer Khoo</font></td>
-
-<td><font size="4">khoo_ban_poh@moe.edu.sg</font></td>
-
+<td rowspan="1" colspan="1">
+<p>Science Laboratory Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="khoo_ban_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jennifer Khoo</a>
+</p>
+</td>
 </tr>
-
 <tr>
-
-<td><font size="4">Desktop Engineer</font></td>
-
-<td><font size="4">Mr Chong Han Sheng</font></td>
-
-<td><font size="4">han.sheng.chong@ncs.com.sg</font></td>
-
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="han.sheng.chong@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Han Sheng</a>
+</p>
+</td>
 </tr>
-
 <tr>
-
-<td><font size="4">Desktop Engineer</font></td>
-
-<td><font size="4">Ms Nordiyana Hazirah</font></td>
-
-<td><font size="4">nh.binte.misran@ncs.com.sg</font></td>
-
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nh.binte.misran@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nordiyana Hazirah</a>
+</p>
+</td>
 </tr>
-
 </tbody>
-
 </table>
+<p></p>
