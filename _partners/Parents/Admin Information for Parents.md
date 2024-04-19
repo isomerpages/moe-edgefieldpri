@@ -6,11 +6,8 @@ third_nav_title: Parents
 variant: tiptap
 ---
 <h3>Primary 1 Admin Matters 2022/Orientation Booklet</h3>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/10th_November_2023_P1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation 2023</a>
-</p>
-</li>
 <li>
 <p><a href="https://online.fliphtml5.com/hqnzl/yvqx/#p=1" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation Booklet</a>
 </p>
