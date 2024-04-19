@@ -9,8 +9,8 @@ variant: tiptap
 <h3>Our School Mission</h3>
 <p>To Educate and Nurture the School Community For a Better Singapore</p>
 <h3>Our School Values</h3>
-<p><strong>In order to fulfill our School Mission, we have a set of core values to help us achieve our aims. They are:</strong>
-</p>
+<p>In order to fulfill our School Mission, we have a set of core values to
+help us achieve our aims. They are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Team Spirit</p>
