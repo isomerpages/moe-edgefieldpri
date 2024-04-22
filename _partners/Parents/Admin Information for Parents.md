@@ -673,7 +673,6 @@ of fruit
 <br>Mee Goreng
 <br>
 <br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
