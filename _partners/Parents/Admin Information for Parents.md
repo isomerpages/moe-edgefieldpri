@@ -685,7 +685,6 @@ of fruit
 <td rowspan="1" colspan="1">
 <p>Monday – Fri
 <br>
-<br>
 <br>Roti John
 <br>
 <br>
@@ -695,7 +694,6 @@ of fruit
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="298" width="446" alt="Stall 5 - Roti John.jpg" src="/images/Stall%205%20-%20Roti%20John.jpeg">
 </div>
@@ -703,23 +701,19 @@ of fruit
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Monday – Fri
-<br>
+<p>Monday – Fri
 <br>
 <br>Teriyaki Chicken
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="298" width="447" alt="Stall 5 - Teriyaki Chicken.jpg" src="/images/Stall%205%20-%20Teriyaki%20Chicken.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall 5 - Teriyaki Chicken.jpeg">
 </div>
 </td>
 </tr>
@@ -856,12 +850,6 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="255" width="369" alt="Stall 7 - 3.jpg" src="/images/7-4.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -894,9 +882,6 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="249" width="376" alt="Stall 7 - 5.jpg" src="/images/7-6.jpeg">
 </div>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
