@@ -515,7 +515,9 @@ of fruit
 <br>
 <br>Lor Mee
 <br>
-<br>Hor Fun
+<br>
+</p>
+<p>Hor Fun
 <br>
 <br>
 <br>
@@ -527,6 +529,7 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="280" width="446" alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="297" width="446" alt="IMG_9611.JPG" src="/images/4-4.jpeg">
 </div>
