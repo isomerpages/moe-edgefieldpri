@@ -48,7 +48,6 @@ exercise initiative, take calculated risks and strive for excellence.
 <p>In this learning journey, students get a chance to examine real specimens
 and learn more about the structural adaptations of various animals, including
 extinct animals.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key_programs_P6_Adaptation.jpg">
 </div>
