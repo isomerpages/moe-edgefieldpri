@@ -267,10 +267,7 @@ from your preferred insurer.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Price List
-<br>
-<br>
-</p>
+<p>Price List</p>
 </th>
 </tr>
 <tr>
@@ -289,9 +286,6 @@ of fruit
 <p>Pasta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 2 - 1.jpg" src="/images/Stall%202-1.jpeg">
 </div>
@@ -302,9 +296,6 @@ of fruit
 <p>Mac &amp; Cheese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 2 - 2.jpg" src="/images/Stall%202%20-%202.jpeg">
 </div>
@@ -382,9 +373,7 @@ of fruit
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Price List
-<br>
-</p>
+<p>Price List</p>
 </th>
 </tr>
 <tr>
