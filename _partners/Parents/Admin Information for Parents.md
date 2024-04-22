@@ -489,6 +489,7 @@ from your preferred insurer.</p>
 <br>Lor Mee</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg">
 </div>
@@ -500,6 +501,7 @@ from your preferred insurer.</p>
 <br>Laksa</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 4 - 2.jpg" src="/images/Stall%204%20-%202.jpeg">
 </div>
@@ -511,6 +513,7 @@ from your preferred insurer.</p>
 <br>Prawn Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="307" width="450" alt="Stall 4 - 3.jpg" src="/images/Stall%204%20-%203.jpeg">
 </div>
