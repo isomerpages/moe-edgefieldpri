@@ -747,8 +747,10 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>All Days Except Wednesday
-<br>Plain Rice, One Meat, One Vegetable</p>
+<p>All Days Except
+<br>Wednesday Plain Rice,
+<br>One Meat,
+<br>One Vegetable</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
