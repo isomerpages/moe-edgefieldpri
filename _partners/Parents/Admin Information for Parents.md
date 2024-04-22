@@ -295,15 +295,6 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 2 - 1.jpg" src="/images/Stall%202-1.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -317,9 +308,6 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 2 - 2.jpg" src="/images/Stall%202%20-%202.jpeg">
 </div>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -414,20 +402,9 @@ of fruit
 <p>Plain Rice with One Meat and One Vegetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="266" width="420" alt="Stall 3 - 1.jpg" src="/images/Stall%203%20-%201.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -435,20 +412,9 @@ of fruit
 <p>Fried Rice with One Meat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="334" width="417" alt="Stall 3 - 2.jpg" src="/images/Stall%203%20-%202.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -526,15 +492,9 @@ of fruit
 <br>Lor Mee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg">
 </div>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -543,16 +503,9 @@ of fruit
 <br>Laksa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 4 - 2.jpg" src="/images/Stall%204%20-%202.jpeg">
 </div>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -564,17 +517,6 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="307" width="450" alt="Stall 4 - 3.jpg" src="/images/Stall%204%20-%203.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -583,10 +525,6 @@ of fruit
 <br>
 <br>
 <br>Lor Mee
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>Hor Fun
 <br>
@@ -600,38 +538,16 @@ of fruit
 </div>
 <p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="297" width="446" alt="IMG_9611.JPG" src="/images/4-4.jpeg">
 </div>
-<p>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>All Days
 <br>Fishball Noodles
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>Fried Bee Hoon/Mee/Kway Teow
@@ -642,23 +558,10 @@ of fruit
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 4 - 5.jpg" src="/images/Stall%204%20-%205.jpeg">
 </div>
 <p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -712,7 +615,8 @@ of fruit
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Price List</p>
+<p>
+<br>Price List</p>
 </th>
 </tr>
 <tr>
@@ -739,27 +643,13 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 5 - Curry Rice.jpg" src="/images/Stall%205%20-%20Curry%20Rice.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Monday – Fri
 <br>
-<br>
 <br>Egg Prata
-<br>
 <br>
 <br>
 <br>
@@ -769,23 +659,10 @@ of fruit
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 5 - Egg Prata.jpg" src="/images/Stall%205%20-%20Egg%20Prata.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -796,29 +673,12 @@ of fruit
 <br>Plain Prata</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="300" width="449" alt="Stall 5 - Plain Prata.jpg" src="/images/Stall%205%20-%20Plain%20Prata.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -830,60 +690,35 @@ of fruit
 <br>
 <br>
 <br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="300" width="449" alt="Stall 5 - Mee Goreng.jpg" src="/images/Stall%205%20-%20Mee%20Goreng.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Monday – Fri
+<p>Monday – Fri
 <br>
 <br>
 <br>Roti John
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="298" width="446" alt="Stall 5 - Roti John.jpg" src="/images/Stall%205%20-%20Roti%20John.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -1126,9 +961,6 @@ of fruit
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <br>Mee Goreng
 <br>
 <br>
@@ -1139,13 +971,6 @@ of fruit
 <img style="width: 100%" height="254" width="375" alt="Stall 7 - 4.jpg" src="/images/7-5.jpeg">
 </div>
 <p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -1171,10 +996,6 @@ of fruit
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <br>Chicken Rice
 <br>
 </p>
@@ -1185,28 +1006,10 @@ of fruit
 </div>
 <p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="264" width="395" alt="Stall 7 - 7.jpg" src="/images/7-8.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -1223,32 +1026,13 @@ of fruit
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>Mee Soup</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="245" width="396" alt="Stall 7 - 1.jpg" src="/images/7-2.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="251" width="398" alt="Stall 7 - 9.jpg" src="/images/7-10.jpeg">
 </div>
