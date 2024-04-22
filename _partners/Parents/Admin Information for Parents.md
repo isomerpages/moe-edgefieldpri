@@ -522,12 +522,11 @@ of fruit
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="280" width="446" alt="Stall 4 - 1.jpg" src="/images/Stall%204%20-%201.jpeg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="297" width="446" alt="IMG_9611.JPG" src="/images/4-4.jpeg">
 </div>
@@ -550,9 +549,7 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 4 - 5.jpg" src="/images/Stall%204%20-%205.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="302" width="442" alt="Stall 4 - 7.jpg" src="/images/Stall%204%20-%206.jpeg">
 </div>
@@ -601,9 +598,7 @@ of fruit
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p></p>
-<p>
-<br>Price List</p>
+<p>Price List</p>
 </th>
 </tr>
 <tr>
@@ -672,7 +667,6 @@ of fruit
 <td rowspan="1" colspan="1">
 <p>Monday – Fri
 <br>
-<br>
 <br>Mee Goreng
 <br>
 <br>
@@ -680,7 +674,6 @@ of fruit
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
