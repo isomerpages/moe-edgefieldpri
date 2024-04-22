@@ -569,9 +569,6 @@ of fruit
 </div>
 <p>
 <br>
-<br>
-<br>
-<br>
 </p>
 </td>
 </tr>
@@ -615,6 +612,7 @@ of fruit
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<p></p>
 <p>
 <br>Price List</p>
 </th>
@@ -751,10 +749,7 @@ of fruit
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Price List
-<br>
-<br>
-</p>
+<p>Price List</p>
 </th>
 </tr>
 <tr>
@@ -773,27 +768,16 @@ of fruit
 <br>Plain Rice, One Meat, One Vegetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stall 6 - 1.jpg" src="/images/Stall%206%20-%201.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wednesday
+<br>
 <br>Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -803,14 +787,6 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="420" width="473" alt="Stall 6 - 2.jpg" src="/images/Stall%206%20-%202.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 </tbody>
@@ -821,10 +797,7 @@ of fruit
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Price List
-<br>
-<br>
-</p>
+<p>Price List</p>
 </th>
 </tr>
 <tr>
@@ -853,14 +826,7 @@ of fruit
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <br>Nasi Lemak
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 </p>
@@ -871,23 +837,10 @@ of fruit
 </div>
 <p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="229" width="370" alt="Stall 7 - 1.jpg" src="/images/7-2.jpeg">
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -905,14 +858,6 @@ of fruit
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>Macaroni Soup
 <br>
 <br>
@@ -924,15 +869,6 @@ of fruit
 <img style="width: 100%" height="271" width="370" alt="Stall 7 - 2.jpg" src="/images/7-3.jpeg">
 </div>
 <p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
