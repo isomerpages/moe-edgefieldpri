@@ -5,23 +5,30 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<h3>Outdoor Education</h3>
-<p>Outdoor Education engages the students’ sense of adventure through the
-exploration of both natural and urban environments from their immediate
-surroundings to other unfamiliar locations. Students develop appropriate
-outdoor skills through physical activities while cultivating an attitude
-of care and appreciation for the environment, and thoughtful consideration
-of the risks and safety of self and others.</p>
-<h3>Gymnastics</h3>
-<p>Gymnastics enhances overall body management and control through creative
-interpretation of movement and sequence. The learning experience starts
-within the boundaries of open-ended tasks, and progressively moves into
-more stylised gymnastic movements.</p>
-<h3>Dance in PE</h3>
-<p>Dance in PE develops in students an understanding of rhythmic movement.
-It also enables students to express and communicate feelings and ideas
-through exploration, creation and performance.</p>
-<h3>Striking &amp; Fielding</h3>
-<p>Students are introduced games-related concepts such as Striking &amp;
-Fielding which involves both fundamental and specialised skills and movement
-concepts.</p>
+<h3><strong>Inquiry-Based Science Programmes</strong></h3>
+<p>To cultivate a sense of inquiry in their quest for Science knowledge and
+in life, we design and specially hands-on experiences for students to explore,
+experience, experiment and investigate.</p>
+<h3><strong>P3 - Gardening @ The Edge</strong></h3>
+<p>To cultivate a sense of inquiry in their quest for Science knowledge and
+in life, we design and specially hands-on experiences for students to explore,
+experience, experiment and investigate.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key_programs_P3.jpg">
+</div>
+<h3><strong>P4 - Experiential learning on hydroponics</strong></h3>
+<p>In line with the Singapore Green Plan 2030, Hydroponics is introduced
+to the Primary 4 students to instil the goal of a sustainable future, where
+we can get out needs through locally produced food. Students experience
+the process of growing their own food in the hydroponics programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key_programs_P4_Hydroponics.jpg">
+</div>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
