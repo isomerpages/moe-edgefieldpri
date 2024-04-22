@@ -276,8 +276,8 @@ from your preferred insurer.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Price of Bento Meal
-<br>All mains come with choice of mashed potato/soup/nachos and a serving
-of fruit
+<br>All mains come with choice of mashed potato/soup/nachos
+<br>and a serving of fruit
 <br>Small $1.60, Medium $2.00, Large $2.40</p>
 </td>
 </tr>
@@ -306,7 +306,8 @@ of fruit
 <p>Pizza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.40 (not sold as bento meal)</p>
+<p>$1.40 (not sold as
+<br>bento meal)</p>
 </td>
 </tr>
 <tr>
@@ -314,15 +315,18 @@ of fruit
 <p>Chicken Burger</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.80 (not sold as bento meal)</p>
+<p>$1.80 (not sold as
+<br>bento meal)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chicken Hotdog (HPB approved)</p>
+<p>Chicken Hotdog
+<br>(HPB approved)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.80 (not sold as bento meal)</p>
+<p>$1.80 (not sold as
+<br>bento meal)</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +339,8 @@ of fruit
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Buttermilk Pancake with honey</p>
+<p>Buttermilk Pancake
+<br>with honey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1.00</p>
@@ -343,7 +348,8 @@ of fruit
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Handmade Grilled Chicken Nuggets</p>
+<p>Handmade Grilled
+<br>Chicken Nuggets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.60 for 1 piece</p>
@@ -351,7 +357,8 @@ of fruit
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Handmade Chicken Cheese Ball</p>
+<p>Handmade Chicken
+<br>Cheese Ball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.60 for 1 piece</p>
@@ -359,7 +366,8 @@ of fruit
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Handmade baked potato wedges</p>
+<p>Handmade baked
+<br>potato wedges</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.80 for 4 pieces</p>
