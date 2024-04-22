@@ -887,7 +887,9 @@ of fruit
 <br>
 <br>
 <br>
-<br>Chicken Rice
+<br>
+</p>
+<p>Chicken Rice
 <br>
 </p>
 </td>
@@ -895,6 +897,7 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="263" width="394" alt="Stall 7 - 6.jpg" src="/images/7-7.jpeg">
 </div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="264" width="395" alt="Stall 7 - 7.jpg" src="/images/7-8.jpeg">
