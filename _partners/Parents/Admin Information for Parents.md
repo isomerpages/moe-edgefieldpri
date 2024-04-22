@@ -711,7 +711,6 @@ of fruit
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall 5 - Teriyaki Chicken.jpeg">
 </div>
@@ -800,8 +799,6 @@ of fruit
 <br>
 <br>
 <br>
-<br>
-<br>
 <br>Nasi Lemak
 <br>
 <br>
@@ -811,9 +808,7 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="367" alt="IMG_9690.JPG" src="/images/7-1.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="229" width="370" alt="Stall 7 - 1.jpg" src="/images/7-2.jpeg">
 </div>
@@ -833,7 +828,6 @@ of fruit
 <br>
 <br>
 <br>
-<br>
 <br>Macaroni Soup
 <br>
 <br>
@@ -844,9 +838,7 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="271" width="370" alt="Stall 7 - 2.jpg" src="/images/7-3.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="255" width="369" alt="Stall 7 - 3.jpg" src="/images/7-4.jpeg">
 </div>
@@ -866,7 +858,6 @@ of fruit
 <br>
 <br>
 <br>
-<br>
 <br>Mee Goreng
 <br>
 <br>
@@ -876,9 +867,7 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="254" width="375" alt="Stall 7 - 4.jpg" src="/images/7-5.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="249" width="376" alt="Stall 7 - 5.jpg" src="/images/7-6.jpeg">
 </div>
@@ -898,7 +887,6 @@ of fruit
 <br>
 <br>
 <br>
-<br>
 <br>Chicken Rice
 <br>
 </p>
@@ -907,9 +895,7 @@ of fruit
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="263" width="394" alt="Stall 7 - 6.jpg" src="/images/7-7.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="264" width="395" alt="Stall 7 - 7.jpg" src="/images/7-8.jpeg">
 </div>
