@@ -3,12 +3,13 @@ title: Useful Links
 permalink: /curriculum/ict/useful-links/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 ### Students  
 
-* Student iCON: [**https://icon.moe.edu.sg/**](https://icon.moe.edu.sg/)  
+* Student iCON: [https://icon.moe.edu.sg/](https://icon.moe.edu.sg/)  
 
-* Student Learning Space:&nbsp;[**https://learning.moe.edu.sg**](https://learning.moe.edu.sg/)
+* Student Learning Space:&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
 
 * School Library:&nbsp;[https://sites.google.com/moe.edu.sg/efpslibrary/home](https://sites.google.com/moe.edu.sg/efpslibrary/home)
 
