@@ -56,4 +56,7 @@ and behaviour; Having a positive presence in the cyber community</p>
 manner; Respecting copyright</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT4.png">
+</div>
 <p></p>
