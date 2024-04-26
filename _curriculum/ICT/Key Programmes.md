@@ -23,6 +23,9 @@ ICT. Through CW education, students learn to be respectful, safe and responsible
 users of technology and be a positive peer influence, advocating for the
 good of the community online.</p>
 <p>The key messages of the CW curriculum are:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT3.jpeg">
+</div>
 <table>
 <tbody>
 <tr>
