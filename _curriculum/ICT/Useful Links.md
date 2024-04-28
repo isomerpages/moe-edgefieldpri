@@ -6,7 +6,7 @@ third_nav_title: ICT
 variant: tiptap
 ---
 <h3>Students</h3>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Student iCON: <a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://icon.moe.edu.sg/</a>
 </p>
@@ -17,11 +17,18 @@ variant: tiptap
 </li>
 <li>
 <p>School Library:&nbsp;<a href="https://sites.google.com/moe.edu.sg/efpslibrary/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/efpslibrary/home</a>
+<br>
 </p>
 </li>
+<li>
+<p>Library OPAC</p>
+</li>
 </ul>
-<h3>Library OPAC</h3>
 <p>For more information, click <a href="https://schoolibrary.moe.edu.sg/edgefieldpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<p>School E-resource Repository (SERR)</p>
+<p>For more information, click <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h3>Teachers</h3>
 <ul>
