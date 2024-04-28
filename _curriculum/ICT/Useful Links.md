@@ -16,20 +16,21 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>School Library:&nbsp;<a href="https://sites.google.com/moe.edu.sg/efpslibrary/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/efpslibrary/home</a>
-<br>
+<p>School Library:&nbsp;
+<br><a href="https://sites.google.com/moe.edu.sg/efpslibrary/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/efpslibrary/home</a> 
 </p>
 </li>
 <li>
-<p>Library OPAC</p>
+<p>Library OPAC
+<br>For more information, click <a href="https://schoolibrary.moe.edu.sg/edgefieldpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</li>
+<li>
+<p>School E-resource Repository (SERR)
+<br>For more information, click <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </li>
 </ul>
-<p>For more information, click <a href="https://schoolibrary.moe.edu.sg/edgefieldpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p></p>
-<p>School E-resource Repository (SERR)</p>
-<p>For more information, click <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
 <h3>Teachers</h3>
 <ul>
 <li>
