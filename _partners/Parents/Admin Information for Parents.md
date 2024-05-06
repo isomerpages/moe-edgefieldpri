@@ -103,19 +103,25 @@ from your preferred insurer.</p>
 <h3>Canteen Food Prices</h3>
 <p><strong>Stall 1</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <p>Price List</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drinks</p>
+<p><strong><em>Drinks</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Price</p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -123,12 +129,12 @@ from your preferred insurer.</p>
 <p>Pokka Tea (packet)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.50</p>
+<p>$0.60</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pokka Tea (can)</p>
+<p>Pokka Kyoho Grape Juice (packet)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.70</p>
@@ -136,18 +142,18 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pokka Tea (bottle)</p>
+<p>Pokka Tea (can)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
+<p>$0.80</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marigold 100% Apple Juice (packet)</p>
+<p>Pokka Tea (bottle)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.80</p>
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +185,15 @@ from your preferred insurer.</p>
 <p>Meiji Milk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
+<p>$1.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oat Milk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +201,7 @@ from your preferred insurer.</p>
 <p>HL Milk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +209,7 @@ from your preferred insurer.</p>
 <p>Vitasoy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.60</p>
+<p>$0.80</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +217,7 @@ from your preferred insurer.</p>
 <p>Vitagen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.70</p>
+<p>$0.80</p>
 </td>
 </tr>
 <tr>
@@ -211,20 +225,32 @@ from your preferred insurer.</p>
 <p>Yakult (Ace Light)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.70</p>
+<p>$0.80</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yoghurt Drink</p>
+<p>Fruitty Vitamin Drink</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1.00</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Other Items</p>
+<td rowspan="1" colspan="1">
+<p>Mr Bean Classic/Chocolate Soy Milk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Other Items</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +266,7 @@ from your preferred insurer.</p>
 <p>Soya Beancurd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
+<p>$1.30</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +274,7 @@ from your preferred insurer.</p>
 <p>Fruit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.50 / $0.60 per piece</p>
+<p>$0.60 - $1.00 per piece</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +289,11 @@ from your preferred insurer.</p>
 </table>
 <p><strong>Stall 2</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -275,10 +305,9 @@ from your preferred insurer.</p>
 <p>Main Items</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Price of Bento Meal
-<br>All mains come with choice of mashed potato/soup/nachos
-<br>and a serving of fruit
-<br>Small $1.60, Medium $2.00, Large $2.40</p>
+<p>Price of Bento Meal</p>
+<p>All mains come with soup and a serving of fruit</p>
+<p>Small $1.60, Medium $2, Large $2.40</p>
 </td>
 </tr>
 <tr>
@@ -315,8 +344,7 @@ from your preferred insurer.</p>
 <p>Chicken Burger</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.80 (not sold as
-<br>bento meal)</p>
+<p>$2.00 (not sold as bento meal)</p>
 </td>
 </tr>
 <tr>
@@ -325,8 +353,7 @@ from your preferred insurer.</p>
 <br>(HPB approved)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.80 (not sold as
-<br>bento meal)</p>
+<p>$2.00 (not sold as bento meal)</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +370,7 @@ from your preferred insurer.</p>
 <br>with honey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
+<p>$1.30</p>
 </td>
 </tr>
 <tr>
@@ -352,7 +379,7 @@ from your preferred insurer.</p>
 <br>Chicken Nuggets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.60 for 1 piece</p>
+<p>$1.20 for 3 pieces</p>
 </td>
 </tr>
 <tr>
@@ -361,7 +388,7 @@ from your preferred insurer.</p>
 <br>Cheese Ball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.60 for 1 piece</p>
+<p>$0.80 for 1 piece</p>
 </td>
 </tr>
 <tr>
@@ -370,14 +397,42 @@ from your preferred insurer.</p>
 <br>potato wedges</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.80 for 4 pieces</p>
+<p>$1.50 for 5 pieces</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mushroom/Chicken Soup</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.20 per bowl</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sandwich (Egg Mayo, Tuna, Ham &amp; Cheese, Spicy Chicken, Spicy Tuna)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Wrap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.60</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Stall 3</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -466,7 +521,11 @@ from your preferred insurer.</p>
 </table>
 <p><strong>Stall 4</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -608,7 +667,11 @@ from your preferred insurer.</p>
 </table>
 <p><strong>Stall 5</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -731,7 +794,11 @@ from your preferred insurer.</p>
 </table>
 <p><strong>Stall 6</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -781,7 +848,11 @@ from your preferred insurer.</p>
 </table>
 <p><strong>Stall 7</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -947,7 +1018,11 @@ from your preferred insurer.</p>
 </table>
 <p><strong>Stall 8</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
