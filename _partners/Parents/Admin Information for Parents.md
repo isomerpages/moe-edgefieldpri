@@ -426,6 +426,7 @@ from your preferred insurer.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Stall 3</strong>
 </p>
 <table style="minWidth: 50px">
