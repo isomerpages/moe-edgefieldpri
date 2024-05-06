@@ -520,6 +520,7 @@ from your preferred insurer.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Stall 4</strong>
 </p>
 <table style="minWidth: 50px">
@@ -645,7 +646,7 @@ from your preferred insurer.</p>
 <p>Fried Egg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.50</p>
+<p>$0.70</p>
 </td>
 </tr>
 <tr>
@@ -653,7 +654,7 @@ from your preferred insurer.</p>
 <p>Braised Egg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.50</p>
+<p>$0.70</p>
 </td>
 </tr>
 <tr>
@@ -661,7 +662,7 @@ from your preferred insurer.</p>
 <p>Tau Kwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.40</p>
+<p>$0.50</p>
 </td>
 </tr>
 </tbody>
