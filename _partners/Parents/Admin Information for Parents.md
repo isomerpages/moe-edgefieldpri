@@ -461,15 +461,15 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Curry Chicken</p>
-<p>Sweet and Sour Chicken/Fish</p>
-<p>Stir Fried Chicken</p>
-<p>Minced Pork with Basil</p>
-<p>Braised Pork</p>
-<p>Stir Fried Cabbage</p>
-<p>Stir Fried Long Beans</p>
-<p>Bittergourd with egg</p>
-<p>Chicken/Pork Porridge</p>
+<p>Curry Chicken
+<br>Sweet and Sour Chicken/Fish
+<br>Stir Fried Chicken
+<br>Minced Pork with Basil
+<br>Braised Pork
+<br>Stir Fried Cabbage
+<br>Stir Fried Long Beans
+<br>Bittergourd with egg
+<br>Chicken/Pork Porridge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
