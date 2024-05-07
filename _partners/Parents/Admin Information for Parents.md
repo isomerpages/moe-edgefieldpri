@@ -331,11 +331,10 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pizza</p>
+<p>Pizza Bread</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.40 (not sold as
-<br>bento meal)</p>
+<p>$1.40 (not sold as bento meal)</p>
 </td>
 </tr>
 <tr>
@@ -1026,16 +1025,18 @@ from your preferred insurer.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <p>Price List</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drinks</p>
+<p><strong><em>Drinks</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Price</p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1043,7 +1044,7 @@ from your preferred insurer.</p>
 <p>Coffee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.70</p>
+<p>$1.00</p>
 </td>
 </tr>
 <tr>
@@ -1051,7 +1052,7 @@ from your preferred insurer.</p>
 <p>Tea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.70</p>
+<p>$1.00</p>
 </td>
 </tr>
 <tr>
@@ -1059,7 +1060,7 @@ from your preferred insurer.</p>
 <p>Coffee-O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.60</p>
+<p>$0.90</p>
 </td>
 </tr>
 <tr>
@@ -1067,12 +1068,16 @@ from your preferred insurer.</p>
 <p>Tea-O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.60</p>
+<p>$0.90</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Halal Snacks</p>
+<td rowspan="1" colspan="1">
+<p><strong><em>Halal Snacks</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1080,7 +1085,7 @@ from your preferred insurer.</p>
 <p>Lo Mai Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.30</p>
+<p>$1.60</p>
 </td>
 </tr>
 <tr>
@@ -1088,7 +1093,7 @@ from your preferred insurer.</p>
 <p>Fan Choy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.30</p>
+<p>$1.50</p>
 </td>
 </tr>
 <tr>
@@ -1096,7 +1101,7 @@ from your preferred insurer.</p>
 <p>Chicken Pau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.80</p>
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -1104,7 +1109,7 @@ from your preferred insurer.</p>
 <p>Honey Chicken Pau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.80</p>
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -1112,7 +1117,7 @@ from your preferred insurer.</p>
 <p>Tau Sar Pau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.80</p>
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -1125,18 +1130,10 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chee Cheong Fun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1.50</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Nasi Briyani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2.00</p>
+<p>$2.30</p>
 </td>
 </tr>
 <tr>
@@ -1144,20 +1141,20 @@ from your preferred insurer.</p>
 <p>Wholemeal Cream Roll</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wholemeal Otah Fish Bun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1.40</p>
+<p>$1.30</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wholegrain Cereal with Milk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Egg Bread</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1.00</p>
