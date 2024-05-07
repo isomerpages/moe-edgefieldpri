@@ -305,7 +305,6 @@ from your preferred insurer.</p>
 <p>Main Items</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Price of Bento Meal</p>
 <p>All mains come with soup and a serving of fruit</p>
 <p>Small $1.60, Medium $2, Large $2.40</p>
 </td>
