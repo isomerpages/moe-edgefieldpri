@@ -356,7 +356,8 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Add-on Items</p>
+<p><strong>Add-on Items</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -434,67 +435,70 @@ from your preferred insurer.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <p>Price List</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Main Items</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Price of Bento Meal
-<br>All mains come a serving of fruit
-<br>Small $1.60, Medium $2.00, Large $2.40</p>
+<p>Price of Bento Meal (rice, one serving of meat and one serving of veg)</p>
+<p>All mains come a serving of fruit</p>
+<p>Small $1.60, Medium $2.00, Large $2.40</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Plain Rice with One Meat and One Vegetable</p>
+<p><strong>Monday-Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="266" width="420" alt="Stall 3 - 1.jpg" src="/images/Stall%203%20-%201.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fried Rice with One Meat</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="334" width="417" alt="Stall 3 - 2.jpg" src="/images/Stall%203%20-%202.jpeg">
-</div>
+<p><strong><em>&nbsp;</em></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Add-on Items</p>
+<p>Curry Chicken</p>
+<p>Sweet and Sour Chicken/Fish</p>
+<p>Stir Fried Chicken</p>
+<p>Minced Pork with Basil</p>
+<p>Braised Pork</p>
+<p>Stir Fried Cabbage</p>
+<p>Stir Fried Long Beans</p>
+<p>Bittergourd with egg</p>
+<p>Chicken/Pork Porridge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Honey Chicken Stick</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$0.80</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Meat (1 serving)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$0.80</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fried Egg</p>
+<p><strong><em>Add-on Items</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Meat (1 portion)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vegetable (1 portion)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.60</p>
@@ -502,23 +506,38 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vegetable (1 serving)</p>
+<p>Roasted Drumlet (1 pc)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.50</p>
+<p>$0.80</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cheese Ball</p>
+<p>Egg (Sunny Side-up/Steamed Egg/Braised Egg)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$0.50</p>
+<p>$0.60</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Potatoes with Minced Meat (1 portion)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.70</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mashed Potatoes (1 portion)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.70</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Stall 4</strong>
 </p>
 <table style="minWidth: 50px">
@@ -633,7 +652,8 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Add-on Items on All Days</p>
+<p><strong>Add-on Items on All Days</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -871,7 +891,8 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p><strong>Monday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -900,7 +921,8 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -930,7 +952,8 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p><strong>Wednesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -959,7 +982,8 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p><strong>Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -990,7 +1014,8 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p><strong>Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
