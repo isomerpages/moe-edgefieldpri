@@ -481,7 +481,7 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Add-on Items</strong>
+<p><strong><em>Add-on Items</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
