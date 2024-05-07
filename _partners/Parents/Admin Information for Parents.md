@@ -356,7 +356,7 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Add-on Items</strong>
+<p><strong><em>Add-on Items</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -652,7 +652,7 @@ from your preferred insurer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Add-on Items on All Days</strong>
+<p><strong><em>Add-on Items on All Days</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
