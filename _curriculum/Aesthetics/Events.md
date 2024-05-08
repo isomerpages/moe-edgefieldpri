@@ -15,9 +15,7 @@ the school finds opportunities to showcase students’ artwork during Arts
 Alive and in a Mini Art Exhibition during NDP. This “Street CreARTe” corridor
 on the 4th floor also features key artists and styles from various periods
 of Western and Asian art. Here, students learn about art history and movements
-and are inspired by quotes from famous artists and artworks.
-<br>
-</p>
+and are inspired by quotes from famous artists and artworks.</p>
 <h3><strong>Learning Journey to Art Museum</strong></h3>
 <p>With the objective of developing a lifelong interest in the arts, the
 Primary 4 students will have the opportunity to experience museum-based
@@ -26,13 +24,4 @@ Students learn to appreciate Singapore’s art history through selected works
 of the pioneer artists and to understand how artists used art to portray
 the life and conditions, specifically focusing on Singapore during its
 founding years.
-<br>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p>founding years.</p>
+<br>ounding years.</p>
