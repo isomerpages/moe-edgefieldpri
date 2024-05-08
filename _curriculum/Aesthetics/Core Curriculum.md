@@ -28,10 +28,13 @@ dance and visual arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum.jpg">
 </div>
+<p></p>
+<h3><strong>Performing Arts Curriculum</strong></h3>
+<p></p>
+</li>
+</ul>
 <p>
 <br>
 </p>
-</li>
-</ul>
 <p></p>
 <p></p>
