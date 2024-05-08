@@ -33,5 +33,9 @@ learning at the National Gallery, extending their learning beyond the classrooms
 Students learn to appreciate Singapore’s art history through selected works
 of the pioneer artists and to understand how artists used art to portray
 the life and conditions, specifically focusing on Singapore during its
-founding years.
+founding years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Musuem.jpg">
+</div>
+<p>
 <br>ounding years.</p>
