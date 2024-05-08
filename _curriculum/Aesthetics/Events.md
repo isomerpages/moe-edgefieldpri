@@ -14,10 +14,10 @@ greater self-confidence.</p>
 <p></p>
 <h3><strong>Art Exhibition</strong></h3>
 <p>With the objective of developing a lifelong interest in the arts, the
-Primary 4 students will have the opportunity<s> </s>to experience museum-based
+Primary 4 students will have the opportunity to experience museum-based
 learning at the National Gallery, extending their learning beyond the classrooms.
 Students learn to appreciate Singapore’s art history through selected works
 of the pioneer artists and to understand how artists used art to portray
 the life and conditions, specifically focusing on Singapore during its
-founding years. <s>years.</s>
-</p>
+founding years.</p>
+<p>founding years.</p>
