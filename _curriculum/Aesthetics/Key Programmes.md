@@ -6,14 +6,24 @@ third_nav_title: Aesthetics
 variant: tiptap
 ---
 <h3><strong>Dance</strong></h3>
-<p>As part of the Learning for Life Programme (LLP), students attenddancesport,
+<p>As part of the Learning for Life Programme (LLP), students attend dancesport,
 ethnic and culture dance modules during their Performing Arts (PA) lessons.
 Focusing on developing etiquette, collaboration and confidence, students
 showcase the dances to parents at the end of each module.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance.jpg">
 </div>
-<p></p>
+<h3><strong>Photography</strong></h3>
+<p>Photography is one of the unique programmes in Edgefield. Learning photography
+helps enhance visual literacy and the ability to communicate through images,
+which is increasingly important in today's digital world. It improves attention
+to detail and observation skills, as students learn to capture moments
+and scenes effectively. It also encourages creativity and self-expression,
+allowing students to explore their artistic side, boosting confidence as
+they showcase their skills to others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photography.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
