@@ -95,7 +95,6 @@ will enable students to develop an understanding of the social practices
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.jpeg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Literacy_Programme.png">
 </div>
-<p></p>
 <p></p>
