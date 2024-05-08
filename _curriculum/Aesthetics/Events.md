@@ -21,6 +21,11 @@ Alive and in a Mini Art Exhibition during NDP. This “Street CreARTe” corrido
 on the 4th floor also features key artists and styles from various periods
 of Western and Asian art. Here, students learn about art history and movements
 and are inspired by quotes from famous artists and artworks.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Exhibition.png">
+</div>
+<p></p>
 <h3><strong>Learning Journey to Art Museum</strong></h3>
 <p>With the objective of developing a lifelong interest in the arts, the
 Primary 4 students will have the opportunity to experience museum-based
