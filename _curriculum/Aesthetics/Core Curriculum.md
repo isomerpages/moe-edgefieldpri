@@ -36,8 +36,9 @@ dance and visual arts.</p>
 of curriculum, enabling progressive development in achieving the desired
 outcomes. The curriculum focuses on self-directed learning using emerging
 pedagogies and thinking strategies to develop the students into critical
-thinkers and self-directed learners.
-<br>
+thinkers and self-directed learners.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Performing_Arts.jpg">
+</div>
+<p><strong>Visual Arts Curriculum</strong>
 </p>
-<p></p>
-<p></p>
