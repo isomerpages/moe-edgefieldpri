@@ -9,6 +9,25 @@ third_nav_title: ICT
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EPFS_Computing_Programme.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_and_Chromebook.png">
+</div>
+<p></p>
+<h3>iPad for Learning</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_2.jpg">
+</div>
+<h3>Chromebook for Learning</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_2.jpg">
+</div>
 <h3>Cyber Wellness</h3>
 <p>Cyber Wellness (CW) focuses on the well-being of our students as they
 navigate cyberspace. Our curriculum aims to equip students with the knowledge
