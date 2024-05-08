@@ -45,7 +45,7 @@ thinkers and self-directed learners.</p>
 students’ capacity to critically discern and process visual information
 and communicate effectively. It also fosters students’ sense of identity,
 culture and place in society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visual_Arts.jpg">
+</div>
 <p></p>
-<p></p>
-<p><strong>Visual Arts Curriculum</strong>
-</p>
