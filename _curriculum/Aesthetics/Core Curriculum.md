@@ -31,7 +31,12 @@ dance and visual arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum.jpg">
 </div>
-<p>
+<h3><strong>Performing Arts Curriculum</strong></h3>
+<p>Music elements, concepts and skills are spiralled up over the six years
+of curriculum, enabling progressive development in achieving the desired
+outcomes. The curriculum focuses on self-directed learning using emerging
+pedagogies and thinking strategies to develop the students into critical
+thinkers and self-directed learners.
 <br>
 </p>
 <p></p>
