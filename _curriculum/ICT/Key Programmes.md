@@ -7,10 +7,7 @@ third_nav_title: ICT
 ---
 <h3>Computing Programme</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EPFS_Computing_Programme.png">
 </div>
 <h3>Cyber Wellness</h3>
 <p>Cyber Wellness (CW) focuses on the well-being of our students as they
@@ -24,7 +21,10 @@ good of the community online.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT3.jpeg">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
