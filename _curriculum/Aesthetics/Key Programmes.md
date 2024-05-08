@@ -24,7 +24,14 @@ they showcase their skills to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photography.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
+<h3><strong>Ceramics</strong></h3>
+<p>The ceramics module in the curriculum is designed to offer hands-on experience
+in clay sculpting and pottery, enabling students to unleash their imagination
+and create beautiful, one-of-a-kind pieces. This module develops students’
+fine motor skills, fostering a sense of craftsmanship, and promoting artistic
+expression, giving students with a unique avenue for self-expression and
+creativity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics.jpg">
+</div>
 <p></p>
