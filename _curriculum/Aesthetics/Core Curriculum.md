@@ -25,8 +25,11 @@ dance and visual arts.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum.jpg">
 </div>
+<p>
+<br>
+</p>
 </li>
 </ul>
 <p></p>
