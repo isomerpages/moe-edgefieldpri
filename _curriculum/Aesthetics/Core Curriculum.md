@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h3>Performing Arts Curriculum</h3>
+<p></p>
 <p>The performing and visual arts curriculum aims to enrich our students’
 learning experiences. We cater to the needs and interest of all Edgefielders
 by providing rich and holistic exposure to the different art forms - music,
@@ -26,14 +26,12 @@ dance and visual arts.</p>
 </li>
 <li>
 <p>21st century competencies</p>
-<p></p>
 </li>
 </ul>
-<h3>Visual Arts Curriculum</h3>
-<p>The art curriculum allows students to develop creative dispositions, build
-students’ capacity to critically discern and process visual information
-and communicate effectively. It also fosters students’ sense of identity,
-culture and place in society.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum.jpg">
+</div>
+<p>
 <br>
 </p>
 <p></p>
