@@ -16,4 +16,7 @@ Alive and in a Mini Art Exhibition during NDP. This “Street CreARTe” corrido
 on the 4th floor also features key artists and styles from various periods
 of Western and Asian art. Here, students learn about art history and movements
 and are inspired by quotes from famous artists and artworks.</p>
+<h3><strong>Learning Journey to Art Museum</strong><br><br></h3>
+<p></p>
+<p></p>
 <p>founding years.</p>
