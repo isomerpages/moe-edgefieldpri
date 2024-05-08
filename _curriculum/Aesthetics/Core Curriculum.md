@@ -21,7 +21,12 @@ dance and visual arts.</p>
 <p>curiosity towards the arts,</p>
 </li>
 <li>
-<p>connection within themselves, with society and people across cultures</p>
+<p>connection within themselves, with society and people across cultures
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum_1.jpg">
+</div>
 <p></p>
 </li>
 </ul>
