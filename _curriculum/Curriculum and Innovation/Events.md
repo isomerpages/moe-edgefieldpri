@@ -18,14 +18,4 @@ access the 21CC Edgefield Experiences conference microsite. On the microsite,
 you'll discover thirteen enticing workshop titles. Take a moment to review
 them before making your choices. The booking window will close promptly
 on May 12th, 2024, at 11:59 pm.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/curriculuminnovation%208.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/curriculuminnovation%209.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/curriculuminnovation%2010.png">
-</div>
 <p></p>
