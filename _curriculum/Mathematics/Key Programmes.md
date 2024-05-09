@@ -64,22 +64,7 @@ to promote logical mathematical thinking. It aims to increase students’
 interest, involvement, and literacy in Mathematics. The lessons and activities
 are largely inquiry-based and problem-centered. Students will be involved
 in more hands-on activities to solve problems.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E2K_Lessons.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
