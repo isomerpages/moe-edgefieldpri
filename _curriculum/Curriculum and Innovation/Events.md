@@ -6,7 +6,8 @@ third_nav_title: Curriculum and Innovation
 variant: tiptap
 ---
 <h3>Events</h3>
-<p>Exciting news awaits! We're delighted to unveil our upcoming 21CC Edgefield
+<p><strong>21CC Edgefield Experiences</strong> 
+<br>Exciting news awaits! We're delighted to unveil our upcoming 21CC Edgefield
 Experiences for P3, P4, and P5 students, set to take place on May 20th
 and 21st, 2024.</p>
 <p>The centerpiece of the 21CC Edgefield Experiences will be a dynamic conference-style
