@@ -14,7 +14,6 @@ third_nav_title: ICT
 </div>
 <p></p>
 <h3>iPad for Learning</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_1.jpg">
 </div>
