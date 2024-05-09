@@ -5,14 +5,23 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<p>The Mathematical framework has been the cornerstone of Singapore Mathematics
-Curriculum.&nbsp; The central focus is Mathematical Problem Solving which
-is dependent on five inter-related components, namely Concepts, Skills,
-Processes, Attitudes and Metacognition. In EFPS, we target to develop our
-students in all five components.&nbsp; Our customised programmes and activities
-allow our students deeper understanding and connectedness to the real-world
-issues.</p>
+<h3>Mathematics @ Edgefield</h3>
+<p>Mathematics at Edgefield Primary School is designed to engage students
+with the fascinating world of numbers, shapes, and logical thinking, setting
+a solid foundation for lifelong learning. At this primary level, the curriculum
+is thoughtfully structured to encompass a broad spectrum of mathematical
+concepts tailored to young learners. From basic arithmetic operations such
+as addition, subtraction, multiplication, and division to more complex
+topics like fractions, geometry, and problem-solving strategies, the program
+aims to cultivate not only competency but also a genuine interest in mathematics
+among students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:110%" height="auto" width="100%" src="/images/maths%20diagram.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Cover_Core_Curriculum__1_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overview_of_Math_Core_Curriculum__2_.jpg">
 </div>
 <p></p>

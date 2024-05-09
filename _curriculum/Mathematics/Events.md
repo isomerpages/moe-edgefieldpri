@@ -6,24 +6,21 @@ third_nav_title: Mathematics
 variant: tiptap
 ---
 <h3>Mental Sums Challenge</h3>
-<p><strong>Mental Sums</strong>&nbsp;is aimed at developing good memory habits,
-being proficient with numbers and to be able to do maths with greater accuracy,
-speed and ease. In Edgefield, the Mental Sums Challenge is conducted in
-Semester 2. The preliminary rounds are carried out in the student’s respective
-classrooms and the top from each class will be chosen to represent their
-class in the final round. The final round is conducted in the hall where
-the Class Champions compete against one another. Solving problems in front
-of an audience poses another challenge altogether but our students rise
-above all to emerge as Mental Math Champions!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math6.jpeg">
-</div>
+<p>Mental Sums Challenge is a flagship event hosted by the Mathematics Department
+at Edgefield Primary. This thrilling competition invites young mathematicians
+to showcase their mental agility and problem-solving prowess in a fast-paced
+and fun-filled environment. From lightning-fast addition to mind-bending
+multiplication, participants will embark on a journey of mathematical discovery
+as they tackle a series of stimulating challenges. With exciting prizes,
+friendly competition, and a supportive atmosphere, the Mental Sums Challenge
+is not only a test of arithmetic skill but also a celebration of mathematical
+passion and determination.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math7.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental_Sums_Challenge_Cover_Picture.jpg">
 </div>
-<h3>Thank Goodness it’s Math (TGIM)</h3>
-<p><strong>TGIM</strong>&nbsp;is a programme to promote and nurture our students
-towards positive learning while attaining factual fluency on Mathematics
-facts like multiplication tables. Students acquire the need-to-know knowledge
-through playing card games.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="515" width="860" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/COOLi9GKflA?si=Lfx08g5RTZl49hQQ"></iframe>
+</div>
+<p></p>
