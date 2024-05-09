@@ -16,7 +16,7 @@ topics like fractions, geometry, and problem-solving strategies, the program
 aims to cultivate not only competency but also a genuine interest in mathematics
 among students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Math_Cover_Core_Curriculum.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Math_Cover_Core_Curriculum.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
