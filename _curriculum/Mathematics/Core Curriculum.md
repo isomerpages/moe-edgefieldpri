@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
+<h3>Mathematics @ Edgefield</h3>
 <p>Mathematics at Edgefield Primary School is designed to engage students
 with the fascinating world of numbers, shapes, and logical thinking, setting
 a solid foundation for lifelong learning. At this primary level, the curriculum
@@ -21,6 +22,4 @@ among students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overview_of_Math_Core_Curriculum__2_.jpg">
 </div>
-<p></p>
-<p></p>
 <p></p>
