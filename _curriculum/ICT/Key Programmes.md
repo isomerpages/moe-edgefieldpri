@@ -7,10 +7,25 @@ third_nav_title: ICT
 ---
 <h3>Computing Programme</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EPFS_Computing_Programme.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_and_Chromebook.png">
+</div>
+<p></p>
+<h3>iPad for Learning</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_2.jpg">
+</div>
+<h3>Chromebook for Learning</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_2.jpg">
 </div>
 <h3>Cyber Wellness</h3>
 <p>Cyber Wellness (CW) focuses on the well-being of our students as they
@@ -24,7 +39,10 @@ good of the community online.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT3.jpeg">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,7 +94,6 @@ will enable students to develop an understanding of the social practices
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.jpeg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Literacy_Programme.png">
 </div>
-<p></p>
 <p></p>
