@@ -19,6 +19,7 @@ passion and determination.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental_Sums_Challenge_Cover_Picture.jpg">
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="515" width="860" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/COOLi9GKflA?si=Lfx08g5RTZl49hQQ"></iframe>
 </div>
