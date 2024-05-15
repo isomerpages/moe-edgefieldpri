@@ -58,8 +58,18 @@ exercise initiative, take calculated risks and strive for excellence.
 <p>In this learning journey, students get a chance to examine real specimens
 and learn more about the structural adaptations of various animals, including
 extinct animals.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key_programs_P6_Adaptation.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_55_PM_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_55_PM__2__OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_55_PM__1__OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_53_PM_OK.jpg">
 </div>
 <h3><strong>P6 - Talent Development Programme - E2K Science Programme Singapore</strong></h3>
 <p>This programme, designed for Primary 4 and 5 students who demonstrate
@@ -68,9 +78,6 @@ investigations involving advanced science concepts. The students are engaged
 in scientific inquiry which will develop the habits, attitudes and dispositions
 scientists possess.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent_Dev_Prog___E2K.jpg">
-</div>
 <p>
 <br>
 </p>
