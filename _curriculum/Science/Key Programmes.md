@@ -17,7 +17,7 @@ experience, experiment and investigate.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8644_OK.jpg">
 </div>
-<h3><strong>P4 - Experiential learning on hydroponics</strong></h3>
+<h3>P4 - Experiential learning on hydroponics</h3>
 <p>In line with the Singapore Green Plan 2030, Hydroponics is introduced
 to the Primary 4 students to instil the goal of a sustainable future, where
 we can get out needs through locally produced food. Students experience
@@ -38,7 +38,7 @@ the process of growing their own food in the hydroponics programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_11_PM_OK.jpg">
 </div>
-<h3><strong>P5 - Science Investigative Project</strong></h3>
+<h3>P5 - Science Investigative Project</h3>
 <p>After two years of exposure to Science concepts and experiments, the Primary
 5 students are now ready to carry out their own investigative projects.
 Students research on questions related to real life situations.
@@ -58,7 +58,6 @@ exercise initiative, take calculated risks and strive for excellence.
 <p>In this learning journey, students get a chance to examine real specimens
 and learn more about the structural adaptations of various animals, including
 extinct animals.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_55_PM_OK.jpg">
 </div>
@@ -71,7 +70,7 @@ extinct animals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_53_PM_OK.jpg">
 </div>
-<h3><strong>P6 - Talent Development Programme - E2K Science Programme Singapore</strong></h3>
+<h3>P6 - Talent Development Programme - E2K Science Programme Singapore</h3>
 <p>This programme, designed for Primary 4 and 5 students who demonstrate
 a deep interest and ability in Science, is filled with many scientific
 investigations involving advanced science concepts. The students are engaged
