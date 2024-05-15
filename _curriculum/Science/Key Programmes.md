@@ -23,6 +23,23 @@ to the Primary 4 students to instil the goal of a sustainable future, where
 we can get out needs through locally produced food. Students experience
 the process of growing their own food in the hydroponics programme.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_13_PM1_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_13_PM_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_12_PM_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_11_PM__1__OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_11_PM_OK.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <h3><strong>P5 - Science Investigative Project</strong></h3>
 <p>After two years of exposure to Science concepts and experiments, the Primary
