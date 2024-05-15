@@ -77,7 +77,14 @@ a deep interest and ability in Science, is filled with many scientific
 investigations involving advanced science concepts. The students are engaged
 in scientific inquiry which will develop the habits, attitudes and dispositions
 scientists possess.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20190703_143343_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7145_OK.jpg">
+</div>
 <p></p>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
