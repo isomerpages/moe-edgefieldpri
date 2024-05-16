@@ -25,19 +25,29 @@ authentic settings.</p>
 </div>
 <h3>MTL Reading Programme</h3>
 <p>To ignite students’ interest in reading Mother Tongue language stories,
-we create many opportunities for students to read widely. We support them
-in learning by reading books of different genres, telling stories, role-playing
-and doing book reviews.</p>
+we create many opportunities for students to read widely. During Mother
+Tongue lessons, students are exposed to books of different genres. They
+also access a variety of newspapers, hardcopy reading materials and recommended
+titles specially curated for them in the school’s library collection.</p>
+<p>The school also collaborated with parents to form the Buddy Reading Programme
+to conduct reading activities in school for students who require greater
+support in reading.</p>
+<p>In Term 3, we provide opportunities for students to showcase the good
+stories that they have read through bookmarks, comic strips and book reviews.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Reading%20Prog_01.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Prog_01_OK.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Reading%20Prog_02.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Prog_02_OK.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Reading%20Prog_03.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Prog_03_OK.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Reading%20Prog_04.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Prog_04_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Prog_05_OK.jpg">
 </div>
 <p></p>
