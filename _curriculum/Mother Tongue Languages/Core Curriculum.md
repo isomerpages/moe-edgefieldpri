@@ -13,6 +13,10 @@ to nurture proficient Mother Tongue language users who can communicate
 confidently and effectively and are rooted to their culture. We are also
 committed to promote greater use of ICT to better engage our students in
 learning Mother Tongue languages.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/InkedCore_Curriculum_1_CL_OK.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum_1_ML__OK.jpg">
 </div>
@@ -21,9 +25,6 @@ learning Mother Tongue languages.&nbsp;</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum_MTL031_OK.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/InkedCore_Curriculum_1_CL_OK.jpg">
 </div>
 <h3>Higher Mother Tongue Programme (HMTL)</h3>
 <p>Edgefield provides Higher Mother Tongue Languages (HMTL) for Primary 3
