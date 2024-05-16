@@ -52,7 +52,7 @@ variant: tiptap
 <p>List of Secondary School Open Houses</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</a>
+<p><a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024</a>
 </p>
 <p>&nbsp;</p>
 </td>
