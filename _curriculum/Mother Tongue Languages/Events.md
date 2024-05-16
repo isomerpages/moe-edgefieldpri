@@ -29,6 +29,34 @@ settings.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LanguageWeek_06_OK.jpg">
 </div>
 <p></p>
+<h3>Cultural Camp</h3>
+<p>The Cultural Camp is curated for Primary 4 students. Filled with activities
+such as traditional games and cultural shows, our students are provided
+with opportunities to use their Mother Tongue languages and learn more
+about their own culture. As a result, they cultivate a deeper interest
+in the subject and enjoy learning Mother Tongue.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_01_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_02_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_03_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_04_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_05_OK.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_06_OK.jpg">
+</div>
+<p></p>
+<p></p>
 <h3>CL Cultural Performance Exposure Scheme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cultural%20performance%201.png">
