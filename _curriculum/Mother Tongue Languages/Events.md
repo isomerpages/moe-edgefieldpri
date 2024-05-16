@@ -5,6 +5,30 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
+<h3>Language Weeks</h3>
+<p>The MTL Fortnight is a platform for students to actively learn their Mother
+Tongue languages as a living language. It aims to create an immersive environment
+for learning and appreciating Mother Tongue languages and cultures in authentic
+settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LanguageWeek_01_OK.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LanguageWeek_02_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LanguageWeek_03_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LanguageWeek_04_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LanguageWeek_05_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LanguageWeek_06_OK.jpg">
+</div>
+<p></p>
 <h3>CL Cultural Performance Exposure Scheme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cultural%20performance%201.png">
