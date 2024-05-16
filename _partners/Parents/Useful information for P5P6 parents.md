@@ -18,8 +18,11 @@ variant: tiptap
 <p><a href="/files/Sharing_by_Principal_on_PSLE_and_DSA_Matters_9_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sharing by Principal on PSLE and DSA Matters 9 May 2024</a>
 </p>
 </li>
+<li>
+<p><a href="/files/5_P6_Briefing_9_May_2024__AYH___Support_Structures_.pdf" rel="noopener noreferrer nofollow" target="_blank">5 P6 Briefing 9 May 2024 (AYH - Support Structures)</a>
+</p>
+</li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
