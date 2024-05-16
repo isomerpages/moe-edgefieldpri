@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
+<h3>MTL Curriculum</h3>
 <p>Bilingual education is one of the cornerstones of Singapore’s education
 system. It has a positive effect on intellectual growth and enhances children’s
 mental development.&nbsp;In Edgefield, we design authentic learning activities
@@ -23,7 +24,6 @@ higher-order thinking skills. It also provides students with the opportunity
 tolearn grammar and syntax through creative activities and games.&nbsp;</p>
 <p>The offering of HMTL to Primary 3 and Primary 4 students will complement
 the existing offering of HMTL to Primary 5 and Primary 6 students.&nbsp;</p>
-<p></p>
 <h3>Mother Tongue Support Programme</h3>
 <p>For Primary 1 to 4 students who require&nbsp;additional&nbsp;support for
 Mother Tongue, Bridging and&nbsp;Mother Tongue Support Programme (MTSP)
