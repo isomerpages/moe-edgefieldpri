@@ -24,6 +24,18 @@ by the Singapore Hokkien Huay Kuan Arts and Cultural Troupe on 23 August
 This experience not only entertained but also educated the students about
 Chinese traditions, language, and society, leaving a lasting impact on
 their global perspective.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES_01_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES_03_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES_05_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES_06_OK.jpg">
+</div>
 <h3>Cultural Camp</h3>
 <p>This is a camp curated especially for Primary 4 students. Filled with
 activities such as traditional games and cultural shows, the students are
