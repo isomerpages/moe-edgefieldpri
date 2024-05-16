@@ -85,21 +85,4 @@ cultural performances beyond the classrooms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES_06_OK.jpg">
 </div>
-<h3>Cultural Camp</h3>
-<p>This is a camp curated especially for Primary 4 students. Filled with
-activities such as traditional games and cultural shows, the students are
-provided with opportunities to use their Mother Tongue languages and learn
-more about their own culture. As a result, they cultivate a deeper interest
-in the subject and enjoy learning Mother Tongue</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl_cultural%20camp_1june2023_01(s).jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl_cultural%20camp_1june2023_02.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl_cultural%20camp_1june2023_03.JPG">
-</div>
 <p></p>
