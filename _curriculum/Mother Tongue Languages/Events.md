@@ -55,8 +55,6 @@ in the subject and enjoy learning Mother Tongue.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_06_OK.jpg">
 </div>
-<p></p>
-<p></p>
 <h3>CL Cultural Performance Exposure Scheme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cultural%20performance%201.png">
@@ -69,13 +67,12 @@ in the subject and enjoy learning Mother Tongue.&nbsp;</p>
 </div>
 <p>The Cultural Performance Exposure Scheme (CPES) aims to enhance our students’
 understanding and knowledge of the Chinese Language and the Chinese Culture
-beyond the school. Our P5 Chinese Language students were treated to an
-exciting Chinese drama performance ‘Bao Xiao Long Zhua Zei Ji’ (包小龙抓贼 记)
-by the Singapore Hokkien Huay Kuan Arts and Cultural Troupe on 23 August
-2023, Wednesday. Arts and Cultural Troupe on 23 August 2023, Wednesday.
-This experience not only entertained but also educated the students about
-Chinese traditions, language, and society, leaving a lasting impact on
-their global perspective.</p>
+beyond the school. Our Primary 5 Chinese Language students were treated
+to an exciting Chinese drama performance ‘Three Strikes Against the White
+Bone Demon’ by the Singapore Chinese Art Center and the Committee to Promote
+Chinese Language Learning (CPLL) on 11 April 2024, Thursday. This experience
+aims to enrich Chinese Language education by providing exposure to Chinese
+cultural performances beyond the classrooms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPES_01_OK.jpg">
 </div>
