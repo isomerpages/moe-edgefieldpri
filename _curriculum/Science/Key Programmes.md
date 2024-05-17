@@ -67,7 +67,7 @@ extinct animals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_53_PM_OK.jpg">
 </div>
-<h3>P6 - Talent Development Programme - E2K Science Programme Singapore</h3>
+<h3>E2K Science Programme Singapore</h3>
 <p>This programme, designed for Primary 4 and 5 students who demonstrate
 a deep interest and ability in Science, is filled with many scientific
 investigations involving advanced science concepts. The students are engaged
