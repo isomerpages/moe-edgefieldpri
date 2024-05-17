@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h3>Primary 1 Admin Matters 2022/Orientation Booklet</h3>
+<h3>Primary 1 Admin Matters 2024/Orientation Booklet</h3>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
