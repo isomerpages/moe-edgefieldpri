@@ -21,7 +21,7 @@ development. Our pioneer batch of P6 pupils obtained 100% passes in the
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principals.jpg">
 </div>
-<h3>Artefacts, Symbols &amp; TRADITIONS</h3>
+<h3>Artefacts, Symbols &amp; Traditions</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20dolphins.png">
 </div>
