@@ -42,13 +42,7 @@ in the subject and enjoy learning Mother Tongue.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_02_OK.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_03_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_04_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_05_OK.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CulturalCamp_06_OK.jpg">
