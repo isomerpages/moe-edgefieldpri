@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<h3><strong>Inquiry-Based Science Programmes</strong></h3>
+<h3>Inquiry-Based Science Programmes</h3>
 <p>To cultivate a sense of inquiry in their quest for Science knowledge and
 in life, we design and specially hands-on experiences for students to explore,
 experience, experiment and investigate.</p>
-<h3><strong>P3 - Gardening @ The Edge</strong></h3>
+<h3>P3 - Gardening @ The Edge</h3>
 <p>To cultivate a sense of inquiry in their quest for Science knowledge and
 in life, we design and specially hands-on experiences for students to explore,
 experience, experiment and investigate.&nbsp;</p>
@@ -34,9 +34,6 @@ the process of growing their own food in the hydroponics programme.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_11_PM__1__OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_11_PM_OK.jpg">
 </div>
 <h3>P5 - Science Investigative Project</h3>
 <p>After two years of exposure to Science concepts and experiments, the Primary
