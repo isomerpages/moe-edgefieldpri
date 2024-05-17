@@ -51,7 +51,7 @@ exercise initiative, take calculated risks and strive for excellence.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Investigative_Project_1_OK.jpg">
 </div>
-<h3><strong>P6 - Learning Journeys to Lee Kong Chian Natural History Museum</strong></h3>
+<h3>P6 - Learning Journeys to Lee Kong Chian Natural History Museum</h3>
 <p>In this learning journey, students get a chance to examine real specimens
 and learn more about the structural adaptations of various animals, including
 extinct animals.</p>
