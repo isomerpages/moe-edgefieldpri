@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Innovation
 variant: tiptap
 ---
-<h3>Key Programmes</h3>
+<h3>Learning through play</h3>
 <p><strong>1.</strong>&nbsp;&nbsp; Learning Through Play (LTP) is a learning
 approach that involves using play activities as a way of helping our P1
 and P2 students explore their environment, learn new skills, and develop
