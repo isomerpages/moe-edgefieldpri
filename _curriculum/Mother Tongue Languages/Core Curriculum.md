@@ -34,7 +34,7 @@ higher-order thinking skills. It also provides students with the opportunity
 tolearn grammar and syntax through creative activities and games.&nbsp;</p>
 <p>The offering of HMTL to Primary 3 and Primary 4 students will complement
 the existing offering of HMTL to Primary 5 and Primary 6 students.&nbsp;</p>
-<h3>Mother Tongue Support Programme</h3>
+<h3>Mother Tongue Support</h3>
 <p>For Primary 1 to 4 students who require&nbsp;additional&nbsp;support for
 Mother Tongue, Bridging and&nbsp;Mother Tongue Support Programme (MTSP)
 will be conducted . These&nbsp;specialised early intervention&nbsp;programmes
