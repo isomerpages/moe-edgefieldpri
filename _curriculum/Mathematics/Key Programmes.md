@@ -48,7 +48,7 @@ in their learning journey.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12.png">
 </div>
-<h3>Tailored Programmes for different profiles</h3>
+<h3>Learning Support For Mathematics</h3>
 <p>Learning Support for Mathematics (LSM) is a programme specifically tailored
 for students, from Primary 1 to Primary 4,&nbsp;who may need the guidance
 to strengthen their numeracy skills and build confidence to excel in Math.
