@@ -5,7 +5,7 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h3>Events</h3>
+<h3>Language Week</h3>
 <p>EL Week is an annual week-long event that deepens students’ love for the
 language. The activities include Spelling Bee, movies stories and online
 reading.&nbsp;</p>

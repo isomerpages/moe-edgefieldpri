@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<h3><strong>Inquiry-Based Science Programmes</strong></h3>
+<h3>Inquiry-Based Science Programmes</h3>
 <p>To cultivate a sense of inquiry in their quest for Science knowledge and
 in life, we design and specially hands-on experiences for students to explore,
 experience, experiment and investigate.</p>
-<h3><strong>P3 - Gardening @ The Edge</strong></h3>
+<h3>P3 - Gardening @ The Edge</h3>
 <p>To cultivate a sense of inquiry in their quest for Science knowledge and
 in life, we design and specially hands-on experiences for students to explore,
 experience, experiment and investigate.&nbsp;</p>
@@ -35,9 +35,6 @@ the process of growing their own food in the hydroponics programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_11_PM__1__OK.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_06_25_at_2_14_11_PM_OK.jpg">
-</div>
 <h3>P5 - Science Investigative Project</h3>
 <p>After two years of exposure to Science concepts and experiments, the Primary
 5 students are now ready to carry out their own investigative projects.
@@ -54,7 +51,7 @@ exercise initiative, take calculated risks and strive for excellence.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Investigative_Project_1_OK.jpg">
 </div>
-<h3><strong>P6 - Learning Journeys to Lee Kong Chian Natural History Museum</strong></h3>
+<h3>P6 - Learning Journeys to Lee Kong Chian Natural History Museum</h3>
 <p>In this learning journey, students get a chance to examine real specimens
 and learn more about the structural adaptations of various animals, including
 extinct animals.</p>
@@ -70,26 +67,14 @@ extinct animals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_53_PM_OK.jpg">
 </div>
-<h3>P6 - Talent Development Programme - E2K Science Programme Singapore</h3>
+<h3>E2K Science Programme Singapore</h3>
 <p>This programme, designed for Primary 4 and 5 students who demonstrate
 a deep interest and ability in Science, is filled with many scientific
 investigations involving advanced science concepts. The students are engaged
 in scientific inquiry which will develop the habits, attitudes and dispositions
 scientists possess.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20190703_143343_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7145_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_01_at_3_49_55_PM__3__OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_05_at_3_37_58_PM_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_05_at_3_37_59_PM__1__OK.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_05_at_3_38_21_PM_OK.jpg">
