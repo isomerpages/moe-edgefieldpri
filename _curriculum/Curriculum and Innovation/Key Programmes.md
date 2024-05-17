@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Innovation
 variant: tiptap
 ---
-<h3>Learning through play</h3>
+<h3>Learning Through Play</h3>
 <p><strong>1.</strong>&nbsp;&nbsp; Learning Through Play (LTP) is a learning
 approach that involves using play activities as a way of helping our P1
 and P2 students explore their environment, learn new skills, and develop
@@ -52,4 +52,4 @@ and social issues around them, leaving a positive impact on the community.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/curriculuminnovation%207.png">
 </div>
 <p><strong>4.&nbsp;&nbsp; Maker Education.</strong>&nbsp; Click <a href="https://www.edgefieldpri.moe.edu.sg/signature-programmes/makerspace/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access our Signature Programme.</p>
+access our Signature Programme.T</p>
