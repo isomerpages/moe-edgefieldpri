@@ -147,7 +147,7 @@ to the uniform is <strong>NOT</strong> allowed.</p>
 </li>
 <li>
 <p>Students are not allowed to wear bracelets, friendship bands, anklets
-and rings. Religious accessories should not be displayed.</p>
+and rings.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
