@@ -23,10 +23,7 @@ learning Mother Tongue languages.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum_1_TL_OK.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Curriculum_MTL031_OK.png">
-</div>
-<h3>Higher Mother Tongue Programme (HMTL)</h3>
+<h3>Higher Mother Tongue (HMTL)</h3>
 <p>Edgefield provides Higher Mother Tongue Languages (HMTL) for Primary 3
 and Primary 4 students who demonstrate a keen interest and aptitude in
 their Mother Tongue languages, allowing them to achieve proficiency at
