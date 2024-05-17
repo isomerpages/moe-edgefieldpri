@@ -13,19 +13,20 @@ dance and visual arts.</p>
 <p>Through the arts education, Edgefielders develop:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>confidence through self-expression</p>
+<p>confidence through self-expression,</p>
 </li>
 <li>
-<p>collaboration with their classmates</p>
+<p>collaboration with their classmates,</p>
 </li>
 <li>
 <p>curiosity towards the arts,</p>
 </li>
 <li>
-<p>connection within themselves, with society and people across cultures</p>
+<p>connection within themselves, with society and people across cultures,
+and</p>
 </li>
 <li>
-<p>21st century competencies</p>
+<p>21st century competencies.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
