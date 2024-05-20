@@ -25,6 +25,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head (P2 &amp; P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P2 &amp; P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Curriculum and<strong> </strong>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
