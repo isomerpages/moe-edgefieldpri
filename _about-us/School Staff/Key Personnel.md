@@ -253,18 +253,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher&nbsp;Music
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Jessica Lim</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,19 +299,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Tamil Language</p>
+<p>Senior Teacher - Lower Primary Learner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shanti Moorthy</a>
+<p><a href="mailto:low_yin_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Low Yin Siang</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - Lower Primary Learner</p>
+<p>Lead Teacher&nbsp;Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_yin_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Low Yin Siang</a>
+<p><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Jessica Lim</a> 
 </p>
 </td>
 </tr>
@@ -338,6 +326,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>Physical Education&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Ming</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher&nbsp;Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,12 +345,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>Physical Education&nbsp;</p>
+<p>Senior Teacher Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Ming</a> 
-<br>
+<p><a href="mailto:shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shanti Moorthy</a>
 </p>
 </td>
 </tr>
