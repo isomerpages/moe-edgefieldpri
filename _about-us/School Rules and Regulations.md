@@ -55,11 +55,9 @@ to others is also not allowed.</p>
 </li>
 </ul>
 <p><strong>4. Personal belongings</strong>
-</p>
+<br>
+<br>Take personal responsibility for the security of your valuable belongings.</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Take personal responsibility for the security of your valuable belongings.</p>
-</li>
 <li>
 <p>Do not leave belongings lying unattended.</p>
 </li>
@@ -75,8 +73,8 @@ or a valid reason.</p>
 </li>
 </ul>
 <p><strong>5. Handphone Lockers Guidelines</strong>
-</p>
-<p>The school only allows P3 to P6 students to request for the use of handphone
+<br>
+<br>The school only allows P3 to P6 students to request for the use of handphone
 lockers in school. However, they must observe the restrictions concerning
 the use of handphones.</p>
 <ul data-tight="true" class="tight">
