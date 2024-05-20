@@ -70,10 +70,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Quake</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_kah_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jasmin Quek</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_jianfeng_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Lee</a>
 </p>
 </td>
 </tr>
@@ -86,26 +104,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fauziah Masod</a> 
 <br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD ICT
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Quake</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jianfeng_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Lee</a>
 </p>
 </td>
 </tr>
@@ -194,19 +192,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P2)</p>
+<p>SH Student Management &amp;
+<br>Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
+<p><a href="mailto:khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairul Lizan Ahmadjirony</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2 &amp; P3)</p>
+<p>Year Head (P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
+<p><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
 </p>
 </td>
 </tr>
@@ -221,29 +220,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3 &amp; P4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head (P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah Bte Md Yusoff</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Student Management &amp;
-<br>Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairul Lizan Ahmadjirony</a>
 </p>
 </td>
 </tr>
