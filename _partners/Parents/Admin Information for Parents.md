@@ -101,6 +101,13 @@ from your preferred insurer.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
 </div>
 <h3>Canteen Food Prices</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Edgefield_Primary_School___Price_List_of_Canteen_Food_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen food prices 2024</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Stall 1</strong>
 </p>
 <table style="minWidth: 50px">
