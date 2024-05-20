@@ -8,14 +8,18 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rabiathul_bazriya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rabiathul Bazriya</a>
+<p><a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rabiathul Bazriya</a>
 </p>
 </td>
 </tr>
@@ -24,7 +28,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shirley_leow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Leow</a>
+<p><a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Leow</a>
 </p>
 </td>
 </tr>
@@ -33,7 +37,7 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_chong_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Chong Ann</a>&nbsp;</p>
+<p><a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teh Chong Ann</a>&nbsp;</p>
 </td>
 </tr>
 </tbody>
