@@ -34,10 +34,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2 &amp; P3)</p>
+<p>Assistant Year Head (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari</a>
 </p>
 </td>
 </tr>
@@ -225,15 +234,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah Bte Md Yusoff</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari</a>
 </p>
 </td>
 </tr>
