@@ -25,6 +25,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Curriculum and<strong> </strong>Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gene Lim</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee Mei Ling</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,15 +70,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Quake</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD Curriculum and<strong> </strong>Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gene Lim</a>
 </p>
 </td>
 </tr>
@@ -105,16 +114,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee Mei Ling</a> 
-<br>
 </p>
 </td>
 </tr>
