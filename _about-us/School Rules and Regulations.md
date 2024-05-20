@@ -95,8 +95,7 @@ for the care of their own handphones.</p>
 <p>6.&nbsp;&nbsp;&nbsp; Students who breach the guidelines will have their
 handphones confiscated. Parents/ Guardians are required to come to school
 to collect the handphones.</p>
-<p><strong>6. Classroom Conduct</strong>
-</p>
+<p>7. Classroom Conduct</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Keep the classroom clean.</p>
@@ -121,8 +120,7 @@ classroom.</p>
 <p>Do not remain in the classroom without the presence of a teacher.</p>
 </li>
 </ul>
-<p><strong>7. Attire &amp; Appearance</strong>
-</p>
+<p>8. Attire &amp; Appearance</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All students of Edgefield Primary School have two official sets of school
@@ -159,8 +157,7 @@ and rings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hair%20neat.png">
 </div>
-<p><strong>8. Disciplinary Action</strong>
-</p>
+<p>9. Disciplinary Action</p>
 <p>Failure to comply with the Above Code of Conduct may result in corrective
 consequences stipulated in the school’s Discipline Case Management Guidelines.</p>
 <p>Depending on the severity of each disciplinary case, the following actions
@@ -185,8 +182,7 @@ may be taken by the school:</p>
 <p>Other actions (as deemed appropriate by the school)</p>
 </li>
 </ul>
-<p><strong>9. School’s Anti-Bullying Stand</strong>
-</p>
+<p>10. School’s Anti-Bullying Stand</p>
 <p>Bullying is a complex issue. It can be physical, verbal or social in nature.
 Bullying is defined based on ALL these distinct factors:</p>
 <ul data-tight="true" class="tight">
