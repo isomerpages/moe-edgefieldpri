@@ -343,8 +343,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Learner Profile - Lower Primary Learner)&nbsp;</p>
+<p>Senior Teacher - Lower Primary Learner&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_yin_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Low Yin Siang</a>
