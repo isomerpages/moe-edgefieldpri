@@ -339,16 +339,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Character
-<br>&amp; Citizenship Education&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Safi Shirbeeni</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher - Lower Primary Learner&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
