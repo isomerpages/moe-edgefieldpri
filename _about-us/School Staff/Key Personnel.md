@@ -244,6 +244,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lead Teacher Learning Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ling Yuan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Teacher&nbsp;Music
 <br>
 </p>
@@ -256,19 +265,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher Learning Needs</p>
+<p>Senior Teacher Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ling Yuan</a>
+<p><a href="mailto:tam_joon_chze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tam Joon Chze</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Tamil Language</p>
+<p>Senior Teacher Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shanti Moorthy</a>
+<p><a href="mailto:ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ham Choi Keng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Esther Lee</a>
 </p>
 </td>
 </tr>
@@ -283,10 +301,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Language</p>
+<p>Senior Teacher Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tam_joon_chze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tam Joon Chze</a>
+<p><a href="mailto:shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shanti Moorthy</a>
 </p>
 </td>
 </tr>
@@ -302,28 +320,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ham Choi Keng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_keok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yvonne Sim</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Esther Lee</a>
 </p>
 </td>
 </tr>
