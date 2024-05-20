@@ -8,8 +8,21 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Allied Educator (T&amp;L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mohamad_hafiz_abdul_azhiz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Hafiz</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
@@ -61,15 +74,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ng_zhong_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Zhong Ying</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mohamad_hafiz_abdul_azhiz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Hafiz</a>
 </p>
 </td>
 </tr>
