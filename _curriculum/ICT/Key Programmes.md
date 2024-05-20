@@ -90,10 +90,4 @@ environment. Curate, Create and Connect are ways of interacting in the
 digital networked environment. Regular engagement in these interactions
 will enable students to develop an understanding of the social practices
 (tacit norms and skills) governing the digital networked environment.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Literacy_Programme.png">
-</div>
 <p></p>
