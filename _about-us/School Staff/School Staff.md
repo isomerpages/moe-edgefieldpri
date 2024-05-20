@@ -3,5 +3,6 @@ title: School Staff
 permalink: /about-us/School-Staff/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
-![](/images/staff%20photos%202023.jpg)
+![](/images/Edgefield_staff.jpg)
