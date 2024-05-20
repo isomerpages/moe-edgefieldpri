@@ -55,11 +55,9 @@ to others is also not allowed.</p>
 </li>
 </ul>
 <p><strong>4. Personal belongings</strong>
-</p>
+<br>
+<br>Take personal responsibility for the security of your valuable belongings.</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Take personal responsibility for the security of your valuable belongings.</p>
-</li>
 <li>
 <p>Do not leave belongings lying unattended.</p>
 </li>
@@ -75,26 +73,37 @@ or a valid reason.</p>
 </li>
 </ul>
 <p><strong>5. Handphone Lockers Guidelines</strong>
-</p>
-<p>The school only allows P3 to P6 students to request for the use of handphone
+<br>
+<br>The school only allows P3 to P6 students to request for the use of handphone
 lockers in school. However, they must observe the restrictions concerning
 the use of handphones.</p>
-<p>1.&nbsp;&nbsp;&nbsp; Students are to use only prefixed number combination
-lock provided by the school.</p>
-<p>2.&nbsp;&nbsp;&nbsp; Sharing of the handphone lockers is strictly not
-allowed.</p>
-<p>3.&nbsp;&nbsp;&nbsp; Students are to deposit their switched-off handphones
-inside their handphone lockers upon arrival to school. Handphones are to
-be retrieved only after the last period of the day or after-school activities
-(such as support classes, CCA, etc), whichever is later.</p>
-<p>4.&nbsp;&nbsp;&nbsp; Students can only use their handphones after they
-exit the school premises.</p>
-<p>5.&nbsp;&nbsp;&nbsp; The school shall not be held responsible for any
-loss or damage to the students’ handphones. Students must be responsible
-for the care of their own handphones.</p>
-<p>6.&nbsp;&nbsp;&nbsp; Students who breach the guidelines will have their
-handphones confiscated. Parents/ Guardians are required to come to school
-to collect the handphones.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to use only prefixed number combination lock provided by
+the school.</p>
+</li>
+<li>
+<p>Sharing of the handphone lockers is strictly not allowed.</p>
+</li>
+<li>
+<p>Students are to deposit their switched-off handphones inside their handphone
+lockers upon arrival to school. Handphones are to be retrieved only after
+the last period of the day or after-school activities (such as support
+classes, CCA, etc), whichever is later.</p>
+</li>
+<li>
+<p>Students can only use their handphones after they exit the school premises.</p>
+</li>
+<li>
+<p>The school shall not be held responsible for any loss or damage to the
+students’ handphones. Students must be responsible for the care of their
+own handphones.</p>
+</li>
+<li>
+<p>Students who breach the guidelines will have their handphones confiscated.
+Parents/ Guardians are required to come to school to collect the handphones.</p>
+</li>
+</ul>
 <p><strong>6. Classroom Conduct</strong>
 </p>
 <ul data-tight="true" class="tight">
