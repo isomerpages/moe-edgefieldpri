@@ -5,7 +5,11 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -14,6 +18,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah&nbsp;Bte Md Yusoff</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
