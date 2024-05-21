@@ -12,17 +12,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About Fencing</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>This program aims to allow students to develop basic skills in the Olympic
 sport of Fencing in a safe, fun and engaging manner. Through games and
 the use of safe training aids, students will pick up the basic footwork,
-attacking and defending skills which are utilized in Fencing.
-<br>The CCA sessions are on Tuesdays 1415pm to 1545pm. Activities are held
+attacking and defending skills which are utilized in Fencing.</p>
+<p>The CCA sessions are on Tuesdays 1415pm to 1545pm. Activities are held
 in 2 classes (D2-01) and (D3-01)</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
