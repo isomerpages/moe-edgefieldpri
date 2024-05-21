@@ -12,29 +12,25 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About Gymnastics</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Gymnastics is an amazing sport that incorporates balance, strength, flexibility,
-agility and locomotion in almost every skills that the students learn.
-<br>
-<br>The movements involved in gymnastics contribute to the development of
+agility and locomotion in almost every skills that the students learn.</p>
+<p>The movements involved in gymnastics contribute to the development of
 the arms, legs, shoulders, back, chest and abdominal muscle groups. It
 is a fun way to learn about body awareness through skills such as the forward
-roll, cartwheel, handstand and many more.
-<br>
-<br>Gymnastics also serves as a good base for the students to get a good footing
-in every sports since gymnastics can be said to be the mother of all sports.
-<br>
-<br>Furthermore, gymnastics and sports in general help to improve the attentiveness
+roll, cartwheel, handstand and many more.</p>
+<p>Gymnastics also serves as a good base for the students to get a good footing
+in every sports since gymnastics can be said to be the mother of all sports.</p>
+<p>Furthermore, gymnastics and sports in general help to improve the attentiveness
 and focus of the students which helps with their learning and academic
-pursuits.
-<br>
-<br>Many life skills such as never giving up, teamwork, self-awarenness and
+pursuits.</p>
+<p>Many life skills such as never giving up, teamwork, self-awarenness and
 self-discipline are also a core of what make up gymnastics as a sport giving
 students valuable life lessons.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
