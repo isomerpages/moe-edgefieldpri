@@ -12,17 +12,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About Angklung and Kulintang</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Angklung and Kulintang Ensemble appeals to all students who enjoy music.
 It offers an engaging and meaningful musical experience for all ages. The
 CCA sessions are conducted on Tuesdays, 2.15pm to 4.15pm in the music room.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-Xdi3tLWSjY"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-Xdi3tLWSjY"></iframe>
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
