@@ -12,15 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About Rope Skipping</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Rope Skipping aims to develop students’ motor and language skills as they
 learn how to skip. The CCA sessions are on Tuesdays (for all pupils) and
 Fridays (school team) from 2.15p.m. – 4.15p.m. Activities are conducted
 in the school hall.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
