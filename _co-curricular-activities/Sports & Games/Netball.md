@@ -12,10 +12,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About Netball</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Netball is an all-girls sport that is played by two teams. Teams may include
 up to 12 players but only 7 may take the court at any one time. Each player
 will take on a position on court. A game consists of 4 x 10 minutes quarters
@@ -24,7 +24,7 @@ with an interval of 3 minutes after the first and third quarters and a
 goals as possible from within the Goal Circle. The CCA sessions are on
 Fridays (competition period), 2.00 – 4.00pm. Trainings are conducted in
 the indoor sports hall.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
