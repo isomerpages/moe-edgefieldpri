@@ -13,8 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>About</p>
-<p>Malay Dance</p>
+<p>About
+<br>Malay Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Dance is aimed for students who love to learn about the different
