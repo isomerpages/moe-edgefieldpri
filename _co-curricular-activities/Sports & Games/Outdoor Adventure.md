@@ -12,14 +12,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About ODAC</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Outdoor Adventure Club (ODAC) is aimed at students who love nature and
 the outdoors. The CCA sessions are on Fridays, 2.15pm – 3.45pm. Activities
 are conducted in an outdoor setting within the school.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
