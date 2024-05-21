@@ -12,15 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About EFPS Football CCA (Competitive)</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>EFPS Football CCA (Competitive) is aimed at students who love football
 and have the discipline and motivation to better themselves. The CCA sessions
 are on Tuesdays and Fridays, 2.15 – 4.15pm. CCA sessions take place at
 Punggol Secondary Field.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
