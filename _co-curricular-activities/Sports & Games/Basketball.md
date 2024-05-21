@@ -12,15 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About Basketball</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Basketball CCA teaches students the skills &amp; knowledge of the games
 and improves their focus to develop teamwork &amp; resilience as a player.
-Training schedules are on Tuesdays and Fridays,
-<br>2.15pm - 3.45pm at the ISH level 1 &amp; level 4.</p>
-</th>
+Training schedules are on Tuesdays and Fridays,</p>
+<p>2.15pm - 3.45pm at the ISH level 1 &amp; level 4.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
