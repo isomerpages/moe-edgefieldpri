@@ -12,13 +12,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>About CCA</p>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Track and Field is a sport that develops pupils in athletic movements
 such as running, throwing and jumping.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
