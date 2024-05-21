@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h3><strong>Moe Sexuality Education in Schools</strong>&nbsp;</h3>
+<h3>Moe Sexuality Education in Schools&nbsp;</h3>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 is about enabling students to understand the physiological, social and
 emotional changes they experience as they mature, develop healthy and rewarding
@@ -86,7 +86,13 @@ sex, and make wise, informed and responsible decisions on sexuality matters.</p>
 <p><strong>At Edgefield Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
 </p>
 <p>Primary 5</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -171,7 +177,13 @@ so that the students will feel more comfortable during the discussions.</p>
 </tbody>
 </table>
 <p>Primary 6</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

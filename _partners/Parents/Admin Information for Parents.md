@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
+<h3>Principal Letter</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_Principal_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a>
+</p>
+</li>
+</ul>
 <h3>Primary 1 Admin Matters 2024/Orientation Booklet</h3>
 <p></p>
 <ul data-tight="true" class="tight">
