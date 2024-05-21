@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/student%20care.jpeg">
 </div>
-<h2>Welcome to Whee!Canopus</h2>
+<h3>Welcome to Whee!Canopus</h3>
 <p>We are a premier school-based Student Care Centre (SCC) of choice that
 strives for excellence in character and education for your child.</p>
 <p>Equipped with more than 10 years of experience, well-trained teachers
@@ -17,10 +17,10 @@ of the leading partners for Student Care services at primary schools. We
 believe in establishing a collaborative environment with parents and schools.
 A strong partnership is an important catalyst in the development of our
 children.</p>
-<h2>Our Vision</h2>
+<h3>Our Vision</h3>
 <p>To become the Student Care Centre of choice that strives to develop students
 with good character and a love for learning.</p>
-<h2>Our Mission</h2>
+<h3>Our Mission</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>To help students to flourish in a safe and loving environment.</p>
@@ -34,7 +34,7 @@ and build up good character.</p>
 and strengths through experiential and outdoor learning.</p>
 </li>
 </ul>
-<h2>Our CORE VALUES</h2>
+<h3>Our CORE VALUES</h3>
 <p><strong>C</strong>are: Display care towards others</p>
 <p><strong>A</strong>wareness: Aware of students’ needs</p>
 <p><strong>N</strong>oble: Think and act based on strong moral values</p>
@@ -43,7 +43,7 @@ and strengths through experiential and outdoor learning.</p>
 partners</p>
 <p><strong>U</strong>nity: Trust in teamwork</p>
 <p><strong>S</strong>park: Instil fun in our programmes</p>
-<h2>Whee!Canopus Curriculum: Values-based Programme</h2>
+<h3>Whee!Canopus Curriculum: Values-based Programme</h3>
 <p>Whee!Canopus facilitates the learning and holistic development of students
 through an array of values-based programmes that incorporates the school’s
 values.</p>
