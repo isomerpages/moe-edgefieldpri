@@ -23,5 +23,10 @@ and attitudes for Scientific inquiry, but also apply scientific concepts
 and skills in making responsible decisions. With a mindset guided by the
 right values and ethics, they will also appreciate how Science influences
 people and the environment.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_2.jpg">
+</div>
 <p></p>
