@@ -47,6 +47,16 @@ fostering a growth mindset essential for future success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_2.jpg">
 </div>
+<h3>Innovation Programme</h3>
+<p>In the upper primary years, our students are well-equipped with the competencies
+required to invent solutions for real-world problems. Through the Innovation
+Programme, they identify and analyze issues, brainstorm innovative solutions,
+and iterate upon their ideas to develop practical solutions for the community.
+This hands-on approach empowers students to become proactive problem-solvers,
+capable of making meaningful contributions to their communities and beyond.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP_Programme.jpg">
+</div>
 <p></p>
 <p></p>
