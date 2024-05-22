@@ -22,6 +22,6 @@ interest, involvement, and literacy in Mathematics. The lessons and activities
 are largely inquiry-based and problem-centered. Students will be involved
 in more hands-on activities to solve problems.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E2K_Lessons.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E2K_Lessons__replace_this_with_Current_.jpg">
 </div>
 <p></p>
