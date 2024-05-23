@@ -30,6 +30,9 @@ third_nav_title: ICT
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_2.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_3.jpg">
+</div>
 <h3>Cyber Wellness</h3>
 <p>Cyber Wellness (CW) focuses on the well-being of our students as they
 navigate cyberspace. Our curriculum aims to equip students with the knowledge
