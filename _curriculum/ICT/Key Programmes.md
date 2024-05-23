@@ -10,16 +10,19 @@ third_nav_title: ICT
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EPFS_Computing_Programme.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_and_Chromebook.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_and_Chromebook__to_replace_current_.png">
 </div>
-<p></p>
 <h3>iPad for Learning</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_2__to_replace_current_.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_3__to_upload_.jpg">
+</div>
+<p></p>
 <h3>Chromebook for Learning</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_1.jpg">
