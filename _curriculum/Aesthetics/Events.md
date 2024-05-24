@@ -29,7 +29,10 @@ on the 4th floor also features key artists and styles from various periods
 of Western and Asian art. Here, students learn about art history and movements
 and are inspired by quotes from famous artists and artworks.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Exhibition.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Exhibition_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Exhibition_2.jpg">
 </div>
 <p></p>
 <h3>Learning Journey to Art Museum</h3>
