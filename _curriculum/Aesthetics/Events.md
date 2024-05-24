@@ -10,7 +10,16 @@ variant: tiptap
 like their parents and peers. These experiences empower students to collaborate
 and develop greater self-confidence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Alive.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Alive_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Alive_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Alive_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Alive_4.jpg">
 </div>
 <h3>Art Exhibition</h3>
 <p>As part of our efforts to celebrate students’ achievements and progress,
