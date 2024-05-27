@@ -38,7 +38,14 @@ and create beautiful, one-of-a-kind pieces. This module develops students’
 fine motor skills, fostering a sense of craftsmanship, and promoting artistic
 expression, giving students with a unique avenue for self-expression and
 creativity.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics__4_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics_3.jpg">
 </div>
 <p></p>
