@@ -25,7 +25,6 @@ identity based on a sense of belonging to the nation, a sense of hope in
 themselves and the future, an awareness of the reality of Singapore’s vulnerabilities
 and constraints, and the will to act on improving the lives of others,
 and building a future for our nation.</p>
-<p></p>
 <h3>CCE/FTGP</h3>
 <p>Character and Citizenship Education Form Teacher Guidance Period (FTGP)
 lessons involve the explicit teaching and learning of fundamental social-emotional
@@ -45,4 +44,20 @@ skills, and appreciate multiple perspectives, allowing them to be effective
 citizens as they better understand the interconnectedness of Singapore
 and the world they live in, and appreciate the complexities of the human
 experience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exploring_Spices.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Locating_different_parts_of_Singapore.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Role_play.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/social_studies.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Traditional_Games.jpg">
+</div>
+<p></p>
 <p></p>
