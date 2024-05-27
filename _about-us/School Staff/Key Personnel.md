@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2 &amp; P3)</p>
+<p>Assistant Year Head (P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
