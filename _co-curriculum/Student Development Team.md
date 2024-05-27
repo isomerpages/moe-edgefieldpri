@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Development.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_1.png">
 </div>
+<p></p>
 <h3>A Quality Edgefield Experience</h3>
 <p>The Student Development Team@Edgefield ensures a balanced and holistic
 school experience for all students, supporting their overall growth. Like
