@@ -7,8 +7,8 @@ variant: tiptap
 ---
 <h3>Arts Alive</h3>
 <p>Students have numerous opportunities to perform on stage to various audiences,
-like their parents and peers. These experiences empower students to collaborate
-and develop greater self-confidence.</p>
+like their parents and peers. These experiences empower &nbsp;students
+to collaborate and develop greater self-confidence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Alive_1.jpg">
 </div>
@@ -28,6 +28,9 @@ Alive and in a Mini Art Exhibition during NDP. This “Street CreARTe” corrido
 on the 4th floor also features key artists and styles from various periods
 of Western and Asian art. Here, students learn about art history and movements
 and are inspired by quotes from famous artists and artworks.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curiosity.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Exhibition_1.jpg">
 </div>
