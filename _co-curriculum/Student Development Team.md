@@ -25,34 +25,16 @@ journey ahead alongside others.</p>
 <p></p>
 <h3>A glimpse of Edgefield experiences across levels</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower%20primary%20experiences.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_4.png">
 </div>
-<p><strong>Learning Journeys</strong>&nbsp;– New Possibilities to learning
-<br>Every learning journey is a learning experience that injects life and
-meaning to what is taught in the classroom.</p>
-<p><strong>PAL Experience</strong>&nbsp;– Engaging, joyful and development
-of soft and social skills</p>
-<p><strong>Arts Alive</strong>&nbsp;– Developing passions in music, dance
-and drama</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Middle%20primary%20experiences.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_5.png">
 </div>
-<p><strong>CCA Showcase</strong>&nbsp;– Exploring their interests, harnessing
-their strengths and talents</p>
-<p><strong>Trip to National Gallery</strong>&nbsp;– Raising awareness of
-our rich history and learning to appreciate legacies</p>
-<p><strong>Musical experience</strong>&nbsp;– Exploring creative forms of
-expressions and seeing books ‘come alive’</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upper%20primary%20experiences.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_6.png">
 </div>
-<p><strong>P5 Joy of Learning Day</strong>&nbsp;– Instilling the love for
-learning through fun and creative activities</p>
-<p><strong>Overseas Trip</strong>&nbsp;– Connecting with students overseas,
-developing a sense of resilience and self-management skills while heightening
-their awareness of the cultures and practices in regional countries</p>
-<p><strong>P6 Grad Day</strong>&nbsp;– Celebrating accomplishments and cherishing
-fond memories before embarking on the next chapter in life</p>
+<p></p>
+<p></p>
 <h3>Supporting Student Well-Being</h3>
 <p>Students thrive best in an environment that is safe and where positive
 emotions flow. We do this by providing opportunities for all Edgefielders
