@@ -5,14 +5,18 @@ description: ""
 third_nav_title: School Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shirley_koh-tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shirley Koh</a>
+<p><a href="mailto: shirley_koh-tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shirley Koh</a>
 </p>
 </td>
 </tr>
@@ -21,7 +25,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="koh_tay_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Linda Koh</a>
+<p><a href="mailto: koh_tay_huay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Linda Koh</a>
 </p>
 </td>
 </tr>
@@ -30,7 +34,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chua_chiew_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Chua</a>
+<p><a href="mailto: chua_chiew_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Chua</a>
 </p>
 </td>
 </tr>
@@ -39,7 +43,7 @@ variant: tiptap
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_suriani_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Suriani</a>
+<p><a href="mailto: nur_suriani_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Suriani</a>
 </p>
 </td>
 </tr>
@@ -48,7 +52,7 @@ variant: tiptap
 <p>Admin Executive&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="hoe_bee_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jesline Hoe</a>&nbsp;</p>
+<p><a href="mailto: hoe_bee_lay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jesline Hoe</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +60,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="zahlan_md_yusop@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zahlan Yusop</a>
+<p><a href="mailto: zahlan_md_yusop@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zahlan Yusop</a>
 </p>
 </td>
 </tr>
