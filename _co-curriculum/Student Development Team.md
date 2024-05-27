@@ -33,14 +33,13 @@ journey ahead alongside others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_6.png">
 </div>
-<p></p>
-<p></p>
 <h3>Supporting Student Well-Being</h3>
 <p>Students thrive best in an environment that is safe and where positive
 emotions flow. We do this by providing opportunities for all Edgefielders
-to experience Positive emotions, promote student Engagement, build meaningful
-Relationships, understand the Meaning behind all that they do and celebrate
-their Accomplishments (PERMA).</p>
+to experience <strong>P</strong>ositive emotions, promote student <strong>E</strong>ngagement,
+build meaningful <strong>R</strong>elationships, understand the <strong>M</strong>eaning
+behind all that they do and celebrate their <strong>A</strong>ccomplishments
+(<strong>PERMA</strong>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT1.png">
 </div>
