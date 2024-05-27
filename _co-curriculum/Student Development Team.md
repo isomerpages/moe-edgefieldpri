@@ -20,8 +20,9 @@ journey ahead alongside others.</p>
 <p></p>
 <h3>Progressive focus areas</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Progressive%20focus%20areas.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_3.png">
 </div>
+<p></p>
 <h3>A glimpse of Edgefield experiences across levels</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower%20primary%20experiences.jpeg">
