@@ -44,7 +44,5 @@ and understanding about these issues, develop critical and reflective thinking
 skills, and appreciate multiple perspectives, allowing them to be effective
 citizens as they better understand the interconnectedness of Singapore
 and the world they live in, and appreciate the complexities of the human
-experience.
-<br>
-</p>
+experience.</p>
 <p></p>
