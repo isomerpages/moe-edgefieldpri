@@ -28,6 +28,13 @@ activities and play safely with respect to self and others.</p>
 </div>
 <h3>Empower</h3>
 <p>Students are given opportunities to apply, practice and demonstrate knowledge
-and skills based on knowledge of learning modalities, style preferences
-and intelligences; empowering them to collaborate in varying group sizes,
-and also providing independent activities for self-directed learning.</p>
+and skills based on the various learning modalities, style preferences
+and intelligences; empowering them to collaborate in varying group sizes
+and promote self-directed learning.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
