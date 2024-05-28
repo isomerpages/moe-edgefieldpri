@@ -31,10 +31,7 @@ activities and play safely with respect to self and others.</p>
 and skills based on the various learning modalities, style preferences
 and intelligences; empowering them to collaborate in varying group sizes
 and promote self-directed learning.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGE_Gymnastics_OK.jpg">
+</div>
 <p></p>
