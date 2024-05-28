@@ -70,9 +70,7 @@ resilience and gratitude.
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Dance leaders are empowered to guide their members in every session
-by modelling the way and lead the group towards excellence.
-<br>
-</p>
+by modelling the way and lead the group towards excellence.</p>
 </td>
 </tr>
 <tr>
