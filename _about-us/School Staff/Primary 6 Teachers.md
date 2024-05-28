@@ -31,17 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Love</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Koh Lay&nbsp;Kuan</a> 
-<br><a href="mailto:norman_selvaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Norman&nbsp;Selvaraju</a> 
-<br><a href="mailto:ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Ham&nbsp;Choi Keng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,12 +74,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Wisdom</p>
+<p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Parameswari</a> 
-<br><a href="mailto:noor_ellynda_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor&nbsp;Ellynda</a> 
-<br><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu&nbsp;Ming&nbsp;Che</a>
+<p><a href="mailto:koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Koh Lay&nbsp;Kuan</a> 
+<br><a href="mailto:norman_selvaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Norman&nbsp;Selvaraju</a> 
+<br><a href="mailto:ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Ham&nbsp;Choi Keng</a>
 </p>
 </td>
 </tr>
@@ -102,6 +91,18 @@ variant: tiptap
 <p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Juliana&nbsp;Ng</a> 
 <br><a href="mailto:lee_jianfeng_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Edmund&nbsp;Lee</a> 
 <br><a href="mailto:quek_kah_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jasmin&nbsp;Quek</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Wisdom</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Parameswari</a> 
+<br><a href="mailto:noor_ellynda_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor&nbsp;Ellynda</a> 
+<br><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu&nbsp;Ming&nbsp;Che</a>
 </p>
 </td>
 </tr>
