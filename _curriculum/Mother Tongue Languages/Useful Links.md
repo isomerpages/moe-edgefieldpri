@@ -19,6 +19,6 @@ booklist for Primary School
 <p>The Tamil Language Learning and Promotion Committee
 <br><a href="https://www.tllpc.sg/about-us" rel="noopener noreferrer nofollow" target="_blank">https://www.tllpc.sg/about-us</a>
 </p>
-<p><strong>ezhishi website for CL students</strong> 
+<p>ezhishi website for CL students
 <br><a href="http://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">http://www.ezhishi.net/Contents/</a>
 </p>
