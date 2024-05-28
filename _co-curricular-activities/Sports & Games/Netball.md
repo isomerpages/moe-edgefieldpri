@@ -73,10 +73,9 @@ to disseminate information to the rest of the team members.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Shanice Chia (Teacher-in-charge)
-<br>Mdm Koh Lay Kuan
-<br>Mrs Juliana Ng
-<br>Ms Koh Crystal</p>
+<p>Ms Koh Crystal (Teacher-in-charge)
+<br>Mdm Koh Lay Kuan (Teacher-in-charge)
+<br>Mrs Noor Haizah</p>
 </td>
 </tr>
 </tbody>
