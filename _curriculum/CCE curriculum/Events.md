@@ -106,25 +106,18 @@ Singapore’s future and the importance of&nbsp;<strong>inclusivity</strong>&nbs
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8180.jpg">
 </div>
 <p></p>
+<h3>National Day Theme 2024 | Together, As One United People</h3>
+<p>“Together, As One United People”&nbsp;is the theme for this year’s celebrations.
+It highlights the collective strength of our people and underscores the
+importance of every citizen rallying together to share our future and uplift
+those around us.</p>
+<p>The theme encapsulates the essence of our Nation’s&nbsp;<strong>success</strong>&nbsp;and&nbsp;<strong>resilience</strong>.
+While the road ahead is uncertain, our strength lies within our&nbsp;<strong>diversity</strong>.
+It reflects the spirit of&nbsp;<strong>Inclusivity</strong>,&nbsp;<strong>Community</strong>&nbsp;and&nbsp;<strong>Trust</strong>&nbsp;that
+has enabled us to overcome and flourish in the last 59 years despite the
+challenges.</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>overcome and flourish in the last 59 years despite the challenges.</p>
