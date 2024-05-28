@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2 &amp; P3)</p>
+<p>Assistant Year Head (P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
@@ -142,10 +142,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Science</p>
+<p>LH Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Teng</a>
+<p><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shu Ling</a>
 </p>
 </td>
 </tr>
@@ -160,19 +160,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Chinese&nbsp;</p>
+<p>LH Malay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shu Ling</a>
+<p><a href="mailto:wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Malay Language</p>
+<p>LH Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
+<p><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Teng</a>
 </p>
 </td>
 </tr>
@@ -256,7 +256,7 @@ variant: tiptap
 <p>Senior Teacher Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tam_joon_chze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tam Joon Chze</a>
+<p><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Esther Lee</a>
 </p>
 </td>
 </tr>
@@ -266,15 +266,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ham Choi Keng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Esther Lee</a>
 </p>
 </td>
 </tr>
@@ -311,7 +302,7 @@ variant: tiptap
 <p>Lead Teacher&nbsp;Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Jessica Lim</a> 
+<p><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Jessica Lim</a>
 </p>
 </td>
 </tr>
@@ -330,7 +321,7 @@ variant: tiptap
 <br>Physical Education&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Ming</a> 
+<p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Ming</a>
 </p>
 </td>
 </tr>

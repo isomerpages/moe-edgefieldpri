@@ -22,8 +22,15 @@ and scenes effectively. It also encourages creativity and self-expression,
 allowing students to explore their artistic side, boosting confidence as
 they showcase their skills to others.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photography.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photography1.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photography3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetic_Key_Programme_A.jpg">
+</div>
+<p></p>
 <h3>Ceramics</h3>
 <p>The ceramics module in the curriculum is designed to offer hands-on experience
 in clay sculpting and pottery, enabling students to unleash their imagination
@@ -31,7 +38,14 @@ and create beautiful, one-of-a-kind pieces. This module develops students’
 fine motor skills, fostering a sense of craftsmanship, and promoting artistic
 expression, giving students with a unique avenue for self-expression and
 creativity.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics__4_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramics_3.jpg">
 </div>
 <p></p>
