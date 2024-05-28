@@ -89,8 +89,7 @@ club.</p>
 <p>Miss Suhaila (Teacher-in-charge)
 <br>Mr Eugene Sim (Teacher-in-charge)
 <br>Mr Terence Wong
-<br>Mdm Melissa Yip
-<br>Mr David Yong</p>
+<br>Mr Ho Keng Huat</p>
 </td>
 </tr>
 </tbody>
