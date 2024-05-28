@@ -14,7 +14,7 @@ to reach their potential in mathematical mastery.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LSM_Lessons.png">
 </div>
-<p></p>
+<h3>E2K Lessons</h3>
 <p>The Excellence 2000 Programme caters to students with talents in Mathematics.
 Initiated in 2019, the programme is conceptualised as an enrichment programme
 to promote logical mathematical thinking. It aims to increase students’
