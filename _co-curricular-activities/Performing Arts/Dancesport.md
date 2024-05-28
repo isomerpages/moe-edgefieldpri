@@ -31,7 +31,7 @@ variant: tiptap
 <p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00 p.m. - 4.30 p.m.</p>
+<p>2.15 p.m. - 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. – 4.00 p.m.</p>
+<p>2.15 p.m. - 4.15p.m.</p>
 </td>
 </tr>
 </tbody>
