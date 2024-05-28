@@ -84,9 +84,9 @@ the opportunity to hone their leadership skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wirziana (Teacher-in-charge)
+<br>Mdm Tan Hwee Koon (Teacher-in-charge)
 <br>Mdm Koh Angela
-<br>Mdm Lee Xin Yi
-<br>Mdm Tan Hwee Koon</p>
+<br>Mdm Lee Xin Yi</p>
 </td>
 </tr>
 </tbody>
