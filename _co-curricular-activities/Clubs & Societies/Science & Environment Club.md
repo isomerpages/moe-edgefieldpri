@@ -87,7 +87,7 @@ club.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Suhaila (Teacher-in-charge)
-<br>Mr Eugene Sim
+<br>Mr Eugene Sim (Teacher-in-charge)
 <br>Mr Terence Wong
 <br>Mdm Melissa Yip
 <br>Mr David Yong</p>
