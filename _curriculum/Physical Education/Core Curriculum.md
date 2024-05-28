@@ -5,10 +5,14 @@ description: ""
 third_nav_title: Physical Education
 variant: tiptap
 ---
-<p>In the PE curriculum, students go through the EDGE learning process.</p>
+<h3>The Physical Education Curriculum</h3>
+<p>In the PE curriculum, students go through the EDGE Learning process.</p>
 <h3>Experience</h3>
 <p>Students get to experience a range of movement skills and participate
 in a variety of physical activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGE_Ball_OK.jpg">
+</div>
 <h3>Develop</h3>
 <p>The integrated experiences curated aim to develop students’ knowledge
 and skills.</p>
