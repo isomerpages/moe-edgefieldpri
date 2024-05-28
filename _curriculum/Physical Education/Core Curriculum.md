@@ -23,6 +23,9 @@ and skills.</p>
 <p>Students will learn to demonstrate positive personal/social character
 traits such as fair play, teamwork and sportsmanship in a variety of physical
 activities and play safely with respect to self and others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frisbee.jpg">
+</div>
 <h3>Empower</h3>
 <p>Students are given opportunities to apply, practice and demonstrate knowledge
 and skills based on knowledge of learning modalities, style preferences
