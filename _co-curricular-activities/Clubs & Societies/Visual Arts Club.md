@@ -76,7 +76,7 @@ in them as they are respected by their fellow juniors.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cindy Tan (Teacher-in-charge)
-<br>Ms Esther Lee
+<br>Ms Esther Lee (Teacher-in-charge)
 <br>Mrs Asri
 <br>Ms Winnie Ang
 <br>Mdm Koh Andrea</p>
