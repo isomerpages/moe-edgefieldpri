@@ -48,7 +48,7 @@ community.</p>
 school values consistently, recognise students for their effort, and to
 instil a culture of care around the school.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Pic1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Pic1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Pic2.png">
