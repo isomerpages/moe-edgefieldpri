@@ -88,8 +88,8 @@ them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Siew Hong, Jackie (Teacher-in-charge)
-<br>Mr Hendratno
-<br>Mdm Joyce Ham</p>
+<br>Mdm Joyce Ham (Teacher-in-charge)
+<br>Mr Hendratno</p>
 </td>
 </tr>
 </tbody>
