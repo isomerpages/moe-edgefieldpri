@@ -30,6 +30,8 @@ pursuits.</p>
 <p>Many life skills such as never giving up, teamwork, self-awarenness and
 self-discipline are also a core of what make up gymnastics as a sport giving
 students valuable life lessons.</p>
+<p></p>
+<p>The CCA sessions are on Tuesday, 2.15pm to 3.45pm</p>
 </td>
 </tr>
 <tr>
