@@ -191,7 +191,7 @@ training. This provides the opportunity to hone their leadership skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cher-Lim Gui Hao (Teacher-in-charge)
-<br>Mrs Yvonne Lim
+<br>Mrs Yvonne Lim (Teacher-in-charge)
 <br>Mdm Fu Dong
 <br>Mdm Jaseela Mohd
 <br>Mdm Khairiyanie Aziz
