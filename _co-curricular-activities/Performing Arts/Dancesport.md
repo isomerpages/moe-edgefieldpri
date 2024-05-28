@@ -20,7 +20,7 @@ variant: tiptap
 <p>Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m. – 4.15 p.m</p>
+<p>2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ variant: tiptap
 <p>Talent 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 p.m. - 4.15 p.m.</p>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Talent 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fridays</p>
+<p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 p.m. - 4.15p.m.</p>
