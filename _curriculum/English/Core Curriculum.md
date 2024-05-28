@@ -30,26 +30,30 @@ diverse information, and co-create solutions.</p>
 that demands clear communication, critical thinking, and the ability to
 connect with others.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/board_game_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning_using_iPad_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/collaborative_learning_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/classroom_activities_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_at_Edgefield_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/Picture3.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/noticeboard1.jpg">
 </div>
 <h3>Learning Support Programme</h3>
-<p>LSP is a specialised early intervention programme that aims to provide
-additional support in language and literacy skills in Primary 1 and 2.
-Students are identified through the Early Literacy Indicators, a group
-screening instrument developed by MOE, at the beginning of each year. Support
-in LSP is delivered through a daily withdrawal teaching programme conducted
-by specially trained teachers. Lessons are held daily for 30 minutes.</p>
-<h3>Reading Remediation Programme (RRP)</h3>
-<p>RRP is an intervention programme implemented at Primary 3 and 4. It aims
-to raise the reading competency of students who are not making sufficient
-progress in the development of literacy skills at the end of Primary 2
-at the word and text levels and are not dyslexic. Its objectives are to
-enable students to fluently read and comprehend grade-level texts.</p>
-<h3>School-based Dyslexia Remediation (SDR) Programme</h3>
-<p>SDR programme is a specialised literacy remediation programme for primary
-3 and 4 students with dyslexia. It aims to enable these students to become
-strategic decoders and spellers, flexible in the independent use of different
-strategies for reading, spelling and comprehension.</p>
+<p>P1 and P2: Learning Support Programme (LSP)</p>
+<p>P3 and P4: Reading Remediation Programme (RRP) and/or School-based Dyslexia
+Remediation Programme (SDR)</p>
+<p>*Selection of students are based on assessment through diagnostic tests
+to ascertain suitability for the above programmes</p>
+<p></p>
