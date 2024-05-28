@@ -83,10 +83,11 @@ the opportunity to hone their leadership skills.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Noorhaizah Abdul Rahim (Teacher-in-charge)
+<p>Mdm Wirziana (Teacher-in-charge)
 <br>Mdm Koh Angela
 <br>Mdm Lee Xin Yi
-<br>Mdm Wirziana</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
