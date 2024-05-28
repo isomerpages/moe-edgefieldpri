@@ -44,6 +44,11 @@ skills, and appreciate multiple perspectives, allowing them to be effective
 citizens as they better understand the interconnectedness of Singapore
 and the world they live in, and appreciate the complexities of the human
 experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exploring_Spices.jpg">
 </div>
