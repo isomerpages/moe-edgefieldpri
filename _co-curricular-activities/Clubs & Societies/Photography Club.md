@@ -108,9 +108,8 @@ team spirit, confidence and discipline.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Azlin Mustaffa(Teacher-in-charge)
-<br>Miss Angela Koh Min Min
-<br>Mr Christmas Lee
-<br>Mr Tham Joon Chze
+<br>Ms Juliana Natalia
+<br>Mdm Nor Ellynda
 <br>Mdm Zhang Fu Lei
 <br>
 </p>
