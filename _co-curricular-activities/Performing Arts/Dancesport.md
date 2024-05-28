@@ -196,7 +196,6 @@ training. This provides the opportunity to hone their leadership skills.</p>
 <br>Mdm Jaseela Mohd
 <br>Mdm Khairiyanie Aziz
 <br>Mdm Lim Lee Nah
-<br>Mdm Yvonne Lim
 <br>Mdm Yong Jia Fang</p>
 </td>
 </tr>
