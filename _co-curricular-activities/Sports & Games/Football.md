@@ -69,9 +69,9 @@ to follow.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wu Ming Che (Teacher-in-charge)
-<br>Mdm Koh Shanon
-<br>Mrs Noor Haizah</p>
+<p>Mr Norman (Teacher-in-charge)
+<br>Mr Shamsudin (Teacher-in-charge)
+<br>Ms Nor Natasha</p>
 </td>
 </tr>
 </tbody>
