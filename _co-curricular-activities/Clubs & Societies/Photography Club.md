@@ -107,7 +107,7 @@ team spirit, confidence and discipline.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Azlin Mustaffa(Teacher-in-charge)
+<p>Ms Azlin Mustaffa (Teacher-in-charge)
 <br>Ms Juliana Natalia
 <br>Mdm Nor Ellynda
 <br>Mdm Zhang Fu Lei
