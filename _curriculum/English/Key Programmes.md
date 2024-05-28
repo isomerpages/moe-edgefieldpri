@@ -50,9 +50,18 @@ that make words come alive, we aim to cultivate a love for reading while
 nurturing essential writing skills. We equip students to become confident
 readers and proficient writers, equipping them for academic success and
 beyond.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_in_the_classroom_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_at_Edgefield_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Storytelling_at_the_Foyer_OK.jpg">
+</div>
+<h3>KidsREAD</h3>
+<p>This is a structured programme aimed at supporting Primary 1 and 2 students
+with well-curated books and activities provided by NLB. The programme is
+implemented once a week after school for one hour.</p>
 <p></p>
 <p></p>
