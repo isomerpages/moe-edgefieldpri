@@ -39,5 +39,20 @@ Speed (PVLEGS©) as a guide to communicate effectively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Debate_round_OK.jpg">
 </div>
+<h3>Read Like a Reader, Read Like a Writer</h3>
+<p>In our school, where reading is a joyful adventure, ‘Read Like a Reader,
+Read Like a Writer’ is tailored to enrich our students’ literacy journey.
+Students become explorers of literature, approaching stories with a double
+lens. They first get lost in the magic as enthusiastic readers, then shift
+gears to learn from the author's craft as writers. Through engaging activities,
+lively discussions, and our vibrant reading culture, they unlock the secrets
+that make words come alive, we aim to cultivate a love for reading while
+nurturing essential writing skills. We equip students to become confident
+readers and proficient writers, equipping them for academic success and
+beyond.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
