@@ -10,6 +10,12 @@ variant: tiptap
 with well-curated books and activities provided by NLB. The programme is
 implemented once a week after school for one hour.</p>
 <h3>PVLEGS©</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster_1_OK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster_2_OK.jpg">
+</div>
 <p>The following oracy programmes aim to develop every Edgefielder an empathetic
 communicator. Adopting Erik Palmer's Six Traits of Speaking©, Edgefielders
 familiarise themselves with Poise, Voice, Life, Eye contact, Gestures and
@@ -33,14 +39,5 @@ Speed (PVLEGS©) as a guide to communicate effectively.</p>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/EL8.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/EL9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/EL10.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/EL12.png">
 </div>
 <p></p>
