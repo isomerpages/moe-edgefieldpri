@@ -16,6 +16,9 @@ in a variety of physical activities.</p>
 <h3>Develop</h3>
 <p>The integrated experiences curated aim to develop students’ knowledge
 and skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGE_StrikingFielding_OK.jpg">
+</div>
 <h3>Grow</h3>
 <p>Students will learn to demonstrate positive personal/social character
 traits such as fair play, teamwork and sportsmanship in a variety of physical
