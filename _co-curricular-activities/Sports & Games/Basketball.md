@@ -74,8 +74,8 @@ skills on court and in the real world.
 <br>Mr Chew Wei (Teacher-in-charge)
 <br>Mr Melvin Ow
 <br>Mr Norman
-<br>Mdm Pratibha Rai</p>
-<p>Mr Tam Joon Chze</p>
+<br>Mdm Pratibha Rai
+<br>Mr Tam Joon Chze</p>
 </td>
 </tr>
 </tbody>
