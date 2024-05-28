@@ -91,9 +91,9 @@ in the CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Hajar (Teacher-in-charge)
-<br>Mdm Koh Shannon
-<br>Mdm Nurafizah
-<br>Mdm Shanti</p>
+<br>Mdm Nurafizah (Teacher-in-charge)
+<br>Mdm Shanti
+<br>Mdm Salimah</p>
 </td>
 </tr>
 </tbody>
