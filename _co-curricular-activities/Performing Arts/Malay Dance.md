@@ -81,7 +81,7 @@ by modelling the way and lead the group towards excellence.
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Julieana Razek (Teacher-in-charge)
-<br>Mdm Nur Yanty Jumali</p>
+<br>Mdm Nur Yanty Jumali (Teacher-in-charge)</p>
 </td>
 </tr>
 </tbody>
