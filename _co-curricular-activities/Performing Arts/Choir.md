@@ -93,7 +93,7 @@ experiences provide them the opportunity to hone their leadership skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Manju Manoj (Teacher-in-charge)
-<br>Mrs Ng-Low Yin Siang</p>
+<br>Mrs Ng-Low Yin Siang (Teacher-in-charge)</p>
 </td>
 </tr>
 </tbody>
