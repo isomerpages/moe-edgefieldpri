@@ -15,7 +15,6 @@ as they tackle a series of stimulating challenges. With exciting prizes,
 friendly competition, and a supportive atmosphere, the Mental Sums Challenge
 is not only a test of arithmetic skill but also a celebration of mathematical
 passion and determination.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental_Sums_Challenge.jpg">
 </div>
