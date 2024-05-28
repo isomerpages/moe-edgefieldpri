@@ -77,22 +77,15 @@ instil a culture of care around the school.</p>
 to explore their Singaporean identity through heritage, culture and the
 arts, and to complement and achieve the syllabus objectives of the CCE,
 Social Studies (Primary) and History curricula.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
