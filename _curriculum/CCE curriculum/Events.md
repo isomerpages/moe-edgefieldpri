@@ -117,7 +117,7 @@ It reflects the spirit of&nbsp;<strong>Inclusivity</strong>,&nbsp;<strong>Commun
 has enabled us to overcome and flourish in the last 59 years despite the
 challenges.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP_2024_Logo.png">
+</div>
 <p></p>
-<p></p>
-<p></p>
-<p>overcome and flourish in the last 59 years despite the challenges.</p>
