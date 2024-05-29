@@ -106,7 +106,4 @@ Services to mentor and befriend our students.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18__need_to_blur_nametag_.jpg">
-</div>
 <p></p>
