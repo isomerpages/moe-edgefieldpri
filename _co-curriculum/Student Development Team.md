@@ -86,7 +86,16 @@ life skills, self-management skills and school values through various exciting
 and engaging activities.</p>
 <p>This year, we are collaborating with CITY (Character In The Young) Community
 Services to mentor and befriend our students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
