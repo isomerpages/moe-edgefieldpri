@@ -59,23 +59,18 @@ their interest in a one-year dancesport course.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA4.jpg">
 </div>
+<h3>Empower – CCA Programme for Students to Pursue Further</h3>
+<p>Students who have gone through the enrichment programme can then select
+to join Dancesport as their CCA.</p>
+<p></p>
+<p></p>
 <p>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 </p>
 <p></p>
 <p></p>
 <p></p>
-<p>further their interest in a one-year dancesport course.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA4.jpg">
-</div>
+<p></p>
 <p></p>
