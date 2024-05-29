@@ -66,7 +66,7 @@ instil a culture of care around the school.</p>
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic6.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Star_Edgefin_Page_for_School_Diary_2024_V2__coloured_.jpg">
