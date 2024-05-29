@@ -19,27 +19,27 @@ coordination, and a love for physical activity. It's a day of laughter,
 excitement, and plenty of energy!</p>
 <p><strong><u>Middle Primary (P3 and P4)</u></strong>
 </p>
-<p>SwimSafer 2.0</p>
-<p>As part of our commitment to promoting water safety and swimming skills,
+<p>SwimSafer 2.0
+<br>As part of our commitment to promoting water safety and swimming skills,
 we participate in the SwimSafer programme. This initiative helps students
 learn essential swimming techniques and water survival skills. The programme
 is both educational and enjoyable, ensuring that our students are confident
 and safe in the water.&nbsp;</p>
-<p>Day Trip to Jacob Ballas Children's Garden</p>
-<p>Students in Primary 3 will enjoy an educational and active day trip to
+<p>Day Trip to Jacob Ballas Children's Garden
+<br>Students in Primary 3 will enjoy an educational and active day trip to
 Jacob Ballas Children's Garden. This outing combines physical activity
 with environmental education, allowing students to explore nature and learn
 about plants and ecosystems.</p>
 <p><strong><u>Upper Primary (P5 and P6)</u></strong>
 </p>
-<p>P5 Camp</p>
-<p>Our Primary 5 students embark on an exciting camp adventure that focuses
+<p>P5 Camp
+<br>Our Primary 5 students embark on an exciting camp adventure that focuses
 on building leadership, teamwork, and outdoor skills. The P5 Camp is a
 memorable experience where students participate in activities like high
 challenge course, journeys and team-building exercises. It's an excellent
 opportunity for personal growth and making lasting memories.</p>
-<p>&nbsp;Inter-class Games</p>
-<p>Upper primary students will also take part in Inter-class Games, where
+<p>Inter-class Games
+<br>Upper primary students will also take part in Inter-class Games, where
 they compete in various sports and games against their peers from other
 classes. This event promotes friendly competition, teamwork, and school
 spirit.</p>
@@ -60,6 +60,15 @@ enjoy, participate, and excel in them.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JCB3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5Camp1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5Camp2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5Camp3.jpg">
 </div>
 <p></p>
 <p></p>
