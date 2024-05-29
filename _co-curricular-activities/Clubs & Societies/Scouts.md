@@ -103,7 +103,7 @@ working alongside the Prefects.</p>
 <p>Ms Tan Shuling (Teacher-in-charge)
 <br>Ms Tay Ru Jun (Teacher-in-charge)
 <br>Ms Wulandari Sukma
-<br>Mdm Lee Xin Yi
+<br>Ms Lee Xin Yi
 <br>Ms Cai Xiang Yu</p>
 </td>
 </tr>
