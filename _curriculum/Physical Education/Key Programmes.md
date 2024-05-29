@@ -43,10 +43,10 @@ through exploration, creation and performance.</p>
 <p>Students are introduced games-related concepts such as Striking &amp;
 Fielding which involves both fundamental and specialised skills and movement
 concepts.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Strike_fielding_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Striking_Fielding_2.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>specialised skills and movement concepts.</p>
