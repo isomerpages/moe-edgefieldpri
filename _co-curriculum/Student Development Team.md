@@ -75,8 +75,12 @@ undergo specialized training to become more adept at skills required for
 all three PSR domains.</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18__need_to_blur_nametag_.jpg">
 </div>
 <h3>I-Am-Possible Programme</h3>
 <p>I Am Possible is a school programme that aims to develop the holistic
@@ -85,7 +89,6 @@ life skills, self-management skills and school values through various exciting
 and engaging activities.</p>
 <p>This year, we are collaborating with CITY (Character In The Young) Community
 Services to mentor and befriend our students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20.jpg">
 </div>
