@@ -73,6 +73,7 @@ undergo specialized training to become more adept at skills required for
 all three PSR domains.</p>
 </li>
 </ul>
+<h3>Peer Support Relationships</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_new.jpg">
 </div>
