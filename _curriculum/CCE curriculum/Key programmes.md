@@ -48,16 +48,16 @@ community.</p>
 school values consistently, recognise students for their effort, and to
 instil a culture of care around the school.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Pic1.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Pic2.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Pic3.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Pic4.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic4.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic5.png">
