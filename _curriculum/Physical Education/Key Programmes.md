@@ -21,6 +21,12 @@ of the risks and safety of self and others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OE_in_PE_3.jpg">
 </div>
+<h3>Gymnastics</h3>
+<p>Gymnastics enhances overall body management and control through creative
+interpretation of movement and sequence. The learning experience starts
+within the boundaries of open-ended tasks, and progressively moves into
+more stylised gymnastic movements.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
