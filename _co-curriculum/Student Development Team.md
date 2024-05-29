@@ -55,28 +55,9 @@ help.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_8.png">
 </div>
-<h3>2 Tiers of Implementation for PSR</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tier 1 programmes are for all students. Every student can be a peer supporter
-with explicit teaching of basic PSR knowledge and skills, and provision
-of opportunities for students to demonstrate PSR.</p>
-</li>
-</ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_9.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tier 2 programmes are for selected Peer Support Leaders (PSLs). PSLs make
-up one of the main student leadership bodies in our school. These leaders
-undergo specialized training to become more adept at skills required for
-all three PSR domains.</p>
-</li>
-</ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/16.jpg">
 </div>
