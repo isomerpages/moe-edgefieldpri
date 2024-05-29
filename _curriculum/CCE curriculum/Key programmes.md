@@ -60,10 +60,10 @@ instil a culture of care around the school.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Pic4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Pic5.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Pic6.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Pic6.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture.jpg">
