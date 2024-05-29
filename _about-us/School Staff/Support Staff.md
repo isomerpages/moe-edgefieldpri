@@ -34,7 +34,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eunice_tan_siew_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunica Tan</a>
+<p><a href="mailto:eunice_tan_siew_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunice Tan</a>
 </p>
 </td>
 </tr>
