@@ -4,6 +4,47 @@ permalink: /signature-programmes/learning-for-life-programmes/dance-llp/
 description: ""
 variant: tiptap
 ---
+<h3>Learning for Life Programme : Dance</h3>
+<p>In delivering holistic education with values inculcation and development
+of 21st century competencies, the Dance learning for life programme is
+designed with the following objectives:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inculcate values of respect, team spirit and self-discipline</p>
+</li>
+<li>
+<p>Instill social graciousness</p>
+</li>
+<li>
+<p>Develop self-confidence, determination, motivation and perseverance</p>
+</li>
+<li>
+<p>Develop leadership capacity through collaboration&nbsp;</p>
+</li>
+</ul>
+<p>The tiered-programme enables students to further pursue their interest
+in dance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier.png">
+</div>
+<h3>Engage – Curriculum Programme for All</h3>
+<p>All students go through 6 years of dances module in Performing Arts and
+Physical Education curriculum leading to the graduation ball at the end
+of Primary 6. Using the EDGE Approach, the programme is designed to achieve
+the objectives of the LLP.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Engage_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Engage_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Engage3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Engage4.jpg">
+</div>
+<p></p>
 <h3>Dance LLP</h3>
 <p><strong><em>Objectives of Dance LLP:</em></strong>
 </p>
