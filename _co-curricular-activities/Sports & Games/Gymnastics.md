@@ -30,6 +30,8 @@ pursuits.</p>
 <p>Many life skills such as never giving up, teamwork, self-awarenness and
 self-discipline are also a core of what make up gymnastics as a sport giving
 students valuable life lessons.</p>
+<p></p>
+<p>The CCA sessions are on Tuesday, 2.15pm to 3.45pm</p>
 </td>
 </tr>
 <tr>
@@ -86,8 +88,8 @@ them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Siew Hong, Jackie (Teacher-in-charge)
-<br>Mr Hendratno
-<br>Mdm Joyce Ham</p>
+<br>Mdm Joyce Ham (Teacher-in-charge)
+<br>Mr Hendratno</p>
 </td>
 </tr>
 </tbody>

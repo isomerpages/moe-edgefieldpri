@@ -92,9 +92,8 @@ experiences provide them the opportunity to hone their leadership skills.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus Sim (Teacher-in-charge)
-<br>Mrs Manju Manoj
-<br>Mdm Salimah Haniffa</p>
+<p>Mrs Manju Manoj (Teacher-in-charge)
+<br>Mrs Ng-Low Yin Siang (Teacher-in-charge)</p>
 </td>
 </tr>
 </tbody>

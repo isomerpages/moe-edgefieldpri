@@ -41,7 +41,7 @@ build meaningful <strong>R</strong>elationships, understand the <strong>M</stron
 behind all that they do and celebrate their <strong>A</strong>ccomplishments
 (<strong>PERMA</strong>).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15_51.jpg">
 </div>
 <h3>Peer Support Relationships</h3>
 <p>In line with the CCE 2021 Curriculum Framework, our school has established
@@ -52,20 +52,17 @@ sense of relatedness goes a long way in increasing their motivation to
 attend school. As students learn to look out for one another, PSR also
 serves as an extra layer of safety net for our children when they require
 help.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_8.png">
-</div>
 <h3>2 Tiers of Implementation for PSR</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tier 1 programmes are for all students. Every student can be a peer supporter
 with explicit teaching of basic PSR knowledge and skills, and provision
 of opportunities for students to demonstrate PSR.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_8.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,10 +72,22 @@ undergo specialized training to become more adept at skills required for
 all three PSR domains.</p>
 </li>
 </ul>
+<h3>Peer Support Relationships</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_new.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18__need_to_blur_nametag_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19.jpg">
+</div>
 <h3>I-Am-Possible Programme</h3>
 <p>I Am Possible is a school programme that aims to develop the holistic
 potential of selected students in our school. Here, students are taught
@@ -87,6 +96,14 @@ and engaging activities.</p>
 <p>This year, we are collaborating with CITY (Character In The Young) Community
 Services to mentor and befriend our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>

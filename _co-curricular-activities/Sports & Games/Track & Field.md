@@ -77,9 +77,9 @@ Managers.
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Sum (Teacher In-Charge)
-<br>Mrs Charn Ve’Joy
-<br>Mr. Chin Sing Loong Denis
-<br>Mr Sebastian Ooi</p>
+<br>Mr Denis Chin (Teacher In-Charge)
+<br>Mrs Charn Ve’Joy (Teacher In-Charge)
+<br>Mdm Tan Hwee Koon</p>
 </td>
 </tr>
 </tbody>

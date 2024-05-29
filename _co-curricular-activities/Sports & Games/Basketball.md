@@ -70,11 +70,12 @@ skills on court and in the real world.
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr James Ling (Teacher-in-charge)
-<br>Mr Chew Wei
-<br>Mr Melvn Ow
+<p>Mr Wu Ming (Teacher-in-charge)
+<br>Mr Chew Wei (Teacher-in-charge)
+<br>Mr Melvin Ow
 <br>Mr Norman
-<br>Mdm Pratibha Rai</p>
+<br>Mdm Pratibha Rai
+<br>Mr Tam Joon Chze</p>
 </td>
 </tr>
 </tbody>

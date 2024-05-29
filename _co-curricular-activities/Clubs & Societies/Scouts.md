@@ -100,11 +100,11 @@ working alongside the Prefects.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shuling(Teacher-in-charge)
-<br>Ms Tay Ru Jun
-<br>Ms Judith Goh
-<br>Mr Duane Chan
-<br>Ms Wulandari Sukma</p>
+<p>Ms Tan Shuling (Teacher-in-charge)
+<br>Ms Tay Ru Jun (Teacher-in-charge)
+<br>Ms Wulandari Sukma
+<br>Mdm Lee Xin Yi
+<br>Ms Cai Xiang Yu</p>
 </td>
 </tr>
 </tbody>
