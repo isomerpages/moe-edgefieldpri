@@ -39,6 +39,12 @@ through exploration, creation and performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_2.jpg">
 </div>
+<h3>Striking &amp; Fielding</h3>
+<p>Students are introduced games-related concepts such as Striking &amp;
+Fielding which involves both fundamental and specialised skills and movement
+concepts.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
