@@ -26,7 +26,9 @@ of the risks and safety of self and others.</p>
 interpretation of movement and sequence. The learning experience starts
 within the boundaries of open-ended tasks, and progressively moves into
 more stylised gymnastic movements.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gym_1.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
