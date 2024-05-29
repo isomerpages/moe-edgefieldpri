@@ -10,13 +10,13 @@ variant: tiptap
 of our students. Our PE programme is designed to be inclusive, engaging,
 and fun, ensuring that every child can participate and grow. Here are the
 key events we have planned for each level this year:</p>
-<p><strong><u>Lower Primary (P1 and P2) Sports Carnival</u></strong>
+<p><strong><u>Lower Primary (P1 and P2) Sports Carnival</u></strong> 
 <br>Our annual Sports Carnival is a fun-filled event where our youngest students
 participate in a variety of games and activities. From throwing and catching
 activities to dribbling games, this event is designed to encourage teamwork,
 coordination, and a love for physical activity. It's a day of laughter,
 excitement, and plenty of energy!</p>
-<p><strong><u>Middle Primary (P3 and P4)</u></strong>
+<p><strong><u>Middle Primary (P3 and P4)</u></strong> 
 <br>SwimSafer 2.0
 <br>As part of our commitment to promoting water safety and swimming skills,
 we participate in the SwimSafer programme. This initiative helps students
@@ -28,7 +28,7 @@ and safe in the water.&nbsp;</p>
 Jacob Ballas Children's Garden. This outing combines physical activity
 with environmental education, allowing students to explore nature and learn
 about plants and ecosystems.</p>
-<p><strong><u>Upper Primary (P5 and P6)</u></strong>
+<p><strong><u>Upper Primary (P5 and P6)</u></strong> 
 <br>P5 Camp
 <br>Our Primary 5 students embark on an exciting camp adventure that focuses
 on building leadership, teamwork, and outdoor skills. The P5 Camp is a
@@ -42,7 +42,6 @@ classes. This event promotes friendly competition, teamwork, and school
 spirit.</p>
 <p>We are excited about these events and look forward to seeing our students
 enjoy, participate, and excel in them.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Carnival_1.jpg">
 </div>
