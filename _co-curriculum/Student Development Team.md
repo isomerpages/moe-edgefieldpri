@@ -41,8 +41,9 @@ build meaningful <strong>R</strong>elationships, understand the <strong>M</stron
 behind all that they do and celebrate their <strong>A</strong>ccomplishments
 (<strong>PERMA</strong>).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15_5__need_to_blur_nametag_.jpg">
 </div>
+<p></p>
 <h3>Peer Support Relationships</h3>
 <p>In line with the CCE 2021 Curriculum Framework, our school has established
 a Peer Support Relationship (PSR) structure. PSR is critical for building
