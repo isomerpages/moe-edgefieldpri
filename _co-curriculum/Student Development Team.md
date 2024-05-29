@@ -52,24 +52,24 @@ sense of relatedness goes a long way in increasing their motivation to
 attend school. As students learn to look out for one another, PSR also
 serves as an extra layer of safety net for our children when they require
 help.</p>
+<h3>2 Tiers of Implementation for PSR</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tier 1 programmes are for all students. Every student can be a peer supporter
+with explicit teaching of basic PSR knowledge and skills, and provision
+of opportunities for students to demonstrate PSR.</p>
+<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_8.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18__need_to_blur_nametag_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h3>I-Am-Possible Programme</h3>
 <p>I Am Possible is a school programme that aims to develop the holistic
