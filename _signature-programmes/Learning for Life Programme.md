@@ -53,6 +53,9 @@ their interest in a one-year dancesport course.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA2.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA3.jpg">
+</div>
 <p>
 <br>
 <br>
@@ -65,3 +68,7 @@ their interest in a one-year dancesport course.</p>
 <p></p>
 <p></p>
 <p>further their interest in a one-year dancesport course.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA3.jpg">
+</div>
+<p></p>
