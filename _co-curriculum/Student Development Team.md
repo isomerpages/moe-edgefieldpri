@@ -64,8 +64,17 @@ of opportunities for students to demonstrate PSR.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_8.png">
 </div>
-<p></p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tier 2 programmes are for selected Peer Support Leaders (PSLs). PSLs make
+up one of the main student leadership bodies in our school. These leaders
+undergo specialized training to become more adept at skills required for
+all three PSR domains.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_new.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
