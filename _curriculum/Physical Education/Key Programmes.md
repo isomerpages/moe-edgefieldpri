@@ -33,8 +33,12 @@ more stylised gymnastic movements.</p>
 <p>Dance in PE develops in students an understanding of rhythmic movement.
 It also enables students to express and communicate feelings and ideas
 through exploration, creation and performance.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_2.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
