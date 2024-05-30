@@ -16,7 +16,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="han.sheng.chong@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Han Sheng</a>
+<p><a href="mailto:han.sheng.chong@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Han Sheng</a>
 </p>
 </td>
 </tr>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nh.binte.misran@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nordiyana Hazirah</a>
+<p><a href="mailto:nh.binte.misran@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nordiyana Hazirah</a>
 </p>
 </td>
 </tr>
@@ -34,7 +34,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="eunice_tan_siew_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunica Tan</a>
+<p><a href="mailto:eunice_tan_siew_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Eunice Tan</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Science Laboratory Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="khoo_ban_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jennifer Khoo</a>
+<p><a href="mailto:khoo_ban_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jennifer Khoo</a>
 </p>
 </td>
 </tr>

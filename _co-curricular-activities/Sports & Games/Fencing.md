@@ -82,8 +82,8 @@ provides the opportunity for them to mentor and grow their leadership skills.</p
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahira Begum Abdul Rahman
-<br>Mdm Louisa Koh Kim Lian</p>
+<p>Mdm Zahira Begum Abdul Rahman (Teacher In-Charge)
+<br>Mdm Louisa Koh Kim Lian (Teacher In-Charge)</p>
 </td>
 </tr>
 </tbody>

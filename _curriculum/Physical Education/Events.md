@@ -3,26 +3,70 @@ title: Events
 permalink: /curriculum/Physical-Education/events/
 description: ""
 third_nav_title: Physical Education
+variant: tiptap
 ---
-## Confidence on wheels
-A programme initiated by LTA designed for cyclists and users of personal mobility devices (PDMs) who ride on public space. It features interactive elements, including a riding circuit, that challenges the students to make sound decisions in simulated scenarios on paths, maintain better situational awareness while riding and ride more confidently and safely.
-
-  
-
-## Blood Pressure (BP) Initiative @ Schools programme
-A programme initiated by Singapore Heart Foundation designed as a health education in-situ workshop for the Primary 5 students. It aims to help students better understand the health of their heart through blood pressure reading, make better food choices and lead a healthier lifestyle.
-
-  
-
-## Kidney Health Education Bus (Ongoing)
-A programme initiated by NKF designed to guide the students on the right path to healthier eating and living habits through interactive exhibits and augmented reality.
-
-  
-
-## P5 Camp (Sem 2)
-
-## Lower Primary Sports Day (Sem 2)
-
-## Upper Primary Interclass (Sem 2)
-
-## Upper Primary Interclass (Sem 2)
+<h3>Key Events in Physical Education</h3>
+<p>We believe that physical activity is essential for the overall development
+of our students. Our PE programme is designed to be inclusive, engaging,
+and fun, ensuring that every child can participate and grow. Here are the
+key events we have planned for each level this year:</p>
+<p><strong><u>Lower Primary (P1 and P2) Sports Carnival</u></strong> 
+<br>Our annual Sports Carnival is a fun-filled event where our youngest students
+participate in a variety of games and activities. From throwing and catching
+activities to dribbling games, this event is designed to encourage teamwork,
+coordination, and a love for physical activity. It's a day of laughter,
+excitement, and plenty of energy!</p>
+<p><strong><u>Middle Primary (P3 and P4)</u></strong> 
+<br>SwimSafer 2.0
+<br>As part of our commitment to promoting water safety and swimming skills,
+we participate in the SwimSafer programme. This initiative helps students
+learn essential swimming techniques and water survival skills. The programme
+is both educational and enjoyable, ensuring that our students are confident
+and safe in the water.&nbsp;</p>
+<p>Day Trip to Jacob Ballas Children's Garden
+<br>Students in Primary 3 will enjoy an educational and active day trip to
+Jacob Ballas Children's Garden. This outing combines physical activity
+with environmental education, allowing students to explore nature and learn
+about plants and ecosystems.</p>
+<p><strong><u>Upper Primary (P5 and P6)</u></strong> 
+<br>P5 Camp
+<br>Our Primary 5 students embark on an exciting camp adventure that focuses
+on building leadership, teamwork, and outdoor skills. The P5 Camp is a
+memorable experience where students participate in activities like high
+challenge course, journeys and team-building exercises. It's an excellent
+opportunity for personal growth and making lasting memories.</p>
+<p>Inter-class Games
+<br>Upper primary students will also take part in Inter-class Games, where
+they compete in various sports and games against their peers from other
+classes. This event promotes friendly competition, teamwork, and school
+spirit.</p>
+<p>We are excited about these events and look forward to seeing our students
+enjoy, participate, and excel in them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Carnival_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Carnival_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JCB1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JCB2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JCB3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5Camp1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5Camp2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5Camp3.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
