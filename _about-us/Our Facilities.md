@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>The School Facade</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities_new_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities_new_6.jpg">
 </div>
 <h3>Special rooms and facilities</h3>
 <div class="isomer-image-wrapper">
