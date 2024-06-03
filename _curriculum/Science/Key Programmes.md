@@ -77,9 +77,8 @@ scientists possess.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7145_OK.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_05_at_3_38_21_PM_OK.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
