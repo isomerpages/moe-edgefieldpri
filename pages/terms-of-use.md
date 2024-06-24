@@ -4,9 +4,7 @@ permalink: /terms-of-use/
 variant: tiptap
 ---
 <h3><strong>General Terms and Conditions on the Use of the Isomer Pages Website</strong></h3>
-<p><strong>Terms of Use</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>Terms of Use&nbsp;</strong>
 </p>
 <p>Thank you for visiting Edgefield Primary School. By accessing and using
 this Web Site, you shall be deemed to have accepted to be legally bound
