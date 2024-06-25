@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Parents/.keep
       - Parents/School Bus Service.md
       - Parents/Useful information for P5P6 parents.md
