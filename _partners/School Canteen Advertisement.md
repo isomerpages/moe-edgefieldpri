@@ -19,8 +19,9 @@ a hardcopy from the School’s General Office.</p>
 <p>* Photocopy of the NRIC (front and back)</p>
 <p>* List of proposed menu and pricing for all items</p>
 <p>* Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
-<p></p>
+etc
+<br>
+</p>
 <p>3. Submit the completed application form and documents by closing date
 via email OR to the School's General Office.</p>
 <p>Address: 41 Edgefield Plains S828869</p>
