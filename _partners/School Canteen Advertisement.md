@@ -30,8 +30,9 @@ via email OR to the School's General Office.</p>
 <p>Contact Person: Mrs Shirley Koh</p>
 <p>How to get there?</p>
 <p>Nearest MRT: Punggol MRT (NE line) – 15 minutes walking distance</p>
-<p>Bus number: 136, 371 - 1 minute walking distance</p>
-<p></p>
+<p>Bus number: 136, 371 - 1 minute walking distance
+<br>
+</p>
 <p><strong>Interest applicants must meet the following criteria:</strong>
 </p>
 <p>* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
@@ -42,9 +43,9 @@ in consultation with the school.</p>
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
 Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</p>
 <p>* Able to maintain high standard of food safety and personal hygiene.</p>
-<p>* Healthy and fit to operate the stall.</p>
-<p></p>
-<p></p>
+<p>* Healthy and fit to operate the stall.
+<br>
+</p>
 <p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <p>* Successful applicant and stall assistant(s) must possess the WSQ Basic
@@ -52,7 +53,6 @@ Food Hygiene Certificate.</p>
 <p>* Possess catering experience or experience operating in a school environment.</p>
 <p>* Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA).</p>
-<p></p>
 <p></p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
