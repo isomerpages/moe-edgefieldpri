@@ -15,8 +15,8 @@ description: ""
 a hardcopy from the School’s General Office.</p>
 <p><a href="/files/Application_for_canteen_stalls.pdf" rel="noopener noreferrer nofollow" target="_blank">: download Application form here</a>
 </p>
-<p></p>
-<p>2. Attached the following documents together with the application form:</p>
+<p>
+<br>2. Attached the following documents together with the application form:</p>
 <p>* Photocopy of the NRIC (front and back)</p>
 <p>* List of proposed menu and pricing for all items</p>
 <p>* Photocopy of relevant certificates such as Basic Food Hygiene Course,
