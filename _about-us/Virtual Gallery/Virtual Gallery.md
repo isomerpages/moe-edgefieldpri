@@ -18,10 +18,11 @@ emphasizing not just on academic excellence, but on social, moral and leadership
 development. Our pioneer batch of P6 pupils obtained 100% passes in the
 2013 PSLE.</p>
 <h3>Past Principals</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pastprincipals.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vgallery.jpg">
 </div>
+<p></p>
+<p></p>
 <h3>Artefacts, Symbols &amp; Traditions</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The%20dolphins.png">
