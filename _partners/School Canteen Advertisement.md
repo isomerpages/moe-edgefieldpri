@@ -26,7 +26,7 @@ etc
 via email OR to the School's General Office.</p>
 <p>Address: 41 Edgefield Plains S828869</p>
 <p>Contact No: 63126091</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">edgefield_ps@moe.edu.sg</a>
+<p>Email: <a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">edgefield_ps@moe.edu.sg</a>
 </p>
 <p>Contact Person: Mrs Shirley Koh</p>
 <p>How to get there?</p>
@@ -42,7 +42,7 @@ and stall assistant.</p>
 in consultation with the school.</p>
 <p>* Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</p>
+Programme (HMSP)" guidelines (see (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Link</a>).</p>
 <p>* Able to maintain high standard of food safety and personal hygiene.</p>
 <p>* Healthy and fit to operate the stall.
 <br>
