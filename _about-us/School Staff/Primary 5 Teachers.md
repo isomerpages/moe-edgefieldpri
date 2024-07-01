@@ -71,8 +71,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Norsinah&nbsp;Suadi</a> 
 <br><a href="mailto:ow_weng_wai_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Melvin&nbsp;Ow</a> 
-<br><a href="mailto:lu_yangfan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Lu Yangfan</a>
-</p>
+<br>Mdm Sun Shwu Ping</p>
 </td>
 </tr>
 <tr>
