@@ -112,6 +112,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sarina_shariman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a> 
 <br><a href="mailto:koo_siew_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koo Siew Ping</a>
+<br><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Lye</a>
 </p>
 </td>
 </tr>
