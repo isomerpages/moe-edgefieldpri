@@ -78,7 +78,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:manoj_kumar_gupta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Manju&nbsp;Manoj</a> 
-<br><a href="mailto:low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Doreen&nbsp;Low</a> 
+<br><a href="mailto:Lee_Foong_Chee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Fong Chee</a>
 <br><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessica&nbsp;Chew</a>
 </p>
 </td>
@@ -89,7 +89,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessie Yeo</a> 
-<br><a href="mailto:euk_shin_james_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;James Ling</a> 
+<br><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Judith Goh</a>
 <br><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Esther Lee</a>
 </p>
 </td>
