@@ -66,6 +66,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_wing_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Terence Wong</a> 
 <br><a href="mailto:zahira_begum_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zahira&nbsp;Begum Abdul Rahman</a>
+<br><a href="mailto:lu_yangfan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lu Yangfan</a>
 </p>
 </td>
 </tr>
