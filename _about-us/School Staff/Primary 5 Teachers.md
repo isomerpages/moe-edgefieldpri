@@ -48,7 +48,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Alfiah&nbsp;Bte Md Yusoff</a> 
-<br><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Judith&nbsp;Goh</a> 
+<br><a href="mailto:sim_ming_quan_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marcus Sim</a>
 <br><a href="mailto:tam_joon_chze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Tam&nbsp;Joon Chze</a>
 </p>
 </td>
@@ -71,8 +71,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Norsinah&nbsp;Suadi</a> 
 <br><a href="mailto:ow_weng_wai_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Melvin&nbsp;Ow</a> 
-<br><a href="mailto:lu_yangfan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Lu Yangfan</a>
-</p>
+<br>Mdm Sun Shwu Ping</p>
 </td>
 </tr>
 <tr>

@@ -69,6 +69,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_lee_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Lim Lee Nah</a> 
 <br><a href="mailto:joyce_choo_lay_yien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Joyce Choo</a>
+<br><a href="mailto:lee_xin_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Xin Yi</a>
 </p>
 </td>
 </tr>
@@ -78,7 +79,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:manoj_kumar_gupta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Manju&nbsp;Manoj</a> 
-<br><a href="mailto:low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Doreen&nbsp;Low</a> 
+<br><a href="mailto:Lee_Foong_Chee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Fong Chee</a>
 <br><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessica&nbsp;Chew</a>
 </p>
 </td>
@@ -89,7 +90,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessie Yeo</a> 
-<br><a href="mailto:euk_shin_james_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;James Ling</a> 
+<br><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Judith Goh</a>
 <br><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Esther Lee</a>
 </p>
 </td>
@@ -112,6 +113,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sarina_shariman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a> 
 <br><a href="mailto:koo_siew_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koo Siew Ping</a>
+<br><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Lye</a>
 </p>
 </td>
 </tr>
