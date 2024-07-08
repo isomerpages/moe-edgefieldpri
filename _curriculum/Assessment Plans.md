@@ -4,7 +4,13 @@ permalink: /curriculum/assessment-plans/
 description: ""
 variant: tiptap
 ---
-<h3>Assessment Plans for 2024<br>Term 2</h3>
+<h3>Assessment Plans for 2024<br><br>Semester 2</h3>
+<p><a href="/files/2024_Sem_2_Assessment_Schedule___P4_.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<h3>Term 2</h3>
 <p><a href="/files/2024_T2_Assessment_Schedule___P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 T2 Assessment Schedule - P3</a> 
 <br><a href="/files/2024_T2_Assessment_Schedule___P4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 T2 Assessment Schedule - P4</a> 
 <br><a href="/files/2024_T2_Assessment_Schedule___P5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 T2 Assessment Schedule - P5</a> 
