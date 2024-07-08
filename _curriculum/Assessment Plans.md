@@ -5,9 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Assessment Plans for 2024<br><br>Semester 2</h3>
-<p><a href="/files/2024_Sem_2_Assessment_Schedule___P4_.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
-</p>
 <p></p>
+<p><a href="/files/2024_Sem_2_Assessment_Schedule___P3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+</p>
+<p><a href="/files/2024_Sem_2_Assessment_Schedule___P4_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+</p>
 <p></p>
 <p></p>
 <h3>Term 2</h3>
