@@ -2,5 +2,6 @@
 title: School Corporate Video
 permalink: /about-us/school-corporate-video/
 description: ""
+variant: markdown
 ---
-<iframe width="860" height="515" src="https://www.youtube.com/embed/Ps36aTscacA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NMaNtrSa744?si=emR-VMDpw_AwTylo" height="315" width="560"></iframe>
