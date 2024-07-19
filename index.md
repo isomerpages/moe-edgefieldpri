@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/carousel (n1).gif
+      background: /images/FINAL_website_banner.jpg
 ---
