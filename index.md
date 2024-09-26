@@ -14,4 +14,5 @@ sections:
       button: Click here
       url: https://www.edgefieldpri.moe.edu.sg/about-us/school-corporate-video/
       image: /images/Primary_1.png
+      alt: School Corporate Video
 ---
