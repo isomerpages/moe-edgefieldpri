@@ -13,14 +13,13 @@ variant: tiptap
 </li>
 </ul>
 <h3>Primary 1 Admin Matters 2024/Orientation Booklet</h3>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://online.fliphtml5.com/hqnzl/yvqx/#p=1" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Orientation Booklet</a>
+<p><a href="/files/P1_Orientation_Admin_Talk_by_YH.pdf" rel="noopener nofollow" target="_blank">2024 P1 Orientation Booklet</a>
 </p>
 </li>
 <li>
-<p><a href="/files/P1_Parents_Sharing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Parents Sharing 2024</a>
+<p><a href="/files/P1_Orientation_P_s_Talk.pdf" rel="noopener nofollow" target="_blank">P1 Parents Sharing 2024</a>
 </p>
 </li>
 </ul>
