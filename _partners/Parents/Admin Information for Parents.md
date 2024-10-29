@@ -18,8 +18,6 @@ variant: tiptap
 <p><a href="/files/P1_Orientation_Admin_Talk_by_YH.pdf" rel="noopener nofollow" target="_blank">2024 P1 Orientation Booklet</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P1_Orientation_P_s_Talk.pdf" rel="noopener nofollow" target="_blank">P1 Parents Sharing 2024</a>
 </p>
