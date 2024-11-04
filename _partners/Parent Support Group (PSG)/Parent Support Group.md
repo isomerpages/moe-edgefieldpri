@@ -45,17 +45,3 @@ Follow us on&nbsp;[Instagram](https://instagram.com/efps_psg?igshid=YmMyMTA2M2Y=
 
 
 
-<img src="/images/Buddy%20Reading%202.jpeg" style="width:70%">
-		 <img src="/images/Buddy%20Reading.jpeg" style="width:70%">
-		 <img src="/images/C_Library_03.jpg" style="width:70%">
-		 <img src="/images/English%20BR%201.jpg" style="width:70%">
-		 <img src="/images/English%20BR%202.jpg" style="width:70%">
-		 	 <img src="/images/English%20BR%203.jpg" style="width:70%">
-		  <img src="/images/English%20BR%204.jpg" style="width:70%">		 		 
-			<img src="/images/Gardens%20Outing%202019%20(1).jpg" style="width:70%">
-<img src="/images/Sports%20Carnival%201.jpg" style="width:70%">
-<img src="/images/Sports%20Carnival%203.jpg" style="width:70%">
-<img src="/images/Sports%20Carnival%204.jpg" style="width:70%">		 	
-<img src="/images/Sports%20Carnival%202.jpg" style="width:70%">	
-<img src="/images/Workshop%202.jpeg" style="width:70%">		 		 
-<img src="/images/Workshop2.jpg" style="width:70%">
