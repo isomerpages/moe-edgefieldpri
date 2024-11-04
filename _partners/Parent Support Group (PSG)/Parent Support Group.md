@@ -35,6 +35,14 @@ Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ec
 
 Follow us on&nbsp;[Instagram](https://instagram.com/efps_psg?igshid=YmMyMTA2M2Y=) to find out more about us and our activities.
 
+![](/images/Photo1.jpg)
+
+![](/images/2.jpg)
+
+
+
+
+
 
 
 <img src="/images/Buddy%20Reading%202.jpeg" style="width:70%">
