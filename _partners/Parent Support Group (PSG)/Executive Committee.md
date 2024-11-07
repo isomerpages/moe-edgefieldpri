@@ -16,13 +16,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Thoughts 1" src="/images/Thoughts_1.png">
 </div>
-<p>Thoughts 1</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Thoughts 2" src="/images/Thoughts_2.png">
 </div>
-<p>Thoughts 2</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Thoughts 3" src="/images/Thoughts_3.png">
 </div>
-<p>Thoughts 3</p>
+<p></p>
