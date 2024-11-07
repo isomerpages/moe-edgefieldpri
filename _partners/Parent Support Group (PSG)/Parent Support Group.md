@@ -29,7 +29,7 @@ Through activities like Buddy Reading, Mother Tongue Fortnight and community eve
 We encourage all parents to be actively involved in the school activities and everyone is welcome to come on board!
 
 ![PSG Family](/images/PSG_Family.jpg)
-PSG Family
+
 
 Please click [[here](https://docs.google.com/forms/d/e/1FAIpQLSeKs6n11d3kmMw47ecn68jTPNjB8bl6F8lCKUcOQ2Y8geHieA/viewform?embedded=true)] to join our parent support group today!
 
@@ -38,10 +38,3 @@ Follow us on&nbsp;[Instagram](https://instagram.com/efps_psg?igshid=YmMyMTA2M2Y=
 ![](/images/Photo1.jpg)
 
 ![](/images/2.jpg)
-
-
-
-
-
-
-
