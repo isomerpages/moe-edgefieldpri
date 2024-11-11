@@ -15,7 +15,7 @@ variant: tiptap
 <h3>Primary 1 Admin Matters 2024/Orientation Booklet</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/P1_Orientation_Admin_Talk_by_YH.pdf" rel="noopener nofollow" target="_blank">2024 P1 Orientation Booklet</a>
+<p><a href="/files/Latest_P1_Orientation_Admin_Talk_2024.pdf" rel="noopener nofollow" target="_blank">2024 P1 Orientation Book</a>
 </p>
 </li>
 <li>
