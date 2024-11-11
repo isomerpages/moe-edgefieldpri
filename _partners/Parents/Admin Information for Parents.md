@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Booklist 2024</h3>
+<h3>Booklist 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/EFPS_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
