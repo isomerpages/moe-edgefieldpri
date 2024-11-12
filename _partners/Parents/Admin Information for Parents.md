@@ -23,38 +23,38 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Booklist 2024</h3>
+<h3>Booklist 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/EFPS_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2024</a>
+<p><a href="/files/EFPS_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2024</a>
+<p><a href="/files/EFPS_P2_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2024</a>
+<p><a href="/files/EFPS_P3_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2024</a>
+<p><a href="/files/EFPS_P4_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2024</a>
+<p><a href="/files/EFPS_P5_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P5_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 FDN Booklist 2024</a>
+<p><a href="/files/EFPS_P5__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 FDN Booklist 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2024</a>
+<p><a href="/files/EFPS_P6_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P6_FDN.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2024</a>
+<p><a href="/files/EFPS_P6__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2025</a>
 </p>
 </li>
 </ul>
