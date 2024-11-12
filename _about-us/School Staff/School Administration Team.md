@@ -60,15 +60,6 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: zahlan_md_yusop@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zahlan Yusop</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_yusri_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yusri Osman</a>
 </p>
 </td>
