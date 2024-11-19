@@ -40,15 +40,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: nur_suriani_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Suriani</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Admin Executive&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
