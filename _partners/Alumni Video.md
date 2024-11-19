@@ -11,6 +11,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/QRCODESignup.jpg">
 </div>
-<p><strong>     Link to registration: <a href="https://forms.gle/ksHU3NEn8Pt5ZgvG8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/ksHU3NEn8Pt5ZgvG8</a></strong>
+<p><strong>                                 Link to registration: <a href="https://forms.gle/ksHU3NEn8Pt5ZgvG8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/ksHU3NEn8Pt5ZgvG8</a></strong>
 </p>
 <p></p>
