@@ -16,15 +16,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_hafiz_abdul_azhiz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Hafiz</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
