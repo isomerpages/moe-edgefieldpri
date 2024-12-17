@@ -17,8 +17,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a>
-</p>
-<p><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruzanna Supar</a>
+<br><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruzanna Supar</a>
 </p>
 </td>
 </tr>
