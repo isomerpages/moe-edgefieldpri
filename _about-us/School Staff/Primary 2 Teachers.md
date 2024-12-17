@@ -35,7 +35,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ong_Ve_Joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Charn (Ong Ve Joy)</a> 
-<br><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bernard Foo Kwee Joo</a> 
+<br><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bernard Foo Kwee Joo</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Low_YIN_SIANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Yin Siang</a> 
-<br><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaseela Mohamed Noorul Ameen</a> 
+<br><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaseela Mohamed Noorul Ameen</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Loo Kum Yok</a> 
 <br><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a> 
-<br>
 </p>
 </td>
 </tr>
