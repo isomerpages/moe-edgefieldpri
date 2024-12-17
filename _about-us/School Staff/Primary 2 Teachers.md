@@ -13,24 +13,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +80,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Loo Kum Yok</a> 
-<br><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a> 
+<br><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a>
 </p>
 </td>
 </tr>
