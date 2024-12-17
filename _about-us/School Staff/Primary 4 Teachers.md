@@ -13,24 +13,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Chettiar</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Melissa Lee (Yip Cheng Han)</a> 
-<br><a href="mailto:Chin_SINGLOONG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis Chin Singloong</a> 
+<br><a href="mailto:Chin_SINGLOONG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis Chin Singloong</a>
 </p>
 </td>
 </tr>
