@@ -13,15 +13,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah&nbsp;Bte Md Yusoff</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,9 +60,9 @@ variant: tiptap
 <p>5 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jenesta Chua ( Koh Lay  Kuan)</a> 
+<p><a href="mailto:koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jenesta Chua ( Koh Lay Kuan)</a> 
 <br><a href="mailto:tay_chu_yong_damien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Damien Tay Chu Yong</a>
-<br><a href="mailto:hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Mohamed Eunos</a> 
+<br><a href="mailto:hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Mohamed Eunos</a>
 </p>
 </td>
 </tr>
@@ -81,7 +72,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_hajar_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Kamaruddin</a> 
-<br><a href="mailto:koh_hui_ting_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Crystal  Koh Hui Ting</a> 
+<br><a href="mailto:koh_hui_ting_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Crystal Koh Hui Ting</a> 
 <br><a href="mailto:ili_sakinah_sarwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ili Sakinah Sarwan</a>
 </p>
 </td>
