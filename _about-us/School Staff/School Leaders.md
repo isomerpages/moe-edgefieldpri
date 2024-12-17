@@ -28,7 +28,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Leow</a>
+<p><a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Yap Lih Min</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Yap Lih Min </a>
+<p><a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Pey San</a>
 </p>
 </td>
 </tr>
