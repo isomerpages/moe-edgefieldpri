@@ -49,7 +49,7 @@ variant: tiptap
 <p><a href="mailto:Shiu_KWOK_TUNG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Patrick Shiu Kwok Tung</a> 
 <br><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hwee Khoon</a>
 </p>
-<p><a href="mailto:shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shamsulbadariah Hussein  </a>
+<p><a href="mailto:shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shamsulbadariah Hussein</a>
 </p>
 </td>
 </tr>
@@ -61,6 +61,7 @@ variant: tiptap
 <p><a href="mailto:koh_kim_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Louisa Koh Kim Lian</a> 
 <br><a href="mailto:ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Ng Kwang Ming</a>
 </p>
+<p></p>
 <p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Ming Che</a>
 </p>
 </td>
