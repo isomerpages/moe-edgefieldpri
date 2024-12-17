@@ -31,89 +31,75 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Charity</p>
+<p>2 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi</a> 
-<br><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Ruzanna&nbsp;Supar</a> 
-<br><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Hwee Khoon</a>
+<p><a href="mailto:Ong_Ve_Joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Charn (Ong Ve Joy)</a> 
+<br><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bernard Foo Kwee Joo</a> 
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Faith</p>
+<p>2 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:benazir_begam_samusu_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Benazir Begam</a> 
-<br><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Janice Cai</a> 
-<br><a href="mailto:koh_kim_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Louisa Koh</a>
+<p><a href="mailto:Low_YIN_SIANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Yin Siang</a> 
+<br><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaseela Mohamed Noorul Ameen</a> 
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Grace</p>
+<p>2 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Adeline&nbsp;Chew</a> 
-<br><a href="mailto:ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Ng</a> 
-<br><a href="mailto:nurafizah_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Nurafizah&nbsp;Othman</a>
+<p><a href="mailto:Zahidah_Mohamed_Nizar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zahidah Mohamed Nizar</a> 
+<br><a href="mailto:ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Esther Lee Siew Kian</a> 
+<br><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng Cheong Zsen</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Hope</p>
+<p>2 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lee_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Lim Lee Nah</a> 
-<br><a href="mailto:joyce_choo_lay_yien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Joyce Choo</a>
-<br><a href="mailto:lee_xin_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Xin Yi</a>
+<p><a href="mailto:Wulandari_Sukma_Muhammad_Rahiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wee (Wulandari Sukma)</a> 
+<br><a href="mailto:chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jessica Lim (Chew Wei)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Joy</p>
+<p>2 KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manoj_kumar_gupta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Manju&nbsp;Manoj</a> 
-<br><a href="mailto:Lee_Foong_Chee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Fong Chee</a>
-<br><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessica&nbsp;Chew</a>
+<p><a href="mailto:chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chia Peishan</a> 
+<br><a href="mailto:Lee_Foong_Chee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Xiao Yan</a>
+<br><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Idayu Dewi</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Love</p>
+<p>2 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Jessie Yeo</a> 
-<br><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Judith Goh</a>
-<br><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Esther Lee</a>
+<p><a href="mailto:teo_suat_ching_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Tan Teo Suat Ching</a> 
+<br><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
+<br><a href="mailto:lee_siew_kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng (Lee Mei Ling)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Patience</p>
+<p>2 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_gui_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Lim Gui Hao</a> 
-<br><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loo Kum Yok</a> 
-<br><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Wisdom</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sarina_shariman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a> 
-<br><a href="mailto:koo_siew_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koo Siew Ping</a>
-<br><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Lye</a>
+<p><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Loo Kum Yok</a> 
+<br><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Shariman</a> 
+<br>
 </p>
 </td>
 </tr>
