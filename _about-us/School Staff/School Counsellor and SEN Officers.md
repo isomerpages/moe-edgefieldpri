@@ -46,7 +46,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chia_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charlene Ong Chia Leng</a>
+<p><a href="mailto:ong_chia_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Chia Leng Charlene</a>
 </p>
 </td>
 </tr>
