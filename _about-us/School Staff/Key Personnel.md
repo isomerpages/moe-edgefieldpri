@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><s>School Staff Developer </s>
+<p><s>School Staff Developer</s>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,7 +169,7 @@ variant: tiptap
 <p>LH English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng   </a>
+<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng</a>
 </p>
 </td>
 </tr>
@@ -278,10 +278,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Chinese Language</p>
+<p><s>Senior Teacher Chinese Language</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ham Choi Keng</a>
+<p><s><a href="mailto:ham_choi_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ham Choi Keng</a></s>
 </p>
 </td>
 </tr>
