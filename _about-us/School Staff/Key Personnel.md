@@ -14,18 +14,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer
-<br>
+<p><s>School Staff Developer </s>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsinah Suadi</a>
+<p><s><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsinah Suadi</a></s>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Curriculum and<strong> </strong>Innovation</p>
+<p>HOD 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gene Lim</a>
@@ -43,19 +42,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD ICT</p>
+<p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Quake</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Joyce Tan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue</p>
+<p>HOD EDTECH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_kah_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jasmin Quek</a>
+<p><a href="mailto:tay_chu_yong_damien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Damien Tay</a>
 </p>
 </td>
 </tr>
@@ -70,10 +69,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE/CCA</p>
+<p>HOD Mother Tongue &amp; CCE (MT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_azhari_shahri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Muhammad Azhari</a>
+<p><a href="mailto:shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shanti d/o Kulantaipian</a>
+<br><a href="mailto:idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Idayu Dewi</a>
 </p>
 </td>
 </tr>
@@ -88,55 +88,70 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P2)</p>
+<p><s>Year Head (P1 &amp; P2)</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
+<p><s><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a></s>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 &amp; P4)</p>
+<p><s>Year Head (P3 &amp; P4)</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vairavan_uthaman_chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
+<p><s><a href="mailto:vairavan_uthaman_chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a></s>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 &amp; P6)</p>
+<p><s>Year Head (P5 &amp; P6)</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah Bte Md Yusoff</a>
+<p><s><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah Bte Md Yusoff</a></s>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P1 &amp; P2)</p>
+<p><s>Assistant Year Head (P1 &amp; P2)</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
+<p><s><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a></s>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3 &amp; P4)</p>
+<p><s>Assistant Year Head (P3 &amp; P4)</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+<p><s><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a></s>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P6)</p>
+<p><s>Assistant Year Head (P6)</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari</a>
+<p><s><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari</a></s>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee Mei Ling</a>
 </p>
 </td>
 </tr>
@@ -145,7 +160,7 @@ variant: tiptap
 <p>LH Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shu Ling</a>
+<p><a href="mailto:loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi Wei Ling</a>
 </p>
 </td>
 </tr>
@@ -154,7 +169,7 @@ variant: tiptap
 <p>LH English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng</a>
+<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng   </a>
 </p>
 </td>
 </tr>
@@ -196,7 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT
+<p>SH EDTECH
 <br>
 </p>
 </td>
@@ -207,10 +222,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Outdoor Education</p>
+<p><s>SH Outdoor Education</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Idayu Dewi</a>
+<p><s><a href="mailto:idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Idayu Dewi</a></s>
 </p>
 </td>
 </tr>
