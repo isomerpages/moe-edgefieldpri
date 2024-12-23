@@ -147,15 +147,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Lee Mei Ling</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
