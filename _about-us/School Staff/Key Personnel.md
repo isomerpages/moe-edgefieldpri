@@ -14,16 +14,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><s>School Staff Developer</s>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><s><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsinah Suadi</a></s>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,6 +73,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fauziah Masod</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD TLC / SWBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norsinah Suadi</a>
 </p>
 </td>
 </tr>
