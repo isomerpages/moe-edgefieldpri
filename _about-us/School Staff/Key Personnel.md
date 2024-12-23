@@ -87,61 +87,55 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><s>Year Head (P1 &amp; P2)</s>
-</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><s><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a></s>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><s>Year Head (P3 &amp; P4)</s>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><s><a href="mailto:vairavan_uthaman_chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a></s>
+<p><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><s>Year Head (P5 &amp; P6)</s>
-</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><s><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah Bte Md Yusoff</a></s>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><s>Assistant Year Head (P1 &amp; P2)</s>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><s><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a></s>
+<p><a href="mailto:vairavan_uthaman_chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><s>Assistant Year Head (P3 &amp; P4)</s>
-</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><s><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a></s>
+<p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng Cheong Zsen</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><s>Assistant Year Head (P6)</s>
-</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><s><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari</a></s>
+<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari D O Sambasivam</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lim_Gui_Hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cher (Lim Gui Hao)</a>
 </p>
 </td>
 </tr>
