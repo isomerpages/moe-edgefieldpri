@@ -147,28 +147,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Chinese&nbsp;</p>
+<p>LH&nbsp;Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi Wei Ling</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng (Natalia Lee Osman)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Malay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
+<p><a href="mailto:pang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Xiao Yan</a>
 </p>
 </td>
 </tr>
@@ -178,6 +160,43 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:benazir_begam_samusu_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Benazir Begam D O Samusu Malik</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Student Management &amp;
+<br>Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairul Lizan Ahmadjirony</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Chinese&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi Wei Ling</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng (Natalia Lee Osman)</a>
 </p>
 </td>
 </tr>
@@ -210,41 +229,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH&nbsp;Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Xiao Yan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH EDTECH
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low Hui Lin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><s>SH Outdoor Education</s>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><s><a href="mailto:idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Idayu Dewi</a></s>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Student Management &amp;
-<br>Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairul Lizan Ahmadjirony</a>
 </p>
 </td>
 </tr>
