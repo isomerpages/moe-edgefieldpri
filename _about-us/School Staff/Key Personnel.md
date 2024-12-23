@@ -229,9 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH EDTECH
-<br>
-</p>
+<p>SH EDTECH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low Hui Lin</a>
