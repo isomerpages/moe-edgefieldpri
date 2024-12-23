@@ -147,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Chinese&nbsp;</p>
+<p>SH Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi Wei Ling</a>
@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH English</p>
+<p>SH English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng (Natalia Lee Osman)</a>
@@ -165,7 +165,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Malay</p>
+<p>SH Malay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wirziana Abdul Wahab</a>
@@ -174,7 +174,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Science</p>
+<p>LH Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:benazir_begam_samusu_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Benazir Begam D O Samusu Malik</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Lye</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Teng Sze Chun</a>
