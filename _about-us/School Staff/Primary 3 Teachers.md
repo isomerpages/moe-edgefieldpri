@@ -13,80 +13,65 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>3 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Chettiar</a>
+<p><a href="mailto:chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Adeline Chew Ng Xiang Min</a> 
+<br><a href="mailto:Lee_Xin_Yi_A_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Jin Yu ( Lee Xin Yi )</a>
+<br><a href="mailto:khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairul Lizan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>3 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+<p><a href="mailto:Shiu_KWOK_TUNG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Patrick Shiu Kwok Tung</a> 
+<br><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Hwee Khoon</a>
+<br><a href="mailto:shamsulbadariah_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shamsulbadariah Hussein</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Charity</p>
+<p>3 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Patrick&nbsp;Shiu</a> 
-<br><a href="mailto:teo_suat_ching_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs&nbsp;Cindy&nbsp;Tan</a>
+<p><a href="mailto:koh_kim_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Louisa Koh Kim Lian</a> 
+<br><a href="mailto:ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Ng Kwang Ming</a>
+<br><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Ming Che</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Faith</p>
+<p>3 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Melissa Yip</a> 
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Mr Shamsuddin</a>
+<p><a href="mailto:sum_yoong_lee_matthew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Matthew Sum Yoong Lee</a> 
+<br><a href="mailto:Lim_Gui_Hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cher (Lim Gui Hao)</a>
+<br><a href="mailto:lu_yangfan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lu Yang Fan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Grace</p>
+<p>3 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Gene&nbsp;Lim</a> 
-<br><a href="mailto:salimah_mohd_haniffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Salimah</a>
+<p><a href="mailto:chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Wei</a> 
+<br><a href="mailto:V_Punithan_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Victor Punithan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Hope</p>
+<p>3 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wing_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Terence Wong</a> 
-<br><a href="mailto:zahira_begum_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Zahira&nbsp;Begum Abdul Rahman</a>
-<br><a href="mailto:lu_yangfan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lu Yangfan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_kok_hong_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Eugene&nbsp;Sim</a> 
-<br><a href="mailto:nur_ yanty_jumali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur&nbsp;Yanty&nbsp;Jumali</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Wisdom</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vairavan_uthaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Vairavan&nbsp;Chettiar</a> 
-<br><a href="mailto:feng_yingni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Feng Yingni</a> 
+<p><a href="mailto:ho_keng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Keng Huat</a> 
+<br><a href="mailto:paul_pouline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pouline Paul</a>
 </p>
 </td>
 </tr>

@@ -13,79 +13,68 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>5 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Alfiah&nbsp;Bte Md Yusoff</a>
+<p><a href="mailto:Rafeyah_Abdul_Rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rafeyah Abdul Rahman</a> 
+<br><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a> 
+<br><a href="mailto:fu_dong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fu Dong</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Charity</p>
+<p>5 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suhaila_mohd_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Suhaila&nbsp;Mohd Taib</a> 
-<br><a href="mailto:chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Wei</a> 
-<br><a href="mailto:koh_minmin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Angela&nbsp;Koh</a>
+<p><a href="mailto:azlin_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Azlin Mustaffa</a> 
+<br><a href="mailto:Saiful_Nizam_Omaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Saiful Nizam Omaran</a> 
+<br><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Lye</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Faith</p>
+<p>5 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Raymond Quake</a> 
-<br><a href="mailto:azlin_mustaffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Azlin&nbsp;Mustaffa</a> 
-<br><a href="mailto:ling_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ling Yuan</a>
+<p><a href="mailto:yong_jia_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yong Jia Fang</a> 
+<br><a href="mailto:noorhaizah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noorhaizah Abdul Rahim</a>
+<br><a href="mailto:tan_pin_pin_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Asri (Tan Pin Pin)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Grace</p>
+<p>5 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alfiah_md_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Alfiah&nbsp;Bte Md Yusoff</a> 
-<br><a href="mailto:sim_ming_quan_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marcus Sim</a>
-<br><a href="mailto:tam_joon_chze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Tam&nbsp;Joon Chze</a>
+<p><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Judith Goh</a> 
+<br><a href="mailto:Julieana_Razek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julieana Razek</a> 
+<br><a href="mailto:fauziah_masod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fauziah Masod</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Hope</p>
+<p>5 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_seow_ping_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms&nbsp;Debbie&nbsp;See</a> 
-<br><a href="mailto:muhammad_azhari_shahri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad&nbsp;Azhari</a> 
-<br><a href="mailto:mohammad_fedly_b_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Fedly&nbsp;Sulaiman</a>
+<p><a href="mailto:koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jenesta Chua ( Koh Lay Kuan)</a> 
+<br><a href="mailto:tay_chu_yong_damien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Damien Tay Chu Yong</a>
+<br><a href="mailto:hendratno_b_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hendratno Mohamed Eunos</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Joy</p>
+<p>5 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm&nbsp;Norsinah&nbsp;Suadi</a> 
-<br><a href="mailto:ow_weng_wai_melvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Melvin&nbsp;Ow</a> 
-<br>Mdm Sun Shwu Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Wisdom</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_poh_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr&nbsp;Steven Yeo</a> 
-<br><a href="mailto:paul_pouline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline</a> 
-<br><a href="mailto:lee_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Xin Yi</a>
+<p><a href="mailto:siti_hajar_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Kamaruddin</a> 
+<br><a href="mailto:koh_hui_ting_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Crystal Koh Hui Ting</a> 
+<br><a href="mailto:ili_sakinah_sarwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ili Sakinah Sarwan</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
