@@ -86,6 +86,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD SH SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond  Quake</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD TLC / SWBC</p>
 </td>
 <td rowspan="1" colspan="1">
