@@ -170,7 +170,8 @@ variant: tiptap
 <p>SH SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Quake</p>
+<p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Quake</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +399,8 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yusri Osman</p>
+<p><a href="mailto:muhammad_yusri_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Muhammad Yusri bin Osman</u></a>
+</p>
 </td>
 </tr>
 </tbody>
