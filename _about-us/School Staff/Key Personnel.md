@@ -279,7 +279,7 @@ variant: tiptap
 <p>Lead Teacher&nbsp;Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jessica Lim (Chew Wei)</a>
+<p><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jessica Lim</a>
 </p>
 </td>
 </tr>
