@@ -47,14 +47,13 @@ help us achieve our aims. They are:</p>
 <h3>Our School Motto</h3>
 <p><strong>Believe to See</strong>
 </p>
-<h3>ENDEAVOUR TO EXCEL&nbsp;</h3>
-<p><strong>The logo</strong>&nbsp;depicts the school community endeavouring
-to excel in all aspects of life - academically, socially, morally. The
-logo also depicts the school's theme which is to touch lives and in doing
-so the unity and solidarity of the school community comes through.</p>
+<h3>Our School Logo&nbsp;</h3>
+<p>The<strong> logo </strong>depicts the school's vision which is to empower
+lives and touch lives. In doing so, the unity and solidarity of the school
+community comes through.</p>
 <p><strong>Maroon</strong>&nbsp;is used to emphasize the warmth of the school's
-environment and people. It also highlights the importance placed on human
-relationships.</p>
+environment and people. It also highlights the importance placed on building
+positive relationships.</p>
 <p><strong>Cream&nbsp;</strong>is used to symbolize purity, sincerity and
 harmony.</p>
 <p></p>
