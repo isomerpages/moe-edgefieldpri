@@ -58,3 +58,5 @@ relationships.</p>
 <p><strong>Cream&nbsp;</strong>is used to symbolize purity, sincerity and
 harmony.</p>
 <p></p>
+<h3>Our School Song</h3>
+<p></p>
