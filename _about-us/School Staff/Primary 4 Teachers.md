@@ -13,21 +13,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 EMPATHY</p>
+<p>4 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:duane_chan_xin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Duane Chan Xin Jie</a> 
-<br><a href="mailto:lim_keok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yvonne Sim (Lim Keok Yin)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 FAITH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Melissa Lee (Yip Cheng Han)</a> 
-<br><a href="mailto:Chin_SINGLOONG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis Chin Singloong</a>
+<p><a href="mailto:wong_wing_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Wong Wing Yew</a> 
+<br><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shuling</a> 
+<br><a href="mailto:shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shanti Moorthy (Kulantaipian)</a>
 </p>
 </td>
 </tr>
@@ -39,17 +30,6 @@ variant: tiptap
 <p><a href="mailto:salimah_mohd_haniffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Salimah Mohd Haniffa</a> 
 <br><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gene Lim Yong Seng</a>
 <br><a href="mailto:Shamsudin_Kanchil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shamsudin Kanchil</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 INTEGRITY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wing_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Wong Wing Yew</a> 
-<br><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Shuling</a> 
-<br><a href="mailto:shanti_kulantaipian_sh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shanti Moorthy (Kulantaipian)</a>
 </p>
 </td>
 </tr>
@@ -72,6 +52,26 @@ variant: tiptap
 <p><a href="mailto:sim_ming_quan_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marcus Sim Ming Quan</a> 
 <br><a href="mailto:Vairavan_Uthaman_Chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
 <br><a href="mailto:loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi Wei Ling</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 EMPATHY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:duane_chan_xin_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Duane Chan Xin Jie</a> 
+<br><a href="mailto:lim_keok_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yvonne Sim (Lim Keok Yin)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 FAITH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Melissa Lee (Yip Cheng Han)</a> 
+<br><a href="mailto:Chin_SINGLOONG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis Chin Singloong</a>
 </p>
 </td>
 </tr>
