@@ -74,5 +74,12 @@ harmony.</p>
 <br>By these values we will abide
 <br>
 <br>Edgefield Primary
-<br>Where our hearts belong</p>
+<br>Where our hearts belong
+<br>
+<br>
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zPtZggZdw-Q?si=J7X6Ma8-7eddCUBz"></iframe>
+</div>
 <p>&nbsp;</p>
