@@ -1,6 +1,6 @@
 title: Edgefield Primary School
 url: https://edgefieldpri.moe.edu.sg
-favicon: /images/edgefield-logo .jpeg
+favicon: /images/New_school_logo_2025.jpg
 colors:
   primary-color: "#800000"
   secondary-color: "#000000"
@@ -57,3 +57,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
