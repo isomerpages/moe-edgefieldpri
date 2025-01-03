@@ -58,4 +58,21 @@ positive relationships.</p>
 harmony.</p>
 <p></p>
 <h3>Our School Song</h3>
-<p></p>
+<p>Edgefield Primary is our school
+<br>Where opportunities are given to all
+<br>Having an edge above the rest
+<br>We’re united for common cause
+<br>
+<br>Believe, believe to see
+<br>The best version of me
+<br>Forward and onward we will go
+<br>Together our vision we’ll fulfill
+<br>
+<br>Gratitude, empathy and integrity
+<br>For peers, families and community
+<br>Making a difference, touching lives
+<br>By these values we will abide
+<br>
+<br>Edgefield Primary
+<br>Where our hearts belong</p>
+<p>&nbsp;</p>
