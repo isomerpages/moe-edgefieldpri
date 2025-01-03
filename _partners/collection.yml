@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Parents/Engagement Charter.md
       - Parents/.keep
       - Parents/Admin Information for Parents.md
       - Parents/P4 SBB Briefing.md
