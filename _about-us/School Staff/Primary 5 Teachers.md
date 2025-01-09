@@ -71,7 +71,7 @@ variant: tiptap
 <p>5 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azlin_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Azlin Mustaffa</a> 
+<p><a href="mailto:azlin_mustaffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Azlin Mustaffa</a> 
 <br><a href="mailto:Saiful_Nizam_Omaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Saiful Nizam Omaran</a> 
 <br><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Lye</a>
 </p>
