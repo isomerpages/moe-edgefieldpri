@@ -27,7 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khairiyanie_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Khairiyanie Abdul Aziz</a> 
-<br><a href="mailto:zahidah_mohamed_nizar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low Hui Lin</a>
+<br><a href="mailto:low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low Hui Lin</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Yeo Buay Joo</a> 
-<br><a href="mailto:ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurafizah Bte Othman</a>
+<br><a href="mailto:Nurafizah_Othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurafizah Bte Othman</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_ru_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tay Ru Jun</a> 
-<br><a href="mailto:sum_yoong_lee_matthew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jackie Ng Siew Hong A</a>
+<br><a href="mailto:ng_siew_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jackie Ng Siew Hong A</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi </a>
-<br><a href="mailto:jaseela_mohamed_noorul_ameen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xiang Yu</a>
+<br><a href="mailto:cai_xiang_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xiang Yu</a>
 </p>
 </td>
 </tr>
@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Esthelle Heng (Ang Mui Mui)</a> 
-<br><a href="mailto:chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Ang Bin</a>
+<br><a href="mailto:ang_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Ang Bin</a>
 </p>
 </td>
 </tr>
