@@ -27,7 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khairiyanie_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Khairiyanie Abdul Aziz</a> 
-<br><a href="mailto:zahidah_mohamed_nizar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low Hui Lin</a>
+<br><a href="mailto:low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low Hui Lin</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Yeo Buay Joo</a> 
-<br><a href="mailto:ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurafizah Bte Othman</a>
+<br><a href="mailto:Nurafizah_Othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurafizah Bte Othman</a>
 </p>
 </td>
 </tr>
@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Esthelle Heng (Ang Mui Mui)</a> 
-<br><a href="mailto:chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Ang Bin</a>
+<br><a href="mailto:ang_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Ang Bin</a>
 </p>
 </td>
 </tr>
