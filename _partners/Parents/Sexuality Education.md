@@ -165,10 +165,8 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p>Primary 6
-<br>
-<br>
-</p>
+<p>
+<br>Primary 6</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -238,23 +236,5 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Please Note:</u></strong> 
-<br>
-<br><strong>*For 2024, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </strong>
-<br>
-<br><strong>Information for Parents</strong> 
-<br>
-<br>8. Parents may opt their children out of Sexuality Education lessons,
-and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.
-<br>
-<br>9. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be distributed
-to parents in Term 1 via parents gateway.
-<br>
-<br>10. Parents can contact Mrs Ng Lee Mei Ling, (lee_mei_ling_a@moe.edu.sg)
-for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
-<p></p>
 <p></p>
 <p></p>
