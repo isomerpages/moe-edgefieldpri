@@ -236,5 +236,27 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br><strong>INFORMATION FOR PARENTS</strong>
+</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.
+<br>
+</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also downloadable here (<a href="https://form.gov.sg/67a161ea5fc9a6dcfe4f3c31" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67a161ea5fc9a6dcfe4f3c31</a>).
+The completed opt-out form is to be submitted by 30 May 2025.
+<br>
+</p>
+</li>
+<li>
+<p>Parents can contact the school at +65 6312 6091, <a href="mailto:edgefield_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">edgefield_ps@moe.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
 <p></p>
