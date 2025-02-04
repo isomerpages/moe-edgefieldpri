@@ -237,13 +237,16 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <p>
+<br>
 <br><strong>INFORMATION FOR PARENTS</strong>
+<br>
 <br>
 </p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.
+<br>
 <br>
 </p>
 </li>
@@ -252,6 +255,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable here (<a href="https://form.gov.sg/67a161ea5fc9a6dcfe4f3c31" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67a161ea5fc9a6dcfe4f3c31</a>).
 The completed opt-out form is to be submitted by 30 May 2025.
+<br>
 <br>
 </p>
 </li>
