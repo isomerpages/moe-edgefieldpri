@@ -238,6 +238,7 @@ and learn to behave maturely towards each other.</p>
 </table>
 <p>
 <br><strong>INFORMATION FOR PARENTS</strong>
+<br>
 </p>
 <ol start="8" data-tight="true" class="tight">
 <li>
