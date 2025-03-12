@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - ABOUT THE VICE PRINCIPALS/School Leaders.md
       - ABOUT THE VICE PRINCIPALS/.keep
       - Principal's Message.md
       - Vision, Mission, Values, Motto.md
