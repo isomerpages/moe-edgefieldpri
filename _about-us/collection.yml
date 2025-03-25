@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Leaders/About the Vice Principals.md
-      - School Leaders/School Leaders.md
+      - School Leaders/About the Principal.md
       - School Leaders/.keep
       - Principal's Message.md
       - Vision, Mission, Values, Motto.md
