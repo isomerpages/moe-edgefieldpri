@@ -7,7 +7,7 @@ third_nav_title: School Leaders
 ---
 <h3>ABOUT THE VICE PRINCIPALS</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr_Yap.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mr_Yap.png">
 </div>
 <p>Mr Samuel Yap began teaching in 1998 at St. Michael’s School (now known
 as St. Joseph’s Institution Junior) and became Head of Department (HOD)/Science
@@ -33,7 +33,7 @@ child to succeed.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Tan_Pey_San.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ms_Tan_Pey_San.png">
 </div>
 <p>Ms Tan Pey San joined Edgefield Primary School on 16 December 2024. Prior
 to joining the school as a Vice-Principal, she was a vice-principal at
@@ -56,7 +56,7 @@ sound character and 21cc skills to be ready for the future ahead.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr_Teh.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mr_Teh.png">
 </div>
 <p>Mr Teh Chong Ann joined Edgefield Primary School as Vice Principal (Administration)
 on 1 February 2023, following a distinguished 29-year career with the Singapore
