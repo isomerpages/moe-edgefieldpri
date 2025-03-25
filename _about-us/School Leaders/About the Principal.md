@@ -1,8 +1,9 @@
 ---
-title: School Leaders
+title: About the Principal
 permalink: /about-us/permalink/
 variant: tiptap
 description: ""
+third_nav_title: School Leaders
 ---
 <h3>ABOUT THE PRINCIPAL</h3>
 <div class="isomer-image-wrapper">

@@ -2,8 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - School Leaders/.keep
+      - School Leaders/About the Principal.md
+      - School Leaders/About the Vice Principals.md
       - Principal's Message.md
-      - School Leaders.md
       - Vision, Mission, Values, Motto.md
       - School Staff/.keep
       - School Staff/School Staff.md
