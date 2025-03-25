@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - School Leaders/ABOUT THE VICE PRINCIPALS.md
+      - School Leaders/About the Vice Principals.md
       - School Leaders/School Leaders.md
       - School Leaders/.keep
       - Principal's Message.md
