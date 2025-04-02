@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Assessment Plans.md
+      - Assessment Schedule.md
       - Aesthetics/.keep
       - Aesthetics/Core Curriculum.md
       - Aesthetics/Key Programmes.md
