@@ -109,7 +109,7 @@ from your preferred insurer.</p>
 <h3>Canteen Food Prices</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Edgefield_Primary_School___Price_List_of_Canteen_Food_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen food prices 2024</a>
+<p><a href="/files/Price_List_of_Canteen_Food.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen food prices 2025</a>
 </p>
 </li>
 </ul>
