@@ -6,7 +6,7 @@ description: ""
 third_nav_title: School Leaders
 ---
 <h3>ABOUT THE VICE PRINCIPALS</h3>
-<p><strong>Mr Samuel Yap </strong>
+<p><strong>Mr Samuel Yap</strong>
 </p>
 <p>Mr Samuel Yap began teaching in 1998 at St. Michael’s School (now known
 as St. Joseph’s Institution Junior) and became Head of Department (HOD)/Science
