@@ -6,9 +6,6 @@ description: ""
 third_nav_title: School Leaders
 ---
 <h3>ABOUT THE PRINCIPAL</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mdm_Rabiathul_Bazriya.png">
-</div>
 <p>Mdm Rabiathul Bazriya started her career as a primary school teacher in
 1989 at the age of 21 years old.&nbsp; With experience spanning over 35
 years, she has taught both at the primary schools and secondary schools
