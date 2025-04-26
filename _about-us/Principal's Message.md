@@ -58,7 +58,7 @@ they are developed appropriately in the social and moral domains as well.&nbsp;
 Opportunities will be provided for all students to be educated in civic
 literacy and exemplify the values taught so that they will develop into
 cultured and gracious individuals and citizens.&nbsp; This year, the school
-has developed our very own IGRUE (based on school values: Integrity, Graciousness,
+has developed our very own IGRUE (based on school values: Integrity, Gratitude,
 Resilience, Unity and Empathy) Edgefield characters who will be used to
 educate our students’ thoughts, values and habits.&nbsp; Each day will
 begin with sharing anecdotes and current affairs stories centering on our
