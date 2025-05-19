@@ -4,141 +4,64 @@ permalink: /partners/student-care/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/student%20care.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/nascans.png">
 </div>
-<h3>Welcome to Whee!Canopus</h3>
-<p>We are a premier school-based Student Care Centre (SCC) of choice that
-strives for excellence in character and education for your child.</p>
-<p>Equipped with more than 10 years of experience, well-trained teachers
-and robust curriculum, we host a place where the brightest stars shine.</p>
-<p>Our company, MERCU Learning Point, has also established itself as one
-of the leading partners for Student Care services at primary schools. We
-believe in establishing a collaborative environment with parents and schools.
-A strong partnership is an important catalyst in the development of our
-children.</p>
-<h3>Our Vision</h3>
-<p>To become the Student Care Centre of choice that strives to develop students
-with good character and a love for learning.</p>
-<h3>Our Mission</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>To help students to flourish in a safe and loving environment.</p>
-</li>
-<li>
-<p>To conduct fun and interactive activities where students enjoy learning
-and build up good character.</p>
-</li>
-<li>
-<p>To provide a platform for students to shine and showcase their skills
-and strengths through experiential and outdoor learning.</p>
-</li>
-</ul>
-<h3>Our CORE VALUES</h3>
-<p><strong>C</strong>are: Display care towards others</p>
-<p><strong>A</strong>wareness: Aware of students’ needs</p>
-<p><strong>N</strong>oble: Think and act based on strong moral values</p>
-<p><strong>O</strong>wnership: Take pride in our work</p>
-<p><strong>P</strong>artnership: Establish a trusting relationship with all
-partners</p>
-<p><strong>U</strong>nity: Trust in teamwork</p>
-<p><strong>S</strong>park: Instil fun in our programmes</p>
-<h3>Whee!Canopus Curriculum: Values-based Programme</h3>
-<p>Whee!Canopus facilitates the learning and holistic development of students
-through an array of values-based programmes that incorporates the school’s
-values.</p>
-<p>Our students will have more to look forward to as we have lined up new
-and improved programmes to aid them towards becoming well-rounded individuals.</p>
-<p>Another bonus not to be missed is the ad-hoc enrichment programmes that
-are fully funded by Whee!Canopus to ensure that every student is given
-the same opportunity to embrace new skills.</p>
+<p><strong><u>About NASCANS</u></strong>
+</p>
+<p>Established in 2006, NASCANS is a leading student care and kindergarten
+care brand with over 30 locations in partner MOE schools and residential
+communities, providing students with “an oasis between school and home”.
+NASCANS is under the umbrella of Global EduHub, a private-sector educational
+group with over 27 years of experience running more than 50 preschools,
+childcare centres, student care and kindergarten care centres in Singapore,
+Australia and China</p>
+<p>NASCANS has recently been awarded as a 3-time winner of the ‘Best Student
+Care Programme in Holistic Development’ under the Best Enrichment and Learning
+Schools 2022 / 2023 category by Parents World Magazine for the third consecutive
+year. NASCANS’ award-winning programme helps children develop positive
+thinking habits, leadership skills and strength of character through structured
+and fun learning activities.</p>
+<p><strong><u>Vision</u></strong>
+</p>
+<p>An Oasis Between School and Home</p>
+<p><strong><u>Our Core Student Care Programme</u></strong>
+</p>
+<p><em>Homework Supervision</em>
+</p>
+<p>At NASCANS, we support students in approaching their homework with focus
+and responsibility. Our dedicated mentors provide supervision, guiding
+students to stay on track as they complete their assignments. This helps
+ease the homework routine for families and allows parents to enjoy more
+quality time with their child at home.</p>
+<p><em>Character Education</em>
+</p>
+<p>At NASCANS, character education is an integral part of our daily programme,
+aimed at nurturing positive values and personal growth. Our approach fosters
+an environment where children can build essential life skills that contribute
+to their overall development and well-being.</p>
+<p><em>Enrichment</em>
+</p>
+<p>At NASCANS, enrichment programmes are designed to enhance students' learning
+experiences beyond the classroom. These programmes provide opportunities
+for personal growth, creativity, and skill development in a variety of
+areas. Students are encouraged to explore their interests, develop new
+talents, and build confidence.</p>
+<p><em>Outdoor</em>
+</p>
+<p>At Nascans, outdoor activities play a vital role in fostering physical,
+social, and emotional development. Through carefully planned outdoor experiences,
+students are encouraged to explore nature, engage in active play, and develop
+teamwork and leadership skills. These activities not only promote a healthy
+lifestyle but also provide opportunities for children to connect with their
+environment.&nbsp;</p>
+<p>NASCANS is supported by a dedicated team at our headquarters, bringing
+decades of experience in the effective management and operation of student
+care centres. Our team's expertise ensures that we consistently provide
+high-quality care and support for students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentcare1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timetable.jpg">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>TIME
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>DAILY ACTIVITIES
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10.30am – 1.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff Planning / Admin Work / Contact Time</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1.30pm – 2.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lunch</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.15pm – 3.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shower &amp; Nap/Rest – Whee!Charge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.00pm – 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Study Time - Whee!Learn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.30pm – 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tea Break
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.00pm – 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>*Character Development / *Enrichment Programmes/ *Outdoor Play</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.00pm – 6.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Play</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.30pm – 7.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCC Dismissal</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
