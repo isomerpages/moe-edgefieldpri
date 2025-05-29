@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<p><strong>Science Curriculum</strong>
-</p>
+<h3><strong>Science Curriculum</strong></h3>
 <p>Our Science curriculum provides students with a strong foundation in Science
 for life, learning, citizenry and work. Through our curriculum, we aspire
 our students to be Inspired by Science, Inquire like Scientists and Innovate
