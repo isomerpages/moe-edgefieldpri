@@ -58,7 +58,7 @@ the process of growing their own food in the hydroponics programme.</p>
 <p>After two years of exposure to Science concepts and experiments, the Primary
 5 students are now ready to carry out their own investigative projects.
 Students research on questions related to real life situations.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Through such experiences, our students will become:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; self-directed learners who question,
 reflect, persevere and take responsibility for their own learning;</p>
