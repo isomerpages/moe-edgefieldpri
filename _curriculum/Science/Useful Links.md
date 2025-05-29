@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<p><strong>&nbsp;</strong>
-</p>
 <h3><strong>Explore these websites for more interesting Science stuff!</strong></h3>
 <p><strong>&nbsp;</strong>
 </p>
