@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Science
 ---
-<h3><strong>Achievements</strong></h3>
+<h3>Achievements</h3>
 <p></p>
