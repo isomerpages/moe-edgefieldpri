@@ -5,34 +5,29 @@ variant: tiptap
 description: ""
 third_nav_title: ICT
 ---
-<h3>Computing Programme</h3>
+<h3>Digital Literacy Modules</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EPFS_Computing_Programme.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_and_Chromebook__to_replace_current_.png">
-</div>
-<h3>iPad for Learning</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_2__to_replace_current_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iPad_for_Learning_3__to_upload_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ICT_KEY_PROG.jpg">
 </div>
 <p></p>
-<h3>Chromebook for Learning</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little_fingers_dance_across_the_keyboard__unlocking_digital_superpowers_.jpg">
 </div>
+<p><em>Little fingers dance across the keyboard, unlocking digital superpowers!</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_ideas_into_vibrant_presentations__one_slide_at_a_time.jpg">
 </div>
+<p><em>Transforming ideas into vibrant presentations, one slide at a time</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook_for_Learning_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_EDGE_1.jpg">
 </div>
+<p><em>Lights, camera, learning in action! Our future filmmakers bring ideas to life, one frame at a time</em>
+</p>
+<p></p>
 <h3>Cyber Wellness</h3>
 <p>Cyber Wellness (CW) focuses on the well-being of our students as they
 navigate cyberspace. Our curriculum aims to equip students with the knowledge
@@ -42,8 +37,9 @@ ICT. Through CW education, students learn to be respectful, safe and responsible
 users of technology and be a positive peer influence, advocating for the
 good of the community online.</p>
 <p>The key messages of the CW curriculum are:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_key_cyber_wellness_messages.jpg">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -78,8 +74,11 @@ and behaviour; Having a positive presence in the cyber community</p>
 manner; Respecting copyright</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber_wellness_lessons.png">
 </div>
+<h3></h3>
+<p></p>
 <h3></h3>
 <p></p>
