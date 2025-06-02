@@ -394,6 +394,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:looi_kian_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Looi Kian Mun</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

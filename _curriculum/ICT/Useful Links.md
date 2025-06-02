@@ -17,7 +17,7 @@ variant: tiptap
 </li>
 <li>
 <p>School Library:&nbsp;
-<br><a href="https://sites.google.com/moe.edu.sg/efpslibrary/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/efpslibrary/home</a> 
+<br><a href="https://sites.google.com/moe.edu.sg/efpslibrary/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/efpslibrary/home</a>
 </p>
 </li>
 <li>
@@ -55,19 +55,10 @@ variant: tiptap
 </li>
 </ul>
 <h3>Parents</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 401px; height: 440px;" height="auto" width="100%" alt="Guide to Tik Tok.jpg" src="/images/Guide%20to%20Tik%20Tok.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 401px; height: 440px;" height="auto" width="100%" alt="Guide to Tik Tok.jpg" src="/images/Guide%20to%20Instagram.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 401px; height: 440px;" height="auto" width="100%" alt="Guide to Tik Tok.jpg" src="/images/Clique%20Click.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 401px; height: 440px;" height="auto" width="100%" alt="Guide to Tik Tok.jpg" src="/images/Staying%20Safe%20Online.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 401px; height: 440px;" height="auto" width="100%" alt="Guide to Tik Tok.jpg" src="/images/Keeping%20Children%20Safe%20%20Smart%20Online.jpeg">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>IMDA resources for parents <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/guideyourchildonline</a>
+</p>
+</li>
+</ul>
 <p></p>
