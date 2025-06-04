@@ -31,6 +31,20 @@ world.
 <br>
 <br>At Edgefield, every child is given the voice—and the platform—to shine.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eager_eyes_and_curious_minds_dive_into_the_pages_of_adventure_as_young_readers_journey_through_stories_together_where_every_page_turn_brings_a_new_roar_of_excitement_.jpg">
+</div>
+<p><em>Eager eyes and curious minds dive into the pages of adventure as young readers journey through stories together—where every page turn brings a new roar of excitement!</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Confident_and_collaborative.jpg">
+</div>
+<p><em>Confident and collaborative, these young presenters bring stories to life as their classmates listen, learn, and lend their support — a perfect blend of courage, creativity, and community in the classroom!</em>
+</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_laptops_open_and_minds_engaged__these_curious_learners_dive_into_discussion__turning_teamwork_into_triumph_as_they_explore__exchange_ideas__and_light_up_the_classroom_with_discovery_.jpg">
+</div>
+<p><em>With laptops open and minds engaged, these curious learners dive into discussion, turning teamwork into triumph as they explore, exchange ideas, and light up the classroom with discovery!</em>
+</p>
