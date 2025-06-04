@@ -5,75 +5,84 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h3>Books &amp; Resources</h3>
+<h3><strong>Useful Links</strong></h3>
+<p><strong>&nbsp;Books &amp; Resources</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.dk.com/" rel="noopener noreferrer nofollow" target="_blank">www.dk.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.dk.com</a></strong>
 </p>
 </li>
 <li>
-<p><a href="http://www.seussville.com/" rel="noopener noreferrer nofollow" target="_blank">www.seussville.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.seussville.com</a></strong>
 </p>
 </li>
 <li>
-<p><a href="http://www.roalddahl.com/" rel="noopener noreferrer nofollow" target="_blank">www.roalddahl.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.roalddahl.com</a></strong>
 </p>
 </li>
 <li>
-<p><a href="http://www.bbc.co.uk/" rel="noopener noreferrer nofollow" target="_blank">www.bbc.co.uk</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.bbc.co.uk</a></strong>
 </p>
 </li>
 </ul>
-<h3>Recommended Reading list by NLB</h3>
+<p><strong>&nbsp;Recommended Reading list by NLB</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/P5%20Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Foundation</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P5%20Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Foundation</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Foundation</a>
+<p><strong><a href="https://www.edgefieldpri.moe.edu.sg/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Foundation</a></strong>
 </p>
 </li>
 </ul>
-<h3>Dictionary</h3>
+<p><strong>&nbsp;Vocabulary</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.dictionary.com/" rel="noopener noreferrer nofollow" target="_blank">www.dictionary.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.vocabulary.com</a></strong>
 </p>
 </li>
 <li>
-<p><a href="http://www.collinsdictionary.com/" rel="noopener noreferrer nofollow" target="_blank">www.collinsdictionary.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://dictionary.cambridge.org/</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.oed.com</a></strong>
 </p>
 </li>
 </ul>
-<h3>Search Engine for Kids</h3>
+<p><strong>&nbsp;Search Engine for Kids</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://www.askkids.com/" rel="noopener noreferrer nofollow" target="_blank">www.askkids.com</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.askkids.com</a></strong>
 </p>
 </li>
 </ul>
