@@ -337,4 +337,21 @@ better manage their learning in the regular classroom.
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In_these_small_groups__mighty_minds_are_at_work_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>In these small groups, mighty minds are at work!</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
