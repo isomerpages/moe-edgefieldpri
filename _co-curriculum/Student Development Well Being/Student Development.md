@@ -36,7 +36,6 @@ outdoors, trying something new, or working with others, each activity shapes
 their growth. These moments become lasting memories that nurture their
 character and spark their love for learning.
 <br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Edgefield_Experiences_1.png">
@@ -55,19 +54,26 @@ character and spark their love for learning.
 </div>
 <p>
 <br><strong>Secret Garden</strong>
-</p>
-<p>The Secret Garden is our exciting new student hub, a cosy and welcoming
+<br>The Secret Garden is our exciting new student hub, a cosy and welcoming
 space where children can unwind, recharge, and simply enjoy being kids.
 Open during their recess breaks, it offers a chance to relax, play games,
 and bond with friends in a calm and joyful setting. It’s a special place
 that supports their well-being and reminds us that play is just as important
 as learning. Through moments of laughter and connection, our students grow
-happier, more balanced, and ready to thrive.
-<br>
-</p>
+happier, more balanced, and ready to thrive.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secret_Garden.png">
 </div>
 <p>
-<br>
-</p>
+<br><strong>Theatre of Hope</strong>
+<br>The Theatre of Hope is a vibrant platform where our students get to shine,
+share their talents, and express themselves with confidence. Whether it’s
+performing, presenting, or leading, they are given the space to exercise
+their choice and voice in meaningful ways. This initiative helps nurture
+resilience and builds self-belief as they step out of their comfort zones.
+It's more than just a stage as it’s where confidence grows and students
+discover what they are truly capable of.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Theatre_of_Hope.png">
+</div>
+<p></p>
