@@ -77,4 +77,11 @@ cultural camp.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Indian_Art_of_Shadow_Puppetry__Thol_Pavai_.png">
+</div>
+<p><strong>P4 Cultural Camp</strong>
+</p>
+<p><em>Learning Indian Art of Shadow Puppetry (Thol Pavai)</em>
+</p>
 <p></p>
