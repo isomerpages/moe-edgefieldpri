@@ -60,4 +60,21 @@ cultural camp.</p>
 <p><em>Dramatization of Story by our Parent Volunteers</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Roleplay_Competition___10_headed_Ravana__the_epic_villain.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>P3 Roleplay Competition – 10 headed Ravana, the epic villain</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
