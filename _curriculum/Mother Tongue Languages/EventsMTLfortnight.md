@@ -31,3 +31,20 @@ understanding of their identity.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Writing_scripts.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Writing scripts &amp; making props for their ‘Journey to the West’ performance.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
