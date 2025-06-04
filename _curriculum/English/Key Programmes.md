@@ -305,3 +305,36 @@ better manage their learning in the regular classroom.
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Small_steps__big_strides___every_activity_is_a_victory_in_their_learning_journey_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Small steps, big strides — every activity is a victory in their learning journey!</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_is_a_journey__and_our_learners_are_on_the_move_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Reading is a journey, and our learners are on the move!</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
