@@ -55,4 +55,16 @@ voucher and a certificate of achievement.</p>
 </div>
 <p>[First in Singing Competition organized by Hong Kah North CC</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Tirukkural_Vizha_2025.png">
+</div>
+<p>First in Tirukkural Vizha 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Tirukkural_Vizha_2025_2.jpg">
+</div>
+<p>First in Tirukkural Vizha 2025</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Tirukkural_Vizha_2025_3.png">
+</div>
+<p>First in Tirukkural Vizha 2025</p>
