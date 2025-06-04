@@ -128,3 +128,21 @@ taking the stage in Term 3 and Term 4 respectively!
 </div>
 <p><em>Drama in the making—Primary 3s exploring characters, emotions, and stage presence.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voices_Raised__Characters_Born___It_s_Readers__Theatre_Time_.jpg">
+</div>
+<p><em>Voices Raised, Characters Born – It’s Readers’ Theatre Time!</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights__scripts__action__Primary_2s_bring_stories_to_life_through_storytelling_.jpg">
+</div>
+<p><em>Lights, scripts, action! Primary 2s bring stories to life through storytelling.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Words_that_Weave_Magic__Stories_that_Stay_with_Us_.jpg">
+</div>
+<p><em>Words that Weave Magic, Stories that Stay with Us!</em>
+</p>
