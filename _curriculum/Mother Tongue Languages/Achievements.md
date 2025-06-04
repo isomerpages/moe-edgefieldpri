@@ -50,6 +50,9 @@ voucher and a certificate of achievement.</p>
 <p><em>Voices that inspire – storytellers in action!</em>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Singing_Competition_organized_by_Hong_Kah_North_CC.jpg">
+</div>
+<p>[First in Singing Competition organized by Hong Kah North CC</p>
 <p></p>
 <p></p>
