@@ -353,5 +353,8 @@ better manage their learning in the regular classroom.
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Strength_in_every_struggle__joy_in_every_breakthrough_.jpg">
+</div>
+<p><em>Strength in every struggle, joy in every breakthrough.</em>
+</p>
