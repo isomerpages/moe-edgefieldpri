@@ -93,4 +93,10 @@ cultural camp.</p>
 <p><em>From words to rhythm, students bring their Mother Tongue to life through songwriting magic.</em>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bringing_characters_to_life___P1_students_combine_art_and_drama_in_a_delightful_performance_.jpg">
+</div>
+<p><strong>P1 MTL Fortnight</strong>
+</p>
+<p><em>Bringing characters to life — P1 students combine art and drama in a delightful performance.</em>
+</p>
