@@ -288,4 +288,20 @@ better manage their learning in the regular classroom.
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_time___happy_time_in_our_learning_support_class_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Reading time = happy time in our learning support class!</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
