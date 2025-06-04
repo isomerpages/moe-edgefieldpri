@@ -85,3 +85,12 @@ cultural camp.</p>
 <p><em>Learning Indian Art of Shadow Puppetry (Thol Pavai)</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_words_to_rhythm__students_bring_their_Mother_Tongue_to_life_through_songwriting_magic_.jpg">
+</div>
+<p><strong>P6 MTL Fortnight</strong>
+</p>
+<p><em>From words to rhythm, students bring their Mother Tongue to life through songwriting magic.</em>
+</p>
+<p></p>
+<p></p>
