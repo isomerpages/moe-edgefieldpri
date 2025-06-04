@@ -59,8 +59,8 @@ the process of growing their own food in the hydroponics programme.</p>
 5 students are now ready to carry out their own investigative projects.
 Students research on questions related to real life situations.</p>
 <p>Through such experiences, our students will become:
-<br>&nbsp;&nbsp;&nbsp;&nbsp; - self-directed learners who question, reflect,
-persevere and take responsibility for their own learning;
+<br>- self-directed learners who question, reflect, persevere and take responsibility
+for their own learning;
 <br>- active contributors who are able to work effectively in teams, are innovative,
 exercise initiative, take calculated risks and strive for excellence.</p>
 <p></p>
