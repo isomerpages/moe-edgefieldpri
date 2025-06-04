@@ -145,4 +145,96 @@ taking the stage in Term 3 and Term 4 respectively!
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Words_that_Weave_Magic__Stories_that_Stay_with_Us_.jpg">
 </div>
 <p><em>Words that Weave Magic, Stories that Stay with Us!</em>
+<br>
 </p>
+<p><strong>C)   Oracy Programmes</strong>
+<br>
+<br><strong>Nurturing Every Edgefielder into an Empathetic Communicator</strong>
+<br>
+<br>At Edgefield, we believe that confident and empathetic communication is
+key to personal and academic success. Our oracy programmes are thoughtfully
+designed to develop every Edgefielder into an effective speaker who can
+express ideas clearly and connect meaningfully with others.</p>
+<p>Anchored in <em>Erik Palmer’s Six Traits of Speaking</em> (PVLEGS©)—<strong>Poise, Voice, Life, Eye Contact, Gestures, and Speed</strong>—students
+are equipped with the essential tools to speak with confidence, clarity,
+and impact.
+<br>
+<br>Our progressive oracy journey includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Primary 1 – Show and Tell</strong>: Building confidence and sharing
+personal experiences.</p>
+</li>
+<li>
+<p><strong>Primary 2 – Pick and Tell</strong>: Encouraging spontaneity and
+descriptive language.</p>
+</li>
+<li>
+<p><strong>Primary 3 – Public Speaking</strong>: Developing structured speech
+and presentation skills.</p>
+</li>
+<li>
+<p><strong>Primary 4 – Persuasive Speaking</strong>: Learning to craft arguments
+and influence audiences.</p>
+</li>
+<li>
+<p><strong>Primary 5 &amp; 6 – Debate Programme</strong>: Honing critical
+thinking, reasoning, and respectful discourse.&nbsp;</p>
+</li>
+</ul>
+<p>Through these platforms, students learn to listen actively, speak thoughtfully,
+and engage in dialogue with empathy and purpose.
+<br>
+<br>At Edgefield, every voice matters—and we ensure every student is heard.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_shy_speakers_to_confident_storytellers_Show_and_Tell_in_action_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>From shy speakers to confident storytellers—Show and Tell in action.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voices_of_reason_our_debaters_take_the_floor_with_passion_and_poise_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Voices of reason—our debaters take the floor with passion and poise.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PVLEGS_in_practice__learning_to_speak_with_presence_and_power_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>PVLEGS in practice— learning to speak with presence and power.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
