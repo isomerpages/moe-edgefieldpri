@@ -48,3 +48,10 @@ understanding of their identity.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_were_happy___excited_with_the_hand_puppets_made_during_the_cultural_camp_.jpg">
+</div>
+<p>Students were happy &amp; excited with the hand puppets made during the
+cultural camp.</p>
+<p></p>
+<p></p>
