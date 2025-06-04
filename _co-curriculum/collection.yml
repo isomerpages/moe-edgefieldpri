@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Student Development/.keep
-      - Student Development Well Being.md
       - Student Discipline & Leadership.md
       - Student Development Team.md
