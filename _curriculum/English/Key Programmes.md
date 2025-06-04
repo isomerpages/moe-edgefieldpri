@@ -358,3 +358,20 @@ better manage their learning in the regular classroom.
 </div>
 <p><em>Strength in every struggle, joy in every breakthrough.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Empowered_to_learn__encouraged_to_grow___our_students_are_unstoppable_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Empowered to learn, encouraged to grow — our students are unstoppable!</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
