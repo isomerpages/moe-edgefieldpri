@@ -269,6 +269,23 @@ of coping strategies for reading comprehension which will enable them to
 better manage their learning in the regular classroom.
 <br>
 </p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Building_confidence__one_sound_and_syllable_at_a_time_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Building confidence, one sound and syllable at a time.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
