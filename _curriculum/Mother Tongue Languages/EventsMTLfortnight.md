@@ -54,4 +54,10 @@ understanding of their identity.&nbsp;</p>
 <p>Students were happy &amp; excited with the hand puppets made during the
 cultural camp.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dramatization_of_Story_by_our_Parent_Volunteers.jpg">
+</div>
+<p><em>Dramatization of Story by our Parent Volunteers</em>
+</p>
+<p></p>
 <p></p>
