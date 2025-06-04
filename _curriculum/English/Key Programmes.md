@@ -120,5 +120,11 @@ families and the students’ perseverance and enthusiasm made each performance
 a resounding success. We look forward to our Primary 4 and Primary 1 students
 taking the stage in Term 3 and Term 4 respectively!
 <br>
-<br>At Edgefield, every child is given a voice—and a stage to shine.</p>
-<p></p>
+<br>At Edgefield, every child is given a voice—and a stage to shine.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_in_the_making_Primary_3s_exploring_characters__emotions__and_stage_presence_.jpg">
+</div>
+<p><em>Drama in the making—Primary 3s exploring characters, emotions, and stage presence.</em>
+</p>
