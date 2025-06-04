@@ -5,3 +5,36 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
+<h3><strong>External MTL Competitions</strong></h3>
+<p>Edgefield Primary partners with the three Mother Tongue Language Learning
+and Promotion Committees (MTLLPC) and other community partners to participate
+in various activities year-round to facilitate students' learning and use
+of MTL outside the classroom. Students take part in activities ranging
+from literary festivals, theatre performances to language-based competitions.
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Qifa_Escape_Room_Challenge.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>2025 Qifa Escape Room Challenge</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025__Weide_Zhihai__National_Penmanship_Competition.jpg">
+</div>
+<p>2025 “Weide Zhihai” National Penmanship Competition</p>
+<p>Primary 5 student received a Merit Award, which included a $50 Popular
+voucher and a certificate of achievement.</p>
+<p></p>
