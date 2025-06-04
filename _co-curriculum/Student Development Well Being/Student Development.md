@@ -53,7 +53,21 @@ character and spark their love for learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Edgefield_Experiences_3.png">
 </div>
-<p></p>
+<p>
+<br><strong>Secret Garden</strong>
+</p>
+<p>The Secret Garden is our exciting new student hub, a cosy and welcoming
+space where children can unwind, recharge, and simply enjoy being kids.
+Open during their recess breaks, it offers a chance to relax, play games,
+and bond with friends in a calm and joyful setting. It’s a special place
+that supports their well-being and reminds us that play is just as important
+as learning. Through moments of laughter and connection, our students grow
+happier, more balanced, and ready to thrive.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secret_Garden.png">
+</div>
 <p>
 <br>
 </p>
