@@ -34,7 +34,26 @@ meaningful exposure beyond the classroom, helping them explore new interests,
 build confidence, and develop important life skills. Whether it's learning
 outdoors, trying something new, or working with others, each activity shapes
 their growth. These moments become lasting memories that nurture their
-character and spark their love for learning.</p>
+character and spark their love for learning.
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Edgefield_Experiences_1.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Edgefield_Experiences_2.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Edgefield_Experiences_3.png">
+</div>
+<p></p>
 <p>
 <br>
 </p>
