@@ -58,13 +58,11 @@ the process of growing their own food in the hydroponics programme.</p>
 <p>After two years of exposure to Science concepts and experiments, the Primary
 5 students are now ready to carry out their own investigative projects.
 Students research on questions related to real life situations.</p>
-<p></p>
-<p>Through such experiences, our students will become:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; self-directed learners who question,
-reflect, persevere and take responsibility for their own learning;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active contributors who are able
-to work effectively in teams, are innovative, exercise initiative, take
-calculated risks and strive for excellence.</p>
+<p>Through such experiences, our students will become:
+<br>&nbsp;&nbsp;&nbsp;&nbsp; - self-directed learners who question, reflect,
+persevere and take responsibility for their own learning;
+<br>- active contributors who are able to work effectively in teams, are innovative,
+exercise initiative, take calculated risks and strive for excellence.</p>
 <p></p>
 <h3>P6 - Learning Journeys to Lee Kong Chian Natural History Museum</h3>
 <p>In this learning journey, students get a chance to examine real specimens
