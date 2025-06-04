@@ -38,3 +38,18 @@ from literary festivals, theatre performances to language-based competitions.
 <p>Primary 5 student received a Merit Award, which included a $50 Popular
 voucher and a certificate of achievement.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_National_Primary_School_Chinese_Storytelling_Competition.jpg">
+</div>
+<p><em>2025 National Primary School Chinese Storytelling Competition</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voices_that_inspire___storytellers_in_action_.jpg">
+</div>
+<p><em>Voices that inspire – storytellers in action!</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
