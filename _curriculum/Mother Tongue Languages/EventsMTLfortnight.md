@@ -100,3 +100,11 @@ cultural camp.</p>
 </p>
 <p><em>Bringing characters to life — P1 students combine art and drama in a delightful performance.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_imagination_to_tradition___students_shape_clay_into_iconic_Malay_kuih_with_care_and_creativity_.jpg">
+</div>
+<p><strong>P4 Cultural Camp</strong>
+</p>
+<p><em>From imagination to tradition — students shape clay into iconic Malay kuih with care and creativity.</em>
+</p>
