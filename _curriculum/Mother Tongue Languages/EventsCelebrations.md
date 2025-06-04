@@ -40,3 +40,6 @@ and unity in Singapore’s multicultural society.</p>
 </div>
 <p><em>Students lit up with excitement as they enjoy a fun filled interactions with the lion dance.</em>
 </p>
+<p><strong>Dragon Boat Festival</strong>
+</p>
+<p></p>
