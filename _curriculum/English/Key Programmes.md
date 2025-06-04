@@ -147,7 +147,7 @@ taking the stage in Term 3 and Term 4 respectively!
 <p><em>Words that Weave Magic, Stories that Stay with Us!</em>
 <br>
 </p>
-<p><strong>C)   Oracy Programmes</strong>
+<p><strong>C) Oracy Programmes</strong>
 <br>
 <br><strong>Nurturing Every Edgefielder into an Empathetic Communicator</strong>
 <br>
@@ -237,4 +237,38 @@ and engage in dialogue with empathy and purpose.
 </tr>
 </tbody>
 </table>
+<p><strong>C)&nbsp;&nbsp;&nbsp;&nbsp; Support Programmes: Learning Support Programme, School-based Dyslexia Remediation Programme, Reading Remediation Programme</strong>
+</p>
+<p>P1 and P2: Learning Support Programme (LSP)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Through specialised early intervention programmes, learning support is
+provided for students who need additional help with English Language.&nbsp;
+Students will be identified at the start of Primary 1 to join the programme.
+<br>
+</p>
+</li>
+</ul>
+<p>P3 and P4: School-based Dyslexia Remediation Programme (SDR)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The School-based Dyslexia Remediation (SDR) Programme is&nbsp;a specialised
+literacy remediation programme for Primary 3 and Primary 4 students with
+dyslexia. Students are identified for this programme through a systematic
+screening process for dyslexia conducted at the end of Primary 2. The selection
+of students is based on assessment through diagnostic tests to ascertain
+suitability for the above programmes.</p>
+</li>
+</ul>
+<p>&nbsp;P3 to P5: Reading Remediation Programme (RRP)&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>RRP aims to provide additional support for Primary 3, Primary 4 and Primary
+5 students who have difficulty in reading. Students are exposed to a range
+of coping strategies for reading comprehension which will enable them to
+better manage their learning in the regular classroom.
+<br>
+</p>
+</li>
+</ul>
 <p></p>
