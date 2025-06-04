@@ -55,3 +55,17 @@ and unity in Singapore’s multicultural society.</p>
 <p><em>Students “fishing” the dumplings during one of the recess games.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_celebration_of_heritage___students_performing_the_elegant_moves_of_traditional_Malay_dance_.jpg">
+</div>
+<p><strong>Hari Raya Aidilfitri</strong>
+</p>
+<p><em>A celebration of heritage — students performing the elegant moves of traditional Malay dance.</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hands_clapping__voices_rising___students_and_teachers_groove_to_the_beat_of_Dikir_Barat.jpg">
+</div>
+<p><em>Hands clapping, voices rising — students and teachers groove to the beat of Dikir Barat</em>
+</p>
