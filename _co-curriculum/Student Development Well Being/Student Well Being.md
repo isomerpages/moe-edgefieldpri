@@ -15,4 +15,11 @@ feel safe, supported and connected.
 look out for another and grow together. Students who demonstrate leadership
 potential are appointed as Peer Support Leaders (PSLs). These PSLs are
 trained and empowered with opportunities to lead with empathy, help their
-peers bond and provide support for one another. &nbsp;</p>
+peers bond and provide support for one another. &nbsp;
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDWB_1.png">
+</div>
+<p></p>
