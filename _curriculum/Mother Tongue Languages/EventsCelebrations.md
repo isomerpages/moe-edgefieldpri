@@ -27,3 +27,16 @@ and unity in Singapore’s multicultural society.</p>
 <p><em>P4 TL students Learning Journey to Little India</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Focused_and_determined___Despite_not_being_a_native_speaker__she_is_determined_to_do_her_paper_cutting_to_be_best_of_her_ability__One_of_the_classroom_activities_.jpg">
+</div>
+<p><strong>Chinese New Year</strong>
+</p>
+<p><em>Focused and determined — Despite not being a native speaker, she is determined to do her paper cutting to be best of her ability. One of the classroom activities.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_lit_up_with_excitement_as_they_enjoy_a_fun_filled_interactions_with_the_lion_dance_.jpg">
+</div>
+<p><em>Students lit up with excitement as they enjoy a fun filled interactions with the lion dance.</em>
+</p>
