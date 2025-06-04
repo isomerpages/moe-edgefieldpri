@@ -18,7 +18,7 @@ and unity in Singapore’s multicultural society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal_Celebration___EFPS.jpg">
 </div>
-<p><em>Pongal Celebration @ EFPS</em>
+<p><strong>Pongal Celebration @ EFPS</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -40,6 +40,18 @@ and unity in Singapore’s multicultural society.</p>
 </div>
 <p><em>Students lit up with excitement as they enjoy a fun filled interactions with the lion dance.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Different_classroom_activities_for_the_students_during_the_dragon_boat_festival_.jpg">
+</div>
 <p><strong>Dragon Boat Festival</strong>
+</p>
+<p><em>Different classroom activities for the students during the dragon boat festival.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students__fishing__the_dumplings_during_one_of_the_recess_games_.jpg">
+</div>
+<p><em>Students “fishing” the dumplings during one of the recess games.</em>
 </p>
 <p></p>
