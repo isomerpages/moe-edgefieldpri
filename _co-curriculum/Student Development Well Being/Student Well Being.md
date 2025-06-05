@@ -49,3 +49,29 @@ peers bond and provide support for one another. &nbsp;
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_3.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>P4 &amp; P1 buddies learning about each other, one question at a time.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>PEER HELPING- providing practical help and social and emotional support to those in need</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_4.jpg">
+</div>
+<p><em>Our Primary 5 PSLs on duty at the Secret Garden</em>
+</p>
+<p></p>
