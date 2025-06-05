@@ -124,3 +124,8 @@ Signature Programme is intentionally designed to cultivate specific values,
 habits, and 21<sup>st</sup> century competencies.</p>
 <p>Explore how each domain shapes different aspects of the Edgefielder profile—and
 how students grow through experiences that challenge, inspire, and empower.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_EDGE.jpg">
+</div>
+<p></p>
