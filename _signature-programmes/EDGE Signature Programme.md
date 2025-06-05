@@ -119,5 +119,8 @@ to peers, teachers and parents</p>
 </li>
 </ul>
 <p><strong>Students’ 21CC Development through E.D.G.E.</strong>
-</p>
-<p></p>
+<br>To support our students’ holistic growth, each domain within the E.D.G.E.
+Signature Programme is intentionally designed to cultivate specific values,
+habits, and 21<sup>st</sup> century competencies.</p>
+<p>Explore how each domain shapes different aspects of the Edgefielder profile—and
+how students grow through experiences that challenge, inspire, and empower.</p>
