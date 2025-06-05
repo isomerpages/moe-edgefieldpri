@@ -103,4 +103,19 @@ to celebrate their learning, share their projects and demonstrate growth
 to peers, teachers and parents</p>
 </li>
 </ul>
+<p>2.&nbsp;&nbsp;&nbsp; Key Student Outcomes</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discover and nurture personal strengths and interests</p>
+</li>
+<li>
+<p>Build confidence, collaboration and communication skills</p>
+</li>
+<li>
+<p>Care, contribute and grow with purpose</p>
+</li>
+<li>
+<p>Apply 21CC skills in real-world and diverse contexts</p>
+</li>
+</ul>
 <p></p>
