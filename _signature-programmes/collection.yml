@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - EGDE Signature Programme.md
       - Maker Education.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
