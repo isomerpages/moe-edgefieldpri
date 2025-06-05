@@ -75,3 +75,29 @@ peers bond and provide support for one another. &nbsp;
 <p><em>Our Primary 5 PSLs on duty at the Secret Garden</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_5.jpg">
+</div>
+<p><em>P5 PSLs guiding their peers through the rules of the craft activity.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_6.jpg">
+</div>
+<p><em>PSLs checking through Edgefin stickers before welcoming peers into the Secret Garden.</em>
+</p>
+<p></p>
+<p><strong>PEER INFLUENCING- promote prosocial behaviors, advocating for well-being and role-modelling good character</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_7.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_8.jpg">
+</div>
+<p><em>P6 PSLs promoting values through assembly videos.</em>
+</p>
+<p></p>
