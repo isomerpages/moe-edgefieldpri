@@ -118,4 +118,6 @@ to peers, teachers and parents</p>
 <p>Apply 21CC skills in real-world and diverse contexts</p>
 </li>
 </ul>
+<p><strong>Students’ 21CC Development through E.D.G.E.</strong>
+</p>
 <p></p>
