@@ -31,30 +31,43 @@ and dispositions needed to thrive in a dynamic world.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong><u>Framework for 21<sup>st</sup> Century Competencies and Student Outcomes</u></strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:
+<br>
+</p>
+<p>1. Core Values
+<br>- Respect · Responsibility · Resilience · Integrity · Care · Harmony
+<br>
+<br>2. Social-Emotional Competencies (SEC)
+<br>- Self-Awareness · Self-Management · Social Awareness
+<br>Relationship Management · Responsible Decision-Making
+<br>
+<br>3. Emerging 21<sup>st</sup> Century Competencies
+<br>- Critical, Adaptive, and Inventive Thinking
+<br>- Communication, Collaboration, and Information Skills
+<br>- Civic, Global, and Cross-Cultural Literacy</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
+<br>Through E.D.G.E. and the broader Total Curriculum, every Edgefielder will
+graduate as a confident, compassionate and capable individual who is ready
+to navigate life with purpose and contribute meaningfully to society.
+<br>
+<br>To ensure every student experiences 21CC meaningfully, EFPS has designed
+the E.D.G.E. Signature Programme, a structured co-curricular experience
+that complements academic learning while directly nurturing 21CC development.</p>
