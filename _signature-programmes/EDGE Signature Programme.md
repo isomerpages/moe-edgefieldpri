@@ -71,3 +71,22 @@ to navigate life with purpose and contribute meaningfully to society.
 <br>To ensure every student experiences 21CC meaningfully, EFPS has designed
 the E.D.G.E. Signature Programme, a structured co-curricular experience
 that complements academic learning while directly nurturing 21CC development.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3_EDGE.png">
+</div>
+<p>1.&nbsp;&nbsp;&nbsp; Key Features of E.D.G.E.</p>
+<p>−&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6 Domains: Live Life, Love Life
+(LILO), Digital and Visual Literacy (DV), Language Arts (LA), STEM, Performing
+Arts (PA) and Sports (SPT)</p>
+<p>−&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22 Experiential Modules across P1–P6;
+Compulsory participation by all students</p>
+<p>−&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tiered Progression: From exploration
+to mastery; Designed to support all levels of learners</p>
+<p>−&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ipsative Assessment: Students set
+goals, reflect on growth and take charge of their learning journey</p>
+<p>−&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognition and Certification: Students
+build portfolios that capture their personal development and contribution</p>
+<p>−&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E.D.G.E. Showcase: Culminating experiences
+that give students a platform to celebrate their learning, share their
+projects and demonstrate growth to peers, teachers and parents</p>
