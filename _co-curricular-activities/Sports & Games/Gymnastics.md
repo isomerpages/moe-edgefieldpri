@@ -153,4 +153,21 @@ support newcomers through structured buddy systems and informal guidance.</p>
 </tr>
 </tbody>
 </table>
+<p>
+<br><em>EDGEFIELD PRIMARY SCHOOL :&nbsp; &nbsp;Training in Progress</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGEFIELD_PRIMARY_SCHOOL___Training_in_Progress.jpg">
+</div>
+<p><em>Working harmoniously in a team</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Working_harmoniously_in_a_team.jpg">
+</div>
+<p>
+<br><em>EDGEFIELD PRIMARY SCHOOL JUNIOR TEAM TRAINING: NATIONAL SPORTS GAMES</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGEFIELD_PRIMARY_SCHOOL_JUNIOR_TEAM_TRAINING_NATIONAL_SPORTS_GAMES.jpg">
+</div>
 <p></p>
