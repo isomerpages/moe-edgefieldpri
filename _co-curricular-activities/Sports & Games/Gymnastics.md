@@ -55,7 +55,19 @@ and a commitment to personal growth.</p>
 <p>Experiences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students in the Gymnastics Co-Curricular Activity (CCA) engage in a wide
+range of activities designed to enhance their physical abilities. Regular
+training sessions form the foundation of the programme, where students
+develop core skills such as balance, coordination, strength, and flexibility.
+<br>
+<br>In addition to weekly practices, students participate in various competitions
+at both school and national levels, allowing them to apply their skills
+in a structured and competitive environment.
+<br>
+<br>These opportunities help them to build confidence, resilience, and a spirit
+of sportsmanship as they demonstrate their progress and teamwork in front
+of an audience.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +75,20 @@ and a commitment to personal growth.</p>
 <p>Developing our students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participation in the Gymnastics Co-Curricular Activity (CCA) provides
+students with a holistic learning experience that extends beyond physical
+development.
+<br>
+<br>Students gain <strong>confidence</strong> as they master new skills and
+perform in front of peers, teachers, and external audiences. Overcoming
+challenges and striving for improvement in a physically demanding sport
+also fosters <strong>resilience</strong>, teaching students to persevere
+through setbacks and continue working towards their goals.
+<br>
+<br>The nature of the CCA also provides numerous <strong>opportunities for teamwork and collaboration</strong>.
+Whether practising routines, preparing for performances, or participating
+in group events, students learn to support one another, build trust, and
+coordinate effectively as a team.</p>
 </td>
 </tr>
 <tr>
