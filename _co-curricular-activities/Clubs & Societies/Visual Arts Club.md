@@ -90,11 +90,11 @@ creative journey.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Lee (Adviser)</p>
-<p>Mrs Cindy Tan</p>
-<p>Mdm Winne Ang</p>
-<p>Mdm Fu Dong</p>
-<p>Mdm Yong Jia Fang</p>
+<p>Ms Esther Lee (Adviser)
+<br>Mrs Cindy Tan
+<br>Mdm Winne Ang
+<br>Mdm Fu Dong
+<br>Mdm Yong Jia Fang</p>
 </td>
 </tr>
 </tbody>
