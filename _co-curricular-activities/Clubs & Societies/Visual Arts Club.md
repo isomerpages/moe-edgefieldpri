@@ -99,11 +99,14 @@ creative journey.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_journey_to_National_Gallery_Singapore___PLASTICS___Remaking_the_World_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART1.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -112,14 +115,12 @@ creative journey.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>[Learning journey to National Gallery Singapore – PLASTICS – Remaking the World]</em>
+<p><em>Learning journey to National Gallery Singapore – PLASTICS – Remaking the World</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Working_together__learning_together__growing_together_.jpg">
 </div>
@@ -130,14 +131,12 @@ creative journey.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>[Working together, learning together, growing together]</em>
+<p><em>Working together, learning together, growing together</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collaboration_Mega_Dice_.jpg">
 </div>
@@ -148,7 +147,7 @@ creative journey.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>[Collaboration Mega Dice]</em>
+<p><em>Collaboration Mega Dice</em>
 </p>
 </td>
 </tr>
