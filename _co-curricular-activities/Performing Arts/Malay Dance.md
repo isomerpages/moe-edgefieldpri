@@ -100,7 +100,15 @@ individuals.</p>
 <p>Empowering leaders and talents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>As part of our efforts to cultivate leadership qualities among our students,
+key leadership roles such as Chairman and Vice-Chairman are appointed to
+oversee the management of CCA sessions and to assist in maintaining discipline.
+In addition, group leaders are entrusted with the responsibility of guiding
+and supporting their peers during dance practices. Senior members also
+take turns leading warm-up routines. These structured leadership opportunities
+allow students to develop confidence, responsibility, and collaborative
+skills, while fostering a strong sense of ownership and commitment within
+the CCA.</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +116,9 @@ individuals.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Julieana Razek
+<br>Mdm Nur Yanty
+<br>Mdm Joyce Choo</p>
 </td>
 </tr>
 </tbody>
