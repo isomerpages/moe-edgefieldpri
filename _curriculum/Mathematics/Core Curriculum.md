@@ -25,11 +25,9 @@ is shaped by four key mission statements.</p>
 <p></p>
 <p><strong><em>Develop Positive Relationships</em></strong><em><br>We foster a collaborative and supportive learning culture where students feel safe to take risks, share ideas, and learn from one another.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Develop_Positive_Relationships.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ma1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Be_an_Active_Learner.jpg">
 </div>
