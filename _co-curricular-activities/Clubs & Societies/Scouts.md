@@ -88,7 +88,16 @@ examples of the discussion focus.</p>
 <p>Empowering leaders and talents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Small group leadership are provided to all Cub Scouts where they are organized
+into Six, each led by a Sixer, supported by an Assistant Sixer. Sixer and
+Assistant Sixers are to plan games and organise lessons for the members
+in their Six. These roles mimic real-world responsibilities and give students
+a chance to organize projects, speak in front of others and collaborate
+with peers and adult leaders.
+<br>
+<br>Cubs who display leadership and responsibility are selected to attend
+Area and National Camps. After which, they will be appointed as Sixers
+and Assistant Sixers to lead a pack of 6.</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +105,12 @@ examples of the discussion focus.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr David Ng (Adviser)
+<br>Ms Tan Shu Ling
+<br>Ms Wulandari Sukma
+<br>Ms Cai Xiang Yu
+<br>Ms Angela Koh Minmin
+<br>Mr Kenneth Kong Chiu Wei</p>
 </td>
 </tr>
 </tbody>
