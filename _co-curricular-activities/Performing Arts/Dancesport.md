@@ -120,4 +120,57 @@ strength and moral compass to succeed in dance and in life.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Performance___Jewel__2023_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Performance @ Jewel (2023)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_Dance_Extravaganza___Gardens_By_the_Bay__2024_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>SYF Dance Extravaganza @ Gardens By the Bay (2024)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wanna_Dance_Competition__2024_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Wanna Dance Competition (2024)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
