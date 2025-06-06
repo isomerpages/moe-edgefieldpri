@@ -12,9 +12,11 @@ and engaging way. The fortnight encourages students to explore and experience
 their cultural heritage through various activities, fostering a deeper
 understanding of their identity.&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Actively_engaged_in_the_buying_selling_activity_using_Mother_Tongue_Language_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_fortnight_1.png">
 </div>
+<p></p>
 <p><strong>P2 Market Place</strong>
 </p>
 <table style="minWidth: 25px">
@@ -31,8 +33,14 @@ understanding of their identity.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Writing_scripts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl_fortnight_2.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
