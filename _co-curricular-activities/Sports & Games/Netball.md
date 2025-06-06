@@ -16,14 +16,18 @@ variant: tiptap
 <p>About Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball is an all-girls sport that is played by two teams. Teams may include
-up to 12 players but only 7 may take the court at any one time. Each player
-will take on a position on court. A game consists of 4 x 10 minutes quarters
-with an interval of 3 minutes after the first and third quarters and a
-5-minute half-time interval. The major aim of the game is to score as many
-goals as possible from within the Goal Circle. The CCA sessions are on
-Fridays (competition period), 2.00 – 4.00pm. Trainings are conducted in
-the indoor sports hall.</p>
+<p>Netball is a vibrant and dynamic CCA offered at Edgefield Primary School,
+designed to develop students holistically—physically, emotionally, and
+mentally. Through structured training and team experiences, the CCA aims
+to instill discipline, build confidence, and nurture responsible decision-making
+in students.
+<br>
+<br>Introduced in EFPS in 2019, the netball CCA began its competitive journey
+in 2023, marking an exciting milestone in its development. Netball is open
+to girls who enjoy being active and are ready to embrace the physical intensity
+of the sport. Whether they are new to the game or have prior experience,
+students with a passion for movement and a team-oriented mindset will find
+netball a rewarding and empowering CCA experience.</p>
 </td>
 </tr>
 <tr>
@@ -31,10 +35,24 @@ the indoor sports hall.</p>
 <p>Experiences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The junior and senior teams train twice a week to prepare for the annual
-North Zone and National Primary Schools Netball Championships. The teams
-undergo rigorous physical training which help to develop competent netball
-skills and keen mental skills.</p>
+<p>At Edgefield Primary School, netballers are given a wide range of enriching
+experiences that support both their sporting and personal growth. They
+participate in a variety of enriching activities and events, including
+regular training sessions to build fundamental skills, fitness, discipline
+and teamwork. Netballers also have specialized workshops that focus on
+techniques, strategy, and sportsmanship.
+<br>
+<br>As part of the National School Games (NSG), both Junior and Senior players
+gain valuable exposure and competition experience. Friendly matches with
+other schools further enhance their gameplay and sportsmanship. Unique
+experiences include opportunities to represent the school, go on learning
+journeys such as visits to professional matches or training academies.
+<br>
+<br>Beyond competition, unique opportunities such as participating in the
+Netball Carnivals and the Zonal 12 &amp; Under Carnival provide a platform
+for students to challenge themselves and interact with peers from other
+schools. The annual parent-child carnival also strengthens family bonds,
+fostering mutual support and shared pride in the students' CCA journey.</p>
 </td>
 </tr>
 <tr>
@@ -42,9 +60,15 @@ skills and keen mental skills.</p>
 <p>Developing our students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During trainings, the girls learn basic ball skills, stamina building,
-agility and coordination exercises, all closely guided by the coach and
-teachers in charge</p>
+<p>Playing netball provides students with rich opportunities for personal
+growth and character development, aligning closely with Singapore’s 21st
+Century Competencies (21CC). Through regular training and competition,
+students build confidence as they hone their physical abilities and learn
+to perform under pressure. The nature of the game demands resilience and
+discipline—qualities developed through setbacks, consistent practice, and
+strategic play. Just as importantly, netball emphasizes teamwork and communication,
+helping students strengthen interpersonal skills and foster a sense of
+responsibility to one another.</p>
 </td>
 </tr>
 <tr>
@@ -52,10 +76,15 @@ teachers in charge</p>
 <p>Growing hearts and minds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball provides a unique opportunity for both physical and moral development
-and character building. Through the pursuit of continuous improvement of
-their physical, psychological and social skills, our girls adopt an attitude
-of fair play and good sportsmanship.</p>
+<p>Netball as a CCA nurtures both the hearts and minds of students, supporting
+their holistic development beyond the court. Through team roles and leadership
+opportunities, players learn the importance of service and giving back.
+Whether mentoring juniors or organizing events, netballers grow in empathy
+and develop a strong sense of social responsibility. These experiences
+foster character and emotional intelligence, key components of holistic
+education. As students navigate wins and losses together, they build not
+only sporting skills but also compassion, integrity, and the mindset to
+lead with care—embodying the true spirit of growing hearts and minds.</p>
 </td>
 </tr>
 <tr>
@@ -63,9 +92,13 @@ of fair play and good sportsmanship.</p>
 <p>Empowering leaders and talents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our netball captain and vice-captain are empowered to lead the team for
-warm-ups and cool-down before and after training. They also help teachers
-to disseminate information to the rest of the team members.</p>
+<p>Netball offers students numerous opportunities to grow as leaders and
+showcase their talents through roles such as team captains, student coaches,
+and umpires, where they develop responsibility, communication, and decision-making
+skills. Competitive platforms like the National School Games, inter-school
+tournaments, and friendly matches allow students to demonstrate their athletic
+abilities and teamwork. Additionally, mentorship from senior players and
+coach fosters skill development and confidence.</p>
 </td>
 </tr>
 <tr>
@@ -73,14 +106,14 @@ to disseminate information to the rest of the team members.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Crystal (Teacher-in-charge)
-<br>Mdm Koh Lay Kuan (Teacher-in-charge)
-<br>Mrs Noor Haizah</p>
+<p>Miss Crystal Koh
+<br>Mdm Koh Lay Kuan
+<br>Mrs Noorhaizah Abdul Rahim
+<br>Mdm Salimah MohdHaniffa
+<br>Ms Tan Hwee Khoon
+<br>Mdm Tay Ru Jun</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRolg935zXmfmkkho37G2tFvmbojZesZkTb5sKry_fv0kmdh6Gcc4jT6YrhUXCYmf7RWD3km44HbYqP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
