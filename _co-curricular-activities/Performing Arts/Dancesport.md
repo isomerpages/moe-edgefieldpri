@@ -120,9 +120,14 @@ strength and moral compass to succeed in dance and in life.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Performance___Jewel__2023_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D1.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -137,8 +142,14 @@ strength and moral compass to succeed in dance and in life.</p>
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_Dance_Extravaganza___Gardens_By_the_Bay__2024_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D2.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -153,8 +164,14 @@ strength and moral compass to succeed in dance and in life.</p>
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wanna_Dance_Competition__2024_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D3.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
