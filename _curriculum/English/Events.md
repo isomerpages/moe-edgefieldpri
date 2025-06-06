@@ -24,9 +24,8 @@ a lifelong love for learning through language.
 <br>
 <br>At Edgefield, Language Week is where voices are heard, ideas are shared,
 and the love for English comes alive.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_student_listens_in_wonder__even_in_character_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EE1.png">
 </div>
 <p><em>Every student listens in wonder, even in character!</em>
 </p>
@@ -36,13 +35,12 @@ and the love for English comes alive.</p>
 </div>
 <p><em>Ready for takeoff! A young pilot-in-training shows how storytelling and imagination can take you anywhere during Language Week.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/On_the_mic__in_the_moment_Wallys_unite_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EE2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/On_the_mic__in_the_moment_Wallys_unite__2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EE3.png">
 </div>
 <p><em>On the mic, in the moment—Wallys unite!</em>
 </p>
@@ -63,19 +61,16 @@ and the love for English comes alive.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_spellbinding_lesson.jpg">
 </div>
 <p><em>A spellbinding lesson: When wizards take over the classroom!</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_were_all_ears_as_a_larger_than_life_lab_mouse_brought_botany_to_life_with_a_sprinkle_of_imagination_and_a_dash_of_fun_.jpg">
 </div>
 <p><em>Students were all ears as a larger-than-life lab mouse brought botany to life with a sprinkle of imagination and a dash of fun!</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_celebration_of_voices_every_story_told__every_word_shared__brings_us_closer_together_.jpg">
 </div>
