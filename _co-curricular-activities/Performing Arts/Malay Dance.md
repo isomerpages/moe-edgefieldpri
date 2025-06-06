@@ -123,26 +123,20 @@ the CCA.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Malay_dancers_delivered_a_spectacular_performance__captivating_the_audience_from_the_start_to_finish_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/m1.png">
 </div>
 <p><em>The Malay dancers delivered a spectacular performance, captivating the audience from the start to finish!</em>
-<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Donned_in_their_traditional_costumes__the_dancers_are_enjoying_every_step_of_the_dance_with_their_charming_smiles_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/m2.png">
 </div>
 <p><em>Donned in their traditional costumes, the dancers are enjoying every step of the dance with their charming smiles!</em>
-<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dancing_with_narrative_intention__where_every_movement_is_guided_by_emotion_and_story_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/m3.png">
 </div>
 <p><em>Dancing with narrative intention, where every movement is guided by emotion and story.</em>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_danced_beautifully_and_took_great_joy_in_their_performance_during_the_Recognition_Day_Award_.png">
