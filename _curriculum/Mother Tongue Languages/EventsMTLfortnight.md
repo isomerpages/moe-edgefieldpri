@@ -11,12 +11,9 @@ learning, encouraging students to use and experience their MTL in a fun
 and engaging way. The fortnight encourages students to explore and experience
 their cultural heritage through various activities, fostering a deeper
 understanding of their identity.&nbsp;</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_fortnight_1.png">
 </div>
-<p></p>
 <p><strong>P2 Market Place</strong>
 </p>
 <table style="minWidth: 25px">
@@ -32,7 +29,6 @@ understanding of their identity.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -55,21 +51,24 @@ understanding of their identity.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_were_happy___excited_with_the_hand_puppets_made_during_the_cultural_camp_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTFN1.png">
 </div>
-<p>Students were happy &amp; excited with the hand puppets made during the
-cultural camp.</p>
-<p></p>
+<p><em>Students were happy &amp; excited with the hand puppets made during the cultural camp.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dramatization_of_Story_by_our_Parent_Volunteers.jpg">
 </div>
 <p><em>Dramatization of Story by our Parent Volunteers</em>
 </p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Roleplay_Competition___10_headed_Ravana__the_epic_villain.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTFN2.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -84,7 +83,6 @@ cultural camp.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Indian_Art_of_Shadow_Puppetry__Thol_Pavai_.png">
 </div>
@@ -92,7 +90,6 @@ cultural camp.</p>
 </p>
 <p><em>Learning Indian Art of Shadow Puppetry (Thol Pavai)</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_words_to_rhythm__students_bring_their_Mother_Tongue_to_life_through_songwriting_magic_.jpg">
 </div>
@@ -100,7 +97,6 @@ cultural camp.</p>
 </p>
 <p><em>From words to rhythm, students bring their Mother Tongue to life through songwriting magic.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bringing_characters_to_life___P1_students_combine_art_and_drama_in_a_delightful_performance_.jpg">
 </div>
@@ -108,7 +104,6 @@ cultural camp.</p>
 </p>
 <p><em>Bringing characters to life — P1 students combine art and drama in a delightful performance.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_imagination_to_tradition___students_shape_clay_into_iconic_Malay_kuih_with_care_and_creativity_.jpg">
 </div>
