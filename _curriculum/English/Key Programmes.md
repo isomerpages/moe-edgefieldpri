@@ -29,21 +29,24 @@ buddy reading, our carefully curated activities not only build comprehension
 and fluency but also inspire curiosity and thoughtful reflection. At Edgefield,
 we do not just teach students to read—we invite them to discover the power
 and pleasure of reading, together with the community that supports them.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Diving_into_stories_in_our_cosy_reading_nook_where_imagination_comes_alive_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP1.png">
 </div>
 <p><em>Diving into stories in our cosy reading nook—where imagination comes alive.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharing_tales__sparking_curiosity_students_presenting_their_favourite_reads_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP2.png">
 </div>
 <p><em>Sharing tales, sparking curiosity—students presenting their favourite reads.</em>
 </p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hands_on_fun_during_our_interactive_library_quest_reading_comes_to_life_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP3.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -58,21 +61,18 @@ and pleasure of reading, together with the community that supports them.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Empowering_young_readers_with_every_page_turned___where_parent_volunteers_become_learning_heroes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP4.png">
 </div>
 <p><em>Empowering young readers with every page turned — where parent volunteers become learning heroes</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guiding_little_minds__one_word_at_a_time___a_parent_s_touch_makes_all_the_difference.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP5.png">
 </div>
 <p><em>Guiding little minds, one word at a time — a parent’s touch makes all the difference</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book_Buzz_on_wheels___spreading_stories_to_students_in_different_areas_of_our_school.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP6.png">
 </div>
 <p><em>Book Buzz on wheels — spreading stories to students in different areas of our school</em>
 </p>
@@ -124,23 +124,20 @@ taking the stage in Term 3 and Term 4 respectively!
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_in_the_making_Primary_3s_exploring_characters__emotions__and_stage_presence_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP7.png">
 </div>
 <p><em>Drama in the making—Primary 3s exploring characters, emotions, and stage presence.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voices_Raised__Characters_Born___It_s_Readers__Theatre_Time_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP8.png">
 </div>
 <p><em>Voices Raised, Characters Born – It’s Readers’ Theatre Time!</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lights__scripts__action__Primary_2s_bring_stories_to_life_through_storytelling_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP9.png">
 </div>
 <p><em>Lights, scripts, action! Primary 2s bring stories to life through storytelling.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Words_that_Weave_Magic__Stories_that_Stay_with_Us_.jpg">
 </div>
@@ -186,9 +183,14 @@ thinking, reasoning, and respectful discourse.&nbsp;</p>
 and engage in dialogue with empathy and purpose.
 <br>
 <br>At Edgefield, every voice matters—and we ensure every student is heard.</p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_shy_speakers_to_confident_storytellers_Show_and_Tell_in_action_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP10.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -203,7 +205,6 @@ and engage in dialogue with empathy and purpose.
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voices_of_reason_our_debaters_take_the_floor_with_passion_and_poise_.jpg">
 </div>
@@ -220,9 +221,14 @@ and engage in dialogue with empathy and purpose.
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PVLEGS_in_practice__learning_to_speak_with_presence_and_power_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP11.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -288,8 +294,14 @@ better manage their learning in the regular classroom.
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_time___happy_time_in_our_learning_support_class_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP13.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -321,8 +333,14 @@ better manage their learning in the regular classroom.
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_is_a_journey__and_our_learners_are_on_the_move_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP14.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -337,8 +355,14 @@ better manage their learning in the regular classroom.
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In_these_small_groups__mighty_minds_are_at_work_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP15.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -358,8 +382,14 @@ better manage their learning in the regular classroom.
 </div>
 <p><em>Strength in every struggle, joy in every breakthrough.</em>
 </p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Empowered_to_learn__encouraged_to_grow___our_students_are_unstoppable_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EKP17.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
