@@ -22,9 +22,14 @@ lists curated with the National Library Board, to enhance existing efforts
 in developing positive reading habits. The school also collaborated with
 parents Volunteers to conduct Buddy Reading Programme for selected P1 &amp;
 P2 students who require support in reading.</p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Edgefield_Primary_students_in_a_focused_reading_session_with_their_parent_volunteers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTKP1.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -33,9 +38,9 @@ P2 students who require support in reading.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edgefield Primary students in a focused reading session with their parent
-volunteers</p>
-<p><strong>&nbsp;</strong>
+<p><em>Edgefield Primary students in a focused reading session with their parent volunteers</em>
+</p>
+<p><strong><em>&nbsp;</em></strong>
 </p>
 </td>
 </tr>
