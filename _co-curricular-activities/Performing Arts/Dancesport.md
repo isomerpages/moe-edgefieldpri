@@ -120,9 +120,7 @@ strength and moral compass to succeed in dance and in life.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Performance___Jewel__2023_.jpg">
 </div>
