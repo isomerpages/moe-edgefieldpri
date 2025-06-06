@@ -89,9 +89,14 @@ and lead with empathy and purpose.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrating_the_power_of_harmony_at_Voices_of_Singapore_2024__where_every_voice_tells_a_story_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chior1.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -106,9 +111,14 @@ and lead with empathy and purpose.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Voices_in_Unity_Together__we_sing_as_one__creating_a_symphony_of_strength_and_connection.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir2.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -123,8 +133,14 @@ and lead with empathy and purpose.</p>
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_note__we_rise___our_choir_s_performance_at_the_School_Award_and_Recognition_Day_embodies_confidence__dedication__and_excellence_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir3.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
