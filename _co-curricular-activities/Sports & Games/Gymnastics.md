@@ -96,6 +96,28 @@ coordinate effectively as a team.</p>
 <p>Growing hearts and minds</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The Gymnastics Co-Curricular Activity (CCA) is committed to supporting
+the holistic development of students by fostering both physical excellence
+and strong character. Through structured training, collaborative activities,
+and meaningful learning experiences, students are guided to grow into confident,
+responsible, and values-driven individuals.
+<br>
+<br>Character development is a central component of the CCA. Students learn
+the importance of <strong>service </strong>by contributing to school events
+and mentoring their juniors, demonstrating a willingness to give back to
+the community. They develop <strong>responsibility</strong> by taking ownership
+of their personal progress, attending training punctually, and demonstrating
+commitment to their team. <strong>Empathy</strong> is cultivated through
+peer support and encouragement, as students work together to overcome challenges
+and celebrate each other's successes.
+<br>
+<br>The CCA also strongly emphasises the school’s core values of <strong>unity</strong> and <strong>resilience</strong>.
+Unity is fostered through team-based activities that require collaboration,
+mutual respect, and a shared sense of purpose. Students learn to trust
+and support one another, recognising the strength that comes from working
+together towards common goals. Resilience is instilled as students face
+and overcome physical and mental challenges in training and competition,
+developing perseverance and a positive mindset in the face of setbacks.</p>
 <p></p>
 </td>
 </tr>
@@ -104,7 +126,19 @@ coordinate effectively as a team.</p>
 <p>Empowering leaders and talents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Beyond honing technical skills, the CCA nurtures holistic growth by providing
+multiple avenues for student leadership, performance, and peer engagement.
+<br>
+<br>Students are encouraged to take on leadership roles such as CCA leaders.
+These roles allow them to develop organisational and communication skills
+as they guide peers.
+<br>
+<br>Members have various opportunities to showcase their talents through school-based
+performances and national competitions. These platforms not only celebrate
+their hard work and progress but also build confidence and team spirit.
+<br>
+<br>The CCA emphasizes a strong mentorship culture, where experienced gymnasts
+support newcomers through structured buddy systems and informal guidance.</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +146,9 @@ coordinate effectively as a team.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Siew Hong, Jackie
+<br>Mdm Zahira Begum Bte Abdul Rahman
+<br>Mdm Paul Pouline</p>
 </td>
 </tr>
 </tbody>
