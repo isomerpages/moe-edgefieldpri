@@ -71,17 +71,28 @@ skills on court and in the real world.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wu Ming Che</p>
-<p>Mr Shamsudin Bin Kanchil</p>
-<p>Mr Norman Selvaraju</p>
-<p>Mr Duane Chan Xin Jie</p>
-<p>Mr Saiful Nizam Omaran</p>
-<p>Mdm Zhang Fulei</p>
+<p>Mr Wu Ming Che
+<br>Mr Shamsudin Bin Kanchil
+<br>Mr Norman Selvaraju
+<br>Mr Duane Chan Xin Jie
+<br>Mr Saiful Nizam Omaran
+<br>Mdm Zhang Fulei</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiuRuSI7Lozo87lmhQIByVJkTJb53zuXl92-DoCPVAqF3jMyH3xoz3KOXlnNTGRShE35uieAC0qmzK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>
+<br><strong>EDGEFIELD PRIMARY SCHOOL SENIOR TEAM:&nbsp; NATIONAL SCHOOL GAMES</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGEFIELD_PRIMARY_SCHOOL_SENIOR_TEAM__NATIONAL_SCHOOL_GAMES.jpg">
+</div>
+<p>
+<br><strong>EDGEFIELD PRIMARY SCHOOL SENIOR TEAM: NATIONAL SCHOOLS GAMES</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGEFIELD_PRIMARY_SCHOOL_SENIOR_TEAM__NATIONAL_SCHOOLS_GAMES.jpg">
 </div>
 <p></p>
