@@ -5,48 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Talent 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fridays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 p.m. – 4.15 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Talent 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fridays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 p.m. - 4.15 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Talent 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 p.m. - 4.15p.m.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -58,13 +16,24 @@ variant: tiptap
 <p>About Dancesport</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dancesport is a form of competitive ballroom dancing that combines social
-skills with exercises. Its characteristics consists of physical strengths,
-agility, coordination, stamina, high level of fitness, discipline, teamwork,
-grace, style and musical interpretation.
+<p>Dancesport is a powerful mix of sport, art, and connection. As a form
+of competitive ballroom dancing, it blends social skills with athletic
+movement, making it both fun and challenging. Dancers need strength, agility,
+coordination, and stamina, along with grace, discipline, and style.
 <br>
-<br>The CCA sessions are on Tuesdays and Fridays. The training sessions are
-conducted in the dance studios with experienced dance instructors.</p>
+<br>At the heart of Dancesport are two powerful values: <strong>resilience</strong> and <strong>unity</strong>.
+Our dancers train hard and never give up embodying the spirit of resilience.
+As Dancesport is all about partnership, dancers must move as one, building
+trust and supporting each other every step of the way in unity.
+<br>
+<br>These values turn Dancesport into more than just a competition. It becomes
+a vibrant display of teamwork, strength, and determination, all flowing
+with the rhythm of the music.
+<br>
+<br>Get ready to dance every Tuesday during our CCA sessions! Training takes
+place in the dance studios, where your child will learn from friendly and
+experienced dance instructors. It is the perfect chance to have fun, improve
+your moves, and grow your confidence.</p>
 </td>
 </tr>
 </tbody>
@@ -80,109 +49,61 @@ conducted in the dance studios with experienced dance instructors.</p>
 <p>Experiences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The students will learn 2 types of dances – the Cha Cha and Jive. As they
-move on to the next talent level, the dance steps get more sophisticated.
+<p>Students will dive into the exciting world of dance by learning two dynamic
+styles – the lively Cha Cha and the energetic Jive. As they progress to
+higher talent levels, the choreography becomes more intricate, challenging
+them to refine their technique and express themselves with greater flair.
 <br>
-<br>All the dancesports members will have multiple opportunities to perform
-both in school and at external venues. These are the activities that the
-members will get to experience.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Learning journey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Concerts</p>
+<br>Dancesports members do not just train – they <strong>shine</strong>. From
+school showcases to external performances, they will have plenty of chances
+to take the stage, gain confidence, and share their passion for dance with
+diverse audiences leaving them with unforgettable experiences that bring
+their hard work to life.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performances</p>
+<p><strong>D</strong>eveloping our Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>During CCA sessions, members build a strong sense of self-worth and grow
+increasingly confident in their ability to perform on stage and compete.
+They learn to embrace public performances with a positive mindset, turning
+nerves into excitement. Beyond the dance floor, social graciousness is
+nurtured as members are guided to carry themselves with poise and respect
+- embodying the qualities of true ladies and gentlemen.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>G</strong>rowing Hearts and Minds</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training sessions go beyond perfecting dance steps—they are designed to
+shape character and nurture well-rounded individuals. Through every practice,
+members are encouraged to uphold values such as <strong>integrity</strong>, <strong>gratitude</strong>,
+and <strong>discipline</strong>, while embracing <strong>team spirit</strong>, <strong>respect</strong>,
+and <strong>loyalty</strong>. They learn that true strength lies not only
+in skill, but in <strong>courage</strong>, <strong>empathy</strong>, and <strong>unity</strong>—standing
+by one another through both triumphs and trials.
+<br>
+<br>Debrief sessions offer a safe space for reflection, where members discuss
+challenges faced, lessons learned, and how they have grown. Themes such
+as <strong>resilience</strong>, <strong>respect</strong>, and <strong>responsibility</strong> are
+explored, helping dancers build not just physical endurance, but the emotional
+strength and moral compass to succeed in dance and in life.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>E</strong>mpowering Leaders and Talents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival (every 2 years)
-<br>Aesthetic Night (every 2 years)
 <br>EFPS Open House
 <br>Ad-hoc performances (in school and external venues)
 <br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wanna Dance Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Exam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CSTD Ballroom Examination</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Developing our students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>During CCA sessions, members develop positive thinking towards public
-performances and competitions and have high self-esteem and are more confident
-of themselves. Social graciousness are also instilled in members as they
-are trained to behave as ladies and gentlemen.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Growing hearts and minds</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training sessions are geared towards character building. It also inculcates
-the values of respect, team spirit, loyalty, discipline and courage.
-<br>
-<br>During the debrief that is conducted at the end the training session,
-members are given the opportunity to discuss about issues, challenges and
-learning points that arise during the training. Resilience, respect and
-discipline are examples of the debrief focus.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Empowering leaders and talents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dancesport leaders are empowered to lead the team in activities such as
-warm-up and relaying of information to team members. They also lead the
-discussion during the reflections sessions that is conducted after each
-training. This provides the opportunity to hone their leadership skills.</p>
+<br>Wanna Dance Competition</p>
 </td>
 </tr>
 <tr>
@@ -190,21 +111,13 @@ training. This provides the opportunity to hone their leadership skills.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cher-Lim Gui Hao (Teacher-in-charge)
+<p>Mdm Noor Ellynda (Teacher-in-charge)
 <br>Mrs Yvonne Lim (Teacher-in-charge)
-<br>Mdm Fu Dong
 <br>Mdm Jaseela Mohd
-<br>Mdm Khairiyanie Aziz
 <br>Mdm Lim Lee Nah
-<br>Mdm Yong Jia Fang</p>
+<br>Mdm Nurafizah</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FU_fiZlt-gQ"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaiJWbcmAwcfglnHuN6GfSrXvq__iSi2iO7B0FNhCQ7zSB9ver-eMqBNCo6B_oPX-avXAnpG7G2xEB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
