@@ -93,9 +93,8 @@ scientists possess.</p>
 </div>
 <p><em>Splitting of light using water</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScienceKP_Picture_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc1.png">
 </div>
 <p><em>Finding a method to get the most accurate mass of crown for the king!</em>
 </p>
