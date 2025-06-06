@@ -99,7 +99,10 @@ creative journey.</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQx_TSUWqv4B5L02RbjvYbfLpQm7undivi9Jqnuy3_uVkVULhmBJP7Ue3QF6kb5zis5H8O0hqSGIA0H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_journey_to_National_Gallery_Singapore___PLASTICS___Remaking_the_World_.jpg">
 </div>
 <p></p>
