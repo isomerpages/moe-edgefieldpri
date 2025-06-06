@@ -46,7 +46,13 @@ attitude!</p>
 <p>Experiences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>In 2024, a group of our Malay Dance students had the valuable opportunity
+to perform at the Singapore Youth Festival (SYF), where we proudly achieved
+the <strong>Certificate of Accomplishment</strong>.
+<br>
+<br>In both 2024 and 2025, our dancers also showcased their talents during
+the <strong>Hari Raya Concert</strong> and the <strong>Recognition and Award Ceremony</strong>,
+adding a vibrant cultural touch to these meaningful school events.</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +60,22 @@ attitude!</p>
 <p>Developing our students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Through Malay Dance CCA, students acquire a wide range of skills and values
+that go beyond dance. They develop coordination, rhythm, spatial awareness,
+and performance techniques, while also learning the importance of discipline,
+perseverance, and respect for culture.
+<br>
+<br>The CCA provides a nurturing environment where students grow in confidence
+and resilience as they rehearse and perform in front of various audiences.
+Regular practices and stage experiences help students overcome stage fright,
+express themselves more freely, and communicate effectively through movement
+and teamwork.
+<br>
+<br>Students also learn the value of teamwork and collaboration, as dance
+routines require synchronization, trust, and mutual support. Working closely
+with their peers, they develop a strong sense of camaraderie and shared
+responsibility, which contributes to their overall personal and social
+growth.</p>
 </td>
 </tr>
 <tr>
