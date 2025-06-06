@@ -18,19 +18,18 @@ using Science.</p>
 <p></p>
 <p>Leveraging on students’ curiosity and their innate nature to explore things
 around them, we equip them with:</p>
-<p>&nbsp;</p>
+<p></p>
 <p>(i) Core ideas of Science</p>
 <p>(ii) Practices of Science</p>
 <p>(iii) Values, Ethics and Attitudes in Science</p>
-<p>&nbsp;</p>
-<p>With these core ideas, practices, values, ethics and attitudes, our students
-will be curious and interested about Science, themselves and the environment.
-They will also acquire basic scientific concepts to help them understand
-themselves and the world around them. Through experiences and opportunities
-in Edgefield, our students will not only develop skills, dispositions,
-and attitudes for Scientific inquiry, but also apply scientific concepts
-and skills in making responsible decisions. With a mindset guided by the
-right values and ethics, they will also appreciate how Science influences
+<p>&nbsp;With these core ideas, practices, values, ethics and attitudes,
+our students will be curious and interested about Science, themselves and
+the environment. They will also acquire basic scientific concepts to help
+them understand themselves and the world around them. Through experiences
+and opportunities in Edgefield, our students will not only develop skills,
+dispositions, and attitudes for Scientific inquiry, but also apply scientific
+concepts and skills in making responsible decisions. With a mindset guided
+by the right values and ethics, they will also appreciate how Science influences
 people and the environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">

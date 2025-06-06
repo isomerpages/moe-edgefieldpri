@@ -12,40 +12,62 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>About Gymnastics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Gymnastics is an amazing sport that incorporates balance, strength, flexibility,
-agility and locomotion in almost every skills that the students learn.</p>
-<p>The movements involved in gymnastics contribute to the development of
-the arms, legs, shoulders, back, chest and abdominal muscle groups. It
-is a fun way to learn about body awareness through skills such as the forward
-roll, cartwheel, handstand and many more.</p>
-<p>Gymnastics also serves as a good base for the students to get a good footing
-in every sports since gymnastics can be said to be the mother of all sports.</p>
-<p>Furthermore, gymnastics and sports in general help to improve the attentiveness
-and focus of the students which helps with their learning and academic
-pursuits.</p>
-<p>Many life skills such as never giving up, teamwork, self-awarenness and
-self-discipline are also a core of what make up gymnastics as a sport giving
-students valuable life lessons.</p>
+<td rowspan="2" colspan="1">
+<p><strong>Introduction to the Gymnastics Co-Curricular Activity (CCA)</strong>
+<br>The Gymnastics Co-Curricular Activity (CCA) offers students a dynamic
+and enriching platform to develop their physical abilities, mental discipline,
+and core values through the sport of gymnastics. This CCA integrates elements
+of movement, coordination, strength, flexibility, and performance.
+<br>
+<br><strong>Purpose and Objectives</strong>
+<br>The primary purpose of the Gymnastics CCA is to nurture students' physical
+fitness and motor skills while instilling important life values such as
+resilience, unity, and responsibility.
+<br>
+<br>The objectives of the programme are to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop fundamental gymnastics skills in a progressive and supportive
+environment.</p>
+</li>
+<li>
+<p>Build character through perseverance, teamwork, and sportsmanship.</p>
+</li>
+<li>
+<p>Provide opportunities for students to participate in performances, competitions,
+and collaborative events.</p>
 <p></p>
-<p>The CCA sessions are on Tuesday, 2.15pm to 3.45pm</p>
+</li>
+</ul>
+<p>The Gymnastics CCA is open to all students from Primary 3 to Primary 6,
+regardless of gender. It is well-suited for students who enjoy physical
+activity, have an interest in acrobatics or movement-based sports. No prior
+experience is required—only a positive attitude, a willingness to learn,
+and a commitment to personal growth.</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Experiences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA members go through all the basics skills during the year:
-<br>1. Locomotors &amp; Rotations Skills
-<br>2. Assessment &amp; Grading
-<br>3. Revision and Assessment
-<br>Members have to try out on all the skills. Some of them are not able to
-do it at the beginning, but through the weekly practices and guidance,
-they will experience the learning through joy and care.</p>
+<p>Students in the Gymnastics Co-Curricular Activity (CCA) engage in a wide
+range of activities designed to enhance their physical abilities. Regular
+training sessions form the foundation of the programme, where students
+develop core skills such as balance, coordination, strength, and flexibility.
+<br>
+<br>In addition to weekly practices, students participate in various competitions
+at both school and national levels, allowing them to apply their skills
+in a structured and competitive environment.
+<br>
+<br>These opportunities help them to build confidence, resilience, and a spirit
+of sportsmanship as they demonstrate their progress and teamwork in front
+of an audience.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -53,10 +75,20 @@ they will experience the learning through joy and care.</p>
 <p>Developing our students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During CCA sessions, members develop their locomotor skills and acquire
-the 21st century core values through many trials. Through realization of
-their strength, they can build on and be aware of their weaknesses that
-they need to work on in order to make improvements.</p>
+<p>Participation in the Gymnastics Co-Curricular Activity (CCA) provides
+students with a holistic learning experience that extends beyond physical
+development.
+<br>
+<br>Students gain <strong>confidence</strong> as they master new skills and
+perform in front of peers, teachers, and external audiences. Overcoming
+challenges and striving for improvement in a physically demanding sport
+also fosters <strong>resilience</strong>, teaching students to persevere
+through setbacks and continue working towards their goals.
+<br>
+<br>The nature of the CCA also provides numerous <strong>opportunities for teamwork and collaboration</strong>.
+Whether practising routines, preparing for performances, or participating
+in group events, students learn to support one another, build trust, and
+coordinate effectively as a team.</p>
 </td>
 </tr>
 <tr>
@@ -64,12 +96,29 @@ they need to work on in order to make improvements.</p>
 <p>Growing hearts and minds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Activities conducted during the CCA sessions are geared towards character
-building and inculcating the values of team spirit, perseverance and self-awareness.
-<br>Perseverance and self discipline form an integral part of the CCA as members
-are able to learn the skills slowly by building up confidence through constant
-praises after each small achievement. Pupils are aware that constant self-discipline
-is necessary to prevent any injury during CCA.</p>
+<p>The Gymnastics Co-Curricular Activity (CCA) is committed to supporting
+the holistic development of students by fostering both physical excellence
+and strong character. Through structured training, collaborative activities,
+and meaningful learning experiences, students are guided to grow into confident,
+responsible, and values-driven individuals.
+<br>
+<br>Character development is a central component of the CCA. Students learn
+the importance of <strong>service </strong>by contributing to school events
+and mentoring their juniors, demonstrating a willingness to give back to
+the community. They develop <strong>responsibility</strong> by taking ownership
+of their personal progress, attending training punctually, and demonstrating
+commitment to their team. <strong>Empathy</strong> is cultivated through
+peer support and encouragement, as students work together to overcome challenges
+and celebrate each other's successes.
+<br>
+<br>The CCA also strongly emphasises the school’s core values of <strong>unity</strong> and <strong>resilience</strong>.
+Unity is fostered through team-based activities that require collaboration,
+mutual respect, and a shared sense of purpose. Students learn to trust
+and support one another, recognising the strength that comes from working
+together towards common goals. Resilience is instilled as students face
+and overcome physical and mental challenges in training and competition,
+developing perseverance and a positive mindset in the face of setbacks.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -77,9 +126,19 @@ is necessary to prevent any injury during CCA.</p>
 <p>Empowering leaders and talents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gymnastics leaders are empowered to lead the team should there be any
-delay in the arrival of the coaches. This provides the opportunity for
-them.</p>
+<p>Beyond honing technical skills, the CCA nurtures holistic growth by providing
+multiple avenues for student leadership, performance, and peer engagement.
+<br>
+<br>Students are encouraged to take on leadership roles such as CCA leaders.
+These roles allow them to develop organisational and communication skills
+as they guide peers.
+<br>
+<br>Members have various opportunities to showcase their talents through school-based
+performances and national competitions. These platforms not only celebrate
+their hard work and progress but also build confidence and team spirit.
+<br>
+<br>The CCA emphasizes a strong mentorship culture, where experienced gymnasts
+support newcomers through structured buddy systems and informal guidance.</p>
 </td>
 </tr>
 <tr>
@@ -87,14 +146,28 @@ them.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Siew Hong, Jackie (Teacher-in-charge)
-<br>Mdm Joyce Ham (Teacher-in-charge)
-<br>Mr Hendratno</p>
+<p>Mdm Ng Siew Hong, Jackie
+<br>Mdm Zahira Begum Bte Abdul Rahman
+<br>Mdm Paul Pouline</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR90DZEQp8LD9_fJeErIGQFkp6DAe7q9Ktz9fyuE6nhhLqdJoDMUcye3VkCvxZ_YF_JQ6ygy2iuBpbb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>
+<br><em>EDGEFIELD PRIMARY SCHOOL :&nbsp; &nbsp;Training in Progress</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGEFIELD_PRIMARY_SCHOOL___Training_in_Progress.jpg">
+</div>
+<p><em>Working harmoniously in a team</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Working_harmoniously_in_a_team.jpg">
+</div>
+<p>
+<br><em>EDGEFIELD PRIMARY SCHOOL JUNIOR TEAM TRAINING: NATIONAL SPORTS GAMES</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDGEFIELD_PRIMARY_SCHOOL_JUNIOR_TEAM_TRAINING_NATIONAL_SPORTS_GAMES.jpg">
 </div>
 <p></p>

@@ -48,6 +48,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Executive&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Lay_Cheng_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lay Cheng Elizabeth</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">

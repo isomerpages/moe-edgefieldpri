@@ -5,55 +5,46 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h3>English Curriculum</h3>
-<p>Every child a <strong><em>confident speaker</em></strong>
-</p>
-<p><em>Every child </em><strong><em>a storyteller</em></strong>
-</p>
-<p><em>Every child </em><strong><em>an author</em></strong>
-</p>
-<p>Here at Edgefield, our aim is to cultivate a love for the English language
-and develop students into articulate and confident communicators. We believe
-every child can be a confident speaker, a captivating storyteller, and
-an aspiring author.</p>
-<p>We achieve this by engaging them in meaningful and immersive learning
-experiences that foster critical thinking, empathy, and creative problem-solving
-skills. These experiences equip students for success in the 21st century
-by encouraging them to become:</p>
-<p><strong>Empathetic Communicators -</strong> Actively listen, articulate
-thoughts clearly, and collaborate respectfully.</p>
-<p><strong>Discerning Readers -</strong> Develop broad perspectives, independent
-thinking, and the ability to distinguish fact from fiction.</p>
-<p><strong>Creative Inquirers -</strong> Explore real-world issues, gather
-diverse information, and co-create solutions.</p>
-<p>By nurturing these skills, we prepare our students to thrive in a world
-that demands clear communication, critical thinking, and the ability to
-connect with others.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/board_game_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning_using_iPad_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/collaborative_learning_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/classroom_activities_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_at_Edgefield_OK.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Picture3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/noticeboard1.jpg">
-</div>
-<h3>Learning Support Programme</h3>
-<p>P1 and P2: Learning Support Programme (LSP)</p>
-<p>P3 and P4: Reading Remediation Programme (RRP) and/or School-based Dyslexia
-Remediation Programme (SDR)</p>
-<p>*Selection of students are based on assessment through diagnostic tests
-to ascertain suitability for the above programmes</p>
+<h3>Core Curriculum</h3>
+<p><strong>English Language at Edgefield Primary School</strong>
+<br>
+<br>At Edgefield, we believe every child has the potential to be a confident
+communicator. Our English Language curriculum focuses on laying a strong
+foundation while enriching students’ learning through meaningful and engaging
+language experiences.&nbsp; We lay this foundation through extensive reading
+and frequent language use, ensuring students have access to quality texts,
+storytelling sessions, and platforms to share their thoughts. Our programmes
+are designed to spark curiosity and develop a deep appreciation for the
+English language, while cultivating critical thinking and creative expression.
+<br>
+<br>Language is not just a subject—it is a powerful tool for connection, exploration,
+and growth. Beyond the classroom, our students are given diverse opportunities
+to apply their learning through engaging activities such as public performances,
+language games, and collaborative projects. These experiences encourage
+them to speak with confidence, write with purpose, and listen with empathy.
+As empathetic communicators, discerning readers, and creative inquirers,
+our students learn to navigate real-world issues, express their ideas clearly,
+and work respectfully with others. At Edgefield, we are committed to nurturing
+articulate speakers, captivating storytellers, and imaginative authors—empowering
+every child with the voice and platform to shine in a rapidly changing
+world.
+<br>
+<br>At Edgefield, every child is given the voice—and the platform—to shine.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eager_eyes_and_curious_minds_dive_into_the_pages_of_adventure_as_young_readers_journey_through_stories_together_where_every_page_turn_brings_a_new_roar_of_excitement_.jpg">
+</div>
+<p><em>Eager eyes and curious minds dive into the pages of adventure as young readers journey through stories together—where every page turn brings a new roar of excitement!</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Confident_and_collaborative.jpg">
+</div>
+<p><em>Confident and collaborative, these young presenters bring stories to life as their classmates listen, learn, and lend their support — a perfect blend of courage, creativity, and community in the classroom!</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_laptops_open_and_minds_engaged__these_curious_learners_dive_into_discussion__turning_teamwork_into_triumph_as_they_explore__exchange_ideas__and_light_up_the_classroom_with_discovery_.jpg">
+</div>
+<p><em>With laptops open and minds engaged, these curious learners dive into discussion, turning teamwork into triumph as they explore, exchange ideas, and light up the classroom with discovery!</em>
+</p>

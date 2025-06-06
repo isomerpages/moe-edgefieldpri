@@ -17,8 +17,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Club aims to develop visual literate students who love art and are
-keen on learning the different skills of the art medium. The CCA sessions
-are on Tuesdays, 2.15– 3.45pm. Activities are conducted in the art room.</p>
+keen on learning the different skills of the art medium. It is a creative
+space where students can explore and express their artistic talents.
+<br>
+<br>It is open to all P3 to P6 students.</p>
 </td>
 </tr>
 <tr>
@@ -26,11 +28,13 @@ are on Tuesdays, 2.15– 3.45pm. Activities are conducted in the art room.</p>
 <p>Experiences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA members get to experience creating art in different art forms during
-the year. Members get the opportunity to go on learning journeys to art
-museums or art exhibitions. These learning journeys expose them to a variety
-of different art movements or styles. These allow them to develop a better
-sense of aesthetics.</p>
+<p>The Art Club offers a vibrant and welcoming space where creativity comes
+to life. Our members enjoy hands-on experiences with various art forms,
+including drawing, painting, sculpture, mixed media, and digital art. Each
+session is an opportunity to explore new techniques, experiment with different
+materials, and express individual creativity.
+<br>Students take part in various Art competitions organized by various organisations
+when the opportunity arises eg. SYF, LTA etc</p>
 </td>
 </tr>
 <tr>
@@ -38,11 +42,18 @@ sense of aesthetics.</p>
 <p>Developing our students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During CCA sessions, members are empowered by not only learning the skills
-but also working together in teams to conceptualise the actualisation of
-the art work.
-<br>Members also learn various fine arts skills such as painting, doodling
-and experimenting with different media.</p>
+<p>At the heart of the Art Club is more than just creativity—it's character.
+Through engaging in artistic expression, our students experience meaningful
+personal growth and develop important values that extend far beyond the
+canvas.
+<br><strong>Confidence and Self-Expression:</strong>
+<br>Art provides a safe space for students to express their thoughts, emotions,
+and individuality. As they see their skills improving and their work appreciated,
+their self-esteem naturally grows.
+<br><strong>Creativity and Problem-Solving:</strong>
+<br>Art challenges students to think creatively and find new ways to express
+themselves. Whether through exploring different materials or trying new
+techniques, they develop resilience and flexibility</p>
 </td>
 </tr>
 <tr>
@@ -50,13 +61,13 @@ and experimenting with different media.</p>
 <p>Growing hearts and minds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Activities conducted during the CCA sessions are geared towards character
-building and inculcating the values of perseverance and determination to
-produce and complete quality art work.
-<br>Problem solving tasks which require the students to determine the different
-art mediums allow them, by trial and error, to come up with a creative
-solution. These also instil positive life skills such as time management,
-responsibility and decision making.</p>
+<p><strong>Responsibility and Commitment:</strong>
+<br>By participating regularly and contributing to club projects, students
+learn the value of dedication, time management, and seeing a task through
+from start to finish.
+<br><strong>Teamwork and Respect:</strong>
+<br>Collaborative projects teach students to listen, share ideas, and respect
+different perspectives. These experiences foster empathy and patience.</p>
 </td>
 </tr>
 <tr>
@@ -64,10 +75,14 @@ responsibility and decision making.</p>
 <p>Empowering leaders and talents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Club seniors lead and help the juniors in the overall housekeeping
-of the materials and hand hold them in some activities. This provides the
-opportunity to hone their leadership skills and instil a sense of pride
-in them as they are respected by their fellow juniors.</p>
+<p>Members are given opportunities to take on leadership roles through guiding
+group projects and mentoring their juniors. These responsibilities help
+build confidence, initiative, and communication skills—qualities essential
+for future leaders.
+<br>As student leaders and talented artists emerge, they naturally become
+role models who uplift and motivate their peers. Their success and growth
+encourage others to step out of their comfort zones and pursue their own
+creative journey.</p>
 </td>
 </tr>
 <tr>
@@ -75,16 +90,68 @@ in them as they are respected by their fellow juniors.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cindy Tan (Teacher-in-charge)
-<br>Ms Esther Lee (Teacher-in-charge)
-<br>Mrs Asri
-<br>Mdm Winnie Ang
-<br>Mdm Koh Andrea</p>
+<p>Ms Esther Lee (Adviser)
+<br>Mrs Cindy Tan
+<br>Mdm Winne Ang
+<br>Mdm Fu Dong
+<br>Mdm Yong Jia Fang</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQx_TSUWqv4B5L02RbjvYbfLpQm7undivi9Jqnuy3_uVkVULhmBJP7Ue3QF6kb5zis5H8O0hqSGIA0H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_journey_to_National_Gallery_Singapore___PLASTICS___Remaking_the_World_.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>[Learning journey to National Gallery Singapore – PLASTICS – Remaking the World]</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Working_together__learning_together__growing_together_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>[Working together, learning together, growing together]</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collaboration_Mega_Dice_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>[Collaboration Mega Dice]</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
