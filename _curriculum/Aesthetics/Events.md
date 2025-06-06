@@ -47,8 +47,9 @@ of the pioneer artists and to understand how artists used art to portray
 the life and conditions, specifically focusing on Singapore during its
 founding years.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E1.png">
 </div>
 <p><em>Living the art! Our young actors become masterpieces in motion</em>
 </p>
