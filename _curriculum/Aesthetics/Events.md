@@ -10,8 +10,9 @@ variant: tiptap
 like their parents and peers. These experiences empower students to collaborate
 and develop greater self-confidence.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A1.png">
 </div>
 <p><em>From classroom to spotlight — hip hop vibes and confident moves, performed with heart for our amazing parents</em>
 </p>
