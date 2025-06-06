@@ -84,7 +84,15 @@ growth.</p>
 <br>Growing hearts and minds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Malay Dance CCA supports the holistic development of students by nurturing
+both character and compassion. As students rehearse and perform together,
+they take on responsibilities, show empathy towards one another, and contribute
+meaningfully to the school community.
+<br>In the words of cultural icon Som Said, <em>“Dance is not just movement. It is the expression of our identity, our culture, and our soul.”</em>
+<br>This belief is reflected in the CCA’s emphasis on values education, where
+students learn and practise the school values of integrity, gratitude,
+resilience, empathy, and unity, growing into confident and culturally rooted
+individuals.</p>
 </td>
 </tr>
 <tr>
