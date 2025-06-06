@@ -17,9 +17,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball CCA teaches students the skills &amp; knowledge of the games
-and improves their focus to develop teamwork &amp; resilience as a player.
-Training schedules are on Tuesdays and Fridays,</p>
-<p>2.15pm - 3.45pm at the ISH level 1 &amp; level 4.</p>
+and improves their focus to develop teamwork &amp; resilience as a player.</p>
 </td>
 </tr>
 <tr>
@@ -37,9 +35,14 @@ organised with various other schools.</p>
 <p>Developing our students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students practice their leadership, teamwork &amp; communication skills
-on court. They will also be learning technical skills and having the knowledge
-of the game and experience coaching of the 3v3 and 5v5 formations.</p>
+<p>Our school's basketball CCA offers students a dynamic platform to develop
+crucial life skills and values. Through rigorous training and collaborative
+play, students cultivate discipline, resilience, and strategic thinking,
+fostering personal growth in confidence, communication, and emotional regulation.
+Abundant opportunities for teamwork, exemplified in executing offensive
+plays, coordinating defensive strategies, and engaging in supportive in-game
+communication, empower students to become effective collaborators and responsible
+team players.</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +52,7 @@ of the game and experience coaching of the 3v3 and 5v5 formations.</p>
 <td rowspan="1" colspan="1">
 <p>CCA activities are geared towards inculcating the values of team spirit,
 respect and discipline. Students learn to play basketball with strategy,
-fairplay, good sportsmanships with respect to teammates, opponents, coaches,
+fairplay, good sportsmanship with respect to teammates, opponents, coaches,
 referees and others in the match.</p>
 </td>
 </tr>
@@ -60,9 +63,7 @@ referees and others in the match.</p>
 <td rowspan="1" colspan="1">
 <p>Students are empowered to be leaders within the team in various activities.
 This provides the opportunity to hone their leadership and organisational
-skills on court and in the real world.
-<br>
-</p>
+skills on court and in the real world.</p>
 </td>
 </tr>
 <tr>
@@ -70,11 +71,12 @@ skills on court and in the real world.
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wu Ming (Teacher-in-charge)
-<br>Mr Chew Wei (Teacher-in-charge)
-<br>Mr Melvin Ow
-<br>Mr Norman
-<br>Mr Tam Joon Chze</p>
+<p>Mr Wu Ming Che</p>
+<p>Mr Shamsudin Bin Kanchil</p>
+<p>Mr Norman Selvaraju</p>
+<p>Mr Duane Chan Xin Jie</p>
+<p>Mr Saiful Nizam Omaran</p>
+<p>Mdm Zhang Fulei</p>
 </td>
 </tr>
 </tbody>
