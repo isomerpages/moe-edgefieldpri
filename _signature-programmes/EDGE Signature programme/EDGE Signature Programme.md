@@ -24,7 +24,12 @@ and dispositions needed to thrive in a dynamic world.
 <p>Act responsibly with strong values and civic consciousness</p>
 </li>
 </ul>
-<p></p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_EDGE.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,9 +45,6 @@ and dispositions needed to thrive in a dynamic world.
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:
