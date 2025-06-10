@@ -227,38 +227,61 @@ Drumming or Sing and Strum</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <h3>P6: Graduation Ballroom Dance</h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students learn progressive Waltz in pairs
-and demonstrate ballroom etiquette.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Highlight: Final Graduation Ball performance.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Focus: Confidence, respect, and future
-readiness.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students learn progressive Waltz in pairs and demonstrate ballroom etiquette.</p>
+</li>
+<li>
+<p>Highlight: Final Graduation Ball performance.</p>
+</li>
+<li>
+<p>Focus: Confidence, respect, and future readiness.</p>
+<p></p>
+<p></p>
+</li>
+</ul>
 <h2>Our Learning Approach</h2>
 <p>The Performing Arts experience at EFPS is grounded in these principles:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ipsative Growth: Students reflect on their
-own development over time — building confidence, resilience, and performance
-discipline.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborative Learning: Each performance
-is a team effort where every student contributes and learns to support
-one another.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Family Engagement: Parents are invited
-to perform alongside their children in early years, deepening school-home
-partnerships.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cultural Awareness: Students are exposed
-to diverse global and local art forms, broadening their perspectives and
-empathy.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ipsative Growth: Students reflect on their own development over time —
+building confidence, resilience, and performance discipline.</p>
+</li>
+<li>
+<p>Collaborative Learning: Each performance is a team effort where every
+student contributes and learns to support one another.</p>
+</li>
+<li>
+<p>Family Engagement: Parents are invited to perform alongside their children
+in early years, deepening school-home partnerships.</p>
+</li>
+<li>
+<p>Cultural Awareness: Students are exposed to diverse global and local art
+forms, broadening their perspectives and empathy.</p>
+</li>
+</ul>
+<p></p>
 <h2>Our Impact</h2>
 <p>Through PA, students:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build confidence in presenting themselves</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to collaborate and communicate with
-empathy</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop resilience through sustained rehearsal
-and refinement</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grow in cultural understanding and appreciation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Celebrate their own and others' achievements</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Build confidence in presenting themselves</p>
+</li>
+<li>
+<p>Learn to collaborate and communicate with empathy</p>
+</li>
+<li>
+<p>Develop resilience through sustained rehearsal and refinement</p>
+</li>
+<li>
+<p>Grow in cultural understanding and appreciation</p>
+</li>
+<li>
+<p>Celebrate their own and others' achievements</p>
+</li>
+</ul>
+<p></p>
 <p>From their first beat in P1 to their final waltz in P6, students in the
 PA Programme live out EFPS’s vision, “Lives Empowered, Lives Touched.”</p>
