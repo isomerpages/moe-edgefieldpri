@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Digital and Visual Literacy/.keep
       - EDGE Signature Programme.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
