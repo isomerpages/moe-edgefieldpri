@@ -96,4 +96,12 @@ respect, and integrity.</p>
 </ul>
 <p>&nbsp;Through the programme, students grow into future-ready digital citizens
 who live out EFPS’s vision of “Lives Empowered, Lives Touched” — in every
-swipe, click, and post.</p>
+swipe, click, and post.
+<br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_and_Visual_Literacy.jpg">
+</div>
+<p><em>Lights, camera, action — and edit! Our students are putting their video editing skills to the test by creating their very own productions.</em>
+</p>
