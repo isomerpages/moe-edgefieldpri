@@ -21,31 +21,28 @@ and dispositions needed to thrive in a dynamic world.
 <p>Collaborate meaningfully across diverse contexts</p>
 </li>
 <li>
-<p>Act responsibly with strong values and civic consciousness</p>
-</li>
-</ul>
-<p>
+<p>Act responsibly with strong values and civic consciousness
+<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_EDGE.jpg">
 </div>
-<table style="minWidth: 50px">
+</li>
+</ul>
+<p></p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p><strong><u>Framework for 21<sup>st</sup> Century Competencies and Student Outcomes</u></strong>
 </p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:
 <br>
