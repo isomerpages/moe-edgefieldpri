@@ -100,16 +100,15 @@ from industry professionals and innovation experts.</p>
 </ol>
 <p>This process cultivates student resilience, creativity and a deep sense
 of purpose in solving real-world issues.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/When_curious_minds_and_helping_hands_come_together__ideas_take_shape_and_innovation_begins.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>When curious minds and helping hands come together, ideas take shape and innovation begins</em>
@@ -118,24 +117,29 @@ of purpose in solving real-world issues.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <h2>Impact</h2>
 <p>By the end of the programme, students demonstrate growth in key competencies:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Critical, adaptive and inventive thinking</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enhanced collaboration, communication,
-and reflection skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stronger ownership towards the community</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Critical, adaptive and inventive thinking</p>
+</li>
+<li>
+<p>Enhanced collaboration, communication, and reflection skills</p>
+</li>
+<li>
+<p>Stronger ownership towards the community</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovation_comes_alive_when_imagination_meets_collaboration_and_every_voice_matters_.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>Innovation comes alive when imagination meets collaboration and every voice matters.</em>
