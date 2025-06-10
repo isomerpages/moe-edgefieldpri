@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Applied Learning Programme.md
+      - EDGE Signature programme/.keep
       - EDGE Signature programme/EDGE Signature Programme.md
-      - EDGE Signature programme/STEM.md
-      - EDGE Signature programme/Sports.md
-      - EDGE Signature programme/Performing Arts.md
-      - EDGE Signature programme/Live Life, Love Life.md
       - EDGE Signature programme/Digital and Visual Literacy.md
       - EDGE Signature programme/Language Arts.md
-      - EDGE Signature programme/.keep
+      - EDGE Signature programme/Live Life, Love Life.md
+      - EDGE Signature programme/Performing Arts.md
+      - EDGE Signature programme/Sports.md
+      - EDGE Signature programme/STEM.md
       - Learning for Life Programme.md
