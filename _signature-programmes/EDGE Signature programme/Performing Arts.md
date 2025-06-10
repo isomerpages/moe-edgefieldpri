@@ -145,22 +145,29 @@ moves in small groups.</p>
 </table>
 <p></p>
 <h3>P5: Performance Arts Choice Modules</h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are given a choice to choose
-from Angklung and Kulintang, Global Drumming or Sing and Strum</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Highlight: Combined showcase with P4 Hip-hop
-Dance.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Focus: Musicality, peer collaboration,
-and performance discipline.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are given a choice to choose from Angklung and Kulintang, Global
+Drumming or Sing and Strum</p>
+</li>
+<li>
+<p>Highlight: Combined showcase with P4 Hip-hop Dance.</p>
+</li>
+<li>
+<p>Focus: Musicality, peer collaboration, and performance discipline.
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In_every_strike_of_the_mallet__we_blend_precision_with_passion___making_music_that_connects_cultures_and_hearts.jpg">
+</div>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>In every strike of the mallet, we blend precision with passion — making music that connects cultures and hearts</em>
@@ -170,16 +177,14 @@ and performance discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Creating_harmony_through_unity__tradition_and_shared_rhythm.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>Creating harmony through unity, tradition and shared rhythm</em>
@@ -189,16 +194,14 @@ and performance discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_strum_of_the_ukulele__we_find_our_rhythm__build_our_confidence_and_create_harmony_together.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>With every strum of the ukulele, we find our rhythm, build our confidence and create harmony together</em>
@@ -208,16 +211,14 @@ and performance discipline.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In_every_beat__we_build_rhythm__resilience__and_the_power_of_performing_as_one.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>In every beat, we build rhythm, resilience, and the power of performing as one</em>
