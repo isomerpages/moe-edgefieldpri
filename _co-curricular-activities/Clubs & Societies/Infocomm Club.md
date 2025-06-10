@@ -90,7 +90,42 @@ in different stage of their design projects.</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSm89eswRKxPXQw-luUwEbiS_9grrY_K2Q74Om8TUAHulAWzvKRcWlx5es9sQ1VD_hWVrsBEXOYWK40/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Making_Marble_maze_in_the_Makerspace.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Making Marble maze in the Makerspace</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_journey_in_Airforce_museum.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Learning journey in Airforce museum</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
