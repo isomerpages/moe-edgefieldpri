@@ -62,8 +62,7 @@ and dispositions needed to thrive in a dynamic world.
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
+<p><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
 <br>Through E.D.G.E. and the broader Total Curriculum, every Edgefielder will
 graduate as a confident, compassionate and capable individual who is ready
 to navigate life with purpose and contribute meaningfully to society.
