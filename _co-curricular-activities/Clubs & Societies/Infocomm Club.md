@@ -126,6 +126,21 @@ in different stage of their design projects.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cleaning_school_library_for_VIA.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Cleaning school library for VIA</em>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
