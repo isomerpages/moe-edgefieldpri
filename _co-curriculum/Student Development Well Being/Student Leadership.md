@@ -43,6 +43,18 @@ to contribute actively to the school community.</p>
 <br><em>Prefects of Edgefield Primary School are nurtured through intentional leadership opportunities that build confidence, communication, and teamwork. They grow by leading peers, reflecting on feedback, and taking initiative to serve the school community.</em>
 <br>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolLeadership_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolLeadership_6.png">
+</div>
+<p><em>Student leadership positions such as Peer Support Leaders, Junior Environment Champions, Sports Leaders, CCA Leaders, Class and Subject Ambassadors in our school provide authentic platforms for students to step up, lead, and make a difference. Through mentoring, training, and real-life responsibilities, they develop key competencies such as resilience, empathy, and decision-making.</em>
+<br>
+<br>
+<br>
 <br>
 <br>
 </p>
