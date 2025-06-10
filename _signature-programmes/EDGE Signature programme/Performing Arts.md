@@ -110,16 +110,14 @@ moves in small groups.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_gesture__we_express_strength__discipline_and_the_importance_of_being_fully_present.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>With every gesture, we express strength, discipline and the importance of being fully present</em>
@@ -128,17 +126,15 @@ moves in small groups.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_movement__we_express_who_we_are___focused__grounded__and_growing_a__We__culture_together.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>With every movement, we express who we are — focused, grounded, and growing a “We” culture together</em>
@@ -147,7 +143,7 @@ moves in small groups.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <h3>P5: Performance Arts Choice Modules</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are given a choice to choose
 from Angklung and Kulintang, Global Drumming or Sing and Strum</p>
