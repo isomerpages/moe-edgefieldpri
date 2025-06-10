@@ -2,7 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - EDGE Signature programme/Applied Learning Programme.md
       - EDGE Signature programme/Language Arts.md
       - EDGE Signature programme/.keep
       - EDGE Signature Programme.md
