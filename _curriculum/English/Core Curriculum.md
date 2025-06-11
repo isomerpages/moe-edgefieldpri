@@ -5,7 +5,7 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h1>Core Curriculum</h1>
+<h3>Core Curriculum</h3>
 <p><strong>English Language at Edgefield Primary School</strong>
 <br>
 <br>At Edgefield, we believe every child has the potential to be a confident
