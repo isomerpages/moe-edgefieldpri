@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Innovation
 variant: tiptap
 ---
-<h3>Maker Education</h3>
+<h1>Maker Education</h1>
 <p>Our school incorporates Maker Education into our pedagogical framework,
 aiming to foster comprehensive learner development. This approach is designed
 to cultivate essential character traits vital for success across various
@@ -24,7 +24,7 @@ equips students with the requisite skills and mindsets to thrive in today's
 dynamic environment.&nbsp;</p>
 <p>Click&nbsp;<a href="https://www.edgefieldpri.moe.edu.sg/signature-programmes/makerspace/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more about our signature Maker Education Programme</p>
-<h3>Learning through Play at Lower Primary</h3>
+<h2>Learning through Play at Lower Primary</h2>
 <p>In the lower primary years, Maker Education adopts a "learning through
 play" approach, instrumental in fostering 21CC attitudes and dispositions.
 Through engaging in playful activities, young learners cultivate curiosity,
@@ -34,7 +34,7 @@ build confidence and initiative in their learning endeavors.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_1.jpg">
 </div>
-<h3>Collaborative Play at Upper Primary</h3>
+<h2>Collaborative Play at Upper Primary</h2>
 <p>Transitioning to the upper primary years, Maker Education evolves to emphasize
 collaborative play, further enhancing 21CC skills and preparing students
 to address real-world challenges. During this stage, students engage in
@@ -47,7 +47,7 @@ fostering a growth mindset essential for future success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_2.jpg">
 </div>
-<h3>Innovation Programme</h3>
+<h2>Innovation Programme</h2>
 <p>In the upper primary years, our students are well-equipped with the competencies
 required to invent solutions for real-world problems. Through the Innovation
 Programme, they identify and analyze issues, brainstorm innovative solutions,
