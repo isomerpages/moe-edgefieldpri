@@ -78,7 +78,7 @@ from industry professionals and innovation experts.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h2>Our Design Thinking Approach</h2>
+<h3>Our Design Thinking Approach</h3>
 <p>At every level, students are guided by a structured Design Thinking process:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -118,7 +118,7 @@ of purpose in solving real-world issues.</p>
 </tbody>
 </table>
 <p></p>
-<h2>Impact</h2>
+<h3>Impact</h3>
 <p>By the end of the programme, students demonstrate growth in key competencies:</p>
 <ul data-tight="true" class="tight">
 <li>
