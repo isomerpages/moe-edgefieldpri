@@ -52,7 +52,7 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP3.jpeg">
 </div>
-<h4>TIER 1: Exposure (Appreciating our Environment)</h4>
+<h4><br>TIER 1: Exposure (Appreciating our Environment)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide1.JPG">
 </div>
@@ -66,7 +66,7 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide3.JPG">
 </div>
-<h4>TIER 2: Experience (Connecting with our Environment)</h4>
+<h4>TIER 2: Experience (Connecting with our Environment)<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide4.JPG">
 </div>
@@ -74,13 +74,12 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide5.JPG">
 </div>
-<h4>TIER 3: Empower (Environmental Activists in Action)</h4>
+<h4><br>TIER 3: Empower (Environmental Activists in Action)</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide6.JPG">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide7.JPG">
 </div>
