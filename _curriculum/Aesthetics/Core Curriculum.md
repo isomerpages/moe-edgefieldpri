@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h3><strong>Performing and Visual Arts Curriculum</strong></h3>
+<h1><strong>Performing and Visual Arts Curriculum</strong></h1>
 <p>The Performing and Visual arts curriculum aims to enrich our students’
 learning experiences. We cater to the needs and interests of all Edgefielders
 by providing rich and holistic exposure to the different art forms - music,
@@ -55,7 +55,7 @@ dance and visual arts.&nbsp;</p>
 </div>
 <p><em>Inspiring minds – students’ connection with art and history at the museum</em>
 </p>
-<h3>Performing Arts Curriculum</h3>
+<h2>Performing Arts Curriculum</h2>
 <p>Musical elements, concepts and skills are spiralled throughout the six-years
 of curriculum, enabling progressive development in achieving the desired
 outcomes. The curriculum focuses on self-directed learning, using emerging
@@ -82,7 +82,7 @@ and self-directed learners.</p>
 </div>
 <p><em>Collaborative growth through peer feedback in ukulele practice</em>
 </p>
-<h3>Visual Arts Curriculum</h3>
+<h2>Visual Arts Curriculum</h2>
 <p>The art curriculum allows students to develop creative dispositions, build
 students’ capacity to critically discern and process visual information
 and communicate effectively. It also fosters students’ sense of identity,
