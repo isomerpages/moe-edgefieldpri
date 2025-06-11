@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h1>Dance</h1>
+<h3>Dance</h3>
 <p>As part of the Learning for Life Programme (LLP), students attend dancesport,
 ethnic and culture dance modules during their EDGE program. Focusing on
 developing etiquette, collaboration and confidence, students showcase the
