@@ -4,17 +4,15 @@ permalink: /signature-programmes/applied-learning-programme-environmental-scienc
 description: ""
 variant: tiptap
 ---
-<h3>Applied Learning Programme : Environmental Science &amp; Sustainability</h3>
-<p><strong>STEM-based Applied Learning Programme (ALP)</strong>
-</p>
-<p><strong>Environmental Science and Sustainability</strong>
-</p>
-<h3>Objective of ALP</h3>
+<h1>Applied Learning Programme : Environmental Science &amp; Sustainability</h1>
+<h2><strong>STEM-based Applied Learning Programme (ALP)</strong></h2>
+<h2><strong>Environmental Science and Sustainability</strong></h2>
+<h4>Objective of ALP</h4>
 <p><strong><em>Environmental Science and Sustainability Education</em></strong>&nbsp;is
 our school’s Applied Learning Programme to help students connect their
 knowledge with real-world application. The ALP is designed with the following
 objectives:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>To nurture and develop students who will care deeply for the environment
 and are change agents in contributing to environmental sustainability.</p>
@@ -28,7 +26,7 @@ of the ALP.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp1.png">
 </div>
-<h3>Approach</h3>
+<h4>Approach</h4>
 <p>The 3E approach;&nbsp;<em>Exposure, Experience and Empower</em>&nbsp;enables
 the school to inculcate in students the respect and love for the environment
 and how to be the change agents in contributing to environmental sustainability.</p>
@@ -54,7 +52,7 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP3.jpeg">
 </div>
-<h3>TIER 1: Exposure (Appreciating our Environment)</h3>
+<h4>TIER 1: Exposure (Appreciating our Environment)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide1.JPG">
 </div>
@@ -68,7 +66,7 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide3.JPG">
 </div>
-<h3>TIER 2: Experience (Connecting with our Environment)</h3>
+<h4>TIER 2: Experience (Connecting with our Environment)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide4.JPG">
 </div>
@@ -76,7 +74,7 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide5.JPG">
 </div>
-<h3>TIER 3: Empower (Environmental Activists in Action)</h3>
+<h4>TIER 3: Empower (Environmental Activists in Action)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide6.JPG">
 </div>
