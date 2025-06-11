@@ -46,10 +46,7 @@ and dispositions needed to thrive in a dynamic world.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:</p>
 <p>1. Core Values
 <br>- Respect · Responsibility · Resilience · Integrity · Care · Harmony
