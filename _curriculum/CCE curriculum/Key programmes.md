@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE curriculum
 ---
-<h3>Values-in-Action (VIA)</h3>
+<h1>Values-in-Action (VIA)</h1>
 <p>Everyday Responsibilities</p>
 <p>We would like the students to develop a sense of responsibility and care
 for their own shared spaces through daily cleaning and adopting sustainable
@@ -43,7 +43,7 @@ community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rihannsh_P2F.png">
 </div>
 <p></p>
-<h3>Star Edgefin</h3>
+<h2>Star Edgefin</h2>
 <p>The Star Edgefin Programme aims to encourage and reward students who demonstrate
 school values consistently, recognise students for their effort, and to
 instil a culture of care around the school.</p>
