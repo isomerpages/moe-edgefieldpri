@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h3><strong>21<sup>st</sup> Century Competencies: A Key Direction for the EFPS Total Curriculum</strong></h3>
+<h1><strong>21<sup>st</sup> Century Competencies: A Key Direction for the EFPS Total Curriculum</strong></h1>
 <p></p>
 <p>EFPS places 21<sup>st</sup> Century Competencies (21CC) at the heart of
 our Total Curriculum, in alignment with MOE’s national direction. This
@@ -63,8 +63,7 @@ and dispositions needed to thrive in a dynamic world.
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
+<p><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
 <br>Through E.D.G.E. and the broader Total Curriculum, every Edgefielder will
 graduate as a confident, compassionate and capable individual who is ready
 to navigate life with purpose and contribute meaningfully to society.
