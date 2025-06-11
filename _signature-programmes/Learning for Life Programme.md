@@ -4,7 +4,7 @@ permalink: /signature-programmes/learning-for-life-programmes/dance-llp/
 description: ""
 variant: tiptap
 ---
-<h3>Learning for Life Programme : Dance</h3>
+<h1>Learning for Life Programme : Dance</h1>
 <p>In delivering holistic education with values inculcation and development
 of 21st century competencies, the Dance learning for life programme is
 designed with the following objectives:&nbsp;</p>
@@ -27,7 +27,7 @@ in dance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier.png">
 </div>
-<h3>Engage – Curriculum Programme for All</h3>
+<h2>Engage – Curriculum Programme for All</h2>
 <p>All students go through 6 years of dances module in Performing Arts and
 Physical Education curriculum leading to the graduation ball at the end
 of Primary 6. Using the EDGE Approach, the programme is designed to achieve
