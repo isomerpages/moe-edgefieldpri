@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Innovation
 variant: tiptap
 ---
-<h1>EFPS 21CC Curriculum</h1>
+<h3>EFPS 21CC Curriculum</h3>
 <p>At EFPS, we recognize the unique interests, strengths, and learning styles
 of every student. Our integrated curriculum aims to nurture Edgefielders
 into stewards of their world, capable of confidently navigating the future,
