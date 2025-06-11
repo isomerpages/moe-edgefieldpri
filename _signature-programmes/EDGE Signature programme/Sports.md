@@ -181,7 +181,7 @@ and roles.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3>Our Approach</h3>
+<h2>Our Approach</h2>
 <p>Across all modules, EDGE Sports applies a consistent framework that emphasises:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -219,7 +219,7 @@ character.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3>Our Impact</h3>
+<h2>Our Impact</h2>
 <p>Through the EDGE Sports Programme, Edgefielders:</p>
 <ul data-tight="true" class="tight">
 <li>
