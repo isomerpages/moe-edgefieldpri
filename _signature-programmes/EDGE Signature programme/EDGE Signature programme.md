@@ -38,11 +38,16 @@ and dispositions needed to thrive in a dynamic world.
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_EDGE_1.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:</p>
