@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE curriculum
 ---
-<h3>Total Defence</h3>
+<h1>Total Defence</h1>
 <p>We commemorate Total Defence Day on 15 February each year to mark the
 fall of Singapore to the Japanese in 1942. In commemorating TDD, our students
 reflect on the importance of Total Defence as Singapore's best all-round&nbsp;response
@@ -15,7 +15,7 @@ of the six pillars of Total Defence - Military Defence, Civil Defence,
 Economic Defence, Social Defence, Digital Defence and Psychological Defence
 - as well as the core message of every Singaporean standing together, each
 playing our part to protect Singapore and our shared way of life.&nbsp;</p>
-<h3>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h3>
+<h2>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h2>
 <p>2024 marks 40 years of Total Defence (TD40) in Singapore. The focus for
 TD40 will be on Singaporean’s readiness and resilience in the face of crises
 and disruptions. Total Defence underpins our ability to deal with the ever-evolving
@@ -37,7 +37,7 @@ our daily lives to ensure that Singapore is prepared for crises and disruption.<
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40.jpg">
 </div>
 <p></p>
-<h3>International Friendship Day</h3>
+<h2>International Friendship Day</h2>
 <p>We commemorate International Friendship Day on the 3rd Friday of Term
 2. This is a day dedicated to the understanding of Singapore's relations
 with neighbouring countries and beyond. The commemoration of IFD allows
@@ -46,7 +46,7 @@ to reflect on the importance of&nbsp;an active foreign policy to maintain
 Singapore's international space, openness to the international flow of
 trade, ideas and talent, cross-cultural skills and a global orientation,
 and the spirit of friendship and collaboration amongst different people.</p>
-<h3>IFD Theme 2024 |&nbsp;<em>Singapore in Asia</em></h3>
+<h2>IFD Theme 2024 |&nbsp;<em>Singapore in Asia</em></h2>
 <p>International cooperation remains key in our complex world. Asia is the
 world's fastest-growing region, and Singapore continues to facilitate closer
 economic, political, social, and cultural cooperation within ASEAN and
@@ -72,7 +72,7 @@ to contribute to efforts at international cooperation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9193.jpg">
 </div>
-<h3>National Day</h3>
+<h2>National Day</h2>
 <p>National Day marks our separation from Malaysia in 1965, and our emergence
 as an independent country in a community of nations. The school-based commemoration
 brings to students a sense of the historical importance and solemnity of
