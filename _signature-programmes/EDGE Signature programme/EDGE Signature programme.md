@@ -41,7 +41,7 @@ and dispositions needed to thrive in a dynamic world.
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_EDGE_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2_EDGE_1.jpg">
 </div>
 </td>
 </tr>
