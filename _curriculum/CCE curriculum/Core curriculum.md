@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCE curriculum
 ---
-<h3>CCE Curriculum</h3>
-<p><strong>CCE aims to develop in our students:</strong>
-</p>
+<h1>CCE Curriculum</h1>
+<h2><strong>CCE aims to develop in our students:</strong></h2>
 <p>1.&nbsp;<strong>Good Character</strong>: Have a sound moral compass and
 a strong sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
@@ -25,7 +24,7 @@ identity based on a sense of belonging to the nation, a sense of hope in
 themselves and the future, an awareness of the reality of Singapore’s vulnerabilities
 and constraints, and the will to act on improving the lives of others,
 and building a future for our nation.</p>
-<h3>CCE/FTGP</h3>
+<h4>CCE/FTGP</h4>
 <p>Character and Citizenship Education Form Teacher Guidance Period (FTGP)
 lessons involve the explicit teaching and learning of fundamental social-emotional
 skills which are anchored on values and citizenship dispositions. The activities,
