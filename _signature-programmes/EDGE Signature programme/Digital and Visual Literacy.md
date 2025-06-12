@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h1>EDGE Digital Literacy Programme</h1>
+<h2>EDGE Digital Literacy Programme</h2>
 <p>Empowering Students to Think Critically, Act Responsibly, and Create Confidently
 in the Digital Age.
 <br>
@@ -19,7 +19,7 @@ develop key 21st Century Competencies (21CC) such as:
 <br>
 <br>Through hands-on learning, guided reflections, and collaborative projects,
 students learn to become discerning, safe, and empowered digital citizens.</p>
-<h2><br>Primary 1: Foundations in Digital Responsibility</h2>
+<h3><br>Primary 1: Foundations in Digital Responsibility</h3>
 <p>At the start of their digital journey, P1 students are introduced to the
 fundamentals of digital safety, screen time management, and responsible
 device use.</p>
@@ -39,8 +39,7 @@ device use.</p>
 </ul>
 <p>Focus: Digital responsibility, safe online habits and early communication
 skills.</p>
-<p></p>
-<h2>Primary 5: Communicate and Create with Digital Media</h2>
+<h3>Primary 5: Communicate and Create with Digital Media</h3>
 <p>P5 students deepen their digital fluency by creating original video content,
 learning both the creative and responsible aspects of media.</p>
 <ul data-tight="true" class="tight">
@@ -58,8 +57,7 @@ learning both the creative and responsible aspects of media.</p>
 </li>
 </ul>
 <p>Focus: Responsible media creation, teamwork, and critical digital judgment.</p>
-<p></p>
-<h2>Our Learning Approach</h2>
+<h3>Our Learning Approach</h3>
 <p>The DL Programme is anchored in experiential, reflective, and values-based
 learning:</p>
 <ul data-tight="true" class="tight">
@@ -80,8 +78,7 @@ respect, and integrity.</p>
 (P1) to creation and communication (P5).</p>
 </li>
 </ul>
-<p></p>
-<h2>Our Impact</h2>
+<h3>Our Impact</h3>
 <p>Through the EDGE DL Programme, students become:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -99,7 +96,6 @@ who live out EFPS’s vision of “Lives Empowered, Lives Touched” — in ever
 swipe, click, and post.
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_and_Visual_Literacy.jpg">
 </div>
