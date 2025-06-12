@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h1>STEM Innovator Programme</h1>
+<h3>STEM Innovator Programme</h3>
 <p>The STEM Innovator Programme is EFPS’s Applied Learning Programme (ALP),
 designed to nurture sustainability-minded innovators. It empowers students
 with 21st-century competencies—such as critical thinking, adaptability,
 and creativity—through authentic and impactful learning experiences.</p>
 <p></p>
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>This programme is a key component of the EDGE Curriculum, offering students
 meaningful opportunities to explore sustainability challenges. Through
 real-world problem solving, students build essential innovation skills,
@@ -20,8 +20,8 @@ change. The journey fosters student agency, equipping learners to become
 confident changemakers aligned with EFPS’s vision of “Lives Empowered,
 Lives Touched.”</p>
 <p></p>
-<h2>Programme Overview</h2>
-<h3>Primary 4: Food Sustainability</h3>
+<h3>Programme Overview</h3>
+<h4>Primary 4: Food Sustainability</h4>
 <p>All Primary 4 students investigate the issue of food waste in the school
 community. Using the Design Thinking framework, they explore the problem,
 empathise with stakeholders, generate ideas, and prototype tangible solutions.
@@ -40,7 +40,7 @@ and presentation</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h3>Primary 5: Energy Conservation and Innovation</h3>
+<h4>Primary 5: Energy Conservation and Innovation</h4>
 <h4>Tier 1 – Energy Conservation STEM Innovator (Mainstream)</h4>
 <p>Building on their Primary 4 experiences, Primary 5 students identify and
 address energy wastage at school and home. They use collaborative sketching
@@ -78,7 +78,7 @@ from industry professionals and innovation experts.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h3>Our Design Thinking Approach</h3>
+<h4>Our Design Thinking Approach</h4>
 <p>At every level, students are guided by a structured Design Thinking process:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -118,7 +118,7 @@ of purpose in solving real-world issues.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Impact</h3>
+<h4>Impact</h4>
 <p>By the end of the programme, students demonstrate growth in key competencies:</p>
 <ul data-tight="true" class="tight">
 <li>
