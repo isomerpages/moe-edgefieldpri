@@ -19,7 +19,7 @@ develop key 21st Century Competencies (21CC) such as:
 <br>
 <br>Through hands-on learning, guided reflections, and collaborative projects,
 students learn to become discerning, safe, and empowered digital citizens.</p>
-<h3><br>Primary 1: Foundations in Digital Responsibility</h3>
+<h3>Primary 1: Foundations in Digital Responsibility</h3>
 <p>At the start of their digital journey, P1 students are introduced to the
 fundamentals of digital safety, screen time management, and responsible
 device use.</p>
