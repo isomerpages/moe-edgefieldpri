@@ -34,9 +34,10 @@ from literary festivals, theatre performances to language-based competitions.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025__Weide_Zhihai__National_Penmanship_Competition.jpg">
 </div>
-<p>2025 “Weide Zhihai” National Penmanship Competition</p>
-<p>Primary 5 student received a Merit Award, which included a $50 Popular
-voucher and a certificate of achievement.</p>
+<p><em>2025 “Weide Zhihai” National Penmanship Competition</em>
+</p>
+<p><em>Primary 5 student received a Merit Award, which included a $50 Popular voucher and a certificate of achievement.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_National_Primary_School_Chinese_Storytelling_Competition.jpg">
@@ -53,7 +54,8 @@ voucher and a certificate of achievement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Singing_Competition_organized_by_Hong_Kah_North_CC.jpg">
 </div>
-<p>[First in Singing Competition organized by Hong Kah North CC</p>
+<p><em>[First in Singing Competition organized by Hong Kah North CC</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Tirukkural_Vizha_2025.png">
@@ -62,9 +64,11 @@ voucher and a certificate of achievement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Tirukkural_Vizha_2025_2.jpg">
 </div>
-<p>First in Tirukkural Vizha 2025</p>
+<p><em>First in Tirukkural Vizha 2025</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_in_Tirukkural_Vizha_2025_3.png">
 </div>
-<p>First in Tirukkural Vizha 2025</p>
+<p><em>First in Tirukkural Vizha 2025</em>
+</p>
