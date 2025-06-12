@@ -4,9 +4,8 @@ permalink: /signature-programmes/applied-learning-programme-environmental-scienc
 description: ""
 variant: tiptap
 ---
-<h1>Applied Learning Programme : Environmental Science &amp; Sustainability</h1>
-<h2><strong>STEM-based Applied Learning Programme (ALP)</strong></h2>
-<h2><strong>Environmental Science and Sustainability</strong></h2>
+<h3>Applied Learning Programme : Environmental Science &amp; Sustainability<br><br><strong>STEM-based Applied Learning Programme (ALP)</strong></h3>
+<h4><strong>Environmental Science and Sustainability</strong></h4>
 <h4>Objective of ALP</h4>
 <p><strong><em>Environmental Science and Sustainability Education</em></strong>&nbsp;is
 our school’s Applied Learning Programme to help students connect their
