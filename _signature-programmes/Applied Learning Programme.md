@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Applied Learning Programme : Environmental Science &amp; Sustainability<br><br><strong>STEM-based Applied Learning Programme (ALP)</strong></h3>
-<h4><strong>Environmental Science and Sustainability</strong></h4>
-<h4>Objective of ALP</h4>
+<h4><strong>Environmental Science and Sustainability</strong><br><br>Objective of ALP</h4>
 <p><strong><em>Environmental Science and Sustainability Education</em></strong>&nbsp;is
 our school’s Applied Learning Programme to help students connect their
 knowledge with real-world application. The ALP is designed with the following
