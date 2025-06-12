@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h3>STEM Innovator Programme</h3>
+<h2>STEM Innovator Programme</h2>
 <p>The STEM Innovator Programme is EFPS’s Applied Learning Programme (ALP),
 designed to nurture sustainability-minded innovators. It empowers students
 with 21st-century competencies—such as critical thinking, adaptability,
@@ -78,7 +78,7 @@ from industry professionals and innovation experts.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h4>Our Design Thinking Approach</h4>
+<h3>Our Design Thinking Approach</h3>
 <p>At every level, students are guided by a structured Design Thinking process:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -118,7 +118,7 @@ of purpose in solving real-world issues.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Impact</h4>
+<h3>Impact</h3>
 <p>By the end of the programme, students demonstrate growth in key competencies:</p>
 <ul data-tight="true" class="tight">
 <li>
