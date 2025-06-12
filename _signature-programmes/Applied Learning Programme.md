@@ -24,7 +24,7 @@ of the ALP.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp1.png">
 </div>
-<h4>Approach</h4>
+<h4><br>Approach</h4>
 <p>The 3E approach;&nbsp;<em>Exposure, Experience and Empower</em>&nbsp;enables
 the school to inculcate in students the respect and love for the environment
 and how to be the change agents in contributing to environmental sustainability.</p>
@@ -33,7 +33,9 @@ and how to be the change agents in contributing to environmental sustainability.
 </div>
 <p><strong>Opportunities for all Students</strong>
 </p>
-<p>The 3Es are cascaded into 3 tiers to provide opportunities for all students.</p>
+<p>The 3Es are cascaded into 3 tiers to provide opportunities for all students.
+<br>
+</p>
 <p>For instance, under the “Exposure” Tier, students from P1 to P6 will learn
 to appreciate the environment and be aware of the need to take care of
 it through activities such as learning journeys, PAL, assembly talks and
@@ -64,7 +66,7 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide3.JPG">
 </div>
-<h4>TIER 2: Experience (Connecting with our Environment)<br></h4>
+<h4><br>TIER 2: Experience (Connecting with our Environment)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide4.JPG">
 </div>
@@ -73,7 +75,6 @@ will become&nbsp;<strong><em>self-directed learners</em></strong>,&nbsp;<strong>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide5.JPG">
 </div>
 <h4><br>TIER 3: Empower (Environmental Activists in Action)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/slide6.JPG">
 </div>
