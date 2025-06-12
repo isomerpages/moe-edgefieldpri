@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h1><strong>Language Arts @ EDGE: Giving Every Child a Voice</strong></h1>
-<h2><strong>Building Confidence Through Performance</strong></h2>
+<h2><strong>Language Arts @ EDGE: Giving Every Child a Voice</strong></h2>
+<h3><strong>Building Confidence Through Performance</strong></h3>
 <p>At Edgefield Primary, we believe that confident communication is the foundation
 of future-ready learners. Through our Language Arts strand of the EDGE
 Curriculum, students embark on a four-year developmental journey that nurtures
@@ -37,7 +37,7 @@ learning that brings the English language to life:</p>
 to grow as communicators across stages—experiencing, developing, growing,
 and eventually, empowering others through performance.</p>
 <p></p>
-<h2><strong>Communication, Confidence, Celebration</strong></h2>
+<h3><strong>Communication, Confidence, Celebration</strong></h3>
 <p>Beyond language acquisition, our Language Arts programme gives students
 a stage—literally and figuratively—to find their voice. Each module culminates
 in a class or level-wide performance, where students proudly present their
@@ -55,7 +55,7 @@ work to authentic audiences including peers, teachers, and parents.</p>
 </li>
 </ul>
 <p></p>
-<h2><strong>Highlights from 2025</strong></h2>
+<h3><strong>Highlights from 2025</strong></h3>
 <p>In Semester 1, our Primary 2 and 3 students lit up the stage with joyful
 storytelling and dramatic flair. Their commitment, growth, and courage
 earned resounding applause from families and friends. We’re excited to
