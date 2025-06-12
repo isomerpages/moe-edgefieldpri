@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h1>Live Life, Love Life (LiLo) Programme</h1>
+<h3>Live Life, Love Life (LiLo) Programme</h3>
 <p>Empowering Confident Learners and Gracious Contributors</p>
-<h2>Our Purpose</h2>
+<h4>Our Purpose</h4>
 <p>The Live Life, Love Life (LiLo) Programme is Edgefield Primary School’s
 character development cornerstone, nurturing students to grow into resilient,
 empathetic and responsible individuals.
@@ -18,11 +18,11 @@ life transitions with confidence and grace. Grounded in values and real-life
 skills, LiLo develops students not only as learners, but as contributors
 at school, home and in the wider community.</p>
 <p></p>
-<h2>Our Programme</h2>
+<h4>Our Programme</h4>
 <p>LiLo supports students at key growth stages through age-appropriate experiences
 that strengthen self-awareness, relationship skills, and future readiness.</p>
 <p></p>
-<h3>Primary 1 – Foundations for Positive Habits</h3>
+<h4>Primary 1 – Foundations for Positive Habits</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Daily routines and self-management</p>
@@ -73,7 +73,7 @@ for school)</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3>Primary 2 – Graceful Communities in Action</h3>
+<h4>Primary 2 – Graceful Communities in Action</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Practising empathy and peer support</p>
@@ -86,7 +86,7 @@ for school)</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h3>Primary 6 – Resilience and Future Readiness</h3>
+<h4>Primary 6 – Resilience and Future Readiness</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Reflecting on personal strengths and passions</p>
@@ -141,7 +141,7 @@ Unity, Excellence — serve as anchors for students’ personal growth.</p>
 </tbody>
 </table>
 <p></p>
-<h2>Our Process</h2>
+<h3>Our Process</h3>
 <p>The LiLo experience is built on a continuous cycle of reflection, routine,
 and relational learning.</p>
 <ul data-tight="true" class="tight">
@@ -165,7 +165,7 @@ help students internalise key habits.</p>
 <p>Students are continually guided to become self-directed learners who contribute
 meaningfully to the world around them.</p>
 <p></p>
-<h2>Our Impact</h2>
+<h3>Our Impact</h3>
 <p>By the end of the LiLo journey:</p>
 <ul data-tight="true" class="tight">
 <li>
