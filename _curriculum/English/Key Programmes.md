@@ -5,7 +5,8 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<h3><strong>A)&nbsp;&nbsp;&nbsp; Reading Programme &amp; Library Activities</strong></h3>
+<p><strong>A)&nbsp;&nbsp;&nbsp; Reading Programme &amp; Library Activities</strong>
+</p>
 <p>At Edgefield, we believe that reading is the foundation of language learning
 and a gateway to imagination, empathy, and critical thinking. Our reading
 and library activities are thoughtfully designed to nurture a lifelong
