@@ -141,7 +141,7 @@ Unity, Excellence — serve as anchors for students’ personal growth.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Our Process</h3>
+<h4>Our Process</h4>
 <p>The LiLo experience is built on a continuous cycle of reflection, routine,
 and relational learning.</p>
 <ul data-tight="true" class="tight">
@@ -165,7 +165,7 @@ help students internalise key habits.</p>
 <p>Students are continually guided to become self-directed learners who contribute
 meaningfully to the world around them.</p>
 <p></p>
-<h3>Our Impact</h3>
+<h4>Our Impact</h4>
 <p>By the end of the LiLo journey:</p>
 <ul data-tight="true" class="tight">
 <li>
