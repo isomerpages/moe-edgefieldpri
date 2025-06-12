@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h1>Performing Arts (PA) Programme</h1>
-<h2>Our Purpose</h2>
+<h2>Performing Arts (PA) Programme</h2>
+<h3>Our Purpose</h3>
 <p>The Performing Arts Programme at EFPS is our Learn for Life Programme
 (LLP). It nurtures confident individuals and gracious collaborators through
 a progressive, experience-rich arts education journey from Primary 1 to
@@ -18,8 +18,8 @@ to grow in resilience, empathy, and confidence.
 (21CC), values, and social-emotional skills that prepare them to thrive
 in an interconnected and dynamic world.</p>
 <p></p>
-<h2>Our Programme Progression</h2>
-<h3>P1: Rhythm and Dance</h3>
+<h3>Our Programme Progression</h3>
+<h4>P1: Rhythm and Dance</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students develop body awareness, self-confidence, and rhythm through simple,
@@ -69,7 +69,7 @@ fun dance routines.</p>
 </tbody>
 </table>
 <p></p>
-<h3>P2: Dancesport Extravaganza</h3>
+<h4>P2: Dancesport Extravaganza</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students learn Latin-inspired partner dances such as the Cha-cha and Tango.</p>
@@ -82,7 +82,7 @@ fun dance routines.</p>
 </li>
 </ul>
 <p></p>
-<h3>P3: Ethnic Dance</h3>
+<h4>P3: Ethnic Dance</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students explore and appreciate Singapore’s cultural diversity through
@@ -96,7 +96,7 @@ ethnic fusion dance incorporating Chinese, Malay, and Indian elements.</p>
 </li>
 </ul>
 <p></p>
-<h3>P4: Hip-hop Dance</h3>
+<h4>P4: Hip-hop Dance</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students engage with the global language of Hip-hop, including self-curated
@@ -144,7 +144,7 @@ moves in small groups.</p>
 </tbody>
 </table>
 <p></p>
-<h3>P5: Performance Arts Choice Modules</h3>
+<h4>P5: Performance Arts Choice Modules</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are given a choice to choose from Angklung and Kulintang, Global
@@ -228,7 +228,7 @@ Drumming or Sing and Strum</p>
 </tbody>
 </table>
 <p></p>
-<h3>P6: Graduation Ballroom Dance</h3>
+<h4>P6: Graduation Ballroom Dance</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students learn progressive Waltz in pairs and demonstrate ballroom etiquette.</p>
@@ -242,7 +242,7 @@ Drumming or Sing and Strum</p>
 <p></p>
 </li>
 </ul>
-<h2>Our Learning Approach</h2>
+<h3>Our Learning Approach</h3>
 <p>The Performing Arts experience at EFPS is grounded in these principles:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -263,7 +263,7 @@ forms, broadening their perspectives and empathy.</p>
 </li>
 </ul>
 <p></p>
-<h2>Our Impact</h2>
+<h3>Our Impact</h3>
 <p>Through PA, students:</p>
 <ul data-tight="true" class="tight">
 <li>
