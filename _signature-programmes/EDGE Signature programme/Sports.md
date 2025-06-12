@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h1>EDGE Sports Programme</h1>
-<h2>Our Purpose</h2>
+<h2>EDGE Sports Programme</h2>
+<h3>Our Purpose</h3>
 <p>The EDGE Sports Programme is a key domain under EFPS’s Total Curriculum.
 Through sports, students build physical literacy while developing essential
 21st Century Competencies (21CC) such as resilience, teamwork, and self-management.
@@ -15,7 +15,7 @@ Through sports, students build physical literacy while developing essential
 teach values, reflection, and goal-setting — helping Edgefielders grow
 into confident, collaborative, and adaptable individuals.</p>
 <p></p>
-<h3>P2: Foundations in Movement</h3>
+<h4>P2: Foundations in Movement</h4>
 <p>Modules: Kids Athletics • Rope Skipping • Outdoor Learning</p>
 <p>At Primary 2, students develop fundamental movement skills through high-energy
 activities that are fun and purposeful. The programme nurtures coordination,
@@ -93,7 +93,7 @@ strength within us.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3>P3: SwimSafer</h3>
+<h4>P3: SwimSafer</h4>
 <p>Module: National SwimSafer Programme</p>
 <p>All P3 students undergo the SwimSafer programme, ensuring they acquire
 lifesaving water safety and swimming skills.</p>
@@ -108,7 +108,7 @@ and personal responsibility.</p>
 </ul>
 <p>Focus: Personal safety, perseverance and responsibility.</p>
 <p>&nbsp;</p>
-<h3>P6: Learn to Play Sports</h3>
+<h4>P6: Learn to Play Sports</h4>
 <p>Modules: Tchoukball • Floorball • Fencing • Archery Tag • Inline Skating
 • TKD/Wushu • Volleyball</p>
 <p>In their final year, students choose one sport and delve into it more
@@ -181,7 +181,7 @@ and roles.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Our Approach</h2>
+<h3>Our Approach</h3>
 <p>Across all modules, EDGE Sports applies a consistent framework that emphasises:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -219,7 +219,7 @@ character.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Our Impact</h2>
+<h3>Our Impact</h3>
 <p>Through the EDGE Sports Programme, Edgefielders:</p>
 <ul data-tight="true" class="tight">
 <li>
