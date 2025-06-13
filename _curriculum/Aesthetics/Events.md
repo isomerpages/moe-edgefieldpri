@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h3>Making Arts Come Alive</h3>
+<h3><strong>Making Arts Come Alive</strong></h3>
 <p>Students have numerous opportunities to perform on stage to various audiences,
 like their parents and peers. These experiences empower students to collaborate
 and develop greater self-confidence.</p>
@@ -21,7 +21,7 @@ and develop greater self-confidence.</p>
 </div>
 <p><em>Culture, pride, and performance — shared with the people who matter most</em>
 </p>
-<h3>Art Exhibition</h3>
+<h3><strong>Art Exhibition</strong></h3>
 <p>As part of our efforts to celebrate students’ achievements and progress,
 the school finds opportunities to showcase students’ artwork during EDGE
 celebrations and NDP. This “Street CreARTe” corridor on the 4th floor features
@@ -38,7 +38,7 @@ from famous artists and artworks.</p>
 </div>
 <p><em>Pop Me : Identity in Colours by our middle primary students</em>
 </p>
-<h3>Learning Journey to Art Museum</h3>
+<h3><strong>Learning Journey to Art Museum</strong></h3>
 <p>With the objective of developing a lifelong interest in the arts, the
 Primary 4 students will have the opportunity to experience museum-based
 learning at the National Gallery, extending their learning beyond the classrooms.

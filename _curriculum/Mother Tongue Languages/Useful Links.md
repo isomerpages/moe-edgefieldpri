@@ -6,7 +6,8 @@ third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
 <h3><strong>Useful Links</strong></h3>
-<p><strong>&nbsp;</strong>Learning a Mother Tongue Language in primary school
+<p><strong>&nbsp;</strong>
+<br>Learning a Mother Tongue Language in primary school
 <br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school</a>
 </p>
 <p>&nbsp;List of Approved Dictionaries for Use in National Examinations

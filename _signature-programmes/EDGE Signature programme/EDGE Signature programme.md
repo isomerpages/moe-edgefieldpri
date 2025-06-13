@@ -1,10 +1,11 @@
 ---
-title: EDGE Signature Programme
+title: EDGE Signature programme
 permalink: /edge-signature-programme/
 variant: tiptap
 description: ""
+third_nav_title: EDGE Signature programme
 ---
-<h3><strong>21<sup>st</sup> Century Competencies: A Key Direction for the EFPS Total Curriculum</strong></h3>
+<h2><strong>21<sup>st</sup> Century Competencies: A Key Direction for the EFPS Total Curriculum</strong></h2>
 <p></p>
 <p>EFPS places 21<sup>st</sup> Century Competencies (21CC) at the heart of
 our Total Curriculum, in alignment with MOE’s national direction. This
@@ -37,16 +38,16 @@ and dispositions needed to thrive in a dynamic world.
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2_EDGE_1.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:
-<br>
-</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:</p>
 <p>1. Core Values
 <br>- Respect · Responsibility · Resilience · Integrity · Care · Harmony
 <br>
@@ -62,8 +63,7 @@ and dispositions needed to thrive in a dynamic world.
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
+<p><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
 <br>Through E.D.G.E. and the broader Total Curriculum, every Edgefielder will
 graduate as a confident, compassionate and capable individual who is ready
 to navigate life with purpose and contribute meaningfully to society.
