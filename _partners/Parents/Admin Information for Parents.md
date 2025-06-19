@@ -101,7 +101,7 @@ from your preferred insurer.</p>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS pamphlet giving information of the MOE FAS scheme</a>
 </p>
-<p>-&nbsp;<a href="https://form.gov.sg/60c708afc1e7220011fe9978" rel="noopener noreferrer nofollow" target="_blank">Application for Waiting List</a>
+<p>-&nbsp;<a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank">Application for Waiting List</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
