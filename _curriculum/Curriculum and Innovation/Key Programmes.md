@@ -24,7 +24,7 @@ equips students with the requisite skills and mindsets to thrive in today's
 dynamic environment.&nbsp;</p>
 <p>Click&nbsp;<a href="https://www.edgefieldpri.moe.edu.sg/signature-programmes/makerspace/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more about our signature Maker Education Programme</p>
-<h3>Learning through Play at Lower Primary</h3>
+<h4>Learning through Play at Lower Primary</h4>
 <p>In the lower primary years, Maker Education adopts a "learning through
 play" approach, instrumental in fostering 21CC attitudes and dispositions.
 Through engaging in playful activities, young learners cultivate curiosity,
@@ -34,7 +34,7 @@ build confidence and initiative in their learning endeavors.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Play_1.jpg">
 </div>
-<h3>Collaborative Play at Upper Primary</h3>
+<h4>Collaborative Play at Upper Primary</h4>
 <p>Transitioning to the upper primary years, Maker Education evolves to emphasize
 collaborative play, further enhancing 21CC skills and preparing students
 to address real-world challenges. During this stage, students engage in

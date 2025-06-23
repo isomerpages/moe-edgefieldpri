@@ -2,7 +2,13 @@ collections:
   signature-programmes:
     output: true
     order:
-      - EDGE Signature Programme.md
-      - Maker Education.md
-      - Learning for Life Programme.md
       - Applied Learning Programme.md
+      - EDGE Signature programme/EDGE Signature programme.md
+      - EDGE Signature programme/.keep
+      - EDGE Signature programme/Digital and Visual Literacy.md
+      - EDGE Signature programme/Language Arts.md
+      - EDGE Signature programme/Live Life, Love Life.md
+      - EDGE Signature programme/Performing Arts.md
+      - EDGE Signature programme/Sports.md
+      - EDGE Signature programme/STEM.md
+      - Learning for Life Programme.md

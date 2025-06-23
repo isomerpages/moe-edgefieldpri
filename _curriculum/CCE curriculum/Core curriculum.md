@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCE curriculum
 ---
-<h3>CCE Curriculum</h3>
-<p><strong>CCE aims to develop in our students:</strong>
-</p>
+<h2>CCE Curriculum</h2>
+<h3><strong>CCE aims to develop in our students:</strong></h3>
 <p>1.&nbsp;<strong>Good Character</strong>: Have a sound moral compass and
 a strong sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
@@ -25,7 +24,7 @@ identity based on a sense of belonging to the nation, a sense of hope in
 themselves and the future, an awareness of the reality of Singapore’s vulnerabilities
 and constraints, and the will to act on improving the lives of others,
 and building a future for our nation.</p>
-<h3>CCE/FTGP</h3>
+<h4>CCE/FTGP</h4>
 <p>Character and Citizenship Education Form Teacher Guidance Period (FTGP)
 lessons involve the explicit teaching and learning of fundamental social-emotional
 skills which are anchored on values and citizenship dispositions. The activities,
@@ -35,7 +34,7 @@ Topics related to the six CCE content areas (i.e. Cyber Wellness, Education
 and Career Guidance, Family Education, Mental Health, National Education,
 and Sexuality Education) are explored and discussed in a developmentally
 appropriate manner during the lessons.</p>
-<h3>Social Studies</h3>
+<h4>Social Studies</h4>
 <p>Social Studies seeks to ignite students’ curiosity to inquire into real-world
 issues that concern their lives. Through inquiry and authentic learning
 experiences, Social Studies helps students to attain relevant knowledge

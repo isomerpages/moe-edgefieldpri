@@ -23,11 +23,8 @@ confident learners.</p>
 <p><em>Team Edgefield at Wits &amp; Words</em>
 </p>
 <p></p>
-<p></p>
-<p><strong>Celebrating Our Young Writers’ Achievements</strong>
-<br>
-<br><u>SOTA Primary 6 Creative Writing Competition</u>
-</p>
+<h4></h4>
+<h3><strong>Celebrating Our Young Writers’ Achievements</strong><br><br><u>SOTA Primary 6 Creative Writing Competition</u></h3>
 <p>Congratulations to our students who were recognised in the SOTA Primary
 6 Creative Writing Competition.</p>
 <p><strong>2024:</strong>

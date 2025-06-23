@@ -15,7 +15,7 @@ of the six pillars of Total Defence - Military Defence, Civil Defence,
 Economic Defence, Social Defence, Digital Defence and Psychological Defence
 - as well as the core message of every Singaporean standing together, each
 playing our part to protect Singapore and our shared way of life.&nbsp;</p>
-<h3>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h3>
+<h4>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h4>
 <p>2024 marks 40 years of Total Defence (TD40) in Singapore. The focus for
 TD40 will be on Singaporean’s readiness and resilience in the face of crises
 and disruptions. Total Defence underpins our ability to deal with the ever-evolving

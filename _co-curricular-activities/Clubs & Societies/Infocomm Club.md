@@ -16,10 +16,12 @@ variant: tiptap
 <p>About Infocomm Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Infocomm club aimed to nuture pupil’s ICT curiosity through various activities
-and participation in national-wide competition which incorporates social,
-family and school values.
-<br>The CCA sessions are on Tuesdayss, 2.15 – 3.45pm at Computer Lab 1.</p>
+<p>Infocomm CCA is designed for students who have no prior experience in
+programming. The program incorporates games, microprocessors, programmable
+robots, and artifact creation to simulate real-world IT development in
+a hackathon-style format using provided resources. Students will also engage
+in project work, encouraging them to think creatively, collaborate effectively,
+and take initiative.</p>
 </td>
 </tr>
 <tr>
@@ -27,8 +29,16 @@ family and school values.
 <p>Experiences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA members will be exposed to SCRATCH. This is an online programming
-platform.</p>
+<p>We include a wide array of IT equipment for our CCA like Ozobot, Mbot,
+Microbit, LEDs, copper tape circuits plus other tools and materials like
+Blockie, Strawbee, LEGO and cardboard.&nbsp;
+<br>
+<br>Students can be selected to participate in any of the two competitions
+the school participate in of game programming and Microbit hackathon.
+<br>
+<br>We believe a holistic approach in developing our students in CCA, so our
+learning journey includes technology related venue e.g. Science Centre,
+and non-technology related e.g.. NEWater factory, Airforce Museum etc.</p>
 </td>
 </tr>
 <tr>
@@ -36,11 +46,11 @@ platform.</p>
 <p>Developing our students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During CCA sessions, members will learn to program their own interactive
-stories, games and animations. They can also share their creations with
-others in the online community. SCRATCH helps CCA members to learn to think
-creatively, reason systematically and work collaboratively. These are essential
-skills for life in the 21st century.</p>
+<p>Personal growth areas e.g. confidence, teamwork and resilience through
+the coding projects.
+<br>
+<br>Students are also given the opportunity to display unity and empathy through
+their making project.</p>
 </td>
 </tr>
 <tr>
@@ -48,15 +58,10 @@ skills for life in the 21st century.</p>
 <p>Growing hearts and minds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Activities conducted during the CCA sessions are geared towards character
-building and inculcating the values of team spirit, integrity and empathy.
-<br>The ability to code computer programs is an important part of literacy
-in today’s society. When people learn to code in SCRATCH, they learn important
-strategies for solving problems, designing projects and communicating ideas.
-CCA members work collaboratively as a team to imagine and create these
-ideas to become reality online.
-<br>CCA members also work closely with the Cyberwellness and AVA teams to
-gain more experiences and insights with the digital world.</p>
+<p>Students are developed holistically in this CCA learning through service
+for each other. In VIA, we cleaned and arranged book for our school library.
+In coding lesson, students help each other in the areas that they are strong
+in.</p>
 </td>
 </tr>
 <tr>
@@ -66,9 +71,9 @@ gain more experiences and insights with the digital world.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our CCA leaders are trained to lead the juniors to use the program smoothly.
-They are also empowered to help in the administrative organization of the
-CCA to ensure that the session is able to run smoothly every week.</p>
+<p>Students build their confidence in their leadership role in competitions
+as well as their communication skill through the numerous project presentation
+in different stage of their design projects.</p>
 </td>
 </tr>
 <tr>
@@ -76,15 +81,66 @@ CCA to ensure that the session is able to run smoothly every week.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Patrick Shiu (Teacher-in-charge)
-<br>Mdm Doreen Low (Teacher-in-charge)
-<br>Mdm Aw Pei Shi
-<br>Mdm Paul Pouline</p>
+<p>Mr Patrick Shiu
+<br>Ms Aw Peishi
+<br>Mdm Azlin
+<br>Mdm Lee Xin Yi
+<br>Mr Ratno</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSm89eswRKxPXQw-luUwEbiS_9grrY_K2Q74Om8TUAHulAWzvKRcWlx5es9sQ1VD_hWVrsBEXOYWK40/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Making_Marble_maze_in_the_Makerspace.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Making Marble maze in the Makerspace</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_journey_in_Airforce_museum.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Learning journey in Airforce museum</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cleaning_school_library_for_VIA.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Cleaning school library for VIA</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

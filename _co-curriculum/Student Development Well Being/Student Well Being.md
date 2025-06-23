@@ -23,17 +23,20 @@ peers bond and provide support for one another. &nbsp;
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDWB_1.png">
 </div>
 <p></p>
-<p></p>
+<p>
+<br>
+</p>
 <p><strong>PEER BONDING- fostering friendship and sense of belonging</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1.jpg">
-</div>
-<p><em>Primary 4 buddy bringing a big smile to her P1 buddy!</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_Pic_1.jpg">
+</div>
+<p><em>Primary 4 buddy bringing a big smile to her P1 buddy!</em>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_Pic_2.jpg">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -50,7 +53,7 @@ peers bond and provide support for one another. &nbsp;
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_Pic_3.jpg">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -70,13 +73,13 @@ peers bond and provide support for one another. &nbsp;
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_Pic_4.jpg">
 </div>
 <p><em>Our Primary 5 PSLs on duty at the Secret Garden</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_Pic_5.jpg">
 </div>
 <p><em>P5 PSLs guiding their peers through the rules of the craft activity.</em>
 </p>
@@ -91,12 +94,11 @@ peers bond and provide support for one another. &nbsp;
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_Pic_7.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SW_Pic_8.jpg">
 </div>
 <p><em>P6 PSLs promoting values through assembly videos.</em>
 </p>
