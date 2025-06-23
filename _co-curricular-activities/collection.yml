@@ -2,8 +2,8 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual Arts Club.md
       - Clubs & Societies/.keep
-      - Clubs & Societies/Visual Arts Club.md
       - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/Science & Environment Club.md
       - Clubs & Societies/Scouts.md

@@ -2,7 +2,6 @@
 title: Visual Arts Club
 permalink: /co-curriculum/co-curricular-activities-cca/clubs-and-societies/visual-arts-club/
 description: ""
-third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <table style="minWidth: 50px">
