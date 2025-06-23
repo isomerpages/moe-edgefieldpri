@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Student Development Well Being/Visual Arts Club.md
       - Student Development Well Being/.keep
       - Student Development Well Being/Student Development.md
       - Student Development Well Being/Student Well Being.md
