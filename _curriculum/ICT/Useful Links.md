@@ -57,7 +57,7 @@ variant: tiptap
 <h3>Parents</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>IMDA resources for parents <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/guideyourchildonline</a>
+<p>IMDA resources for parents <a href="https://go.gov.sg/guideyourchildonline" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/guideyourchildonline</a>
 </p>
 </li>
 </ul>
