@@ -51,12 +51,12 @@ that strengthen cooperation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>Every step build strength, joy and the spirit to do better.</em>
+<br>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>&nbsp;</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
