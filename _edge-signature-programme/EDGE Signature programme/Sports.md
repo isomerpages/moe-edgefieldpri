@@ -48,7 +48,8 @@ that strengthen cooperation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every step build strength, joy and the spirit to do better.</p>
+<p><em>Every step build strength, joy and the spirit to do better.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -76,8 +77,8 @@ that strengthen cooperation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>With every leap and stride, we grow in resilience, in joy and in the courage
-to keep moving forward.</p>
+<p><em>With every leap and stride, we grow in resilience, in joy and in the courage to keep moving forward.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -98,8 +99,8 @@ to keep moving forward.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every step we take leads to the discovery of the world around us and the
-strength within us.</p>
+<p><em>Every step we take leads to the discovery of the world around us and the strength within us.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -154,7 +155,8 @@ and roles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>With every glide and stumble, we learn to believe and be bold.</p>
+<p><em>With every glide and stumble, we learn to believe and be bold.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -175,7 +177,8 @@ and roles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every throw is a choice to connect and trust.</p>
+<p><em>Every throw is a choice to connect and trust.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -196,7 +199,8 @@ and roles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Together, we lift each other with strength, trust, and teamwork.</p>
+<p><em>Together, we lift each other with strength, trust, and teamwork.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -236,8 +240,8 @@ and celebrate progress.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Through focus and discipline, we build strength in body, in mind and in
-character.</p>
+<p><em>Through focus and discipline, we build strength in body, in mind and in character.</em>
+</p>
 </td>
 </tr>
 </tbody>
