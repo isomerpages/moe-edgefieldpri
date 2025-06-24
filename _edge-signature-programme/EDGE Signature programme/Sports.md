@@ -32,7 +32,9 @@ that strengthen cooperation.</p>
 <p>Outdoor Learning introduces basic navigation and appreciation of the environment.</p>
 </li>
 </ul>
-<p>Focus: Confidence, self-regulation, empathy, and physical coordination.</p>
+<p>Focus: Confidence, self-regulation, empathy, and physical coordination.
+<br>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -41,16 +43,20 @@ that strengthen cooperation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_step_build_strength__joy_and_the_spirit_to_do_better.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every step build strength, joy and the spirit to do better.</p>
+<p><em>Every step build strength, joy and the spirit to do better.</em>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>&nbsp;</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,15 +66,21 @@ that strengthen cooperation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_leap_and_stride__we_grow_in_resilience__in_joy_and_in_the_courage_to_keep_moving_forward_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_leap_and_stride__we_grow_in_resilience__in_joy_and_in_the_courage_to_keep_moving_forward_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>With every leap and stride, we grow in resilience, in joy and in the courage
-to keep moving forward.</p>
+<p><em>With every leap and stride, we grow in resilience, in joy and in the courage to keep moving forward.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -82,12 +94,15 @@ to keep moving forward.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_step_we_take_leads_to_the_discovery_of_the_world_around_us_and_the_strength_within_us.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every step we take leads to the discovery of the world around us and the
-strength within us.</p>
+<p><em>Every step we take leads to the discovery of the world around us and the strength within us.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -126,7 +141,9 @@ teamwork, and sportsmanship.</p>
 </li>
 </ul>
 <p>Focus: Collaboration, decision-making, communication and respect for rules
-and roles.</p>
+and roles.
+<br>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -135,11 +152,15 @@ and roles.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_glide_and_stumble__we_learn_to_believe_and_be_bold_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>With every glide and stumble, we learn to believe and be bold.</p>
+<p><em>With every glide and stumble, we learn to believe and be bold.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -153,11 +174,15 @@ and roles.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_throw_is_a_choice_to_connect_and_trust_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Every throw is a choice to connect and trust.</p>
+<p><em>Every throw is a choice to connect and trust.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -171,11 +196,15 @@ and roles.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Together__we_lift_each_other_with_strength__trust__and_teamwork_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Together, we lift each other with strength, trust, and teamwork.</p>
+<p><em>Together, we lift each other with strength, trust, and teamwork.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -208,17 +237,20 @@ and celebrate progress.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Through_focus_and_discipline__we_build_strength_in_body__in_mind_and_in_character_.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Through focus and discipline, we build strength in body, in mind and in
-character.</p>
+<p><em>Through focus and discipline, we build strength in body, in mind and in character.</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <h3>Our Impact</h3>
 <p>Through the EDGE Sports Programme, Edgefielders:</p>
 <ul data-tight="true" class="tight">

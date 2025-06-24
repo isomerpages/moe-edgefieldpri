@@ -126,6 +126,6 @@ habits, and 21<sup>st</sup> century competencies.</p>
 how students grow through experiences that challenge, inspire, and empower.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_EDGE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_EDGE_new.jpg">
 </div>
 <p></p>

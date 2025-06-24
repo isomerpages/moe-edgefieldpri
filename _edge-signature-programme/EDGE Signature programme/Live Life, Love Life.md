@@ -32,7 +32,9 @@ that strengthen self-awareness, relationship skills, and future readiness.</p>
 </li>
 <li>
 <p>Setting simple personal goals (e.g., showing gratitude, being prepared
-for school)</p>
+for school)
+<br>
+</p>
 </li>
 </ul>
 <table style="minWidth: 25px">
@@ -43,6 +45,9 @@ for school)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Confident_minds_are_built_on_everyday_choices.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -62,6 +67,9 @@ for school)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Role_playing_today_to_practise_the_values_we_need_for_tomorrow.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -103,7 +111,7 @@ for school)</p>
 </ul>
 <p>Throughout all levels, the iGRUE values — Integrity, Graciousness, Responsibility,
 Unity, Excellence — serve as anchors for students’ personal growth.</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -112,6 +120,9 @@ Unity, Excellence — serve as anchors for students’ personal growth.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Listening_deeply__Speaking_bravely__Growing_together.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -131,6 +142,9 @@ Unity, Excellence — serve as anchors for students’ personal growth.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_reflection_shared_is_a_spark_of_courage_and_growth.jpg">
+</div>
 </td>
 </tr>
 <tr>
