@@ -32,7 +32,9 @@ that strengthen cooperation.</p>
 <p>Outdoor Learning introduces basic navigation and appreciation of the environment.</p>
 </li>
 </ul>
-<p>Focus: Confidence, self-regulation, empathy, and physical coordination.</p>
+<p>Focus: Confidence, self-regulation, empathy, and physical coordination.
+<br>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -139,7 +141,9 @@ teamwork, and sportsmanship.</p>
 </li>
 </ul>
 <p>Focus: Collaboration, decision-making, communication and respect for rules
-and roles.</p>
+and roles.
+<br>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -246,7 +250,7 @@ and celebrate progress.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <h3>Our Impact</h3>
 <p>Through the EDGE Sports Programme, Edgefielders:</p>
 <ul data-tight="true" class="tight">
