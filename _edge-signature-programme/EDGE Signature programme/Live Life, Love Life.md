@@ -140,6 +140,9 @@ Unity, Excellence — serve as anchors for students’ personal growth.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_reflection_shared_is_a_spark_of_courage_and_growth.jpg">
+</div>
 </td>
 </tr>
 <tr>
