@@ -1,5 +1,5 @@
 collections:
-  signature-programmes:
+  edge-signature-programme:
     output: true
     order:
       - EDGE Signature programme/EDGE Signature programme.md
