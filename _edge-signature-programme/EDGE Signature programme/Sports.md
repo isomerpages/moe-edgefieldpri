@@ -41,6 +41,9 @@ that strengthen cooperation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_step_build_strength__joy_and_the_spirit_to_do_better.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -60,9 +63,15 @@ that strengthen cooperation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_leap_and_stride__we_grow_in_resilience__in_joy_and_in_the_courage_to_keep_moving_forward_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_leap_and_stride__we_grow_in_resilience__in_joy_and_in_the_courage_to_keep_moving_forward_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -82,6 +91,9 @@ to keep moving forward.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_step_we_take_leads_to_the_discovery_of_the_world_around_us_and_the_strength_within_us.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -135,6 +147,9 @@ and roles.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/With_every_glide_and_stumble__we_learn_to_believe_and_be_bold_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -153,6 +168,9 @@ and roles.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Every_throw_is_a_choice_to_connect_and_trust_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -171,6 +189,9 @@ and roles.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Together__we_lift_each_other_with_strength__trust__and_teamwork_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -208,6 +229,9 @@ and celebrate progress.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Through_focus_and_discipline__we_build_strength_in_body__in_mind_and_in_character_.png">
+</div>
 </td>
 </tr>
 <tr>
