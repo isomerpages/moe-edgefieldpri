@@ -32,7 +32,9 @@ that strengthen self-awareness, relationship skills, and future readiness.</p>
 </li>
 <li>
 <p>Setting simple personal goals (e.g., showing gratitude, being prepared
-for school)</p>
+for school)
+<br>
+</p>
 </li>
 </ul>
 <table style="minWidth: 25px">
@@ -109,7 +111,7 @@ for school)</p>
 </ul>
 <p>Throughout all levels, the iGRUE values — Integrity, Graciousness, Responsibility,
 Unity, Excellence — serve as anchors for students’ personal growth.</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
