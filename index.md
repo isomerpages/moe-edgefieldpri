@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FINAL_website_banner.jpg
+      background: /images/FINAL_website_banner__without_EDGE_words_.png
   - infopic:
       title: School Corporate Video
       id: infopic
