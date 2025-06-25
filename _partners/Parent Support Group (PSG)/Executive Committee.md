@@ -11,7 +11,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="PSG Exco 2024" src="/images/PSG_Exco_2024.jpg">
 </div>
 <p></p>
-<p>Our 2024 committee is led by our Chairperson, Ms Celine Le.</p>
+<p>Our 2025 committee is led by our Chairperson, Ms Celine Le.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Thoughts 1" src="/images/Thoughts_1.png">
