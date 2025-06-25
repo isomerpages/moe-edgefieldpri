@@ -2,8 +2,9 @@ collections:
   edge-signature-programme:
     output: true
     order:
-      - EDGE Signature programme/EDGE Signature programme.md
       - EDGE Signature programme/.keep
+      - EDGE Signature programme/Overview.md
+      - EDGE Signature programme/Programme Schedule.md
       - EDGE Signature programme/Digital and Visual Literacy.md
       - EDGE Signature programme/Language Arts.md
       - EDGE Signature programme/Live Life, Love Life.md
