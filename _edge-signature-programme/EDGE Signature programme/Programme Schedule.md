@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h2><strong>Students’ 21CC Development through E.D.G.E.</strong></h2>
+<h2>Students’ 21CC Development through E.D.G.E.</h2>
 <p>
 <br>To support our students’ holistic growth, each domain within the E.D.G.E.
 Signature Programme is intentionally designed to cultivate specific values,
