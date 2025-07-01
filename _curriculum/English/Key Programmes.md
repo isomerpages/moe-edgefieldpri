@@ -244,7 +244,7 @@ and engage in dialogue with empathy and purpose.
 </tr>
 </tbody>
 </table>
-<p><strong>C)&nbsp;&nbsp;&nbsp;&nbsp; Support Programmes: Learning Support Programme, School-based Dyslexia Remediation Programme, Reading Remediation Programme</strong>
+<p><strong>D)&nbsp;&nbsp;&nbsp;&nbsp; Support Programmes: Learning Support Programme, School-based Dyslexia Remediation Programme, Reading Remediation Programme</strong>
 </p>
 <p>P1 and P2: Learning Support Programme (LSP)</p>
 <ul data-tight="true" class="tight">

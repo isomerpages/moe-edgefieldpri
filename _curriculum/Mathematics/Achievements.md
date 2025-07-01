@@ -1,6 +1,6 @@
 ---
 title: Achievements
-permalink: /achievements/
+permalink: /mathachievements/
 variant: tiptap
 description: ""
 third_nav_title: Mathematics

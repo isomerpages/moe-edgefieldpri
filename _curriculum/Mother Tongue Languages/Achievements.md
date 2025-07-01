@@ -1,6 +1,6 @@
 ---
 title: Achievements
-permalink: /achievements/
+permalink: /mtachievements/
 variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages

@@ -1,6 +1,6 @@
 ---
 title: Achievements
-permalink: /achievements/
+permalink: /englishachievements/
 variant: tiptap
 description: ""
 third_nav_title: English
