@@ -49,19 +49,22 @@ experience.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exploring_Spices.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exploring_Spices_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Locating_different_parts_of_Singapore.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Locating_different_parts_of_Singapore_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Role_play.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Role_play_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/social_studies.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Traditional_Games.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.jpg">
+</div>
 <p></p>
