@@ -18,16 +18,18 @@ their peers positively through leadership roles.</p>
 to contribute actively to the school community.</p>
 </li>
 </ul>
-<p></p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership___Edgefield_Powerpoint_for_EXCO.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SchoolLeadership_1.png">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolLeadership_2.png">
-</div>
 <p><em>The&nbsp;</em><strong><em>Tiered-Leadership Pyramid</em></strong><em>&nbsp;(left) is a spiral progression that enables students to take on various leadership roles at the different tiers.</em><strong><em> The 5-Stage Leadership Process </em></strong><em>outlines the structures in place for a student to experience development and growth in leadership dispositions.</em>
 <br>
 <br>
