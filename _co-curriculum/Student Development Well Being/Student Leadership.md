@@ -24,9 +24,6 @@ to contribute actively to the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership___Edgefield_Powerpoint_for_EXCO.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SchoolLeadership_1.png">
-</div>
 <p>
 <br>
 </p>
