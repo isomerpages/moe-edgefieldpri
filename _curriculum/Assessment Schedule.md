@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Semester_2_Assessment_Schedule___P5.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
+<p><a href="/files/2025_Semester_2_Assessment_Schedule___P5__revised_.pdf" rel="noopener nofollow" target="_blank">Primary 5</a>
 </p>
 </li>
 <li>
