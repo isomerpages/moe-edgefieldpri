@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Student Learning Space:&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://learning.moe.edu</a>
+<p>Student Learning Space:&nbsp;<a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://learning.moe.edu</a>
 </p>
 </li>
 <li>
