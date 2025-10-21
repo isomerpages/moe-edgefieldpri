@@ -19,7 +19,7 @@ sections:
       title: Caring Teacher Awards
       id: infopic
       button: Click here to nominate now!
-      url: www.cta.nie.edu.sg
+      url: https://www.cta.nie.edu.sg/
       image: /images/CTA_2026_A3_Poster.jpg
       alt: Image alt text
 ---
