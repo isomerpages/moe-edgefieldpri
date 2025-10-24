@@ -95,7 +95,7 @@ If you need higher coverage for your child, please arrange a separate policy
 from your preferred insurer.</p>
 <h3>Forms</h3>
 <p>With effect from this year, parents can apply for MOE FAS via this link
-<a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
+<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
 </a><u>.</u>
 </p>
 <p></p>
