@@ -94,18 +94,88 @@ claim through their website.&nbsp; No login user or password is required.
 If you need higher coverage for your child, please arrange a separate policy
 from your preferred insurer.</p>
 <h3>Forms</h3>
-<p>With effect from this year, parents have 2 options to apply for MOE FAS:</p>
-<p>a) E-Form <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p>Forms</p>
+<p>With effect from this year, parents can apply for MOE FAS via this link
+<a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
+</a><u>.</u>
 </p>
-<p>b)&nbsp;<a href="https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/MOE%20FAS%20Application%20Form%20Sep%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Hardcopy Form</a>
+<p></p>
+<p>The revised income criteria and benefits are as follows:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Schemes</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://edgefieldpri-moe-edu-sg-admin.cwp.sg/qql/slot/u704/Partners/Parents/Admin%20Information%20for%20Parents/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS pamphlet giving information of the MOE FAS scheme</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Revised Income Eligibility Criteria</strong>
 </p>
-<p>-&nbsp;<a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank">Application for Waiting List</a>
+<p><strong>(from 2026 application cycle)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Revised Provisions for Primary Students</strong>
+</p>
+<p><strong>(From January 2026)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE Financial Assistance Scheme (FAS)</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Gross Household Income (GHI) ≤ $4,000; or</p>
+</li>
+<li>
+<p>Per Capita Income (PCI) ≤ $1,000</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>100% fee subsidies <em>(no change)</em>
+</p>
+</li>
+<li>
+<p>Free textbooks and uniforms <em>(no change)</em>
+</p>
+</li>
+<li>
+<p>Meal subsidies that pay for at least 7 meals per week for primary level
+at $3.20 per meal.</p>
+</li>
+<li>
+<p>Transport subsidies <strong><em>(enhanced)</em></strong><em>:</em>
+</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>70% of monthly school bus fares for primary level only</p>
+</li>
+<li>
+<p>Monthly public transport subsidies of $21 for primary</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Canteen Food Prices</h3>
 <ul data-tight="true" class="tight">
 <li>
