@@ -94,7 +94,6 @@ claim through their website.&nbsp; No login user or password is required.
 If you need higher coverage for your child, please arrange a separate policy
 from your preferred insurer.</p>
 <h3>Forms</h3>
-<p>Forms</p>
 <p>With effect from this year, parents can apply for MOE FAS via this link
 <a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
 </a><u>.</u>
