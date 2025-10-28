@@ -175,6 +175,12 @@ at $3.20 per meal.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>-&nbsp;<a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Waiting List</u></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
+</div>
 <h3>Canteen Food Prices</h3>
 <ul data-tight="true" class="tight">
 <li>
