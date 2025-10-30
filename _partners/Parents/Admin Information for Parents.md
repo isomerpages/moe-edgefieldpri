@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Booklist 2025</h3>
+<h3>Booklist 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/EFPS_P1_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
@@ -99,6 +99,12 @@ from your preferred insurer.</p>
 </a><u>.</u>
 </p>
 <p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Financial Assistance Forms</strong>
+</p>
+</li>
+</ol>
 <p>The revised income criteria and benefits are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -176,11 +182,17 @@ at $3.20 per meal.</p>
 </tbody>
 </table>
 <p></p>
-<p>-&nbsp;<a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Waiting List</u></a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
 </div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>School Waiting list</strong>
+</p>
+</li>
+</ol>
+<p><a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for Waiting List Application</u></a>
+</p>
 <h3>Canteen Food Prices</h3>
 <ul data-tight="true" class="tight">
 <li>
