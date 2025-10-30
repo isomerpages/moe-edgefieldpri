@@ -30,31 +30,31 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P2_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2025</a>
+<p><a href="/files/EFPS_P2_2026.pdf" rel="noopener nofollow" target="_blank">P2 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P3_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2025</a>
+<p><a href="/files/EFPS_P3_2026.pdf" rel="noopener nofollow" target="_blank">P3 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P4_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2025</a>
+<p><a href="/files/EFPS_P4_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P5_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2025</a>
+<p><a href="/files/EFPS_P5_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P5__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 FDN Booklist 2025</a>
+<p><a href="/files/EFPS_P5_FDN_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 FDN Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P6_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2025</a>
+<p><a href="/files/EFPS_P6_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P6__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2025</a>
+<p><a href="/files/ESPS_P6_FDN_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2026</a>
 </p>
 </li>
 </ul>
