@@ -180,10 +180,16 @@ at $3.20 per meal.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
-</div>
 <ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>For Subsidised broadband/laptop from DigitalAccess@Home</strong>
+</p>
+<p><strong> Visit: <a href="https://go.gov.sg/digitalaccess-faq" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/digitalaccess-faq</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DigitalHome.png">
+</div>
+</li>
 <li>
 <p><strong>School Waiting list</strong>
 </p>
