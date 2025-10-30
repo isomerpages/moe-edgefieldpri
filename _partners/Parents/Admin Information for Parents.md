@@ -94,17 +94,17 @@ claim through their website.&nbsp; No login user or password is required.
 If you need higher coverage for your child, please arrange a separate policy
 from your preferred insurer.</p>
 <h3>Forms</h3>
-<p>With effect from this year, parents can apply for MOE FAS via this link
-<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
-</a><u>.</u>
-</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Financial Assistance Forms</strong>
 </p>
 </li>
 </ol>
+<p>With effect from this year, parents can apply for MOE FAS via this link
+<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
+</a><u>.</u>
+</p>
+<p></p>
 <p>The revised income criteria and benefits are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -181,7 +181,6 @@ at $3.20 per meal.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
 </div>
