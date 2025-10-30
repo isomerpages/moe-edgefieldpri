@@ -26,7 +26,7 @@ variant: tiptap
 <h3>Booklist 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/EFPS_P1_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+<p><a href="/files/EFPS_P1_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
 </p>
 </li>
 <li>
@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/ESPS_P6_FDN_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2026</a>
+<p><a href="/files/EFPS_P6_FDN_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2026</a>
 </p>
 </li>
 </ul>
