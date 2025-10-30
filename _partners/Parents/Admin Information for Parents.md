@@ -23,38 +23,38 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Booklist 2025</h3>
+<h3>Booklist 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/EFPS_P1_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+<p><a href="/files/EFPS_P1_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P2_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist 2025</a>
+<p><a href="/files/EFPS_P2_2026.pdf" rel="noopener nofollow" target="_blank">P2 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P3_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2025</a>
+<p><a href="/files/EFPS_P3_2026.pdf" rel="noopener nofollow" target="_blank">P3 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P4_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2025</a>
+<p><a href="/files/EFPS_P4_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P5_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2025</a>
+<p><a href="/files/EFPS_P5_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P5__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 FDN Booklist 2025</a>
+<p><a href="/files/EFPS_P5_FDN_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 FDN Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P6_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2025</a>
+<p><a href="/files/EFPS_P6_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/EFPS_P6__FDN__Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2025</a>
+<p><a href="/files/EFPS_P6_FDN_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FDN Booklist 2026</a>
 </p>
 </li>
 </ul>
@@ -94,11 +94,16 @@ claim through their website.&nbsp; No login user or password is required.
 If you need higher coverage for your child, please arrange a separate policy
 from your preferred insurer.</p>
 <h3>Forms</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Financial Assistance Forms</strong>
+</p>
+</li>
+</ol>
 <p>With effect from this year, parents can apply for MOE FAS via this link
 <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
 </a><u>.</u>
 </p>
-<p></p>
 <p>The revised income criteria and benefits are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -175,12 +180,17 @@ at $3.20 per meal.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>-&nbsp;<a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank"><u>Application for Waiting List</u></a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
 </div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>School Waiting list</strong>
+</p>
+</li>
+</ol>
+<p><a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for Waiting List Application</u></a>
+</p>
 <h3>Canteen Food Prices</h3>
 <ul data-tight="true" class="tight">
 <li>
