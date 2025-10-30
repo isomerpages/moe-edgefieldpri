@@ -180,17 +180,27 @@ at $3.20 per meal.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DigitalAccess_Home.png">
-</div>
 <ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>For Subsidised broadband/laptop from DigitalAccess@Home</strong>
+</p>
+</li>
+</ol>
+<p>Visit: <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc" rel="noopener noreferrer nofollow" target="_blank">IMDA DigitalAccess@Home</a>
+</p>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>School Waiting list</strong>
 </p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://form.gov.sg/68535f251690d334ecb9c6e1" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for Waiting List Application</u></a>
 </p>
+</li>
+</ul>
 <h3>Canteen Food Prices</h3>
 <ul data-tight="true" class="tight">
 <li>
