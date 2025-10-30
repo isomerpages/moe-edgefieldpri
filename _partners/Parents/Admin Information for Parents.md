@@ -104,7 +104,6 @@ from your preferred insurer.</p>
 <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u>
 </a><u>.</u>
 </p>
-<p></p>
 <p>The revised income criteria and benefits are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
