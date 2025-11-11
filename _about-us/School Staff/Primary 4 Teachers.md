@@ -51,7 +51,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_ming_quan_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Marcus Sim Ming Quan</a> 
 <br><a href="mailto:Vairavan_Uthaman_Chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
-<br><a href="mailto:loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi Wei Ling</a>
+<br><a href="mailto:Chin_SINGLOONG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis Chin Singloong</a>
 </p>
 </td>
 </tr>
@@ -70,8 +70,8 @@ variant: tiptap
 <p>4 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Melissa Lee (Yip Cheng Han)</a> 
-<br><a href="mailto:Chin_SINGLOONG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Denis Chin Singloong</a>
+<p><a href="mailto:yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Melissa Lee (Yip Cheng Han)</a>
+<br><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Hwee Khoon</a>
 </p>
 </td>
 </tr>

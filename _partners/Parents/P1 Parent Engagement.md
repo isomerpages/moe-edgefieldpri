@@ -7,3 +7,5 @@ third_nav_title: Parents
 ---
 <p><a href="/files/P1_Parent_Engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Parent Engagement 2025</a>
 </p>
+<p><a href="/files/P1_Orientation_Admin_Talk_by_AYH_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Admin talk 2025</a>
+</p>
