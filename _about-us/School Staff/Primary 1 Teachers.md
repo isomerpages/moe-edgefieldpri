@@ -77,8 +77,8 @@ variant: tiptap
 <p>1 KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Esthelle Heng (Ang Mui Mui)</a> 
-<br><a href="mailto:ang_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Ang Bin</a>
+<p><a href="mailto:Wulandari_Sukma_Muhammad_Rahiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Wee (Wulandari Sukma)</u></a>
+<br><a href="mailto:paul_pouline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Pouline Paul</u></a>
 </p>
 </td>
 </tr>
