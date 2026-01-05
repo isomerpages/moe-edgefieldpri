@@ -25,7 +25,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nh.binte.misran@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nordiyana Hazirah</a>
+<p><a href="mailto:gajenthiran.thevamurali@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gajenthiran Thevamurali</a>
 </p>
 </td>
 </tr>
