@@ -61,7 +61,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Juliana Ng (Natalia Lee Osman)</u></a>
 <br><a href="mailto:sim_ming_quan_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Marcus Sim Ming Quan</u></a>
-<br>Mr Ng Keng Kiat</p>
+<br><a href="mailto:ng_keng_kiat_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ng Keng Kiat</u></a>
+</p>
 </td>
 </tr>
 <tr>
