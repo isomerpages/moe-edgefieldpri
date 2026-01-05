@@ -16,8 +16,8 @@ variant: tiptap
 <p>1 INTEGRITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lee_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lee Nah</a> 
-<br><a href="mailto:Lee_Foong_Chee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Teo Lee Foong Chee</a>
+<p><a href="mailto:chia_peishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Chia Peishan</u></a>
+<br><a href="mailto:pang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Pang Xiao Yan</u></a>
 </p>
 </td>
 </tr>
@@ -26,8 +26,8 @@ variant: tiptap
 <p>1 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khairiyanie_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Khairiyanie Abdul Aziz</a> 
-<br><a href="mailto:low_hui_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Doreen Low Hui Lin</a>
+<p><a href="mailto:wirziana_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wirziana Abdul Wahab</u></a>
+<br><a href="mailto:Lim_Gui_Hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Cher (Lim Gui Hao)</u></a>
 </p>
 </td>
 </tr>
@@ -36,8 +36,9 @@ variant: tiptap
 <p>1 RESILIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jessie Yeo Buay Joo</a> 
-<br><a href="mailto:Nurafizah_Othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurafizah Bte Othman</a>
+<p><a href="mailto:teo_suat_ching_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Cindy Tan Teo Suat Ching</u></a>
+<br><a href="mailto:chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Adeline Chew Ng Xiang Min</u></a>
+<br><a href="mailto:sharmilla_raja_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sharmilla Raja Kumar</u></a>
 </p>
 </td>
 </tr>
@@ -46,8 +47,8 @@ variant: tiptap
 <p>1 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_ru_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tay Ru Jun</a> 
-<br><a href="mailto:ng_siew_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jackie Ng Siew Hong A</a>
+<p><a href="mailto:loo_kum_yok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Joyce Loo Kum Yok</u></a>
+<br><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Tan Hwee Khoon</u></a>
 </p>
 </td>
 </tr>
@@ -56,8 +57,9 @@ variant: tiptap
 <p>1 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a>
-<br><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruzanna Supar</a>
+<p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Wu Ming Che</u></a>
+<br><a href="mailto:chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jessica Lim</u></a>
+<br><a href="mailto:lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ng (Lee Mei Ling)</u></a>
 </p>
 </td>
 </tr>
@@ -66,8 +68,10 @@ variant: tiptap
 <p>1 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi </a>
-<br><a href="mailto:cai_xiang_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xiang Yu</a>
+<p><a href="mailto:Low_YIN_SIANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Low Yin Siang</u></a>
+<br><a href="mailto:Mohammad_Fedly_B_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mohammad Fedly B Sulaiman</u></a>
+<br><a href="mailto:poh_huilin_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Irene Poh Huilin</u></a>
+<br>
 </p>
 </td>
 </tr>
@@ -76,8 +80,8 @@ variant: tiptap
 <p>1 KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_mui_mui_esthelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Esthelle Heng (Ang Mui Mui)</a> 
-<br><a href="mailto:ang_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Winnie Ang Bin</a>
+<p><a href="mailto:Wulandari_Sukma_Muhammad_Rahiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Wee (Wulandari Sukma)</u></a>
+<br><a href="mailto:paul_pouline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Pouline Paul</u></a>
 </p>
 </td>
 </tr>
