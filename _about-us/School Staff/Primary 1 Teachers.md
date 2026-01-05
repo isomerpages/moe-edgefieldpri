@@ -56,15 +56,9 @@ variant: tiptap
 <p>1 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_soo_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Pauline Leong</a>
-<br><a href="mailto:ruzanna_supar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruzanna Supar</a>
-</p>
-<p></p>
 <p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Wu Ming Che</u></a>
 <br><a href="mailto:chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jessica Lim</u></a>
 <br><a href="mailto:lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ng (Lee Mei Ling)</u></a>
-<br>
-<br>
 </p>
 </td>
 </tr>
@@ -73,9 +67,9 @@ variant: tiptap
 <p>1 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aw_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aw Pei Shi </a>
-<br><a href="mailto:cai_xiang_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Xiang Yu</a>
-</p>
+<p><a href="mailto:Low_YIN_SIANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Low Yin Siang</u></a>
+<br><a href="mailto:Mohammad_Fedly_B_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mohammad Fedly B Sulaiman</u></a>
+<br>IRENE POH</p>
 </td>
 </tr>
 <tr>
