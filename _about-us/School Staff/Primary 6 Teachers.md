@@ -58,9 +58,9 @@ variant: tiptap
 <p>6 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_minmin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Angela Koh Minmin</a> 
-<br><a href="mailto:parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari D O Sambasivam</a> 
-<br><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Terence Teng Sze Chun</a>
+<p><a href="mailto:ili_sakinah_sarwan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ili Sakinah Sarwan</a>
+<br><a href="mailto:ng_siew_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Siew Hong</a>
+<br><a href="mailto:Pratibha_Rai_Matuk_Rai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pratibha Rai Matuk Rai</a>
 </p>
 </td>
 </tr>
