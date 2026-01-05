@@ -50,8 +50,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_hajar_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Siti Hajar Kamaruddin</u></a>
-</p>
-<p><a href="mailto:Kong_Chiu_Wei_Kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kenneth Kong Chiu Wei</u></a>
+<br><a href="mailto:Kong_Chiu_Wei_Kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Kenneth Kong Chiu Wei</u></a>
 </p>
 </td>
 </tr>
