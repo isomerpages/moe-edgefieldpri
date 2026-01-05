@@ -48,7 +48,7 @@ variant: tiptap
 <p>4 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Ling Yuan</u></a>
+<p><a href="mailto:ling_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Dr Ling Yuan</u></a>
 <br><a href="mailto:koh_kim_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Louisa Koh Kim Lian</u></a>
 <br><a href="mailto:ng_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr David Ng Kwang Ming</u></a>
 </p>
