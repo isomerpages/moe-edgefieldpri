@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P2)</p>
+<p>Year Head (P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Arumugam</a>
@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 &amp; P4)</p>
+<p>Year Head (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vairavan_uthaman_chettiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vairavan Uthaman Chettiar</a>
@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 &amp; P6)</p>
+<p>Year Head (P5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari</a>
@@ -122,16 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P1 &amp; P2) (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Judith Goh</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3 &amp; P4)</p>
+<p>Assistant Year Head (P1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lim_Gui_Hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cher (Lim Gui Hao)</a>
@@ -140,7 +131,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P5 &amp; P6)</p>
+<p>Assistant Year Head (P4) (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_xue_ni_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Judith Goh</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
