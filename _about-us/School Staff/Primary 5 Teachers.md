@@ -60,9 +60,9 @@ variant: tiptap
 <p>5 EMPATHY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ili_sakinah_sarwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ili Sakinah Sarwan</a>
-<br><a href="mailto:Rafeyah_Abdul_Rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rafeyah Abdul Rahman</a> 
-<br><a href="mailto:pratibha_rai_matuk_rai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pratibha Rai</a>
+<p><a href="mailto:noor_ellynda_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Ellynda Mohd Ismail</a>
+<br><a href="mailto:zhang_fulei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Zhang Fulei</u></a>
+<br><a href="mailto:parameswari_s_sambasivam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Parameswari</a>
 </p>
 </td>
 </tr>
@@ -71,10 +71,9 @@ variant: tiptap
 <p>5 FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:azlin_mustaffa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Azlin Mustaffa</a> 
-<br><a href="mailto:Saiful_Nizam_Omaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Saiful Nizam Omaran</a> 
-<br><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Lye</a>
-</p>
+<p><a href="mailto:koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jenesta Chua ( Koh Lay Kuan)</u></a>
+<br><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teng Sze Chun Terence</a>
+<br>Annamary Segaran</p>
 </td>
 </tr>
 </tbody>
