@@ -405,5 +405,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Juliana Ng (Natalia Lee Osman)</u></a>
-</p>
+<p></p>
