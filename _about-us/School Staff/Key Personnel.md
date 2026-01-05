@@ -32,10 +32,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD English (Covering)</p>
+<p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mrs Asri (Tan Pin Pin)</a>
+<p><a href="mailto:noraini_yosorh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noraini Yosorh</a>
 </p>
 </td>
 </tr>
