@@ -38,7 +38,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_suat_ching_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Cindy Tan Teo Suat Ching</u></a>
 <br><a href="mailto:chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Adeline Chew Ng Xiang Min</u></a>
-<br>SHARMILA</p>
+<br><a href="mailto:sharmilla_raja_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sharmilla Raja Kumar</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +70,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Low_YIN_SIANG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Low Yin Siang</u></a>
 <br><a href="mailto:Mohammad_Fedly_B_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Mohammad Fedly B Sulaiman</u></a>
-<br>IRENE POH</p>
+<br><a href="mailto:poh_huilin_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Irene Poh Huilin</u></a>
+<br>
+</p>
 </td>
 </tr>
 <tr>
