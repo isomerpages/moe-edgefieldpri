@@ -49,8 +49,9 @@ variant: tiptap
 <p>3 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MELISSA YIP
-<br>ONG LUE CHONG</p>
+<p><a href="mailto:yip_cheng_han_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Melissa Yip Cheng Han</u></a>
+<br><a href="mailto:Ong_Lue_Chong_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Ong Lue Chong</u></a>
+</p>
 </td>
 </tr>
 <tr>
