@@ -152,7 +152,7 @@ variant: tiptap
 <p>LH English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:juliana_natalia_lee_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Juliana Ng</a>
+<p><a href="mailto:tan_pin_pin_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Asri (Tan Pin Pin)</u></a>
 </p>
 </td>
 </tr>
@@ -197,7 +197,7 @@ variant: tiptap
 <p>SH PAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loi_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loi Wei Ling</a>
+<p><a href="mailto:idayu_dewi_bt_juwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Idayu Dewi</u></a>
 </p>
 </td>
 </tr>
@@ -226,15 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khairul_lizan_ahmadjirony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Khairul Lizan Ahmadjirony</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Special Education Needs (SEN)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quake_kheok_meng_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Quake</a>
 </p>
 </td>
 </tr>
