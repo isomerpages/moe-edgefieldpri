@@ -49,6 +49,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_hwee_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee San Vanessa</a>
+<br>Angela Koh
+<br><a href="mailto:yeo_poh_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Steven Yeo Poh Teck</u></a>
 </p>
 </td>
 </tr>
