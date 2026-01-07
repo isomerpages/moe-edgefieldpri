@@ -27,7 +27,7 @@ variant: tiptap
 <p>5 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Xin_Yi_A_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Lee Jin Yu ( Lee Xin Yi )</u></a>
+<p><a href="mailto:Lee_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Lee Xin Yi</u></a>
 <br><a href="mailto:Stephen_Goh_Tiew_Cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stephen Goh Tiew Cheng</a>
 <br><a href="mailto:noraini_yosorh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noraini Yosorh</a>
 </p>
