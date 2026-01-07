@@ -38,7 +38,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_suat_ching_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Cindy Tan Teo Suat Ching</u></a>
 <br><a href="mailto:chew-ng_xiang_min_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Adeline Chew Ng Xiang Min</u></a>
-<br><a href="mailto:sharmilla_raja_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Sharmilla Raja Kumar</u></a>
+<br><a href="mailto:sharmilla_raja_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Sharmilla Raja Kumar</u></a>
 </p>
 </td>
 </tr>
