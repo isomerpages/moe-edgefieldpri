@@ -28,7 +28,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_shuling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Tan Shuling</u></a>
-<br><a href="mailto:V_Punithan_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Victor Punithan</u></a>
+<br><a href="mailto:V_Punithan_C@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Victor Punithan</u></a>
 <br><a href="mailto:norsinah_suadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Norsinah Suadi</u></a>
 </p>
 </td>
