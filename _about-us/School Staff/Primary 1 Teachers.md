@@ -58,7 +58,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_ming_che@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Wu Ming Che</u></a>
-<br><a href="mailto:chew_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jessica Lim</u></a>
+<br><a href="mailto:chaw_kim_leng_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jessica Lim</u></a>
 <br><a href="mailto:lee_mei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Ng (Lee Mei Ling)</u></a>
 </p>
 </td>
