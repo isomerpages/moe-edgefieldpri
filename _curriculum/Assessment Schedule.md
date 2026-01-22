@@ -15,19 +15,19 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/new_2025_T1_Assessment_Schedule___P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<p><a href="/files/2026_T1_Assessment_Schedule___P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/new_2025_T1_Assessment_Schedule___P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="/files/2026_T1_Assessment_Schedule___P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/new_2025_T1_Assessment_Schedule___P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
+<p><a href="/files/2026_T1_Assessment_Schedule___P5.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/new_2025_T1_Assessment_Schedule___P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
+<p><a href="/files/2026_T1_Assessment_Schedule___P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
 </p>
 </li>
 </ul>
