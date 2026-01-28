@@ -41,7 +41,7 @@ ones.
 more information on MOE Sexuality Education.
 <br>
 </p>
-<p><strong>Overview of Edgefield Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Edgefield Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -75,7 +75,7 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.
 <br>
 </p>
-<p><strong>At Edgefield Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Edgefield Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p>Primary 5</p>
 <table style="minWidth: 100px">
@@ -254,7 +254,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/67a161ea5fc9a6dcfe4f3c31" rel="noopener nofollow" target="_blank">here</a>(
-<a href="https://form.gov.sg/67a161ea5fc9a6dcfe4f3c31" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67a161ea5fc9a6dcfe4f3c31</a>). The completed opt-out
+<a href="https://form.gov.sg/69775a9c13157b46da22892c" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69775a9c13157b46da22892c</a>). The completed opt-out
 form is to be submitted by 30 May 2025.
 <br>
 <br>
