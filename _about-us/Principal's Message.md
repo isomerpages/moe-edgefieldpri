@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Welcome to Edgefield Primary School</h3>
 <p>Happy New Year to everyone.&nbsp; I would like to warmly welcome everyone
-back to school in 2025 and especially our Primary 1 students who have joined
+back to school in 2026 and especially our Primary 1 students who have joined
 us this year.&nbsp; It is certainly going to be a very remarkable year
 with new Mission/Values/Motto, new approaches, new programs, new places
 and new experiences.</p>
