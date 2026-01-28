@@ -4,7 +4,7 @@ permalink: /curriculum/assessment-plans/
 description: ""
 variant: tiptap
 ---
-<h3>Assessment Schedule for 2025<br>Term 1</h3>
+<h3>Assessment Schedule for 2026<br>Term 1</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025_Assessment_Letter_to_Parents__P1_Learning_Outcomes.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
