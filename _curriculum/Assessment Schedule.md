@@ -8,6 +8,14 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2026_Assessment_Letter_to_Parents___P1_Learning_Outcomes.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_Assessment_Letter_to_Parents___P2_Learning_Outcomes.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026_T1_Assessment_Schedule___P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </li>
