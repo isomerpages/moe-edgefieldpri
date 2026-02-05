@@ -111,11 +111,11 @@ strength and moral compass to succeed in dance and in life.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Ellynda (Teacher-in-charge)
-<br>Mrs Yvonne Lim (Teacher-in-charge)
-<br>Mdm Jaseela Mohd
+<p>Mrs Yvonne Lim ( Advisor )</p>
+<p>Mdm Noor Ellynda ( Driver )
 <br>Mdm Lim Lee Nah
 <br>Mdm Nurafizah</p>
+<p>Mdm Jaseela Mohd</p>
 </td>
 </tr>
 </tbody>
