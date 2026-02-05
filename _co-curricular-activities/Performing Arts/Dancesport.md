@@ -111,7 +111,7 @@ strength and moral compass to succeed in dance and in life.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yvonne Lim ( Advisor )
+<p>Mrs Yvonne Sim ( Advisor )
 <br>Mdm Noor Ellynda ( Driver )
 <br>Mdm Lim Lee Nah
 <br>Mdm Nurafizah
