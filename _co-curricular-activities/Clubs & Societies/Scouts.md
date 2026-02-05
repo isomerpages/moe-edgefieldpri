@@ -107,8 +107,9 @@ and Assistant Sixers to lead a pack of 6.</p>
 <td rowspan="1" colspan="1">
 <p>Mr David Ng (Adviser)
 <br>Ms Tan Shu Ling</p>
-<p>Mr Kenneth Kong Chiu Wei
+<p>Mr Chew Wei
 <br>Ms Angela Koh Minmin</p>
+<p>Mr Kenneth Kong Chiu Wei</p>
 <p>Ms Wulandari Sukma
 <br>Mr Mohammad Fedly B Sulaiman
 <br>
