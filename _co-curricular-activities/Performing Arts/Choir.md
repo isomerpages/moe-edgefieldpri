@@ -81,8 +81,8 @@ and lead with empathy and purpose.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Ying Siang ( Advisor )</p>
-<p>Mdm Louisa Koh ( Driver )
+<p>Mdm Low Ying Siang ( Advisor )
+<br>Mdm Louisa Koh ( Driver )
 <br>Ms Lee Jin Yu (Lee Xin Yi)
 <br>Mrs Irene Poh</p>
 </td>
