@@ -116,9 +116,10 @@ the CCA.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Shati ( Advisor )</p>
+<p>Mdm Nur Yanty ( Driver )</p>
 <p>Mdm Julieana Razek
-<br>Mdm Nur Yanty
-<br>Mdm Joyce Choo</p>
+<br>Mdm Shamilla</p>
 </td>
 </tr>
 </tbody>
