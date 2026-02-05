@@ -86,15 +86,16 @@ club.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Suhaila (Teacher-in-charge)
-<br>Mr Eugene Sim (Teacher-in-charge)
-<br>Mr Terence Wong
-<br>Mr Ho Keng Huat</p>
+<p>Mr Eugene Sim (Advisor)</p>
+<p>Miss Siti Hajar (Driver)
+<br>Mr Terence Wong</p>
+<p>Ms Tay Ru Jun
+<br>Mdm Pouline Paul</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYsNT1wDxVcwWJ7gPSa5dS3axzSHK97wuYGx0UXsAOCeUs5O6m4lo2NlZ7sZJQx4L-G5xy5AryM753/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYsNT1wDxVcwWJ7gPSa5dS3axzSHK97wuYGx0UXsAOCeUs5O6m4lo2NlZ7sZJQx4L-G5xy5AryM753/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
