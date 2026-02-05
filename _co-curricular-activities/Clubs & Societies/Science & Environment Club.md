@@ -86,10 +86,10 @@ club.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Sim (Advisor)</p>
-<p>Miss Siti Hajar (Driver)
-<br>Mr Terence Wong</p>
-<p>Ms Tay Ru Jun
+<p>Mr Eugene Sim (Advisor)
+<br>Miss Siti Hajar (Driver)
+<br>Mr Terence Wong
+<br>Ms Tay Ru Jun
 <br>Mdm Pouline Paul</p>
 </td>
 </tr>
