@@ -76,15 +76,16 @@ Managers.
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Sum (Teacher In-Charge)
-<br>Mr Denis Chin (Teacher In-Charge)
-<br>Mrs Charn Ve’Joy
-<br>Mdm Tan Hwee Koon</p>
+<p>Mdm Tan Hwee Koon ( Driver )
+<br>Mr Denis Chin
+<br>Mr Saiful Nizam</p>
+<p>Mr Liam Chan</p>
+<p>Mdm Wang Huan</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyt6zJT2razXWEaKxgzXwqgU9suMm6-jl4gjFOwFp0nO24cJsc3LxMn4fbbugYsB5Ap8bo_EDDSJOf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyt6zJT2razXWEaKxgzXwqgU9suMm6-jl4gjFOwFp0nO24cJsc3LxMn4fbbugYsB5Ap8bo_EDDSJOf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
