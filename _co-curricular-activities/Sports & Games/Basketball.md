@@ -71,12 +71,13 @@ skills on court and in the real world.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wu Ming Che
-<br>Mr Shamsudin Bin Kanchil
+<p>Mr Wu Ming Che ( Advisor )
+<br>Mr Shamsudin Bin Kanchil ( Driver )
 <br>Mr Norman Selvaraju
-<br>Mr Duane Chan Xin Jie
 <br>Mr Saiful Nizam Omaran
-<br>Mdm Zhang Fulei</p>
+<br>Mdm Zhang Fulei
+<br>Mdm Tan Hwee Khoon, Jackie
+<br>Mr Liam Chan</p>
 </td>
 </tr>
 </tbody>
