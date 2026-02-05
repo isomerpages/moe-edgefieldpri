@@ -78,9 +78,9 @@ Managers.
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hwee Koon ( Driver )
 <br>Mr Denis Chin
-<br>Mr Saiful Nizam</p>
-<p>Mr Liam Chan</p>
-<p>Mdm Wang Huan</p>
+<br>Mr Saiful Nizam
+<br>Mr Liam Chan
+<br>Mdm Wang Huan</p>
 </td>
 </tr>
 </tbody>
