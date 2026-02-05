@@ -106,12 +106,12 @@ coach fosters skill development and confidence.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Crystal Koh
-<br>Mdm Koh Lay Kuan
+<p>Miss Crystal Koh ( Driver )
 <br>Mrs Noorhaizah Abdul Rahim
-<br>Mdm Salimah MohdHaniffa
-<br>Ms Tan Hwee Khoon
-<br>Mdm Tay Ru Jun</p>
+<br>Mdm Koh Lay Kuan
+<br>Ms Annamary
+<br>Mdm Melissa Lee
+<br>Ms Amanda Leow</p>
 </td>
 </tr>
 </tbody>
