@@ -90,10 +90,10 @@ creative journey.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Esther Lee (Adviser)
-<br>Mrs Cindy Tan
+<br>Mrs Cindy Tan (Driver)
 <br>Mdm Winne Ang
-<br>Mdm Fu Dong
 <br>Mdm Yong Jia Fang</p>
+<p>Mdm Lu Yangfan</p>
 </td>
 </tr>
 </tbody>
