@@ -146,9 +146,11 @@ support newcomers through structured buddy systems and informal guidance.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Siew Hong, Jackie
+<p>Mdm Ng Siew Hong, Jackie ( Driver )
 <br>Mdm Zahira Begum Bte Abdul Rahman
-<br>Mdm Paul Pouline</p>
+<br>Mdm Salimah</p>
+<p>Mdm Ruzanna</p>
+<p>Mdm Esthelle Heng</p>
 </td>
 </tr>
 </tbody>
