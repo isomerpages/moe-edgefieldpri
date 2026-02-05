@@ -92,8 +92,8 @@ creative journey.</p>
 <p>Ms Esther Lee (Adviser)
 <br>Mrs Cindy Tan (Driver)
 <br>Mdm Winne Ang
-<br>Mdm Yong Jia Fang</p>
-<p>Mdm Lu Yangfan</p>
+<br>Mdm Yong Jia Fang
+<br>Mdm Lu Yangfan</p>
 </td>
 </tr>
 </tbody>
