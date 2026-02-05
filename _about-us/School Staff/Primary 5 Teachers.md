@@ -72,7 +72,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_lay_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Jenesta Chua ( Koh Lay Kuan)</u></a>
 <br><a href="mailto:teng_sze_chun_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Teng Sze Chun Terence</a>
-<br>Annamary Segaran</p>
+<br><a href="mailto:Annamary_Segaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annamary_Segaran</a>
+</p>
 </td>
 </tr>
 </tbody>
