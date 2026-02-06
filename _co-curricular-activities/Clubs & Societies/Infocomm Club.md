@@ -81,11 +81,10 @@ in different stage of their design projects.</p>
 <p>CCA Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Patrick Shiu
-<br>Ms Aw Peishi
+<p>Mr Patrick Shiu (Driver)
 <br>Mdm Azlin
-<br>Mdm Lee Xin Yi
-<br>Mr Ratno</p>
+<br>Mdm Aw Peishi
+<br>Mdm Lee Xin Yi</p>
 </td>
 </tr>
 </tbody>
