@@ -193,7 +193,7 @@ at $3.20 per meal.</p>
 <h3>Canteen Food Prices</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Price_List_of_Canteen_Food.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen food prices 2025</a>
+<p><a href="/files/Canteen_stalls_pricing_updated_070426.pdf" rel="noopener nofollow" target="_blank">Canteen food price 2026</a>
 </p>
 </li>
 </ul>
