@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Curriculum &amp; Innovation (C&amp;I)</p>
+<p>HOD 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yong_seng_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gene Lim Yong Seng</a>
