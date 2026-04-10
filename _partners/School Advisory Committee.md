@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Tony_Leong.jpg">
 </div>
-<p><strong> Mr Tony Leong</strong>
+<p><strong>Mr Tony Leong</strong>
 </p>
 <p></p>
 <h3>Members</h3>
