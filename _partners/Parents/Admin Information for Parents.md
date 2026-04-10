@@ -66,9 +66,10 @@ variant: tiptap
 <p><strong>School Textbooks Vendor</strong>
 </p>
 <p>Bookshop opening hours:
-<br>8.00am to 8.20am
-<br>11.30am to 12.00pm
-<br>2.00pm to 2.30pm from Mon to Fri during school term</p>
+<br>8.00am to 8.30am
+<br>1.50pm to 2.20pm
+<br>
+</p>
 <p><strong>School Transport Provider</strong>
 </p>
 <p>Ting Transport Pte. Ltd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
