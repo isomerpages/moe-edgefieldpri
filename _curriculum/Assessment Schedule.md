@@ -43,9 +43,10 @@ variant: tiptap
 <li>
 <p><a href="/files/1_2026_T1_Assessment_Schedule___P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
 </p>
+<p></p>
 </li>
 </ul>
-<h3><br>Learning Outcomes for 2026</h3>
+<h3>Learning Outcomes for 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/1_2026_Assessment_Letter_to_Parents___P1_Learning_Outcomes.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
