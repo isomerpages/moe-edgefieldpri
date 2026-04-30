@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - School Canteen.md
       - Parents/P1 Parent Engagement.md
       - Parents/Engagement Charter.md
       - Parents/.keep
