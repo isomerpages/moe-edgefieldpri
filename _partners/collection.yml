@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Example Title.md
       - Parents/.keep
       - Parents/P1 Parent Engagement.md
       - Parents/Engagement Charter.md
