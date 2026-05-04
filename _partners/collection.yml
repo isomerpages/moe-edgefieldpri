@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
+      - Parents/.keep
       - Parents/P1 Parent Engagement.md
       - Parents/Engagement Charter.md
-      - Parents/.keep
       - Parents/Admin Information for Parents.md
       - Parents/P4 SBB Briefing.md
       - Parents/School Bus Service.md
@@ -18,3 +18,4 @@ collections:
       - Parent Support Group (PSG)/Parent Volunteer Testimonials.md
       - Student Care.md
       - Alumni Video.md
+      - School Canteen.md
