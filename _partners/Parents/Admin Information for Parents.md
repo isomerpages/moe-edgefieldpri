@@ -73,6 +73,10 @@ variant: tiptap
 </p>
 <p>Ting Transport Pte. Ltd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Contact Person: Henry Ting: 91901884</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Daily_school_bus_services_2025.png">
+</div>
 <h3>Insurance</h3>
 <p>As part of our student well-being efforts, the school has purchased insurance
 to provide basic coverage for our students in case of accidents.&nbsp;
