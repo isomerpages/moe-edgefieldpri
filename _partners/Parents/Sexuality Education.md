@@ -255,7 +255,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/69775a9c13157b46da22892c" rel="noopener nofollow" target="_blank">here</a>(
 <a href="https://form.gov.sg/69775a9c13157b46da22892c" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69775a9c13157b46da22892c</a>). The completed opt-out
-form is to be submitted by 30 May 2025.
+form is to be submitted by 30 May 2026.
 <br>
 <br>
 </p>
