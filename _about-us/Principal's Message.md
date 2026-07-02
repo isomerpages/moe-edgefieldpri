@@ -51,7 +51,7 @@ will provide our students with more opportunities to exercise Choice and
 Voice, while teaching them the values of discernment, tact and respect.
 This will allow them to become confident individuals who are also empathetic
 and responsible.</p>
-<p>As the late Mr Lee Kwan Yew has said, “If you want to reach your goals
+<p>As the late Mr Lee Kuan Yew has said, “If you want to reach your goals
 and dreams, you cannot do it without discipline,” we will place premium
 importance in building the character and values of our students so that
 they are developed appropriately in the social and moral domains as well.&nbsp;
