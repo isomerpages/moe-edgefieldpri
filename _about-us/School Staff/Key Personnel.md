@@ -68,15 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hwee_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Vanessa Ng Hwee San</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD&nbsp;Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
