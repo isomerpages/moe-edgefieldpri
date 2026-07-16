@@ -16,10 +16,10 @@ sections:
       image: /images/Primary_1.png
       alt: School Corporate Video
   - infopic:
-      title: Caring Teacher Awards
+      title: The Secret Garden
       id: infopic
-      button: Click here to nominate now!
-      url: https://www.cta.nie.edu.sg/
-      image: /images/CTA_2026_A3_Poster.jpg
+      button: Click here to learn more
+      url: https://www.edgefieldpri.moe.edu.sg/student-development/
+      image: /images/Screenshot_2026_07_16_152741.png
       alt: Image alt text
 ---

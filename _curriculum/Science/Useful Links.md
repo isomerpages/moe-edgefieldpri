@@ -8,21 +8,21 @@ variant: tiptap
 <h3><strong>Explore these websites for more interesting Science stuff!</strong></h3>
 <p><strong>&nbsp;</strong>
 </p>
-<p>NASA Kids’ Club&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.nasa.gov/kidsclub/index.html</a>
+<p>NASA Kids’ Club&nbsp;:&nbsp;<a href="https://www.nasa.gov/learning-resources/nasa-kids-club/" rel="noopener noreferrer nofollow" target="_blank">www.nasa.gov/kidsclub/index.html</a>
 </p>
 <p></p>
-<p>Kids National Geographic&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://kids.nationalgeographic.com/</a>
+<p>Kids National Geographic&nbsp;:&nbsp;<a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">http://kids.nationalgeographic.com/</a>
 </p>
 <p></p>
-<p>Project Noah&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://www.projectnoah.org/</a>
+<p>Project Noah&nbsp;:&nbsp;<a href="https://projectnoah.org/" rel="noopener noreferrer nofollow" target="_blank">http://www.projectnoah.org/</a>
 </p>
 <p></p>
-<p>Learning with Bill Nye&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://billnye.com/</a>
+<p>Learning with Bill Nye&nbsp;:&nbsp;<a href="https://www.billnye.com/" rel="noopener noreferrer nofollow" target="_blank">http://billnye.com/</a>
 </p>
 <p></p>
-<p>Mystery Science&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://mysteryscience.com/distance-learning</a>
+<p>Mystery Science&nbsp;:&nbsp;<a href="https://mysteryscience.com/distance-learning" rel="noopener noreferrer nofollow" target="_blank">http://mysteryscience.com/distance-learning</a>
 </p>
-<p>SciShow&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow</a>
+<p>SciShow&nbsp;:&nbsp;<a href="https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow" rel="noopener noreferrer nofollow" target="_blank">www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow</a>
 </p>
 <p></p>
 <p>How Stuff Works&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://science.howstuffworks.com/</a>
