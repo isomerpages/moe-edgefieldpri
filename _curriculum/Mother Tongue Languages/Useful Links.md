@@ -30,7 +30,5 @@ variant: tiptap
 </ul>
 <p>How do teachers nurture their students' interest in their MTL? Read on
 to find out:&nbsp;
-<br><a href="https://www.schoolbag.edu.sg/story/necessity-the-mother-tongue-of-innovation/" rel="noopener nofollow" target="_blank">Necessity, the Mother (Tongue) of InnovationInnovation</a>
-<a href="https://www.schoolbag.edu.sg/story/necessity-the-mother-tongue-of-innovation/" rel="noopener noreferrer nofollow" target="_blank">(</a><a rel="noopener noreferrer nofollow" target="_blank">schoolbag.edu.sg</a>
-<a href="https://www.schoolbag.edu.sg/story/necessity-the-mother-tongue-of-innovation/" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<br><a href="https://www.schoolbag.edu.sg/story/necessity-the-mother-tongue-of-innovation/" rel="noopener nofollow" target="_blank">Necessity, the Mother (Tongue) of Innovation</a>
 </p>
