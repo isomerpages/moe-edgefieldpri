@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>Explore these websites for more interesting Science stuff!</strong></h3>
 <p><strong>&nbsp;</strong>
 </p>
-<p>NASA Kids’ Club&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.nasa.gov/kidsclub/index.html</a>
+<p>NASA Kids’ Club&nbsp;:&nbsp;<a href="https://www.nasa.gov/learning-resources/nasa-kids-club/" rel="noopener noreferrer nofollow" target="_blank">www.nasa.gov/kidsclub/index.html</a>
 </p>
 <p></p>
 <p>Kids National Geographic&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://kids.nationalgeographic.com/</a>
