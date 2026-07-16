@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: The Secret Garden
       id: infopic
-      button: Click here
+      button: Click here to learn more
       url: https://www.edgefieldpri.moe.edu.sg/student-development/
       image: /images/Screenshot_2026_07_16_152741.png
       alt: Image alt text
