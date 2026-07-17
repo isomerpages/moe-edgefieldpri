@@ -25,6 +25,14 @@ sections:
       image: /images/Primary_1.png
       alt: School Corporate Video
   - infopic:
+      title: EDGE Signature Programme
+      id: infopic
+      description: Video Highlights
+      button: Click here to learn more
+      url: https://www.edgefieldpri.moe.edu.sg/edge-signature-programme/
+      image: /images/Edge_ESP.png
+      alt: Image alt text
+  - infopic:
       title: The Secret Garden
       id: infopic
       button: Click here to learn more
