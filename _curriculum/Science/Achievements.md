@@ -18,7 +18,9 @@ third_nav_title: Science
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/olympaid_2025.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/youth_stem_fair.jpg">
+</div>
 <h4>2024</h4>
 <p></p>
 <div class="isomer-image-wrapper">
