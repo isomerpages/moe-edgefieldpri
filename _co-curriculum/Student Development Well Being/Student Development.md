@@ -52,7 +52,7 @@ that supports their well-being and reminds us that play is just as important
 as learning. Through moments of laughter and connection, our students grow
 happier, more balanced, and ready to thrive.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkh_A1XbsWo?si=86skSZL8wZgmFGdA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkh_A1XbsWo?si=86skSZL8wZgmFGdA"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -67,6 +67,10 @@ their choice and voice in meaningful ways. This initiative helps nurture
 resilience and builds self-belief as they step out of their comfort zones.
 It's more than just a stage as it’s where confidence grows and students
 discover what they are truly capable of.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5VTubZJtbMA?si=PocJ7Q2tom6Kh7G6"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD8.png">
 </div>
