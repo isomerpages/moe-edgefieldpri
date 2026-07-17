@@ -5,131 +5,462 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
-<h2>21<sup>st</sup> Century Competencies: A Key Direction for the EFPS Total Curriculum</h2>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="440" width="698" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IcM66I6Xlpg?si=lQUggSf22_eXW8Fa"></iframe>
+</div>
+<h2><strong>21<sup>st</sup>&nbsp;Century Competencies: A Key Direction for the EFPS Total Curriculum</strong></h2>
+<h4>Every Edgefielder learns beyond the classroom</h4>
+<p>At Edgefield Primary School, every student from Primary 1 to Primary 6
+takes part in the E.D.G.E. Signature Programme (ESP) — 22 hands-on modules
+across seven exciting domains, from coding and drama to sports and community
+projects.
+<br>E.D.G.E. stands for Experience, Develop, Grow and Empower.
+<br>Whether your child loves to build, perform, move, write, or serve the
+community, ESP gives them the chance to discover their strengths, stretch
+themselves, and celebrate their growth — every year, at every level.</p>
 <p></p>
-<p>EFPS places 21<sup>st</sup> Century Competencies (21CC) at the heart of
-our Total Curriculum, in alignment with MOE’s national direction. This
-strategic focus ensures that every student develops the values, skills,
-and dispositions needed to thrive in a dynamic world.
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_07_17_150258.png">
+</div>
+<p><em>Primary 4 students presenting their class musical at the E.D.G.E. Showcase.</em>
+<br><em>Every student participates; Nobody gets left behind.</em>
 <br>
-<br>21CC in the Total Curriculum ensures students are equipped to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adapt confidently to rapid technological, social, and global shifts</p>
-</li>
-<li>
-<p>Collaborate meaningfully across diverse contexts</p>
-</li>
-<li>
-<p>Act responsibly with strong values and civic consciousness</p>
-</li>
-</ul>
-<p></p>
-<table style="minWidth: 50px">
+</p>
+<h4><strong>Six domains, one journey</strong></h4>
+<p>Every student experience all seven domains as they progress from P1 to
+P6:</p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p><strong><u>Framework for 21<sup>st</sup> Century Competencies and Student Outcomes</u></strong>
+<td rowspan="1" colspan="1">
+<p><strong>Domain</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2_EDGE_1.jpg">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What students do</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Learn more</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Our 21CC efforts are grounded in MOE’s national framework, which comprises:</p>
-<p>1. Core Values
-<br>- Respect · Responsibility · Resilience · Integrity · Care · Harmony
-<br>
-<br>2. Social-Emotional Competencies (SEC)
-<br>- Self-Awareness · Self-Management · Social Awareness
-<br>Relationship Management · Responsible Decision-Making
-<br>
-<br>3. Emerging 21<sup>st</sup> Century Competencies
-<br>- Critical, Adaptive, and Inventive Thinking
-<br>- Communication, Collaboration, and Information Skills
-<br>- Civic, Global, and Cross-Cultural Literacy</p>
+<td rowspan="1" colspan="1">
+<p>Global Awareness Programme (GAP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Understand global issues and cultures while developing responsible citizenship.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GAP page</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science, Technology, Engineering, Mathematics (STEM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Understand global issues and cultures while developing responsible citizenship.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.edgefieldpri.moe.edu.sg/stem/" rel="noopener noreferrer nofollow" target="_blank">STEM page</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Language Arts (LA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Strengthen communication, storytelling and confident self-expression.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.edgefieldpri.moe.edu.sg/language-arts/" rel="noopener noreferrer nofollow" target="_blank">Language Arts page</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts (PA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Explore creativity through music, movement and artistic expression.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.edgefieldpri.moe.edu.sg/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Performing Arts page</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live Life, Love Life (LILO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Develop social-emotional competencies, empathy, healthy habits and positive
+relationships.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.edgefieldpri.moe.edu.sg/live-life-love-life/" rel="noopener noreferrer nofollow" target="_blank">LILO page</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Literacy (DL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Develop coding, computational thinking, data analysis skills and foundational
+understanding of AI concepts.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/digital-and-visual-literacy/" rel="noopener nofollow" target="_blank">Digital Literacy Page</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports (SPT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Build physical fitness, coordination, teamwork and collaborative spirit.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.edgefieldpri.moe.edu.sg/sports/" rel="noopener noreferrer nofollow" target="_blank">Sports page</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>The E.D.G.E. Signature Programme: Translating Vision into Action</strong>
-<br>Through E.D.G.E. and the broader Total Curriculum, every Edgefielder will
-graduate as a confident, compassionate and capable individual who is ready
-to navigate life with purpose and contribute meaningfully to society.
+<hr>
+<h4><strong>How the programme works</strong></h4>
+<p><strong>All students, all levels.</strong> ESP is a compulsory, structured
+co-curricular experience woven into school life from P1 to P6 — no sign-ups
+needed, no one left out.</p>
+<p><strong>Tiered progression.</strong> Modules move from exploration in the
+lower primary years to deeper mastery in the upper years, so the programme
+grows with your child and supports learners of every ability.</p>
+<p><strong>Students own their learning.</strong> Through ipsative assessment
+— where each child measures progress against their <em>own</em> past performance
+rather than against classmates — students set goals, reflect on their growth,
+and take charge of their learning journey.</p>
+<p><strong>Recognition and portfolios.</strong> Students build a personal
+portfolio capturing their development and contributions across the seven
+domains, and earn recognition and certification along the way.</p>
+<p><strong>The ESP Showcase.</strong> Each term culminates in a showcase where
+students present their projects and celebrate their growth with peers,
+teachers and parents.</p>
+<hr>
+<h4><strong>Programme schedule by level</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3_ESP.png">
+</div>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_ESP.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Domains covered</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Themes/Skills</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Arts (LA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choral Reading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts (PA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rhythm and Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live Life, Love Life (LILO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foundations for Positive Habits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Literacy (DL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computational Thinking</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Arts (LA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Storytelling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts (PA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ethnic Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live Life, Love Life (LILO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Graceful Communities in Action</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Literacy (DL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block Coding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts (PA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dancesport Extravaganza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live Life, Love Life (LILO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building Positive Relationships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Literacy (DL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cyber wellness, Productivity Tools (1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports (SPT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swimsafer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science, Technology, Engineering, Mathematics (STEM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environment Sustainability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Language Arts (LA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Musical</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts (PA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hip Hop Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Literacy (DL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information Skills, Productivity Tools (2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science, Technology, Engineering, Mathematics (STEM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Energy Conservation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts (PA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Global instruments</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Literacy (DL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communicate and Create with Digital Media</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Global Awareness Programme (GAP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live Life, Love Life (LILO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Resilience and Future Readiness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports (SPT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn to play sports</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>What your child gains</strong></h4>
+<p>Through ESP, students learn to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Discover</strong> and nurture their personal strengths and interests</p>
+</li>
+<li>
+<p><strong>Build</strong> confidence, collaboration and communication skills</p>
+</li>
+<li>
+<p><strong>Care</strong>, contribute and grow with purpose</p>
+</li>
+<li>
+<p><strong>Apply</strong> their skills in real-world and diverse contexts</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5_ESP.jpg">
+</div>
+<p><em>Coaching their juniors during ESP showcase.</em> 
 <br>
-<br>To ensure every student experiences 21CC meaningfully, EFPS has designed
-the E.D.G.E. Signature Programme, a structured co-curricular experience
-that complements academic learning while directly nurturing 21CC development.</p>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6_ESP.jpg">
+</div>
+<p><em>Performing during Recognition and Awards Day. </em>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7_ESP.jpg">
+</div>
+<p><em>Bringing the house down after just 8 weeks of training.</em>
+</p>
+<h4><br><strong>Grounded in MOE's 21st Century Competencies framework</strong></h4>
+<p>The E.D.G.E. Signature Programme is EFPS's way of bringing the Ministry
+of Education's 21<sup>st</sup> Century Competencies (21CC) framework to
+life. The framework has three layers:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Core Values</strong> — Respect, Responsibility, Resilience, Integrity,
+Care, Harmony</p>
+</li>
+<li>
+<p><strong>Social-Emotional Competencies</strong> — Self-Awareness, Self-Management,
+Social Awareness, Relationship Management, Responsible Decision-Making</p>
+</li>
+<li>
+<p><strong>Emerging 21st Century Competencies</strong> — Critical, Adaptive
+and Inventive Thinking; Communication, Collaboration and Information Skills;
+Civic, Global and Cross-Cultural Literacy</p>
+</li>
+</ol>
+<p>Each ESP domain is intentionally designed to cultivate specific values,
+habits and competencies, so that every Edgefielder graduates as a confident,
+compassionate and capable individual — ready to navigate life with purpose
+and contribute meaningfully to society.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3_EDGE.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture8_ESP.png">
 </div>
-<p>1.&nbsp;&nbsp;&nbsp; Key Features of E.D.G.E.</p>
+<p><em>MOE's Framework for 21st Century Competencies and Student Outcomes, showing core values at the centre, surrounded by social-emotional competencies and emerging 21st century competencies.</em>
+</p>
+<h4><strong>Find out more</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>6 Domains: Live Life, Love Life (LILO), Digital and Visual Literacy (DV),
-Language Arts (LA), STEM, Performing Arts (PA) and Sports (SPT)</p>
+<p>See our students' ESP journeys in our <a href="https://www.edgefieldpri.moe.edu.sg/2026/" rel="noopener noreferrer nofollow" target="_blank">Achievements pages</a>.</p>
 </li>
 <li>
-<p>22 Experiential Modules across P1–P6; Compulsory participation by all
-students</p>
+<p>Explore each domain using the links in the table above.</p>
 </li>
 <li>
-<p>Tiered Progression: From exploration to mastery; Designed to support all
-levels of learners</p>
+<p>Questions about the programme? <a href="https://www.edgefieldpri.moe.edu.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> —
+we'd love to hear from you.</p>
 </li>
 <li>
-<p>Ipsative Assessment: Students set goals, reflect on growth and take charge
-of their learning journey</p>
-</li>
-<li>
-<p>Recognition and Certification: Students build portfolios that capture
-their personal development and contribution</p>
-</li>
-<li>
-<p>E.D.G.E. Showcase: Culminating experiences that give students a platform
-to celebrate their learning, share their projects and demonstrate growth
-to peers, teachers and parents</p>
+<p>Join us on 25 and 26 Aug for the next ESP Celebration.</p>
 </li>
 </ul>
-<p>2.&nbsp;&nbsp;&nbsp; Key Student Outcomes</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Discover and nurture personal strengths and interests</p>
-</li>
-<li>
-<p>Build confidence, collaboration and communication skills</p>
-</li>
-<li>
-<p>Care, contribute and grow with purpose</p>
-</li>
-<li>
-<p>Apply 21CC skills in real-world and diverse contexts</p>
-</li>
-</ul>
-<p><strong>Students’ 21CC Development through E.D.G.E.</strong>
-<br>To support our students’ holistic growth, each domain within the E.D.G.E.
-Signature Programme is intentionally designed to cultivate specific values,
-habits, and 21<sup>st</sup> century competencies.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Schedule.png">
-</div>
-<p>Explore how each domain shapes different aspects of the Edgefielder profile—and
-how students grow through experiences that challenge, inspire, and empower.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_EDGE_new.jpg">
-</div>
 <p></p>
