@@ -120,7 +120,8 @@ relationships.</p>
 understanding of AI concepts.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DL page</p>
+<p><a href="/digital-and-visual-literacy/" rel="noopener nofollow" target="_blank">Digital Literacy Page</a>
+</p>
 </td>
 </tr>
 <tr>
