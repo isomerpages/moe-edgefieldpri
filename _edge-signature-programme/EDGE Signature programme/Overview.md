@@ -160,12 +160,13 @@ teachers and parents.</p>
 <h4><strong>Programme schedule by level</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3_ESP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1_schedule.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2_schedule.png">
 </div>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_ESP.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
