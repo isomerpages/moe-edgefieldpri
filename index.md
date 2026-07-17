@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: Video Highlights
       button: Click here to learn more
-      url: https://www.edgefieldpri.moe.edu.sg/edge-signature-programme/
+      url: /edge-signature-programme/
       image: /images/Edge_ESP.png
       alt: Image alt text
   - infopic:
