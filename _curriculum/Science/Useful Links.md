@@ -25,5 +25,5 @@ variant: tiptap
 <p>SciShow&nbsp;:&nbsp;<a href="https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow" rel="noopener noreferrer nofollow" target="_blank">www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow</a>
 </p>
 <p></p>
-<p>How Stuff Works&nbsp;:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://science.howstuffworks.com/</a>
+<p>How Stuff Works&nbsp;:&nbsp;<a href="http://science.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">http://science.howstuffworks.com/</a>
 </p>
