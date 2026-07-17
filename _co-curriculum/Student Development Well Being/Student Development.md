@@ -51,6 +51,10 @@ and bond with friends in a calm and joyful setting. It’s a special place
 that supports their well-being and reminds us that play is just as important
 as learning. Through moments of laughter and connection, our students grow
 happier, more balanced, and ready to thrive.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkh_A1XbsWo?si=86skSZL8wZgmFGdA"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD6.png">
 </div>
