@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: EDGE Signature programme
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="440" width="698" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IcM66I6Xlpg?si=lQUggSf22_eXW8Fa"></iframe>
+</div>
 <h2>21<sup>st</sup> Century Competencies: A Key Direction for the EFPS Total Curriculum</h2>
 <p></p>
 <p>EFPS places 21<sup>st</sup> Century Competencies (21CC) at the heart of
