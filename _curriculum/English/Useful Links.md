@@ -10,19 +10,19 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.dk.com</a></strong>
+<p><strong><a href="www.dk.com" rel="noopener noreferrer nofollow" target="_blank">www.dk.com</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.seussville.com</a></strong>
+<p><strong><a href="www.seussville.com" rel="noopener noreferrer nofollow" target="_blank">www.seussville.com</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.roalddahl.com</a></strong>
+<p><strong><a href="www.roalddahl.com" rel="noopener noreferrer nofollow" target="_blank">www.roalddahl.com</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.bbc.co.uk</a></strong>
+<p><strong><a href="www.bbc.co.uk" rel="noopener noreferrer nofollow" target="_blank">www.bbc.co.uk</a></strong>
 </p>
 </li>
 </ul>
@@ -66,15 +66,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.vocabulary.com</a></strong>
+<p><strong><a href="www.vocabulary.com" rel="noopener noreferrer nofollow" target="_blank">www.vocabulary.com</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://dictionary.cambridge.org/</a></strong>
+<p><strong><a href="https://dictionary.cambridge.org/" rel="noopener noreferrer nofollow" target="_blank">https://dictionary.cambridge.org/</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.oed.com</a></strong>
+<p><strong><a href="www.oed.com" rel="noopener noreferrer nofollow" target="_blank">www.oed.com</a></strong>
 </p>
 </li>
 </ul>
@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.askkids.com</a></strong>
+<p><strong><a href="www.askkids.com" rel="noopener noreferrer nofollow" target="_blank">www.askkids.com</a></strong>
 </p>
 </li>
 </ul>
