@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/FINAL_website_banner__without_EDGE_words_.png
   - infopic:
+      title: P1 Registration
+      subtitle: Edgefield Primary school
+      id: infopic
+      description: To find out more info on how to register
+      button: Click here
+      url: https://www.moe.gov.sg/primary/p1-registration/how-to-register
+      image: /images/Primary_1_Registration.jpg
+      alt: Image alt text
+  - infopic:
       title: School Corporate Video
       id: infopic
       button: Click here
