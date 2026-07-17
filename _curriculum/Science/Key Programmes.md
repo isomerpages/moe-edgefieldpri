@@ -64,23 +64,6 @@ for their own learning;
 <br>- active contributors who are able to work effectively in teams, are innovative,
 exercise initiative, take calculated risks and strive for excellence.</p>
 <p></p>
-<h3>P6 - Learning Journeys to Lee Kong Chian Natural History Museum</h3>
-<p>In this learning journey, students get a chance to examine real specimens
-and learn more about the structural adaptations of various animals, including
-extinct animals.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScienceKP_Picture_7.jpg">
-</div>
-<p><em>Observing the physical adaptation of the organism</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ScienceKP_Picture_8.jpg">
-</div>
-<p><em>Up close with the specimens to better understand their adaptations</em>
-</p>
-<p></p>
 <h3>E2K Science Programme Singapore</h3>
 <p>This programme, designed for Primary 4 and 5 students who demonstrate
 a deep interest and ability in Science, is filled with many scientific
