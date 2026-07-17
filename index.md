@@ -31,4 +31,20 @@ sections:
       url: /student-development/
       image: /images/Screenshot_2026_07_16_152741.png
       alt: Image alt text
+  - infopic:
+      title: Instagram
+      subtitle: Our School's Instagram
+      id: infopic
+      button: Follow us on Instagram
+      url: https://www.instagram.com/edgefieldprisch/?hl=en
+      image: /images/Follow_us_on_Instagram.png
+      alt: Image alt text
+  - infopic:
+      title: Facebook
+      subtitle: Our School's Facebook
+      id: infopic
+      button: Follow us on Instagram
+      url: https://www.facebook.com/p/Edgefield-Primary-School-100064091739318/
+      image: /images/Follow_us_on_Facebook.png
+      alt: Image alt text
 ---
