@@ -383,8 +383,7 @@ teachers and parents.</p>
 </tbody>
 </table>
 <hr>
-<p><strong>What your child gains</strong>
-</p>
+<h4><strong>What your child gains</strong></h4>
 <p>Through ESP, students learn to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -404,19 +403,20 @@ teachers and parents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5_ESP.jpg">
 </div>
-<p>Coaching their juniors during ESP showcase.
+<p><em>Coaching their juniors during ESP showcase.</em> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6_ESP.jpg">
 </div>
-<p>Performing during Recognition and Awards Day.
+<p><em>Performing during Recognition and Awards Day. </em>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7_ESP.jpg">
 </div>
-<p>Bringing the house down after just 8 weeks of training.</p>
+<p><em>Bringing the house down after just 8 weeks of training.</em>
+</p>
 <h4><br><strong>Grounded in MOE's 21st Century Competencies framework</strong></h4>
 <p>The E.D.G.E. Signature Programme is EFPS's way of bringing the Ministry
 of Education's 21<sup>st</sup> Century Competencies (21CC) framework to
