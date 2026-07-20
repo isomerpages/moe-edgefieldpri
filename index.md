@@ -51,7 +51,7 @@ sections:
       title: Facebook
       subtitle: Our School's Facebook
       id: infopic
-      button: Follow us on Instagram
+      button: Follow us on Facebook
       url: https://www.facebook.com/p/Edgefield-Primary-School-100064091739318/
       image: /images/Follow_us_on_Facebook.png
       alt: Image alt text
