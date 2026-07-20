@@ -5,16 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-<h3><strong>Mother Tongue Fortnight &amp; Cultural Camp</strong></h3>
-<p><strong>&nbsp;</strong>It aims to create an immersive environment for
-learning, encouraging students to use and experience their Mother Tongue
-in a fun and engaging way. The fortnight encourages students to explore
-and experience their cultural heritage through various activities, fostering
+<h3><strong>Mother Tongue Language Fortnight &amp; Cultural Camp</strong></h3>
+<p>The Mother Tongue Language Fortnight and Cultural Camp aims to create
+an immersive environment for learning and encouraging students to use and
+experience Mother Tongue language in a fun and engaging way. Students explored
+and experienced their cultural heritage through various activities to foster
 a deeper understanding of their identity.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_fortnight_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_Theme_Fables_and_Legends.png">
 </div>
-<p><strong>P2 Market Place</strong>
+<p><strong>P1 Theme : Fables and Legends</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -23,21 +24,17 @@ a deeper understanding of their identity.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Actively engaged in the buying-selling activity using Mother Tongue Language.</em>
+<p><em>Students having fun learning MTL through drama!</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl_fortnight_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Theme_Food_Delight.jpg">
 </div>
+<p><strong>P2 Theme : Food Delight [Font 9, italics]:</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -45,31 +42,17 @@ a deeper understanding of their identity.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Writing scripts &amp; making props for their ‘Journey to the West’ performance.</em>
+<p><em>Students use MTL to role-play as seller-buyer in an authentic setting such as the market place.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTFN1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_Theme_Traditional_Games.png">
 </div>
-<p><em>Students were happy &amp; excited with the hand puppets made during the cultural camp.</em>
+<p><strong>P3 Theme : Traditional Games</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dramatization_of_Story_by_our_Parent_Volunteers.jpg">
-</div>
-<p><em>Dramatization of Story by our Parent Volunteers</em>
-</p>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTFN2.png">
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -77,37 +60,66 @@ a deeper understanding of their identity.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>P3 Roleplay Competition – 10 headed Ravana, the epic villain</em>
+<p><em>Students had fun playing Kabbadi in the school hall.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Indian_Art_of_Shadow_Puppetry__Thol_Pavai_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Theme_Festival_and_Celebrations.jpg">
 </div>
-<p><strong>P4 Cultural Camp</strong>
+<p><strong>P4 Theme: Festival and Celebrations</strong>
 </p>
-<p><em>Learning Indian Art of Shadow Puppetry (Thol Pavai)</em>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Students learn about songkok – one of the traditional headwear in Malay culture.</em>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_words_to_rhythm__students_bring_their_Mother_Tongue_to_life_through_songwriting_magic_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Theme_Cultural_Performing_Arts.png">
 </div>
-<p><strong>P6 Mother Tongue Fortnight</strong>
+<p><strong>P5 Theme: Cultural Performing Arts</strong>
 </p>
-<p><em>From words to rhythm, students bring their Mother Tongue to life through songwriting magic.</em>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Learning values through epic adventures such as ‘Journey to the West’.</em>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bringing_characters_to_life___P1_students_combine_art_and_drama_in_a_delightful_performance_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Theme_Literature_and_the_Arts.jpg">
 </div>
-<p><strong>P1 MTL Fortnight</strong>
+<p><strong>P6 Theme: Literature and the Arts</strong>
 </p>
-<p><em>Bringing characters to life — P1 students combine art and drama in a delightful performance.</em>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>From learning the story ‘Three Kingdoms - Crossing the Pass and Slaying Generals’ to playing Chinese chess – students apply strategic, critical and adaptive thinking to real-life situation.</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_imagination_to_tradition___students_shape_clay_into_iconic_Malay_kuih_with_care_and_creativity_.jpg">
-</div>
-<p><strong>P4 Cultural Camp</strong>
-</p>
-<p><em>From imagination to tradition — students shape clay into iconic Malay kuih with care and creativity.</em>
-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
