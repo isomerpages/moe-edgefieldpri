@@ -200,15 +200,6 @@ an intended audience.</p>
 <p>Collaborate effectively in pairs or groups.</p>
 </li>
 </ul>
-<p><strong>Primary 6: Code for Fun</strong>
-</p>
-<p>The Code for Fun programme provides students with opportunities to deepen
-their computational thinking and apply coding concepts to authentic challenges.
-Through hands-on activities, students design, test and refine technology-based
-solutions while strengthening their creativity, resilience and problem-solving
-skills.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <h3>Our Impact</h3>
 <p><strong>Developing Future-Ready Competencies</strong>
 </p>
