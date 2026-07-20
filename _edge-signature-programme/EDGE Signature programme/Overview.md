@@ -27,7 +27,7 @@ themselves, and celebrate their growth — every year, at every level.</p>
 <br><em>Every student participates; Nobody gets left behind.</em>
 <br>
 </p>
-<h4><strong>Six domains, one journey</strong></h4>
+<h4><strong>Seven domains, one journey</strong></h4>
 <p>Every student experience all seven domains as they progress from P1 to
 P6:</p>
 <table style="minWidth: 75px">
