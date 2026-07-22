@@ -27,7 +27,7 @@ themselves, and celebrate their growth — every year, at every level.</p>
 <br><em>Every student participates; Nobody gets left behind.</em>
 <br>
 </p>
-<h4><strong>Six domains, one journey</strong></h4>
+<h4><strong>Seven domains, one journey</strong></h4>
 <p>Every student experience all seven domains as they progress from P1 to
 P6:</p>
 <table style="minWidth: 75px">
@@ -329,7 +329,7 @@ teachers and parents.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,14 +345,6 @@ teachers and parents.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Global instruments</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Digital Literacy (DL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Communicate and Create with Digital Media</p>
 </td>
 </tr>
 <tr>

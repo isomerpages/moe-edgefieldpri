@@ -6,10 +6,10 @@ description: ""
 third_nav_title: ICT
 ---
 <h3>Digital Literacy Modules</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ICT_KEY_PROG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Literacy_for_school_website.png">
 </div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TT.png">
@@ -28,4 +28,5 @@ third_nav_title: ICT
 </p>
 <p></p>
 <h3></h3>
+<p></p>
 <p></p>

@@ -20,23 +20,22 @@ sections:
   - infopic:
       title: School Corporate Video
       id: infopic
-      button: Click here
-      url: https://www.edgefieldpri.moe.edu.sg/about-us/school-corporate-video/
+      url: https://youtu.be/NMaNtrSa744?si=e4m1Z6xQmYWCga5B
       image: /images/Primary_1.png
       alt: School Corporate Video
+      button: Play video
   - infopic:
       title: EDGE Signature Programme
       id: infopic
-      description: Video Highlights
-      button: Click here to learn more
-      url: /edge-signature-programme/
+      button: PLAY VIDEO
+      url: https://youtu.be/IcM66I6Xlpg?si=UaNy0BkjI58SZQ4M
       image: /images/Edge_ESP.png
       alt: Image alt text
   - infopic:
       title: The Secret Garden
       id: infopic
-      button: Click here to learn more
-      url: /student-development/
+      button: PLAY VIDEO
+      url: https://youtu.be/vkh_A1XbsWo?si=woiIMHkeKEPgrevw
       image: /images/Screenshot_2026_07_16_152741.png
       alt: Image alt text
   - infopic:
@@ -51,7 +50,7 @@ sections:
       title: Facebook
       subtitle: Our School's Facebook
       id: infopic
-      button: Follow us on Instagram
+      button: Follow us on Facebook
       url: https://www.facebook.com/p/Edgefield-Primary-School-100064091739318/
       image: /images/Follow_us_on_Facebook.png
       alt: Image alt text

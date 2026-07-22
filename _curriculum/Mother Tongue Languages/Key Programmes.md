@@ -5,23 +5,21 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
-<h3>Key Programme</h3>
 <p><strong>MTL Reading Programme</strong>
 </p>
-<p><strong>&nbsp;</strong>To cultivate positive reading habits from young,
-we have embarked on a new structured reading programme, MTL-SOAR programme
-in 2025. <strong>MTL SOAR</strong>&nbsp;programme is designed to designed
-to <strong>Spark </strong>interest, <strong>Open </strong>minds, <strong>Appreciate</strong> cultural
-heritage and <strong>Rise </strong>as confident readers. Primary 1 and 2
-students will have 30 minutes of their MTL curriculum time set aside for
-reading and library activities. It will be progressively rolled out to
-all levels by 2029. To ignite students’ interest in reading Mother Tongue
-language stories, we create many opportunities for students to read widely.
-&nbsp;We use resources such as reading passports, and recommended reading
-lists curated with the National Library Board, to enhance existing efforts
-in developing positive reading habits. The school also collaborated with
-parents Volunteers to conduct Buddy Reading Programme for selected P1 &amp;
-P2 students who require support in reading.</p>
+<p>To cultivate positive reading habits from young, we have embarked on a
+new structured reading programme, MTL-SOAR programme in 2025.&nbsp;<strong>MTL SOAR</strong>&nbsp;programme
+is designed to designed to&nbsp;<strong>Spark&nbsp;</strong>interest,&nbsp;<strong>Open&nbsp;</strong>minds,&nbsp;<strong>Appreciate</strong>&nbsp;cultural
+heritage and&nbsp;<strong>Rise&nbsp;</strong>as confident readers. Primary
+1 and 2 students will have 30 minutes of their MTL curriculum time set
+aside for reading and library activities. It will be progressively rolled
+out to all levels by 2029. To ignite students’ interest in reading Mother
+Tongue language stories, we create many opportunities for students to read
+widely. &nbsp;We use resources such as reading passports, and recommended
+reading lists curated with the National Library Board, to enhance existing
+efforts in developing positive reading habits. The school also collaborated
+with parent volunteers to conduct Buddy Reading Programme for selected
+P1 &amp; P2 students who require support in reading.</p>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>

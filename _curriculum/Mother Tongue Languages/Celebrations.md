@@ -6,57 +6,44 @@ description: ""
 third_nav_title: Mother Tongue Languages
 ---
 <h3><strong>Festive Celebrations</strong></h3>
-<p>At Edgefield Primary School through the festive celebrations, students
-not only deepened their understanding of their own cultures but also had
-the opportunity to explore and appreciate the richness of others. This
-meaningful exposure allowed them to recognize the shared values and common
-threads across the three cultures, fostering a stronger sense of harmony
-and unity in Singapore’s multicultural society.</p>
-<p>Here are some of the Festive Celebrations that were organized:</p>
-<p>Pongal, Chinese New Year, Hari Raya Puasa, Dragon Boat Festival</p>
+<p>Through festive celebrations, students not only deepened their understanding
+of their own cultures but also had the opportunity to explore and appreciate
+the richness of others. This meaningful exposure allowed them to recognize
+the shared values and common threads across the three cultures, fostering
+a stronger sense of harmony and unity in Singapore’s multicultural society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Festive_Celebrations_Photo_1.jpg">
 </div>
-<p><strong>Pongal Celebration @ EFPS</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Festive_Celebrations_Photo_2.jpg">
 </div>
-<p><em>P4 TL students Learning Journey to Little India</em>
+<p><strong>Pongal</strong>
 </p>
+<p><em>With the support of our parent volunteers, students learnt about the tradition and cultural significance of the harvest festival.</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Festive_Celebrations_Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Festive_Celebrations_Photo_4.jpg">
 </div>
 <p><strong>Chinese New Year</strong>
 </p>
-<p><em>Focused and determined — Despite not being a native speaker, she is determined to do her paper cutting to be best of her ability. One of the classroom activities.</em>
+<p><em>Galloping into the Year of the Horse with the auspicious lion dance and our little ones performing on stage!</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Festive_Celebrations_Photo_5.jpg">
 </div>
-<p><em>Students lit up with excitement as they enjoy a fun filled interactions with the lion dance.</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C5.png">
-</div>
-<p><strong>Dragon Boat Festival</strong>
-</p>
-<p><em>Different classroom activities for the students during the dragon boat festival.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C6.png">
-</div>
-<p><em>Students “fishing” the dumplings during one of the recess games.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Festive_Celebrations_Photo_6.jpg">
 </div>
 <p><strong>Hari Raya Aidilfitri</strong>
 </p>
-<p><em>A celebration of heritage — students performing the elegant moves of traditional Malay dance.</em>
+<p><em>Wearing our ethnic costumes with pride, and oh yes, don’t forget the green packets!</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C8.png">
-</div>
-<p><em>Hands clapping, voices rising — students and teachers groove to the beat of Dikir Barat</em>
-</p>
+<p></p>
