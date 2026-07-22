@@ -23,6 +23,7 @@ sections:
       url: https://youtu.be/NMaNtrSa744?si=e4m1Z6xQmYWCga5B
       image: /images/Primary_1.png
       alt: School Corporate Video
+      button: Play video
   - infopic:
       title: EDGE Signature Programme
       id: infopic
