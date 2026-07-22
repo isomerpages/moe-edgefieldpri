@@ -5,6 +5,25 @@ variant: tiptap
 description: ""
 third_nav_title: English
 ---
+<h3><strong>Young Speaker Spotlight 2026</strong></h3>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vQvTLyMjS7A?si=0MH660q4MpKYqW70"></iframe>
+</div>
+<p>Every great speaker begins with the courage to take the first step.
+<br>
+<br>Selected as finalists through Edgefield Primary School’s <strong>Speak Up! 2026</strong>,
+our young speakers went on to proudly represent the school at the <strong>YMCA Plain English Speaking Awards 2026</strong>.
+Through their speeches, they shared meaningful ideas with confidence, sincerity
+and authenticity, while embracing the values of plain English: clarity,
+personal voice, aptness, sincerity and engagement.
+<br>
+<br>Their journey is a reminder that every opportunity to speak is an opportunity
+to learn, grow and inspire others. We are immensely proud of the dedication,
+resilience and confidence they demonstrated throughout the experience.
+<br>
+<br>Congratulations to all our <strong>Speak Up! 2026 </strong>finalists<strong> </strong>and
+thank you for representing Edgefield Primary School with pride. We hope
+your journey inspires many more young voices to step up, speak up and shine.</p>
 <h3><strong>Outstanding Performance: Top 3 in East Zone for Wits &amp; Words Debate Competition</strong></h3>
 <p>We are proud to share that Edgefield Primary School has been recognised
 as one of the Top 3 schools in the East Zone (Division 1) for outstanding
