@@ -35,8 +35,8 @@ sections:
   - infopic:
       title: The Secret Garden
       id: infopic
-      button: Click here to learn more
-      url: /student-development/
+      button: PLAY VIDEO
+      url: https://youtu.be/vkh_A1XbsWo?si=woiIMHkeKEPgrevw
       image: /images/Screenshot_2026_07_16_152741.png
       alt: Image alt text
   - infopic:
