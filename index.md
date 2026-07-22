@@ -20,7 +20,7 @@ sections:
   - infopic:
       title: School Corporate Video
       id: infopic
-      url: https://www.youtube.com/watch?v=NMaNtrSa744
+      url: https://youtu.be/NMaNtrSa744?si=e4m1Z6xQmYWCga5B
       image: /images/Primary_1.png
       alt: School Corporate Video
   - infopic:
