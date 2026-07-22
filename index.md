@@ -20,8 +20,7 @@ sections:
   - infopic:
       title: School Corporate Video
       id: infopic
-      button: Click here
-      url: https://www.edgefieldpri.moe.edu.sg/about-us/school-corporate-video/
+      url: https://www.youtube.com/watch?v=NMaNtrSa744
       image: /images/Primary_1.png
       alt: School Corporate Video
   - infopic:
