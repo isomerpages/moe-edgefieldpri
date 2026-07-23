@@ -5,10 +5,44 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development Well Being
 ---
-<h3><strong>Student Development @ Edgefield Primary School</strong></h3>
+<h3><strong>The Secret Garden: Where Play Meets Purpose</strong></h3>
+<p>Tucked away in a corner of Edgefield Primary that used to be an empty
+classroom, there's a room our students named, designed and now have to
+earn their way into. We call it the Secret Garden.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Entrance to the Secret Garden" src="/images/Entrance_to_the_Secret_Garden.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Entrance to the Secret Garden</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art areas" src="/images/Art_areas.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description">Art areas</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>A Quality Edgefield Experience</strong>
 <br>At Edgefield, the Student Development Team provides a holistic learning
 experience that nurtures every child. Like young seedlings, our students
