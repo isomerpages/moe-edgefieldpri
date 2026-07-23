@@ -17,8 +17,7 @@ earn their way into. We call it the Secret Garden.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Entrance to the Secret Garden</div>
+<div class="isomer-card-title">Entrance to the Secret Garden</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -28,12 +27,33 @@ earn their way into. We call it the Secret Garden.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Art areas</div>
+<div class="isomer-card-title">Art areas</div>
 </div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Relaxation Corners" src="/images/Relaxation_Corners_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Relaxation Corners</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Relaxation Corners" src="/images/Relaxation_Corners_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Relaxation Corners</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
