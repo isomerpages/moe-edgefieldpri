@@ -55,6 +55,38 @@ earn their way into. We call it the Secret Garden.</p>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photobooth station" src="/images/Photobooth_station.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Photobooth station</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Air Hockey station" src="/images/Air_Hockey_station.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Air Hockey station</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Claw machine station" src="/images/Claw_machine_station.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Claw machine station</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
