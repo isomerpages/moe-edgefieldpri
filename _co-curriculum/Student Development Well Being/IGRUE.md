@@ -28,5 +28,5 @@ journey.
 <br>We are excited to use this space to keep our school community connected,
 informed, and growing together!
 <br>
-<br><strong>Click here to visit our IGRUE Microsite&nbsp; </strong><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/efpsigrue</a>
+<br><strong>Click here to visit our IGRUE Microsite&nbsp; </strong><a href="https://sites.google.com/moe.edu.sg/efpsigrue/home" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/efpsigrue</a>
 </p>
