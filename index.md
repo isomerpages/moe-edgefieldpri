@@ -28,7 +28,7 @@ sections:
       title: EDGE Signature Programme
       id: infopic
       button: Click here to find out more
-      url: https://youtu.be/IcM66I6Xlpg?si=UaNy0BkjI58SZQ4M
+      url: https://www.edgefieldpri.moe.edu.sg/edge-signature-programme/
       image: /images/Edge_ESP.png
       alt: Image alt text
   - infopic:
