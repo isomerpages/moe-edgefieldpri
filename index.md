@@ -27,7 +27,7 @@ sections:
   - infopic:
       title: EDGE Signature Programme
       id: infopic
-      button: PLAY VIDEO
+      button: Click here to find out more
       url: https://youtu.be/IcM66I6Xlpg?si=UaNy0BkjI58SZQ4M
       image: /images/Edge_ESP.png
       alt: Image alt text
