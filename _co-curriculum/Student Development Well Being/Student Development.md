@@ -391,13 +391,41 @@ earning three visits, learning that good things are worth waiting for.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Students get to bring home toys caught in claw machine and polaroid photos
-taken at the Photobooth.</p>
+<p><strong>Students get to bring home toys caught in claw machine and polaroid photos taken at the Photobooth.</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing and relaxing at the Secret Garden_1" src="/images/Students_playing_and_relaxing_at_the_Secret_Garden_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing and relaxing at the Secret Garden_2" src="/images/Students_playing_and_relaxing_at_the_Secret_Garden_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Students playing and relaxing at the Secret Garden</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
