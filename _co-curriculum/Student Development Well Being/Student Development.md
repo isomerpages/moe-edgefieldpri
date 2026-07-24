@@ -207,28 +207,6 @@ months.</p>
 </div>
 </div>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Year Heads helping to setup too" src="/images/Staffs_helping_out_1.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Year Heads helping to setup too</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Year Heads helping to setup too" src="/images/Staffs_helping_out_2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Year Heads helping to setup too</div>
-</div>
-</div>
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -534,8 +512,7 @@ not a lesson, but a lived experience.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Built on Voice and Choice</strong>
 <br>The Secret Garden shows what happens when students are given real ownership:
 real responsibility follows.</p>
