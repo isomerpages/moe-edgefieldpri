@@ -475,6 +475,42 @@ without being asked.
 <br>This is Character and Citizenship Education in its most natural form,
 not a lesson, but a lived experience.</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What We're Seeing in Our Students_1" src="/images/What_We_re_Seeing_in_Our_Students_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What We're Seeing in Our Students_2" src="/images/What_We_re_Seeing_in_Our_Students_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What We're Seeing in Our Students_3" src="/images/What_We_re_Seeing_in_Our_Students_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Built on Voice and Choice</strong>
+<br>The Secret Garden shows what happens when students are given real ownership:
+real responsibility follows.</p>
+<p></p>
 <p></p>
 <p></p>
 <p>
