@@ -233,23 +233,85 @@ more responsibility from our students.
 <br>
 <br>L<strong>evel 1</strong>- games sit along the canteen corridor, free to
 play during recess with no supervision needed.</p>
-<p>
-<br>
-</p>
 <p></p>
-<p>
-<br>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkh_A1XbsWo?si=86skSZL8wZgmFGdA"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1_1" src="/images/L1_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1_2" src="/images/L1_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1_3" src="/images/L1_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1_4" src="/images/L1_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1_5" src="/images/L1_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1_6" src="/images/L1_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="L1_7" src="/images/L1_7.jpg">
+</div>
+<p></p>
+<p><strong>Level 2 -</strong> Premium games are loaned out by our PSLs and
+parent volunteers using Secret Garden passes, a small lesson in borrowing
+and returning responsibly.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>
 <br>
 </p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5VTubZJtbMA?si=PocJ7Q2tom6Kh7G6"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkh_A1XbsWo?si=86skSZL8wZgmFGdA"></iframe>
 </div>
 <p></p>
 <p></p>
