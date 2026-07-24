@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development Well Being
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkh_A1XbsWo?si=86skSZL8wZgmFGdA"></iframe>
+</div>
 <h3><strong>The Secret Garden: Where Play Meets Purpose</strong></h3>
 <p>Tucked away in a corner of Edgefield Primary that used to be an empty
 classroom, there's a room our students named, designed and now have to
@@ -96,52 +99,54 @@ table and a photobooth.
 staff helped set up the room. And our Peer Support Leaders (PSLs) did much
 of the hands-on work, from unpacking parcels to laminating passes, turning
 it into a space students genuinely call their own.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MIwy_jWjlak?si=R848l9I5CxJmBlmJ&amp;controls=0"></iframe>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Secret_Garden_1.png" src="/images/Secret_Garden_1.png">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Setup of secret garden</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_2_png.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Setup of secret garden</div>
-</div>
-</div>
-</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_3_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Secret_Garden_2_png.jpg" src="/images/Secret_Garden_2_png.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Setup of secret garden</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_4_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Secret_Garden_3_png.jpg" src="/images/Secret_Garden_3_png.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secret_Garden_4_png.jpg" src="/images/Secret_Garden_4_png.jpg">
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Setup of secret garden</div>
-</div>
-</div>
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Peer Support Leaders organising games and furniture, unpacking parcels,
 packing and setting up the Secret Garden room over the course of a few
 months.</p>
@@ -202,7 +207,6 @@ months.</p>
 </div>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -225,7 +229,32 @@ months.</p>
 </div>
 </div>
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staffs_helping_out_1.jpg" src="/images/Staffs_helping_out_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staffs_helping_out_2.jpg" src="/images/Staffs_helping_out_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Learning Responsibility, One Level at a Time</strong>
 <br>
 <br>Access to the Secret Garden works on three levels, each asking a little
@@ -516,11 +545,5 @@ real responsibility follows.</p>
 <p>
 <br>
 </p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5VTubZJtbMA?si=PocJ7Q2tom6Kh7G6"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkh_A1XbsWo?si=86skSZL8wZgmFGdA"></iframe>
-</div>
 <p></p>
 <p></p>
