@@ -93,7 +93,37 @@ for school)
 <p>Co-developing classroom agreements and peer evaluation practices</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<h4>Primary 3 - Unity is Key! Building Inclusivity with Empathy</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Respecting differences with kindness</p>
+</li>
+<li>
+<p>Advocating against bullying through Design-Thinking project</p>
+</li>
+<li>
+<p>Work together in unity to overcome challenges</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Respecting_difference__we_are_a_team_.jpg" src="/images/Respecting_difference__we_are_a_team_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respecting difference, we are a team!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>insert video</p>
+<p></p>
+<p></p>
 <h4>Primary 6 – Resilience and Future Readiness</h4>
 <ul data-tight="true" class="tight">
 <li>
