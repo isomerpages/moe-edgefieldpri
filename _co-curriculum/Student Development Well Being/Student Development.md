@@ -516,6 +516,9 @@ not a lesson, but a lived experience.</p>
 <p><strong>Built on Voice and Choice</strong>
 <br>The Secret Garden shows what happens when students are given real ownership:
 real responsibility follows.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jxwTVGpJuU8?si=Wnayeshb6rwjQwnq"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
