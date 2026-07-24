@@ -342,6 +342,9 @@ and returning responsibly.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Level 3 –</strong> Entry to the Secret Garden itself, is earned.
+Students collect Star Edgefin stickers for good behaviour, with ten stickers
+earning three visits, learning that good things are worth waiting for.</p>
 <p></p>
 <p></p>
 <p></p>
