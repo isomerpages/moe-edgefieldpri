@@ -346,7 +346,57 @@ and returning responsibly.</p>
 Students collect Star Edgefin stickers for good behaviour, with ten stickers
 earning three visits, learning that good things are worth waiting for.</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="10 stickers earned in Student Diary" src="/images/10_stickers_earned_in_Student_Diary.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">10 stickers earned in Student Diary</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing arcade games" src="/images/Students_playing_arcade_games.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students playing arcade games</div>
+</div>
+</div>
+</div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="claw machine and polaroid photos_1" src="/images/claw_machine_and_polaroid_photos_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="claw machine and polaroid photos_2" src="/images/claw_machine_and_polaroid_photos_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students get to bring home toys caught in claw machine and polaroid photos
+taken at the Photobooth.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
