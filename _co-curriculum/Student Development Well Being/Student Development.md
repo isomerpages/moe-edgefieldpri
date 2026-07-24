@@ -31,7 +31,6 @@ earn their way into. We call it the Secret Garden.</p>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -54,7 +53,6 @@ earn their way into. We call it the Secret Garden.</p>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -87,6 +85,7 @@ earn their way into. We call it the Secret Garden.</p>
 </div>
 </div>
 </div>
+<p></p>
 <p><strong>A Space Our Students and Edgefield Community Helped Build</strong>
 <br>The Secret Garden started with a question to our students: what do you
 want this space to become? They voted on its name, colour scheme and activities,
@@ -98,7 +97,54 @@ staff helped set up the room. And our Peer Support Leaders (PSLs) did much
 of the hands-on work, from unpacking parcels to laminating passes, turning
 it into a space students genuinely call their own.</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Setup of secret garden</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_2_png.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Setup of secret garden</div>
+</div>
+</div>
+</div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_3_png.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Setup of secret garden</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Setup of secret garden" src="/images/Secret_Garden_4_png.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Setup of secret garden</div>
+</div>
+</div>
+</div>
+<p>Peer Support Leaders organising games and furniture, unpacking parcels,
+packing and setting up the Secret Garden room over the course of a few
+months.</p>
 <p></p>
 <p></p>
 <p></p>
