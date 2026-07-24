@@ -463,6 +463,17 @@ earning three visits, learning that good things are worth waiting for.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>What We're Seeing in Our Students</strong>
+<br>
+<br>Since the Secret Garden launched in 2025, we've given out over 3,000 more
+Star Edgefin stickers for good behaviour. But the real story is in the
+small moments: students settling disagreements on their own, Edgefielders
+packing away games at the end of recess even when they weren't the ones
+who left the mess, and PSLs flagging issues and suggesting improvements
+without being asked.
+<br>
+<br>This is Character and Citizenship Education in its most natural form,
+not a lesson, but a lived experience.</p>
 <p></p>
 <p></p>
 <p></p>
