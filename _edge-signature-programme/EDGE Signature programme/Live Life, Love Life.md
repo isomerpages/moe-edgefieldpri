@@ -93,7 +93,103 @@ for school)
 <p>Co-developing classroom agreements and peer evaluation practices</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<h4>Primary 3 - Unity is Key! Building Inclusivity with Empathy</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Respecting differences with kindness</p>
+</li>
+<li>
+<p>Advocating against bullying through Design-Thinking project</p>
+</li>
+<li>
+<p>Work together in unity to overcome challenges</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Respecting_difference__we_are_a_team_.jpg" src="/images/Respecting_difference__we_are_a_team_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Respecting difference, we are a team!</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oGMgkFmyQos?si=93DN0J4ZwVdSmNh1"></iframe>
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Having fun doing the right things with confidence and creativity</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="We work better together" src="/images/We_work_better_together.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>We work better together!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="We_can_overcome_any_challenges_together__1.jpg" src="/images/We_can_overcome_any_challenges_together__1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="We_can_overcome_any_challenges_together__2.jpg" src="/images/We_can_overcome_any_challenges_together__2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>We can overcome any challenges together!</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Primary 6 – Resilience and Future Readiness</h4>
 <ul data-tight="true" class="tight">
 <li>

@@ -27,15 +27,15 @@ sections:
   - infopic:
       title: EDGE Signature Programme
       id: infopic
-      button: PLAY VIDEO
-      url: https://youtu.be/IcM66I6Xlpg?si=UaNy0BkjI58SZQ4M
+      button: Click here to find out more
+      url: https://www.edgefieldpri.moe.edu.sg/edge-signature-programme/
       image: /images/Edge_ESP.png
       alt: Image alt text
   - infopic:
       title: The Secret Garden
       id: infopic
-      button: PLAY VIDEO
-      url: https://youtu.be/vkh_A1XbsWo?si=woiIMHkeKEPgrevw
+      button: Click here to find out more
+      url: https://www.edgefieldpri.moe.edu.sg/student-development/
       image: /images/Screenshot_2026_07_16_152741.png
       alt: Image alt text
   - infopic:
