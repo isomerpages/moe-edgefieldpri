@@ -146,10 +146,93 @@ it into a space students genuinely call their own.</p>
 packing and setting up the Secret Garden room over the course of a few
 months.</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peer Support Leaders helping out" src="/images/Peer_Support_Leaders_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Peer Support Leaders helping out</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peer Support Leaders helping out" src="/images/Peer_Support_Leaders_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Peer Support Leaders helping out</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peer Support Leaders helping out" src="/images/Peer_Support_Leaders_3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Peer Support Leaders helping out</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Support Staff offering consistent support" src="/images/Support_Staff_offering_consistent_support.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Support Staff offering consistent support</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Principals working alongside PSLs" src="/images/School_Principals_working_alongside_PSLs.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">School Principals working alongside PSLs</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Year Heads helping to setup too" src="/images/Staffs_helping_out_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Year Heads helping to setup too</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Year Heads helping to setup too" src="/images/Staffs_helping_out_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Year Heads helping to setup too</div>
+</div>
+</div>
+</div>
 <p></p>
-<p></p>
+<p><strong>Learning Responsibility, One Level at a Time</strong>
+<br>
+<br>Access to the Secret Garden works on three levels, each asking a little
+more responsibility from our students.
+<br>
+<br>L<strong>evel 1</strong>- games sit along the canteen corridor, free to
+play during recess with no supervision needed.</p>
 <p>
 <br>
 </p>
