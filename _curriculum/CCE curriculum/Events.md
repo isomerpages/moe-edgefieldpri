@@ -138,7 +138,20 @@ us as one people.</p>
 </div>
 <p><em>Discovering the joy of our traditional games through sepak takraw.</em>
 </p>
-<h3>National Day</h3>
+<h3>National Day 2026</h3>
+<p>Edgefield Primary proudly celebrated Singapore’s 61st birthday with the
+theme, <strong>“Majulah Singapura, Go Beyond!”</strong>
+</p>
+<p>Edgefielders came together for a vibrant celebration featuring performances,
+National Day songs and meaningful activities that strengthened their sense
+of belonging and appreciation for Singapore. The theme encouraged everyone
+to keep moving forward, care for one another and contribute to our nation.</p>
+<p>Together, let us go beyond for Singapore. <strong>Majulah Singapura!</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>National Day marks our separation from Malaysia in 1965, and our emergence
 as an independent country in a community of nations. The school-based commemoration
 brings to students a sense of the historical importance and solemnity of
