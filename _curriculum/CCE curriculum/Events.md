@@ -78,23 +78,6 @@ and language can connect people across different cultures and backgrounds.
 The celebration encouraged them to appreciate diversity, care for others
 and build positive relationships, contributing to a more inclusive and
 harmonious community in Singapore and beyond.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3>IFD Theme 2024 |&nbsp;<em>Singapore in Asia</em></h3>
-<p>International cooperation remains key in our complex world. Asia is the
-world's fastest-growing region, and Singapore continues to facilitate closer
-economic, political, social, and cultural cooperation within ASEAN and
-in Asia. By recognising the importance of connectedness between our neighbouring
-countries, our youth can play an active role in fostering people-to-people
-ties, and thus celebrate the region's diversity and vibrancy and promote
-the spirit of friendship and collaboration. In addition, our older students
-can deepen their understanding of Singapore's realities as a small state
-and appreciate how we can safeguard our national interest and have much
-to contribute to efforts at international cooperation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7345.jpg">
 </div>
