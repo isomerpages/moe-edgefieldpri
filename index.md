@@ -18,6 +18,13 @@ sections:
       image: /images/Primary_1_Registration.jpg
       alt: Image alt text
   - infopic:
+      id: infopic
+      button: Click here to watch
+      url: https://youtu.be/yY5jheY7qzg
+      image: /images/A_Day_of_A_Primary_One_Student.jpg
+      alt: A Day of A Primary One Student
+      title: A Day of A Primary One Student
+  - infopic:
       title: School Corporate Video
       id: infopic
       url: https://youtu.be/NMaNtrSa744?si=e4m1Z6xQmYWCga5B
