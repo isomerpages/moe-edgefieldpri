@@ -56,7 +56,11 @@ foster unity and build resilience. Together, we can keep Singapore strong!</p>
 <p><em>Working together to solve Mathematics and Science questions in the Total Defence Treasure Hunt</em>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students experiencing a simulated disruption" src="/images/Students_experiencing_a_simulated_disruption_and_learning_the_importance_of_preparedness_and_resilience_.jpg">
+</div>
+<p><em>Students experiencing a simulated disruption and learning the importance of preparedness and resilience.</em>
+</p>
 <p></p>
 <h4>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h4>
 <p>2024 marks 40 years of Total Defence (TD40) in Singapore. The focus for
@@ -166,12 +170,5 @@ challenges.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP_2024_Logo.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our dedicated staff preparing engaging activities for the Total Defence Day commemoration." src="/images/Our_dedicated_staff_preparing_engaging_activities_for_the_Total_Defence_Day_commemoration.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students experiencing a simulated disruption" src="/images/Students_experiencing_a_simulated_disruption_and_learning_the_importance_of_preparedness_and_resilience_.jpg">
-</div>
-<p><em>Students experiencing a simulated disruption and learning the importance of preparedness and resilience.</em>
-</p>
+<p></p>
