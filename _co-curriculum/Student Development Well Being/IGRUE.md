@@ -11,8 +11,9 @@ third_nav_title: Student Development Well Being
 </div>
 <p><strong>Our IGRUE Microsite</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our IGRUE Microsite" src="/images/Our_IGRUE_Microsite_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our_IGRUE_Microsite_2.jpg" src="/images/Our_IGRUE_Microsite_2.jpg">
 </div>
 <p>Welcome to our school microsite! Designed as a vibrant, interactive hub
 for our students, this platform is easily accessible via QR code on Pg
