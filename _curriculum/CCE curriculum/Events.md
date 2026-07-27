@@ -50,6 +50,12 @@ foster unity and build resilience. Together, we can keep Singapore strong!</p>
 </div>
 <p>Students testing their knowledge through an interactive iPad game</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Working together to solve Mathematics and Science questions in the Total Defence Treasure Hunt." src="/images/Working_together_to_solve_Mathematics_and_Science_questions_in_the_Total_Defence_Treasure_Hunt_.jpg">
+</div>
+<p><em>Working together to solve Mathematics and Science questions in the Total Defence Treasure Hunt</em>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <h4>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h4>
