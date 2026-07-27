@@ -100,7 +100,7 @@ staff helped set up the room. And our Peer Support Leaders (PSLs) did much
 of the hands-on work, from unpacking parcels to laminating passes, turning
 it into a space students genuinely call their own.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MIwy_jWjlak?si=R848l9I5CxJmBlmJ&amp;controls=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MIwy_jWjlak?si=R848l9I5CxJmBlmJ&amp;controls=0"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
