@@ -54,4 +54,16 @@ sections:
       url: https://www.facebook.com/p/Edgefield-Primary-School-100064091739318/
       image: /images/Follow_us_on_Facebook.png
       alt: Image alt text
+  - infopic:
+      subtitle: A Day of A Primary One Student
+      id: infopic
+      button: Click here to watch
+      url: <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
+        src="https://www.youtube.com/embed/yY5jheY7qzg?si=C5AZ1Ry5BKFASh0g"
+        height="315" width="560"></iframe>
+      image: /images/A_Day_of_A_Primary_One_Student.jpg
+      alt: A Day of A Primary One Student
 ---
