@@ -20,12 +20,7 @@ sections:
   - infopic:
       id: infopic
       button: Click here to watch
-      url: <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
-        video player"
-        src="https://www.youtube.com/embed/yY5jheY7qzg?si=9GnBlrVD0eEug9zW&controls=0"
-        height="315" width="560"></iframe>
+      url: https://youtu.be/yY5jheY7qzg
       image: /images/A_Day_of_A_Primary_One_Student.jpg
       alt: A Day of A Primary One Student
       title: A Day of A Primary One Student
