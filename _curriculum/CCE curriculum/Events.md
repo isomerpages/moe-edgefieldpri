@@ -45,6 +45,10 @@ foster unity and build resilience. Together, we can keep Singapore strong!</p>
 <p><em>Staff bringing Digital Defence to life through a creative cyberattack simulation</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students testing their knowledge through an interactive iPad game" src="/images/Students_testing_their_knowledge_through_an_interactive_iPad_game.jpg">
+</div>
+<p>Students testing their knowledge through an interactive iPad game</p>
 <p></p>
 <p></p>
 <p></p>
