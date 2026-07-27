@@ -5,16 +5,30 @@ variant: tiptap
 description: ""
 third_nav_title: CCE curriculum
 ---
-<h3>Total Defence</h3>
-<p>We commemorate Total Defence Day on 15 February each year to mark the
-fall of Singapore to the Japanese in 1942. In commemorating TDD, our students
-reflect on the importance of Total Defence as Singapore's best all-round&nbsp;response
-to threats and challenges that confront Singapore (e.g. terrorism, pandemics,&nbsp;cyber-attacks,
-influence campaigns or economic crises). Students also reflect on the continuing&nbsp;relevance
-of the six pillars of Total Defence - Military Defence, Civil Defence,
-Economic Defence, Social Defence, Digital Defence and Psychological Defence
-- as well as the core message of every Singaporean standing together, each
-playing our part to protect Singapore and our shared way of life.&nbsp;</p>
+<h3>Total Defence Day 2026</h3>
+<p>Total Defence Day is commemorated annually in Singapore on 15 February.
+Edgefield Primary began this year’s commemoration on 13 February with a
+simulated cyberattack during the Assembly Programme. Through this engaging
+experience, students learnt about the importance of the six pillars of
+Total Defence, particularly Digital Defence, which was introduced in 2019
+and has become increasingly relevant in our daily lives.</p>
+<p>During recess, students participated in a variety of meaningful activities.
+They coloured six beautifully designed bookmarks, played interactive iPad
+games, and took part in a Treasure Hunt incorporating elements of Mathematics
+and Science. Through activities such as identifying secure passwords and
+answering questions about the six pillars of Total Defence, students discovered
+how they can contribute to keeping Singapore safe, regardless of their
+age.</p>
+<p>These experiences helped to strengthen our students’ sense of citizenship,
+foster unity and build resilience. Together, we can keep Singapore strong!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h4>
 <p>2024 marks 40 years of Total Defence (TD40) in Singapore. The focus for
 TD40 will be on Singaporean’s readiness and resilience in the face of crises
