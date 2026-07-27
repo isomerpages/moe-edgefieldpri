@@ -126,6 +126,18 @@ us as one people.</p>
 </div>
 <p><em>Our teachers sharing the importance of embracing diversity and preserving racial harmony.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A token of appreciation for our guest following an engaging performance." src="/images/A_token_of_appreciation_for_our_guest_following_an_engaging_performance_.jpg">
+</div>
+<p><em>A token of appreciation for our guest following an engaging performance.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Discovering the joy of our traditional games through sepak takraw." src="/images/Discovering_the_joy_of_our_traditional_games_through_sepak_takraw_.jpg">
+</div>
+<p><em>Discovering the joy of our traditional games through sepak takraw.</em>
+</p>
 <h3>National Day</h3>
 <p>National Day marks our separation from Malaysia in 1965, and our emergence
 as an independent country in a community of nations. The school-based commemoration
