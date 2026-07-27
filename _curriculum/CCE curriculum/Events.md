@@ -22,9 +22,28 @@ age.</p>
 <p>These experiences helped to strengthen our students’ sense of citizenship,
 foster unity and build resilience. Together, we can keep Singapore strong!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our dedicated staff preparing engaging activities for the Total Defence Day commemoration." src="/images/Our_dedicated_staff_preparing_engaging_activities_for_the_Total_Defence_Day_commemoration.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Our dedicated staff preparing engaging activities for the Total Defence Day commemoration.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff bringing Digital Defence to life through a creative cyberattack simulation." src="/images/Staff_bringing_Digital_Defence_to_life_through_a_creative_cyberattack_simulation.jpg">
+</div>
+<p><em>Staff bringing Digital Defence to life through a creative cyberattack simulation</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -135,5 +154,9 @@ challenges.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP_2024_Logo.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our dedicated staff preparing engaging activities for the Total Defence Day commemoration." src="/images/Our_dedicated_staff_preparing_engaging_activities_for_the_Total_Defence_Day_commemoration.jpg">
 </div>
 <p></p>
