@@ -61,38 +61,29 @@ foster unity and build resilience. Together, we can keep Singapore strong!</p>
 </div>
 <p><em>Students experiencing a simulated disruption and learning the importance of preparedness and resilience.</em>
 </p>
+<h3>International Friendship Day 2026</h3>
+<p>Edgefield Primary commemorated International Friendship Day (IFD) on 10
+April 2026, in conjunction with English Language Week. Anchored on the
+theme <strong>“Friendships Through Stories,”</strong> the celebration brought
+together English Language Week’s <em>“Read It. Wear It. Be It.”</em> and
+IFD’s <em>“Singapore: Forging Friendships in a Complex World.”</em>
+</p>
+<p>Edgefielders brought their favourite stories to life by dressing as beloved
+book characters. During recess, students enjoyed a range of engaging activities,
+including striking creative poses at the 360-degree photo booth, designing
+personalised badges, exploring stories at the mobile library and sharing
+encouraging messages with one another.</p>
+<p>Through these meaningful experiences, students discovered how stories
+and language can connect people across different cultures and backgrounds.
+The celebration encouraged them to appreciate diversity, care for others
+and build positive relationships, contributing to a more inclusive and
+harmonious community in Singapore and beyond.</p>
 <p></p>
-<h4>TD40: 40 Years of Total Defence |&nbsp;<em>Together We Keep Singapore Strong</em></h4>
-<p>2024 marks 40 years of Total Defence (TD40) in Singapore. The focus for
-TD40 will be on Singaporean’s readiness and resilience in the face of crises
-and disruptions. Total Defence underpins our ability to deal with the ever-evolving
-threats and challenges to Singapore. Every Singaporean plays a part in
-our daily lives to ensure that Singapore is prepared for crises and disruption.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD40.jpg">
-</div>
 <p></p>
-<h3>International Friendship Day</h3>
-<p>We commemorate International Friendship Day on the 3rd Friday of Term
-2. This is a day dedicated to the understanding of Singapore's relations
-with neighbouring countries and beyond. The commemoration of IFD allows
-our students to be sensitised to Singapore's geopolitical realities, and
-to reflect on the importance of&nbsp;an active foreign policy to maintain
-Singapore's international space, openness to the international flow of
-trade, ideas and talent, cross-cultural skills and a global orientation,
-and the spirit of friendship and collaboration amongst different people.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>IFD Theme 2024 |&nbsp;<em>Singapore in Asia</em></h3>
 <p>International cooperation remains key in our complex world. Asia is the
 world's fastest-growing region, and Singapore continues to facilitate closer
