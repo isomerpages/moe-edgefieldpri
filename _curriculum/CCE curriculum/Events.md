@@ -72,6 +72,9 @@ to contribute to efforts at international cooperation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9193.jpg">
 </div>
+<p></p>
+<h3>Racial Harmony Day</h3>
+<p></p>
 <h3>National Day</h3>
 <p>National Day marks our separation from Malaysia in 1965, and our emergence
 as an independent country in a community of nations. The school-based commemoration
