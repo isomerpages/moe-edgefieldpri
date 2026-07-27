@@ -170,3 +170,8 @@ challenges.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Our dedicated staff preparing engaging activities for the Total Defence Day commemoration." src="/images/Our_dedicated_staff_preparing_engaging_activities_for_the_Total_Defence_Day_commemoration.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students experiencing a simulated disruption" src="/images/Students_experiencing_a_simulated_disruption_and_learning_the_importance_of_preparedness_and_resilience_.jpg">
+</div>
+<p><em>Students experiencing a simulated disruption and learning the importance of preparedness and resilience.</em>
+</p>
