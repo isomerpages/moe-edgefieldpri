@@ -94,8 +94,38 @@ harmonious community in Singapore and beyond.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9193.jpg">
 </div>
 <p></p>
-<h3>Racial Harmony Day</h3>
+<h3>Racial Harmony Day 2025</h3>
+<p>Racial Harmony Day is commemorated on 24 July to remind us of the importance
+of preserving the racial and religious harmony that Singapore enjoys today.
+This year’s theme, <strong>“Our People, Our Tapestry,”</strong> highlights
+how our diverse cultures, traditions and experiences are interwoven to
+form the rich tapestry of our nation.</p>
+<p>At Edgefield Primary, students and staff came dressed in colorful traditional
+attire and participated in a meaningful assembly programme. Students also
+enjoyed cultural activities such as playing sepak takraw and designing
+their own Racial Harmony Day badges.</p>
+<p>Through these engaging experiences, students developed a deeper appreciation
+for Singapore’s multicultural heritage and learnt the importance of respecting
+differences, challenging stereotypes and building genuine friendships across
+cultures. Together, we can continue to strengthen the bonds that unite
+us as one people.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebrating the rich diversity of our Edgefield family in colourful traditional attire." src="/images/Celebrating_the_rich_diversity_of_our_Edgefield_family_in_colourful_traditional_attire_.jpg">
+</div>
+<p><em>Celebrating the rich diversity of our Edgefield family in colourful traditional attire.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students proudly displaying the Racial Harmony Day badges they created." src="/images/Students_proudly_displaying_the_Racial_Harmony_Day_badges_they_created_.jpg">
+</div>
+<p><em>Students proudly displaying the Racial Harmony Day badges they created.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our teachers sharing the importance of embracing diversity and preserving racial harmony." src="/images/Our_teachers_sharing_the_importance_of_embracing_diversity_and_preserving_racial_harmony_.jpg">
+</div>
+<p><em>Our teachers sharing the importance of embracing diversity and preserving racial harmony.</em>
+</p>
 <h3>National Day</h3>
 <p>National Day marks our separation from Malaysia in 1965, and our emergence
 as an independent country in a community of nations. The school-based commemoration
