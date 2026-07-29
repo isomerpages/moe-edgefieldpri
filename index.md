@@ -20,7 +20,7 @@ sections:
   - infopic:
       id: infopic
       button: Click here to watch
-      url: https://youtu.be/yY5jheY7qzg
+      url: https://youtu.be/Y4SyS7VqFLk?si=wYBgAyrEwRJTBO4D
       image: /images/A_Day_of_A_Primary_One_Student.jpg
       alt: A Day of A Primary One Student
       title: A Day of A Primary One Student
