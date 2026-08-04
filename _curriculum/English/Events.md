@@ -97,19 +97,19 @@ while fostering a love for reading and giving back to the community. Together,
 they showed that every page turned can make a difference.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read for Books 2026_1" src="/images/During_our_silent_reading_sessions__every_15_minutes_of_reading_helped_support_Read_for_Books_2026_while_nurturing_a_lifelong_love_for_reading__.png">
+<img style="width: 100%" height="auto" width="100%" alt="EFPS_1_2026_Read_for_Books.jpg" src="/images/EFPS_1_2026_Read_for_Books.jpg">
 </div>
 <p><em>[During our silent reading sessions, every 15 minutes of reading helped support Read for Books 2026 while nurturing a lifelong love for reading.]</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read for Books 2026_2" src="/images/Our_students_came_together_in_the_hall_for_a_silent_reading_session_as_part_of_Read_for_Books_2026__showing_that_every_page_turned_can_make_a_difference__.png">
+<img style="width: 100%" height="auto" width="100%" alt="EFPS_2_2026_Read_for_Books.jpg" src="/images/EFPS_2_2026_Read_for_Books.jpg">
 </div>
 <p><em>Our students came together in the hall for a silent reading session as part of Read for Books 2026, showing that every page turned can make a difference</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read for Books 2026" src="/images/A_hall_filled_with_readers__a_community_filled_with_kindness__.png">
+<img style="width: 100%" height="auto" width="100%" alt="EFPS_3_2026_Read_for_Books.jpg" src="/images/EFPS_3_2026_Read_for_Books.jpg">
 </div>
 <p><em>A hall filled with readers, a community filled with kindness.</em>
 </p>
