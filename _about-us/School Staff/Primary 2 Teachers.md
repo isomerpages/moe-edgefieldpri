@@ -17,8 +17,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lim_Lee_Nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Lim Nee Nah</u></a>
-</p>
-<p><a href="mailto:Amanda_Leow_Min_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Amanda</u></a>
+<br><a href="mailto:Amanda_Leow_Min_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Amanda</u></a>
 </p>
 </td>
 </tr>
@@ -39,7 +38,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessie_yeo_buay_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Jessie Yeo Buay Joo</u></a>
 <br><a href="mailto:a_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Catherine Arumugam</u></a>
-<br><a href="mailto:sawiyah_mohamed_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wiyah </u></a>
+<br><a href="mailto:sawiyah_mohamed_sidek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Wiyah</u></a>
 </p>
 </td>
 </tr>
