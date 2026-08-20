@@ -28,7 +28,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Lee Xin Yi</u></a>
-<br><a href="mailto:Stephen_Goh_Tiew_Cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stephen Goh Tiew Cheng</a>
 <br><a href="mailto:noraini_yosorh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noraini Yosorh</a>
 </p>
 </td>
@@ -48,8 +47,7 @@ variant: tiptap
 <p>5 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hwee_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Hwee San Vanessa</a>
-<br><a href="mailto:koh_minmin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koh MinMin Angela</a>
+<p><a href="mailto:koh_minmin_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Koh MinMin Angela</a>
 <br><a href="mailto:yeo_poh_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Steven Yeo Poh Teck</u></a>
 </p>
 </td>
