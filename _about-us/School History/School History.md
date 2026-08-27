@@ -1,8 +1,8 @@
 ---
-title: Virtual Gallery
-permalink: /about-us/Virtual-Gallery/
+title: School History
+permalink: /about-us/school-history/
 description: ""
-third_nav_title: Virtual Gallery
+third_nav_title: School History
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

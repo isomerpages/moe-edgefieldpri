@@ -9,6 +9,11 @@ sections:
   - hero:
       background: /images/FINAL_website_banner__without_EDGE_words_.png
   - infopic:
+      title: CALLING ALL ALUMNI!
+      id: infopic
+      image: /images/CALLING_ALL_ALUMNI__2_.jpg
+      alt: CALLING ALL ALUMNI
+  - infopic:
       title: P1 Registration
       subtitle: Edgefield Primary school
       id: infopic
